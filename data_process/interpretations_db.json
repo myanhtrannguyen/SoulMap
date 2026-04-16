@@ -1,0 +1,1932 @@
+[
+  {
+    "interpretation_id": "tử_vi_general",
+    "star_id": "tử_vi",
+    "context_type": "general",
+    "rules": [
+      {
+        "condition": "Mặc định",
+        "effect": "Cung Mệnh có Tử Vi miếu, vượng hay đắc địa tọa thủ, nên thân hình đẫy đà và cao, da hồng hào, mặt đầy đặn, có trí thông minh, suốt đời được hưởng phúc, tuổi thọ cũng gia tăng."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Tử bình hòa, thân mình vừa phải, kém thông minh, nhưng trọn đời cũng được no cơm ấm áo, và chắc chắn là sống lâu."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Tử miếu địa và bình hòa: tính nhân hậu, thẳng thắn về già lại rất khiêm cung."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Tử vượng địa và đắc địa: có nhiều mưu cơ, thủ đoạn, đôi khi dám làm cả những việc bất nghĩa."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Tử gặp nhiều sao sáng sủa tốt đẹp, hội hợp, nhất là Phủ, Vũ, Tướng, Xương, Khúc, Khôi, Việt, Tả, Hữu, Khoa, Quyền, Lộc, Long, Phượng, tất có uy quyền hiển hách, phúc thọ song toàn, và được hưởng giàu sang trọn đời."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Tử gặp Tuần, Triệt án ngữ, nên sớm khắc một trong hai thân, hay khắc anh chị em, lúc thiếu thời chẳng được xứng ý toại lòng, thường đau yếu và có nhiều bệnh tật, lại phải ly tổ bôn ba, dấn thân vào những chốn hiểm nghèo hay mắc tai họa khủng khiếp, đôi khi phải ở phương xa, chắc chắn là yểu tử. Vân Đằng Thái Thứ Lang Tử Vi đẩu số tân biên"
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "56-"
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Tử gặp nhiều sao mờ ám, xấu xa hội hợp, nhất là Không Kiếp, nên suốt đời phải lao tâm khổ tứ, công danh trắc trở, lại hay gặp những sự chẳng lành."
+      }
+    ]
+  },
+  {
+    "interpretation_id": "tử_vi_nam_menh",
+    "star_id": "tử_vi",
+    "context_type": "nam_menh",
+    "rules": [
+      {
+        "condition": "Mặc định",
+        "effect": "Cung Mệnh an tại Mão, Dậu, có Tử tọa thủ, gặp Tham đồng cung, là người yếm thế, thường nhìn đời bằng con mắt bi quan: đôi khi lại muốn lánh mình ra khỏi cảnh trần, tục để học đạo và tu dưỡng thân tâm. Có cách này, mà còn chen chân vào chốn phồn tạp, dĩ nhiên là còn phải lao khổ. Nhưng sớm biết tu hành, tất được yên thân và hưởng phúc."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Tử miếu, vượng hay đắc địa thủ Mệnh, gặp nhiều sao sáng sủa tốt đẹp hội hợp, nên được hưởng phú qúy đến cực độ và sống lâu."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Tử bình hòa, cần phải gặp nhiều sao sáng sủa tốt đẹp hộp hợp mới được hưởng giàu sang. "
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Tử gặp Tuần, Triệt án ngữ, nên lúc thiếu thời lao khổ, về già mới được xứng ý toại lòng. Có cách này, nếu không sớm lìa bỏ gia đình bôn tẩu ở phương xa, tất cả phải yểu tử."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Tử gặp nhiều sao mờ ám xấu xa hội hợp, chắc chắn là suốt đời phải lao tâm khổ tứ, lo lắng vì sinh kế và hay mắc tai họa."
+      }
+    ]
+  },
+  {
+    "interpretation_id": "tử_vi_nu_menh",
+    "star_id": "tử_vi",
+    "context_type": "nu_menh",
+    "rules": [
+      {
+        "condition": "Mặc định",
+        "effect": "Tử gặp Tham đồng cung, thật chỉ có tu hành mới mong được yên thân."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Tử thủ Mệnh gặp nhiều sao sáng sủa tốt đẹp hội hợp, là người có đức độ, sống lâu, được hưởng giàu sang trọn đời và rất vượng phu ích tử."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Tử gặp Tuần, Triệt án ngữ, nên lúc thiếu thời cô đơn, lao khổ, đôi khi có bệnh hay tật khó chữa: nếu không sớm xa cách những người thân, tất không thể sống lâu được, lại phải muộn lập gia đình hay lấy kế lấy lẽ mới tránh được mấy độ buồn thương, nếu sớm lập gia đình, chắc chắn là phải bỏ chồng, khóc chồng hay sầu não vì con."
+      }
+    ]
+  },
+  {
+    "interpretation_id": "liêm_trinh_general",
+    "star_id": "liêm_trinh",
+    "context_type": "general",
+    "rules": [
+      {
+        "condition": "Mặc định",
+        "effect": "Cung Mệnh có Liêm tọa thủ nên thân hình cao lớn, xương to và lộ, da thô, mặt hơi dài, sớm có nếp nhăn, vẻ mặt không được tươi thuận, mắt lồi, sáng, lông mày rậm."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Liêm miếu, vượng hay đắc địa là người liêm khiết thẳng thắn, can đảm, dũng mãnh, nhưng nghiêm nghị, nóng nảy, được hưởng giàu sang và sống lâu. Đây, nếu Liêm gặp nhiều sao sáng sủa tốt đẹp hội hợp, nhất là: Phủ, Tướng, Xương, Khúc, Tả, Hữu, Khoa, Quyền, Lộc, tất được hưởng phú qúy đến tột bực và có uy danh lừng lẫy."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Liêm đắc địa gặp Xương, Khúc đồng cung là người có tài thao lược, biết quyền biến."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Liêm miếu, vượng hay đắc địa, gặp nhiều sao mờ ám xấu xa hội hợp, nhất là Sát tinh, Kỵ, Hình nên suốt đời chẳng mấy khi được xứng ý toại lòng, vì công danh trắc trở, tiền tài khó kiếm, lại hay bị bắt bớ giam cầm, hay mắc những tai nạn bất kỳ."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Liêm hãm địa, là người khắc nghiệt, thâm hiểm, có óc kinh doanh, khéo tay, thích đua chen, thường chuyên về kỹ nghệ, máy móc hay thủ công. Nhưng suốt đời vất vả, có nhiều bệnh tật nên sức khỏe suy kém, lại khó tránh thoát được tù tội và những tai nạn đáng lo ngại, nếu không ly tổ lập nghiệp ở phương xa, tất không thể sống lâu được."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Liêm hãm địa, gặp nhiều sao mờ ám xấu xa hội hợp, nhất là: Sát tinh, Kỵ, Hình, thật là chung thân cùng khốn cô đơn, phải lang thang phiêu bạt, lại có tàn tật hay có bệnh khó chữa, thường mắc những tai nạn khủng khiếp, chân tay thường bị vướng vào xích xiềng, và dĩ nhiên là yểu tử, nhưng chết một cách rất thê thảm."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Liêm hãm địa Tỵ, Hợi, gặp Kỵ đồng cung, cũng đỡ mờ ám xấu xa. Vậy cho nên người mà cung Mệnh có cách này, cũng được no cơm ấm áo, và chẳng đáng lo ngại nhiều về những bệnh tật hay những tai nạn xảy đến trong đời."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Liêm hãm địa Tỵ, Hợi, gặp Xương hay (Khúc) Kỵ đồng cung lại rất mờ ám xấu xa. Tuổi Bính mà cung Mệnh có cách này, bị khắc hại nhiều nhất."
+      }
+    ]
+  },
+  {
+    "interpretation_id": "liêm_trinh_nam_menh",
+    "star_id": "liêm_trinh",
+    "context_type": "nam_menh",
+    "rules": [
+      {
+        "condition": "Mặc định",
+        "effect": "Liêm hãm địa Mão, Dậu, gặp Hỏa, Linh hội hợp là người gian ác, lòng lang dạ thú."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Liêm miếu, vượng hay đắc địa thủ Mệnh, gặp nhiều sao sáng sủa tốt đẹp hội hợp, tất được hưởng phú qúy đến tột bực, lại có uy quyền hiển hách và sống lâu."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Liêm đắc địa gặp Xương, Khúc đồng cung là người có tài văn võ, là bậc cái thế anh hùng."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Liêm hãm địa gặp nhiều sao mờ ám xấu xa hội hợp, thật là suốt đời"
+      }
+    ]
+  },
+  {
+    "interpretation_id": "liêm_trinh_nu_menh",
+    "star_id": "liêm_trinh",
+    "context_type": "nu_menh",
+    "rules": [
+      {
+        "condition": "Mặc định",
+        "effect": "61- Vân Đằng Thái Thứ Lang Tử Vi đẩu số tân biên cùng khổ, cô đơn, phải lang thang phiêu bạt, lại có tàn tật hay có bệnh khó chữa, thường mắc những tai nạn khủng khiếp, chân tay thường bị vướng vào xiềng xích và chắc chắn là yểu tử, chết một cách thê thảm."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Liêm miếu, vượng hay đắc địa thủ Mệnh, là người nghiêm nghị, đoan chính, thanh cao, lại rất tài giỏi và đảm đang. Tuy được hưởng giàu sang, sống lâu, nhưng phải muộn lập gia đình mới tránh được nỗi ưu phiền, đau đớn vì chồng con. Đây, nếu Liêm gặp sao sáng sủa tốt đẹp hội hợp, tất được hưởng phú qúy đến tột bực và phúc thọ song toàn."
+      }
+    ]
+  },
+  {
+    "interpretation_id": "thiên_đồng_general",
+    "star_id": "thiên_đồng",
+    "context_type": "general",
+    "rules": [
+      {
+        "condition": "Mặc định",
+        "effect": "Cung Mệnh có Thiên Đồng tọa thủ, nên thân hình nở nang, hơi thấp, chân tay ngắn, da trắng, mặt vuông vắn đầy đặn."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Đồng miếu, vượng hay đắc địa là người thông minh, có tính khoan hòa, nhân hậu, từ thiện, nhưng không quả quyết, không bền chí, hay thay đổi ý kiến, công việc. Tuy vậy, vẫn được hưởng giàu sang và phúc thọ song toàn."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Đồng đắc địa tại Tỵ, Hợi, lại là người thích phiêu lưu, nay đây mai đó, và hay thay đổi chỗ ở."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Đồng đắc địa tại Tỵ, Hợi, khắc tuổi Đinh, Canh, vậy cho nên tuổi Đinh, Canh mà cung Mệnh an tại Tỵ, Hợi, có Đồng tọa thủ, tất suốt đời chẳng mấy khi được xứng ý toại lòng."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Đồng miếu, vượng hay đắc địa, gặp nhiều sao sáng sủa tốt đẹp hội hợp, nhất là Xương, Khúc, Khôi, Việt, Tả, Hữu, Khoa, Quyền, Lộc, chắc chắn là được hưởng phú qúy đến tột bực và có uy danh lừng lẫy."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Đồng miếu, vượng hay đắc địa, gặp nhiều sao mờ ám xấu xa hội hợp, nhất là Sát tinh, Hình tuy suốt đời vẫn được no cơm ấm áo, nhưng lao tâm khổ tứ, sức khỏe lại suy kém, thường có bệnh tật hoặc ở mắt, hoặc ở bộ tiêu hóa."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Đồng hãm địa là người kém thông minh và nông nổi, cũng có tính nhân hậu, nhưng thay đổi thất thường, không quả quyết, không có định kiến, làm việc"
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "63- Vân Đằng Thái Thứ Lang Tử Vi đẩu số tân biên gì rồi cũng chóng chán, lại thích chơi bời ăn uống, tuy sống lâu nhưng rất vất vả, thường phải ly tổ bôn ba, luôn luôn lo lắng vì sinh kế, lại hay mắc tiếng thị phi. Cung Mệnh có Đồng hãm địa tọa thủ, nên đi buôn."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Đồng hãm địa, Thìn, Tuất, Sửu, Mùi, lại là người hay nói khoác lác và không cẩn ngôn. + Đồng hãm địa Ngọ, là người có óc kinh doanh."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Đồng hãm địa Tuất, Ngọ ứng hợp với tuổi Đinh. Vậy cho nên tuổi Đinh mà cung Mệnh an tại Tuất, Ngọ có Đồng tọa thủ, tất nhiên là khá giả."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Đồng hãm địa gặp nhiều sao mờ ám xấu xa hội hợp, nhất là Xương Khúc, Khôi, Việt, Tả, Hữu, Khoa, Quyền, Lộc phải đoán là cũng có công danh và tiền tài."
+      }
+    ]
+  },
+  {
+    "interpretation_id": "thiên_đồng_nam_menh",
+    "star_id": "thiên_đồng",
+    "context_type": "nam_menh",
+    "rules": [
+      {
+        "condition": "Mặc định",
+        "effect": "Đồng hãm địa gặp nhiều sao mờ ám xấu xa hội hợp, nhất là Sát tinh, Kỵ, Hình. Thật là suốt đời lao khổ phải lang thang phiêu bạt, thường có bệnh tật khó chữa, hoặc ở mắt, hoặc ở bộ tiêu hóa, lại hay mắc tai nạn và không thể sống lâu được."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Đồng miếu, vượng hay đắc địa thủ Mệnh, gặp nhiều sao sáng sủa tốt đẹp hội hợp, tất được hưởng phú qúy đến tột bậc, có uy danh lừng lẫy. Phúc thọ song toàn."
+      }
+    ]
+  },
+  {
+    "interpretation_id": "thiên_đồng_nu_menh",
+    "star_id": "thiên_đồng",
+    "context_type": "nu_menh",
+    "rules": [
+      {
+        "condition": "Mặc định",
+        "effect": "Đồng hãm địa gặp nhiều sao mờ ám xấu xa hội hợp, thật là suốt đời lao khổ, phải lang thang phiêu bạt, thường có bệnh tật khó chữa, hoặc ở mắt, hoặc ở bộ tiêu hóa, lại hay mắc tai nạn và không thể sống lâu được."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Đồng miếu, vượng hay đắc địa, Mão thủ Mệnh, là người đảm đang, có đức độ, vượng phu ích tử."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Đồng đắc địa, Tỵ, Hợi, là người đảm đang, nhưng đa dâm, thường phải sớm ly tổ."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Đồng miếu, vượng hay đắc địa, tất được hưởng giàu sang và sống lâu. Đây nếu Đồng gặp nhiều sao mờ ám xấu xa hội hợp, chắc chắn là được hưởng phú qúy đến tột bực, và phúc thọ song toàn."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Đồng đắc địa, Tỵ, Hợi, hay hãm địa, phải muộn lập gia đình hay lấy kế lấy lẽ, mới tránh buồn thương."
+      }
+    ]
+  },
+  {
+    "interpretation_id": "vũ_khúc_general",
+    "star_id": "vũ_khúc",
+    "context_type": "general",
+    "rules": [
+      {
+        "condition": "Mặc định",
+        "effect": "Cung Mệnh có Vũ Khúc tọa thủ, nên thân hình nở nang cao vừa tầm, nặng cân đầu, mặt dài, vẻ mặt uy nghi: thường cách biệt những người thân: nếu không khắc cha mẹ anh em, tất phải khắc vợ (hay chồng) khắc con hay hiếm con."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Vũ miếu, vượng hay đắc địa, là người thông minh, có chí lớn, có tài tổ chức, có óc kinh doanh, tính quả quyết, cương nghị, hiếu thắng, nhưng thẳng thắn, suốt đời được hưởng giàu sang và sống lâu. Đây, nếu Vũ gặp nhiều sao sáng sủa tốt đẹp hội hợp nhất là Tử, Phủ, Tướng, Tham, Xương, Khúc, Khôi, Việt, Tả, Hữu, Khoa, Quyền, Lộc, tất được hưởng phú qúy đến tột bực mà có uy quyền hiển hách. Người sinh ở phương Tây Bắc mà cung Mệnh có cách này, thật là toàn mỹ."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Vũ Miếu địa Sửu, Mùi, lúc thiếu thời tuy vẫn được no cơm ấm áo, nhưng chẳng mấy khi được xứng ý toại lòng, vì công dân trắc trở, tiền tài, tụ tán thất thường, sự nghiệp như lâu đài xây trên bãi cát. Phải từ ngoài ba mươi trở đi mới được hưởng phú qúy song toàn, mới giữ được của cải bền vững là càng về gà lại càng giàu có."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Vũ đắc địa Mão, tuy vẫn được hưởng giàu sang, nhưng trong mình thường có tật, lại hay mắc bệnh thần kinh, hay bệnh khí huyết, và khó tránh thoát được tai nạn về dao súng, xe cộ, điện lửa."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Vũ đắc địa Dậu, tuy vẫn được hưởng giàu sang, nhưng thường có bệnh nội thương khó chữa và hay mắc tai nạn xe cộ. Người sinh ở phương Tây Bắc mà cung Mệnh an tại Dậu, có Vũ đắc địa tọa thủ, tất có uy quyền hiển hách, khuất phục được quân côn đồ gian ác và được nhiều người kính trọng."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Vũ miếu, vượng hay đắc địa, dù có gặp nhiều sao mờ ám xấu xa hội hợp, nhất là Sát tinh, tuy kém tốt đẹp nên hay có bệnh tật ở chân, tay, vai, ngực và hay mắc tai họa, nhưng cũng được hưởng giàu sang và sống lâu."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Vũ hãm địa là người kém thông minh, lại có tánh tham lận và không được lương thiện: suốt đời chẳng mấy khi được xứng ý toại lòng, vì công danh trắc trở, tiền tài khó kiếm, thường hay phải bỏ nhà đi lập nghiệp ở phương xa, hay đi làm thợ, nếu có của cải của tiền nhân để lại, rồi cũng phá tán đến hết, và dĩ nhiên là tuổi thọ bị chiết giảm. Đây, nếu Vũ gặp nhiều sao sáng sủa tốt đẹp hội hợp, nhất là Xương, Khúc, Khôi, Việt, Tả, Hữu, Khoa, Quyền, Lộc, tất chuyên về thủ công, kỹ nghệ hay kinh doanh buôn bán, nhưng cũng khá giả và được hưởng tuổi thọ lâu dài."
+      }
+    ]
+  },
+  {
+    "interpretation_id": "vũ_khúc_nam_menh",
+    "star_id": "vũ_khúc",
+    "context_type": "nam_menh",
+    "rules": [
+      {
+        "condition": "Mặc định",
+        "effect": "Vũ hãm địa gặp nhiều sao mờ ám xấu xa hội hợp, nhất là Sát tinh, Kỵ, Hình, nên có tính gian tham độc ác, bất lương, suốt đời cùng khổ cô đơn, lại hay mắc tai nạn khủng khiếp, nếu không có tàn tật: nếu không có bệnh khó chữa, chắc chắn là phải yểu tử chết một cách rất thê thảm. Vân Đằng Thái Thứ Lang Tử Vi đẩu số tân biên"
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "66-"
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Vũ miếu, vượng hay đắc địa thủ Mệnh, gặp nhiều sao sáng sủa tốt đẹp hội hợp, tất được hưởng phú qúy đến tột bậc, lại có uy quyền hiển hách, và dĩ nhiên là phải sống lâu."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Vũ đắc địa gặp nhiều sao sáng sủa tốt đẹp hội hợp, chắc chắn là hiển đạt về võ nghiệp."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Vũ miếu, vượng hay đắc địa, gặp Xương hay Khúc đồng cung, tất có tài kiêm văn võ."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Vũ hãm địa gặp nhiều sao sáng sủa tốt đẹp hội hợp, nên chuyên về thủ công, kỹ nghệ hay kinh doanh buôn bán, nhưng phải bỏ nhà đi lập nghiệp ở phương xa mới khá giả và mới được tăng tuổi thọ."
+      }
+    ]
+  },
+  {
+    "interpretation_id": "vũ_khúc_nu_menh",
+    "star_id": "vũ_khúc",
+    "context_type": "nu_menh",
+    "rules": [
+      {
+        "condition": "Mặc định",
+        "effect": "Vũ hãm địa gặp nhiều sao mờ ám xấu xa hội hợp, thật là suốt đời cùng khổ cô đơn, phải tha phương cầu thực, thường có tàn tật, có bệnh khó chữa, hay mắc tai họa, dễ bị bắt bớ giam cầm, và không thể sống lâu được."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Vũ miếu, vượng hay đắc địa thủ Mệnh, là người tài giỏi đảm đang, gan góc, được hưởng giàu sang và sống lâu. Nhưng phải muộn lập gia đình mới tránh được những nỗi buồn khổ, đâu đớn vì chồng con, và mới vượng phu ích tử. Đây, nếu Vũ gặp nhiều sao sáng sủa tốt đẹp hội hợp, tất được hưởng phú qúy đến tột bậc và phúc thọ song toàn."
+      }
+    ]
+  },
+  {
+    "interpretation_id": "thái_dương_general",
+    "star_id": "thái_dương",
+    "context_type": "general",
+    "rules": [
+      {
+        "condition": "Mặc định",
+        "effect": "Cung Mệnh có Thái Dung, miếu, vượng hay đắc địa tọa thủ, nên thân hình đẫy đà, cao vừa tầm, da hồng hào, mặt vuông vắn đầy đặn, có vẻ uy nghi, (sinh ban đêm: mặt đỏ) mặt sáng, dáng điệu đường hoàng, bệ vệ, rất thông minh, tính thẳng thắn, cương nghị, hơi nóng nảy, nhưng nhân hậu, từ thiện được hưởng giàu sang và sống lâu."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Nhật miếu địa, vượng địa, ứng hợp với Dương nam, Dương nữ."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Cung Mệnh có Nhật miếu địa hay vượng địa tọa thủ, mà lại sinh ban đêm, nên kém tốt đẹp."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Nhật miếu, vượng hay đắc địa, gặp nhiều sao sáng sủa tốt đẹp hội hợp, nhất là Xương, Khúc, Khôi, Việt, Tả, Hữu, Khoa, Quyền, Lộc, Đào, Hồng, Hỷ, tất được hưởng phú qúy đến tột bậc, có uy quyền hiển hách, danh tiếng lừng lẫy và phúc thọ song toàn."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Nhật miếu địa, vượng địa gặp Tuần, Triệt án ngữ nên suốt đời chẳng mấy khi được xứng ý toại lòng, thiếu sức khỏe, thường có bệnh đau đầu, bệnh thần kinh, bệnh khí huyết, mắt kém, nếu không sớm ly tổ, lập nghiệp ở phương xa tất không thể sống lâu được."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Nhật đắc địa gặp Tuần, Triệt án ngữ, tuy mắt kém, cũng thường có những bệnh đã kể trên và phải sớm ly tổ, nhưng được hưởng phú qúy và phúc thọ song toàn."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Nhật đắc địa, nếu không gặp Tuần, Triệt án ngữ, tuy cô bệnh tật, vẫn có tài lộc, nhưng không thể qúy hiển được."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Nhật miếu, vượng hay đắc địa, gặp nhiều sao mờ ám xấu xa hội hợp, nhất là Kình, Đà, Không, Kiếp, Kỵ, Riêu, Hình, nên suốt đời vất vả, công danh trắc trở, tiền tài khó kiếm, hay đau mắt, thường có bệnh ở trong đầu, lại rất dễ mắc những"
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "69- Vân Đằng Thái Thứ Lang Tử Vi đẩu số tân biên tai nạn nguy hiểm: tuổi thọ cũng bị chiết giảm."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Nhật đắc địa gặp Kỵ đồng cung và không bị Kình Đà, Không, Kiếp, Riêu, Hình xâm phạm, tất được hưởng phú qúy đến tột bậc và sống lâu."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Nhật hãm địa, nên thân hình nhỏ nhắn, hơi gầy, cao vừa tầm, da xanh sám mặt choắc có vẻ buồn tẻ, má hóp, mắt lộ, cũng khá thông minh, tính cũng nhân hậu từ thiện, nhưng đôi khi ương gàn, lại không cương nghị, không bền chí, mắt kém, thường có bệnh đau đầu, bệnh thần kinh, bệnh khí huyết, nếu không sớm ly tổ, tất không thể sống lâu được."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Nhật hãm địa về già mới được an nhàn sung sướng."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Nhật hãm địa, Hợi, Tý, là người cao khiết, có đức độ, ham chuộng văn chương, triết học, đạo lý."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Nhật hãm địa, Thân, Tuất, Tý (Dương cung) cũng không đến nỗi mờ ám xấu xa lắm, nên vẫn được no cơm ấm áo, và chẳng đáng lo ngại nhiều về những bệnh tật."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Nhật hãm địa gặp nhiều sao sáng sủa tốt đẹp hội hợp, nhất là Xương, Khúc, Khôi, Việt, Tả, Hữu, Khoa, Quyền, Lộc, Đào, Hồng, Hỷ hay Hỏa Linh, đắc địa, tất cũng có công danh, tiền tài và được tăng phúc tăng thọ."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Nhật hãm địa gặp Tuần, Triệt án ngữ, lại thành sáng sủa tốt đẹp, tuy phải sớm ly tổ, nhưng được hưởng giàu sang khỏe mạnh và sống lâu."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Nhật hãm địa gặp nhiều sao mờ ám xấu xa hội hợp, nhất là Kình, Đà, Không, Kiếp, Kỵ, Riêu, Hình, thật là chung thân cùng khốn cô đơn, phải lang thang phiêu bạt, thiếu sức khỏe, thường có bệnh đau đầu, bệnh thần kinh, bệnh khí huyết mắt rất kém, nếu trong mình không có tật, chân tay không bị thương tàn, chắc chắn là bị mù lòa không những thế hay bị tai họa khủng khiếp, và dĩ nhiên yểu tử."
+      }
+    ]
+  },
+  {
+    "interpretation_id": "thái_dương_nam_menh",
+    "star_id": "thái_dương",
+    "context_type": "nam_menh",
+    "rules": [
+      {
+        "condition": "Mặc định",
+        "effect": "Nhật, dù Miếu địa, Vượng địa, đắc địa hay hãm địa gặp Hình đồng cung, tất mắt có tật, mắt thường bị vật kim khí bén nhọn chạm phải mà có thương tích."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Nhật, Miếu địa, vấn đề, hay đắc địa thủ Mệnh, gặp nhiều sao sáng sủa tốt đẹp hội hợp, là người tài giỏi, thao lược, văn võ kiêm toàn, được hưởng giàu sang đến tột bực, có uy quyền hiển hách, danh tiếng lừng lẫy và sống lâu."
+      }
+    ]
+  },
+  {
+    "interpretation_id": "thái_dương_nu_menh",
+    "star_id": "thái_dương",
+    "context_type": "nu_menh",
+    "rules": [
+      {
+        "condition": "Mặc định",
+        "effect": "Nhật hãm địa, gặp nhiều sao mờ ám xấu xa hội hợp, thật là chung thân cùng khốn cô đơn, phải lang thang phiêu bạt, thiếu sức khỏe, thường có bệnh đau đầu, bệnh thần kinh, bệnh khí huyết, mắt rất kém, nếu trong mình không có tật, chân tay không bị thương tàn, chắc chắn là mù lòa. Không những thế, lại còn hay mắc những tai họa khủng khiếp, và dĩ nhiên là yểu tử."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Nhật miếu, vượng hay đắc địa thủ Mệnh là người tài giỏi đảm đang, khí huyết dồi dào, tính cương nghị, nóng nảy, được hưởng phú qúy đến tột bậc, phúc Vân Đằng Thái Thứ Lang Tử Vi đẩu số tân biên"
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "70- thọ song toàn."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Nhật hãm địa là người đa sầu, đa cảm, khéo tay, suốt đời tuy vất vả, mắt kém, hay đau yếu, có nhiều bệnh tật, nhưng vẫn được no cơm ấm áo."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Nhật hãm địa, phải sớm ly tổ mới có thể sống lâu được và phải muộn lập gia đình hay lấy kế lấy lẽ mới tránh được mấy độ buồn thương."
+      }
+    ]
+  },
+  {
+    "interpretation_id": "thiên_cơ_general",
+    "star_id": "thiên_cơ",
+    "context_type": "general",
+    "rules": [
+      {
+        "condition": "Mặc định",
+        "effect": "Cung Mệnh có Thiên Cơ miếu, vượng hay đắc địa tọa thủ, nên thân hình cao, xương lộ, da trắng, mặt dài, nhưng đều đặn, rất thông minh, khôn ngoan, có óc kinh doanh, có mưu trí, biết quyền biến, tính nhân hậu, từ thiện, được hưởng giàu sang và sống lâu."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Cơ miếu, vượng hay đắc địa gặp nhiều sao sáng sủa tốt đẹp hội hợp, nhất là Xương, Khúc, Khôi, Việt, Tả, Hữu, Song Hao, Khoa, Quyền, Lộc, tất được hưởng phú qúy song toàn và có uy danh lừng lẫy."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Cơ miếu, vượng hay đắc địa gặp Tả, Hữu, Lộc, Hình, Y, Quang, Qúy hội hợp, chắc chắn chuyên về y khoa hay dược khoa."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Cơ miếu, vượng hay đắc địa gặp Tả, Hữu, Linh, Hình là người khéo tay, thường chuyên về kỹ nghệ, máy móc hay thủ công."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Cơ miếu địa, Mão Dậu gặp Song Hao hội hợp là người đa tài, được hưởng phú qúy đến tột bực. Cung Mệnh có cách này, mà lại sinh năm Ất, Tân, Kỷ, Bính, thật là toàn mỹ."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Cơ đắc địa Tý Ngọ, gặp nhiều văn tinh hội hợp, dĩ nhiên là qúy hiển. Nhưng tuổi Ất, Bính, Đinh mà cung Mệnh có cách này lại lập được sự nghiệp lớn lao và được hưởng giàu sang trọn đời."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Cơ miếu, vượng hay đắc địa gặp Tuần, Triệt án ngữ, tất phải ly tổ, bôn ba, suốt đời vất vả, chân tay thường có tật, lại khó tránh thoát được tai nạn xe cộ hay dao súng, tuổi thọ cũng bị chiết giảm. Có cách này, thật chỉ có tu hành mới được yên thân, hưởng phúc và sống lâu."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Cơ hãm địa, nên thân hình nở nang, hơi thấp, da trắng, mặt tròn, kém thông minh, cũng có óc kinh doanh, nhưng có tính gian xảo, thường phải buôn bán ngược xuôi hay làm nghề thủ công để kiếm ăn. Tuy vậy, vẫn được no cơm ấn áo và sống lâu."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Cơ hãm địa gặp Tuần, Triệt án ngữ, tuy khá giả, nhưng phải lập nghiệp ở xa quê hương, bản quán và hay mắc tai nạn xe cộ, dao súng."
+      }
+    ]
+  },
+  {
+    "interpretation_id": "thiên_cơ_nam_menh",
+    "star_id": "thiên_cơ",
+    "context_type": "nam_menh",
+    "rules": [
+      {
+        "condition": "Mặc định",
+        "effect": "Cơ hãm địa gặp nhiều sao mờ ám xấu xa hội hợp, nhất là Sát tinh, Kỵ, Hình, tất phải có tàn tật, nhất khó chữa, phải thường lang thang phiêu bạt, lại hay mắc những tai họa khủng khiếp, nếu không cùng khổ cô đơn, chắc chắn là yểu tử."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Cơ miếu, vượng hay đắc địa thủ Mệnh, gặp nhiều sao sáng sủa tốt đẹp hội hợp, tất được hưởng phú qúy đến tột bậc và phúc thọ song toàn."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Cơ miếu địa Thìn, Tuất, là người có mưu trí hay bàn xét về chính lược chiến lược."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Cơ miếu địa Mão, Dậu gặp Song Hao hội hợp, là người có tài kiêm văn võ."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "75- Vân Đằng Thái Thứ Lang Tử Vi đẩu số tân biên"
+      }
+    ]
+  },
+  {
+    "interpretation_id": "thiên_cơ_nu_menh",
+    "star_id": "thiên_cơ",
+    "context_type": "nu_menh",
+    "rules": [
+      {
+        "condition": "Mặc định",
+        "effect": "Cơ hãm địa gặp nhiều sao mờ ám xấu xa hội hợp, tất phải có tàn tật, có bệnh khó chữ, thường phải lang thang phiêu bạt, hay mắc những tai họa khủng khiếp, nếu không cùng khổ, cô đơn, chắc chắn là yểu tử"
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Cơ miếu, vượng hay đắc địa thủ Mệnh, là người khôn ngoan tài giỏi, đảm đang, vượng phu ích tử, nhưng hưởng giàu sang và sống lâu. Nếu Cơ gặp nhiều sao sáng sủa tốt đẹp hội hợp, chắc chắn là được hưởng phú qúy đến tột bậc và phúc thọ song toàn."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Cơ miếu địa Mão Dậu, tất có tính dâm đãng."
+      }
+    ]
+  },
+  {
+    "interpretation_id": "thiên_phủ_general",
+    "star_id": "thiên_phủ",
+    "context_type": "general",
+    "rules": [
+      {
+        "condition": "Mặc định",
+        "effect": "Cung Mệnh có Thiên Phủ tọa thủ, nên thân hình đầy đặn, da trắng, vẻ mặt thanh tú, đều và đẹp, tính khoan hồng nhân hậu, ưa việc từ thiện, biết suy tính và có nhiều mưu cơ để giải quyết những công việc khó khăn. Suốt đời được hưởng phúc, giàu sang và sống lâu."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Phủ gặp Tuần, Triệt án ngữ hay Không, Kiếp hội hợp, thì thân hình lại cao và hơi gầy, da kém vẻ tươi nhuận, tính ương ngạnh, thích ăn hoang tiêu rộng, chơi bời phóng túng, thích phiêu lưu nay đây mai đó, hay mưu toan chuyện viển vông. Vậy cho nên suốt đời túng thiếu, và chẳng mấy khi được xứng ý toại lòng, tuổi thọ cũng bị chiết giảm."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Cung Mệnh có Phủ tọa thủ, gặp nhiều Sát tinh hội hợp, là người gian trá, hay đánh lừa, nói dối."
+      }
+    ]
+  },
+  {
+    "interpretation_id": "thiên_phủ_nam_menh",
+    "star_id": "thiên_phủ",
+    "context_type": "nam_menh",
+    "rules": [
+      {
+        "condition": "Mặc định",
+        "effect": "Phủ rất cần gặp Tử Vi, Tướng, Xương, Khúc, Khôi, Việt, Tả, Hữu hội hợp cùng với Khoa, Quyền, Lộc và rất kỵ gặp Tuần, Triệt án ngữ hay Thiên Không, Không Kiếp hội hợp."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Phủ thủ Mệnh gặp nhiều sao sáng sủa tốt đẹp, hội hợp, nhất là Tử Vi, Tướng, Xương, Khúc, Khôi, Việt, Tả, Hữu, Khoa, Quyền, Lộc, tất được hưởng phú qúy song toàn và sống lâu."
+      }
+    ]
+  },
+  {
+    "interpretation_id": "thiên_phủ_nu_menh",
+    "star_id": "thiên_phủ",
+    "context_type": "nu_menh",
+    "rules": [
+      {
+        "condition": "Mặc định",
+        "effect": "Phủ gặp Tuần, Triệt án ngữ, hay Thiên Không, Kiếp hội hợp, thật là cùng khổ suốt đời, khó tránh thoát được tai họa và thường yểu tử. Gặp cách này, chỉ có lánh mình ở chốn thuyền môn đạo viện mới được yên thân và sống lâu."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Phủ thủ Mệnh nên vẻ mặt tươi đẹp như hoa mới nở."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Phủ gặp nhiều sao sáng sủa tốt đẹp hội hợp, tất được hưởng giàu sang sống lâu và rất vượng phu ích tử."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Phủ gặp Tuần, Triệt án ngữ, hay Thiên Không dám, Không Kiếp hội hợp, nên suốt đời phải lao tâm khổ tứ, buồn bực vì chồng con và không thể sống"
+      }
+    ]
+  },
+  {
+    "interpretation_id": "thái_âm_general",
+    "star_id": "thái_âm",
+    "context_type": "general",
+    "rules": [
+      {
+        "condition": "Mặc định",
+        "effect": "Cung Mệnh có Thái Âm, miếu, vượng hay đắc địa tọa thủ, nên thân hình to lớn, hơi cao, da trắng, mặt vuông vắn, đầy đặn, dương, mắt sáng, rất thông minh, tính khoan hòa, nhân hậu, từ thiện, ưa thích văn chương, mỹ thuật, được hưởng giàu sang và sống lâu."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Nguyệt miếu địa, vượng địa, ứng hợp với Âm Nam, Âm Nữ."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Cung Mệnh có Nguyệt miếu, vượng địa tọa thủ, mà lại sinh ban đêm, nhất là vào khoảng từ ngày 10 đến ngày 20, thật là toàn mỹ."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Cung Mệnh có Nguyệt miếu địa hay vượng địa mà lại sinh ban ngày, nên kém sáng sủa tốt đẹp."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Nguyệt miếu, vượng hay đắc địa, gặp nhiều sao sáng sủa tốt đẹp hợp nhất là Xương Khúc, Khôi, Việt, Tả, Hữu, Khoa, Quyền, Lộc, Đào, Hồng, Hỷ, tất được hưởng phú qúy đến tột bậc và nổi tiếng là giàu có."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Nguyệt miếu, vượng địa, gặp Tuần, Triệt án ngữ, nên suốt đời lao khổ, phải lập nghiệp ở phương xa, lại hay đau yếu thường có bệnh ở bộ tiêu hóa, mắt rất kém, tuổi thọ cũng bị chiết giảm."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Nguyệt đắc địa, gặp Tuần, Triệt án ngữ, tuy phải sớm ly tổ, đau mắt, cũng thường có bệnh ở bộ tiêu hóa, nhưng được hưởng phú qúy và phúc thọ song toàn."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Nguyệt đắc địa, nếu không gặp Tuần, Triệt án ngữ, tuy vô bệnh tật, vẫn có tài lộc, nhưng không thể qúy hiển được."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Nguyệt miếu, vượng hay đắc địa, gặp nhiều sao mờ ám xấu xa hội hợp, nhất là Sát tinh, Kỵ, Riêu, Hình tất không được hưởng giàu sang trọn vẹn: mắt kém, thường có bệnh ở bộ tiêu hóa, lại hay mắc tai nạn, tuổi thọ cũng bị chiết giảm."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Nguyệt đắc địa gặp Kỵ đồng cung và không bị Sát tinh xâm phạm, chắc chắn là được hưởng phú qúy đến tột bậc và sống lâu."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "79- Vân Đằng Thái Thứ Lang Tử Vi đẩu số tân biên"
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Nguyệt hãm địa nên thân hình nhỏ, hơi cao, mặt dài kém thông minh, tính ương ngạnh, thích ngao du chơi bời, ưa ngâm hoa vịnh nguyệt, và không tham cầu danh lợi: suốt đời chẳng mấy khi được xứng ý toại lòng, rất vất vả, thường phải ly tổ bôn ba, lại hay đau yếu, mắt kém, khó tránh thoát được tai nạn nếu trong mình không có kỳ tật, tất không thể sống lâu được."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Nguyệt hãm địa Mão Tỵ (Âm cung) cũng không đến nỗi mờ ám xấu xa lắm, nên không nên vẫn được no cơm ấm áo, và chẳng đáng lo ngại nhiều về sự chẳng lành xảy đến trong đời."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Nguyệt hãm địa gặp nhiều sao mờ ám xấu xa hội hợp, nhất là Sát tinh, Riêu, Kỵ thật là suốt đời cùng khổ cô đơn, phải lang thang phiêu bạt, hay đau yếu, thường có bệnh ở bộ tiêu hóa, mắt rất kém, nếu trong mình có bệnh tật, chân tay không bị thương tàn, chắc chắn là mù lòa. Không những thế, lại còn hay mắc những tai họa khủng khiếp, và dĩ nhiên là yểu tử."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Nguyệt hãm địa gặp nhiều sao sáng sủa tốt đẹp hội hợp, nhất là Xương, Khúc, Khôi, Việt, Tả, Hữu, Khoa, Quyền, Lộc, Đào, Hồng, Hỷ tất được có danh tài và được tăng thêm tuổi thọ."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Nguyệt hãm địa gặp Tuần, Triệt án ngữ, lại thành tốt đẹp, tuy vẫn phải ly tổ lập nghiệp ở phương xa, nhưng được hưởng giàu sang, khỏe mạnh và sống lâu."
+      }
+    ]
+  },
+  {
+    "interpretation_id": "thái_âm_nam_menh",
+    "star_id": "thái_âm",
+    "context_type": "nam_menh",
+    "rules": [
+      {
+        "condition": "Mặc định",
+        "effect": "Nguyệt dù miếu, vượng, đắc hay hãm địa gặp Hình đồng cung, tất mắt có tật, mắt thường bị vật kim khí sắc nhọn chạm phải mà có thương tích."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Nguyệt miếu, vượng hay đắc địa (gặp Tuần, Triệt án ngữ) thủ Mệnh, gặp nhiều sao sáng sủa tốt đẹp hội hợp, tất được hưởng phú qúy đến tột bậc, có uy quyền hiển hách và sống lâu."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Nguyệt hãm địa gặp nhiều sao mờ ám xấu xa hội hợp, thật là suốt đời cùng khổ cô đơn, lang thang phiêu bạt, hay đau yếu, thường có bệnh ở bộ tiêu hóa, mắt rất kém, nếu trong mình không có tật, chân tay không bị thương tàn, chắc chắn là mù lòa. Không những thế, lại còn hay mắc những tai họa khủng khiếp và dĩ nhiên là yểu tử."
+      }
+    ]
+  },
+  {
+    "interpretation_id": "thái_âm_nu_menh",
+    "star_id": "thái_âm",
+    "context_type": "nu_menh",
+    "rules": [
+      {
+        "condition": "Mặc định",
+        "effect": "Cung Thân có Nguyệt tọa thủ, là người nể vợ hay sợ vợ."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Nguyệt miếu, vượng hay đắc địa thủ Mệnh, là người có nhan sắc, có đức độ, lại có tài giỏi đảm đang, vượng phu ích tử, được hưởng giàu sang và sống lâu. Nếu Nguyệt gặp nhiều sao sáng sủa tốt đẹp hội hợp, tất được hưởng phú qúy đến tột bậc và phúc thọ song toàn."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Nguyệt miếu, vượng địa hay gặp Tuần, Triệt án ngữ, hay Nguyệt hãm địa, tất phải muộn lập gia đình, hay lấy kế lấy lẽ mới tránh được những nỗi ưu phiền, đau đớn vì chồng con."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Nguyệt hãm địa là người dâm dật, suốt đời vất vả, có nhiều tật bệnh. Nếu Nguyệt gặp nhiều sao mờ ám xấu xa hội hợp, thật là chung thân cùng khốn cô đơn, phải lang thang phiêu bạt, lại hay đau yếu thường có bệnh hoặc Vân Đằng Thái Thứ Lang Tử Vi đẩu số tân biên"
+      }
+    ]
+  },
+  {
+    "interpretation_id": "tham_lang_general",
+    "star_id": "tham_lang",
+    "context_type": "general",
+    "rules": [
+      {
+        "condition": "Mặc định",
+        "effect": "Cung Mệnh có Tham Lang miếu, vượng hay đắc địa tọa thủ, nên thân hình cao lớn, đẫy đà, da trắng, mặt đầy đặn, lông tóc, râu rậm rạp, có ẩn tinh, (Miếu địa: có nốt ruồi kín) khá thông minh, tính trung hậu, nhưng hiếu thắng và tự đắc, ưa hoạt động, có óc kinh doanh, có tài tổ chức, lòng tham dục không bờ bến, hay, mưu tính những việc to lớn, làm việc gì cũng muốn chóng xong, nhưng chỉ chuyên cần siêng năng buổi đầu, rồi về sau sinh lười biếng, chán nản và bỏ dỡ, lại thích lui tới những chỗ đông người ồn ào thích ăn ngon mặc đẹp, choi bời cho thỏa chí."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Tham miếu, vượng hay đắc địa, tất được hưởng giàu sang và sống lâu."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Tham miếu địa, lúc thiếu thời vất vả, chẳng mấy khi được xứng ý toại lòng. Nhưng từ ngoài 30 tuổi trở đi, thật là phú qúy song toàn và càng về già lại càng sung sướng an nhàn."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Tham miếu, vượng hay đắc địa gặp nhiều sao sáng sủa tốt đẹp hội hợp, nhất là Tả, Hữu, Khoa, Quyền, Lộc hay Hỏa Linh đắc địa, chắc chắn là được hưởng phú qúy đến tột bậc, có uy quyền hiển hách, danh tiếng lừng lẫy và sống lâu."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Tham vượng địa, gặp Kỵ hoặc đồng cung hoặc xung chiếu, tất buôn bán, kinh doanh mà nên giàu có."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Tham hãm địa, nên thân hình cao vừa tầm, hơi gầy da thô xấu, mặt dài, không được đầy đặn, tiếng nói to, kém thông minh."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Tham hãm địa, Tý, Ngọ, Tỵ, Hợi là người gian hiểm, tham lam, có nhiều dục vọng, cũng có kinh doanh nhưng không quả quyết, không bền chí, thường chuyên về kỹ nghệ, thủ công, hay đi buôn, suốt đời lao khổ, sức khỏe suy kém, có nhiều bệnh tật, hoặc ở mắt, hoặc ở bộ tiêu hóa, hoặc ở bộ sinh dục, lại hay mắc tai nạn hay bị bắt bớ giam cầm, nếu không sớm ly tổ tất không thể sống lâu được."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Tham hãm địa Tý Ngọ, lại có tính dâm dật, chơi bời hoang đãng."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Tham hãm địa Mão Dậu là người yếm thế, làm việc gì cũng thất bại, và hay gặp những sự chẳng lành. Chỉ có tu hành mới mong được yên thân và hưởng phúc thọ."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Tham hãm địa gặp nhiều sao mờ ám xấu xa hội hợp, nhất là Sát tinh, Kỵ, Hình thật là chung thân cùng khốn cô đơn, phải lang thang phiêu bạt, có nhiều bệnh tật khó chữa, hoặc ở mắt, giọng ở bộ tiêu hóa, hoặc ở bộ sinh dục, thường mắc những tai nạn khủng khiếp, chân tay thường bị vướng vào xích xiềng, và dĩ nhiên là yểu tử."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Tham, dù miếu, vượng, đắc hay hãm địa, hoặc gặp Kỵ đồng cung, hoặc gặp Riêu đồng cung, tất hay bị bắt bớ giam cầm, nếu không, thật là khó tránh thoát được tai nạn sông nước. Vân Đằng Thái Thứ Lang Tử Vi đẩu số tân biên"
+      }
+    ]
+  },
+  {
+    "interpretation_id": "tham_lang_nam_menh",
+    "star_id": "tham_lang",
+    "context_type": "nam_menh",
+    "rules": [
+      {
+        "condition": "Mặc định",
+        "effect": "82-"
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Tham miếu, vượng hay đắc địa thủ Mệnh, gặp nhiều sao sáng sủa tốt đẹp hội hợp, là người tài giỏi thao lược, thường hiển đạt về võ nghiệp, tất được hưởng phú qúy đến tột bậc, có uy danh lừng lẫy và phúc thọ song toàn."
+      }
+    ]
+  },
+  {
+    "interpretation_id": "tham_lang_nu_menh",
+    "star_id": "tham_lang",
+    "context_type": "nu_menh",
+    "rules": [
+      {
+        "condition": "Mặc định",
+        "effect": "Tham hãm địa gặp nhiều sao mờ ám xấu xa hội hợp, thật là chung thân cùng khốn cô đơn, phải lang thang phiêu bạt, có nhiều bệnh tật khó chữa, hoặc ở mắt, hoặc ở bộ tiêu hóa, hoặc ở bộ sinh dục, thường mắc những tai nạn khủng khiếp, chân tay thường bị vướng vào xích xiềng và dĩ nhiên là yểu tử."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Tham miếu, vượng hay đắc địa tọa thủ Mệnh, là người tài giỏi, đảm đang, gan góc, bạo tợn, hay ghen tuông, nhưng hưởng giàu sang và sống lâu. Nếu Tham gặp nhiều sao sáng sủa tốt đẹp hội hợp, tất được hưởng phú qúy đến tột bậc, phúc thọ song toàn."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Tham hãm địa, phải muộn lập gia đình, hay lấy kế lấy lẽ mới tránh được mấy độ buồn thương."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Tham hãm địa, Tý, Ngọ, Tỵ, Hợi là người gian tham hiểm độc, dâm dật, hay lăng loàn, suốt đời vất vả, có nhiều bệnh tật, thường mắc những tai nạn đáng lo ngại, nếu không sớm ly tổ, tất không thể sống lâu được."
+      }
+    ]
+  },
+  {
+    "interpretation_id": "cự_môn_general",
+    "star_id": "cự_môn",
+    "context_type": "general",
+    "rules": [
+      {
+        "condition": "Mặc định",
+        "effect": "Cung Mệnh có Cự Môn, nên thân hình đẫy đà, thấp da trắng, mặt vuông vắn, đầy đặn, mắt lộ."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Cự miếu, vượng hay đắc địa là người thông minh, nhân hậu, vui vẻ, có mưu cơ, có trí xét đoán sáng suốt, ăn nói đanh thép, được hưởng giàu sang và sống lâu. Đây, nếu Cự gặp nhiều sao sáng sủa tốt đẹp hội hợp, nhất là Xương, Khúc, Khôi, Việt, Tả, Hữu, Khoa, Quyền, Lộc tất được hưởng phú qúy đến tột bậc, có uy quyền hiển hách và danh tiếng lừng lẫy."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Cự miếu, vượng hay đắc địa gặp Xương, Khúc, Khôi, Việt, Khoa, Tuế Hình, là người có văn tài lỗi lạc, khẩu thuyết hùng hồn, thích hoạt động chính trị, thường chuyên về tư pháp, ngoại giao."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Cự miếu, vượng hay đắc địa, gặp Hổ, Tuế, Phù hội hợp là người biết nhiều luật pháp, hay lý luận, thường làm quan tòa, thầy kiện."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Cự vượng địa, Tý, Ngọ là người học rộng tài cao có đức độ. Đây, Cự ví như ngọc giấy trong đá. Vậy cần phải gặp Hóa Lộc đồng cung, hay gặp Tuần, Triệt án ngữ, như thế ngọc mới lộ vẻ sáng đẹp. Cung Mệnh có cách này mới được hưởng phú qúy. Trái lại, nếu Cự không gặp Hóa Lộc đồng cung, không gặp Tuần, Triệt án ngữ, hay nếu Cự gặp Tồn đồng cung: thật chẳng khác gì ngọc chìm sâu trong đá. Cung Mệnh có cách này là người đa học, đa năng nhưng không gặp thời."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Cự miếu, vượng hay đắc địa, gặp nhiều sao mờ ám xấu xa hội hợp, nhất là Sát tinh, Kỵ, Hình, tuy vẫn sống lâu, nhưng suốt đời chẳng mấy khi được xứng ý toại lòng, thường phải sớm xa cách gia đình, sức khỏe suy kém, có bệnh tật hoặc ở mắt, hoặc ở bộ sinh dục, lại hay mắc tai nạn, hay mắc thị phi kiện cáo, và khó tránh thoát được sự cầm hãm trói buộc."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Cự hãm địa là người kém thông minh, gian quyệt, tham lam, khắc nghiệt, đa nghi, không cẩn ngôn, hay nói khoác lác, không thích giao thiệp rộng nên ít bạn bè, suốt đời vất vả, có nhiều bệnh tật, thường mắc thị phi, kiện cáo, tù tội hay mắc tai nạn, nếu không sớm ly tổ, tất không thể sống lâu được."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Cự hãm địa, Thìn, Tuất rất mờ ám xấu xa, nhưng đối với tuổi Qúy, Tân lại thành sáng sủa tốt đẹp, vì có sự ứng hợp. Vậy, cho nên tuổi Qúy, Tân mà cung Mệnh an tại Thìn, Tuất, có Cự tọa thủ là người thông minh, được hưởng giàu sang và chẳng đáng lo ngại nhiều về sự chẳng lành xảy đến trong đời."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Cự hãm địa, Thìn, Tuất đối với tuổi Đinh, Canh lại càng mờ ám xấu xa, vì có sự khắc hãm. Vậy cho nên tuổi Đinh, Canh mà cung Mệnh an tại Thìn, Tuất, có Cự tọa thủ, thật là khổ sở, khốn đốn đến cùng cực."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Cự hãm địa, Sửu, Mùi rất mờ ám xấu xa, nhưng đối với tuổi Ất, Bính, Tân lại thành sáng sủa tốt đẹp, vì có sự ứng hợp. Vậy cho nên tuổi Ất, Bính, Tân mà cung Mệnh an tại Sửu, Mùi có Cự tọa thủ, là người thông minh, học rộng, hiển đạt, khá giả và chẳng đáng lo ngại nhiều về bệnh tật, hay tai ương họa hại bất kỳ."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "87- Vân Đằng Thái Thứ Lang Tử Vi đẩu số tân biên"
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Cự hãm địa, gặp nhiều sao sáng sủa tốt đẹp hội hợp, nhất là Xương, Khúc, Khôi, Việt, Tả, Hữu, Khoa, Quyền, Lộc là người hiểu biết sâu rộng, cũng có văn tài, ăn nói khôn ngoan đanh thép, thường hoạt động chính trị, hay làm thầy giáo và cũng được hưởng giàu sang."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Cự hãm địa gặp Lộc, Tuế hội hợp, nên đi buôn."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Cự hãm địa gặp nhiều sao mờ ám xấu xa hội hợp nhất là Sát tinh, Kỵ, Hình, thật chung thân cùng khốn cô đơn, phải lang thang phiêu bạt, có bệnh tật khó chữa, hoặc ở mắt, hoặc ở bộ sinh dục, hay mắc những tai nạn khủng khiếp, chân tay thường bị vướng vào xích xiềng và chắc chắn là yểu tử, nhưng chết một cách thê thảm."
+      }
+    ]
+  },
+  {
+    "interpretation_id": "cự_môn_nam_menh",
+    "star_id": "cự_môn",
+    "context_type": "nam_menh",
+    "rules": [
+      {
+        "condition": "Mặc định",
+        "effect": "Cự, dù Miếu địa, Vượng địa, đắc địa hay hãm địa, gặp Kỵ đồng cung, tất không thể tránh thoát được những tai nạn hoặc về sông nước hoặc về xe cộ."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Cự miếu, vượng hay đắc địa, thủ Mệnh là sao sáng sủa tốt đẹp hội hợp, tất được hưởng phú qúy đến tột bậc có uy danh lừng lẫy, phúc thọ song toàn."
+      }
+    ]
+  },
+  {
+    "interpretation_id": "cự_môn_nu_menh",
+    "star_id": "cự_môn",
+    "context_type": "nu_menh",
+    "rules": [
+      {
+        "condition": "Mặc định",
+        "effect": "Cự hãm địa gặp nhiều sao mờ ám xấu xa hội hợp, thật là chung thân cùng khốn cô đơn, phải lang thang phiêu bạt, có bệnh tật khó chữa, hoặc ở mắt, hoặc ở bộ sinh dục, hay mắc những tai nạn khủng khiếp, chân tay thường bị vướng vào xích xiềng, và chắc chắn là yểu tử, nhưng chết một cách rất thê thảm. Cự Miếu địa hay đắc địa thủ Mệnh, là người tài giỏi đảm đang, có đức độ, rất vượng phu ích tử, lại được hưởng giàu sang và sống lâu. Đây, nếu Cự gặp nhiều sao sáng sủa tốt đẹp hội hợp, tất được hưởng phú qúy đến tột bậc, phúc thọ song toàn."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Cự hãm địa là người có tướng lạ, ai mới trông thấy cũng qúy mến, nhưng lại có tính dâm dật, hoang đàng gian tham, ăn nói sàm sỡ điêu ngoa, hay ghen tuông, suốt đời vất vả, có nhiều tật bệnh, thường mắc những tai nạn bất kỳ, nếu không sớm ly tổ nhất định là không thể sống lâu được."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Cự hãm địa, nên muộn lập gia đình, để cố tránh những sự dở dang, đau đớn về sau này."
+      }
+    ]
+  },
+  {
+    "interpretation_id": "thiên_tướng_general",
+    "star_id": "thiên_tướng",
+    "context_type": "general",
+    "rules": [
+      {
+        "condition": "Mặc định",
+        "effect": "Cung Mệnh có Thiên Tướng miếu, vượng hay đắc địa tọa thủ, nên thân hình nở nang, cao vừa tầm, da trắng, vẻ mặt đẹp đẽ uy nghi, rất thông minh, tính đôn hậu, thẳng thắng, nhưng thích ăn ngon mặc đẹp, ưa thanh sắc bề ngoài, và dĩ nhiên là được hưởng giàu sang, phúc thọ song toàn."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Tướng hãm địa, thân hình cũng nở nang, nhưng, thấp kém thông minh tính cũng đôn hậu, nhưng dễ đam mê, thích ăn chơi và không biết lo xa, suốt đời"
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "91- Vân Đằng Thái Thứ Lang Tử Vi đẩu số tân biên chẳng mấy khi được xứng ý toại lòng, tuy vậy, vẫn có đủ cơm ăn áo mặc và sống lâu."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Tướng miếu, vượng hay đắc địa, gặp nhiều sao sáng sủa tốt đẹp hội hợp, nhất là Tử, Phủ, Vũ, Xương, Khúc, Khôi, Việt, Tả, Hữu, Khoa, Quyền, tất được hưởng phú qúy đến tột bậc, lại có uy quyền hiển hách và danh tiếng lừng lẫy."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Tướng vượng địa gặp Kình, Đà hội hợp, nên chuyên về kỹ nghệ hay kinh doanh buôn bán và chắn chắn là có nhiều tiền của."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Tướng miếu, vượng hay đắc địa, gặp nhiều sao mờ ám xấu xa hội hợp, nhất là Sát tinh tuy kém tốt đẹp nên hay có bệnh tật ở đầu, mặt, nhưng cũng vẫn được hưởng giàu sang, sống lâu và cũng chẳng đáng lo ngại nhiều về những sự chẳng lành xảy đến trong suốt cuộc đời."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Tướng hãm địa gặp nhiều sao mờ ám xấu xa hội hợp, nhất là Sát tinh, tất phải có tật trong mình hay có bệnh ở đầu, mặt, tính rất liều lĩnh, trước khi làm bất cứ việc gì cũng không biết suy xét cẩn thận, nên hay nhầm lẫn suốt đời lao khổ, phải lo lắng về sinh kế, khóa tránh thoát được tai họa, tuổi thọ cũng bị chiết giảm."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Tướng dù miếu, vượng, đắc hay hãm địa gặp Tuần, Triệt án ngữ, tất suốt đời khổ cực, công danh trắc trở, tiền tài khó kiếm, thường phải ly tổ bôn ba, lại hay mắc tai họa khủng khiếp, nhất là về dao gươm súng đạn, không thể sống lâu được và dĩ nhiên là phải chết một cách thê thảm."
+      }
+    ]
+  },
+  {
+    "interpretation_id": "thiên_tướng_nam_menh",
+    "star_id": "thiên_tướng",
+    "context_type": "nam_menh",
+    "rules": [
+      {
+        "condition": "Mặc định",
+        "effect": "Tướng dù miếu, vượng, đắc hay hãm địa, gặp Hình đồng cung, thật là khó tránh được tai họa về dao gươm, súng đạn và chắc chắn là đầu, mặt hay chân tay bị thương tàn."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Tướng miếu, vượng hay đắc địa thủ Mệnh, gặp nhiều sao sáng sủa tốt đẹp hội hợp, nên được hưởng phú qúy đến tột bực, lại có uy quyền hiển hách và danh tiếng lừng lẫy."
+      }
+    ]
+  },
+  {
+    "interpretation_id": "thiên_tướng_nu_menh",
+    "star_id": "thiên_tướng",
+    "context_type": "nu_menh",
+    "rules": [
+      {
+        "condition": "Mặc định",
+        "effect": "Tướng miếu, vượng, đắc hay hãm địa, gặp Tuần, Triệt án ngữ, hay Tướng hãm địa gặp nhiều sao mờ ám xấu xa hội hợp, thật chỉ có tu hành mới được yên thân và sống lâu."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Tướng miếu, vượng hay đắc địa thủ Mệnh, là người tài giỏi đảm đang hay ghen tuông, được hưởng giàu sang và phúc thọ song toàn. Đây, nếu tướng gặp nhiều sao sáng sủa tốt đẹp hội hợp, tất được hưởng phú qúy đến tột bậc và rất vượng phu ích tử."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Tướng hãm địa cũng là người có tài, hay ghen tuông, nhưng suốt đời chẳng mấy khi được xứng ý toại lòng, thường phải buồn khổ vì chồng vì con."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Tướng hãm địa gặp nhiều sao mờ ám xấu xa hội hợp, nên có tính lăng loàn, lại khắc chồng hại con, suốt đời cực khổ, cô đơn và không thể sống lâu được. Vân Đằng Thái Thứ Lang Tử Vi đẩu số tân biên"
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "92-"
+      }
+    ]
+  },
+  {
+    "interpretation_id": "thiên_lương_general",
+    "star_id": "thiên_lương",
+    "context_type": "general",
+    "rules": [
+      {
+        "condition": "Mặc định",
+        "effect": "Cung Mệnh có Thiên Lương tọa thủ, nên thân hình thon và cao, da trắng, vẻ mặt thanh tú khôi ngô, tính khoan hòa, được hưởng tuổi thọ lâu dài."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Lương miếu, vượng hay đắc địa rất thông minh, lại có tính nhân hậu, và từ thiện: được hưởng giàu sang trọn đời."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Lương hãm địa, Tỵ Hợi kém thông minh, cũng có tính nhân hậu, nhưng nông nổi, thích chơi bời phóng đãng, ăn hoang tiêu rộng, và thích phiêu lưu, nay đây mai đó."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Lương hãm địa Dậu, kém thông minh, cũng có tính nhân hậu, nhưng không bền chí trước khi làm, bất cứ việc gì cũng không suy xét cẩn thận nên hay nhầm lẫn."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Lương hãm địa, Tỵ, Hợi, Dậu, nên suốt đời chẳng mấy khi được xứng"
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "93- Vân Đằng Thái Thứ Lang Tử Vi đẩu số tân biên ý toại lòng, hay thay đổi chí hướng, nghề nghiệp, công việc lại thường phải ly tổ bôn ba và khó tránh được tai họa."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Lương miếu, vượng hay đắc địa, gặp nhiều sao sáng sủa tốt đẹp hội hợp, nhất là Xương, Khúc, Khôi, Việt, Tả, Hữu, Khoa, Quyền, Lộc, chắc chắn được hưởng phú qúy tột bực và có uy quyền hiển hách."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Lương miếu, vượng hay đắc địa gặp Xương Khúc, Tả, Hữu, Tuế, tất có văn tài lỗi lạc và thường chuyên về sư phạm."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Lương miếu, vượng hay đắc địa, gặp Tuần, Triệt án ngữ, nên suốt đời lao khổ, thường phải sớm xa gia đình, lại hay mắc tai họa khủng khiếp, tuổi thọ cũng bị chiết giảm. Có cách này thật chỉ có tu hành mới được yên thân và sống lâu."
+      }
+    ]
+  },
+  {
+    "interpretation_id": "thiên_lương_nam_menh",
+    "star_id": "thiên_lương",
+    "context_type": "nam_menh",
+    "rules": [
+      {
+        "condition": "Mặc định",
+        "effect": "Lương hãm địa gặp nhiều sao mờ ám xấu xa hội hợp, nhất là Hỏa, Linh, tất trong mình phải có tật và nếu không cùng khổ cô đơn, chắc chắn là yểu tử, nhưng chết một cách thê thảm."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Lương miếu, vượng hay đắc địa thủ Mệnh, gặp nhiều sao sáng sủa tốt đẹp hội hợp, nên được hưởng phú qúy đến tột bực và có uy quyền hiển hách."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Lương miếu địa, Thìn, Tuất, tất có nhiều mưu cơ và thích bàn xét về chính lược, chiến lược."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Lương miếu, vượng hay đắc địa gặp Tuần, Triệt án ngữ, thật chỉ có tu hành mới được yên thân và sống lâu."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Lương hãm địa, nên suốt đời chẳng mấy khi được xứng ý toại lòng, hay thay đổi chí hướng, nghề nghiệp, công việc lại thường phải ly tổ bôn ba, và khó tránh thoát được tai họa."
+      }
+    ]
+  },
+  {
+    "interpretation_id": "thiên_lương_nu_menh",
+    "star_id": "thiên_lương",
+    "context_type": "nu_menh",
+    "rules": [
+      {
+        "condition": "Mặc định",
+        "effect": "Lương hãm địa, gặp nhiều sao mờ ám xấu xa hội hợp, tất trong mình phải có tật, suốt đời cùng khổ, cô đơn và hay gặp sự chẳng lành. Nếu có danh chức, tài lộc, chắc chắn là không thể sống lâu được."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Lương miếu, vượng hay đắc địa thủ Mệnh, gặp nhiều sao sáng sủa tốt đẹp hội hợp, là bậc hiền phu, được hưởng giàu sang trọn đời và rất vượng phu ích tử."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Lương miếu, vượng hay đắc địa, gặp Tuần, Triệt án ngữ, tất phải muộn lập gia đình, hay lấy kế lấy lẽ, mới tránh được mấy độ buồn thương, chắc chắn là phải cô đơn khổ cực. Tuổi thọ cũng bị chiết giảm. Có cách này thật chỉ có tu hành mới được hưởng phúc an nhàn và sống lâu."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Lương hãm địa nên có tánh phóng đãng, ưa việc ong bướm đi về, suốt đời phải lo lắng buồn bực vì chồng con."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Lương hãm địa gặp nhiều sao mờ ám xấu xa hội hợp, là hạng hạ tiện, dâm dật, khắc chồng, hại con, nếu không cùng khổ cô đơn, tất phải yếu tử. Vân Đằng Thái Thứ Lang Tử Vi đẩu số tân biên"
+      }
+    ]
+  },
+  {
+    "interpretation_id": "thất_sát_general",
+    "star_id": "thất_sát",
+    "context_type": "general",
+    "rules": [
+      {
+        "condition": "Mặc định",
+        "effect": "Cung Mệnh có Thất Sát tọa thủ, nên thân hình nở nang, hơi cao, nhưng thô xấu, da xám hây đen dòn, mặt thường có vết, mắt to và lồi, tính ương ngạnh, nóng nảy, làm việc gì cũng muốn cho chóng xong."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Sát miếu, vượng hay đắc địa, nên rất can đảm, dũng mãnh, thông minh, có nhiều mưu cơ, lại thêm tánh cương nghị, hiếu thắng, và hay nói đại ngôn, nhưng được nhiều người tin phục, tuy được hưởng giàu sang, sống lâu, nhưng trên đường đời gặp nhiều bước thăng trầm."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Sát miếu địa, Dần, Thân, dĩ nhiên là qúy hiển, nhưng tuổi Giáp, Canh, Đinh, Kỷ mà cung Mệnh co cách này, thật tài quan song mỹ."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Sát miếu, vượng hay đắc địa, gặp nhiều sao sáng sủa tốt đẹp hội, nhất là Tử, Phủ, Xương, Khúc, Khôi, Việt, Tả, Hữu, Khoa, Quyền, Lộc, Mã, Kình, tất được hưởng phú qúy đến tột bậc, có uy quyền hiển hách và danh tiếng lừng lẫy."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Sát miếu, vương hay đắc địa, gặp nhiều sao mờ ám xấu xa hội hợp, nhất là Sát tinh, là người tàn nhẫn, đa sát, tuy được hưởng giàu sang, nhưng chẳng được lâu bề, lại có tật bênh, thường hay mắc tai nạn xe cộ, đao súng, hay bị bắt bớ, giam giữ và chắc chắn giảm thọ."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Sát hãm địa là người hung bạo gian quyệt, hay nói khoác lác, thường làm đồ tể, hàng thịt, thợ rèn, nếu giàu có, tất không thể sống lâu được."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Sát hãm địa, Mão Dậu, tuy mò ám xấu xa, nhưng ứng hợp với tuổi Ất, Tân. Vậy cho nên tuổi Ất Tân mà cung Mệnh có cách này, cũng như được hưởng phú qúy và tuổi thọ cũng gia tăng. Vân Đằng Thái Thứ Lang Tử Vi đẩu số tân biên"
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "96-"
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Sạt hãm địa, gặp Tả, Hữu, Long, Phương, Quang, Qúy hội hợp, thường làm thợ vàng hay thợ bạc. "
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Sát hãm địa, gặp nhiều sao mờ ám xấu xa hội hợp, nhất là Sát tinh, thật là suốt đời cùng khổ cô đơn, phải loang thang phiêu bạt, thường có bệnh tật khó chữa, lại hay bị bắt bớ giam cầm, hay mắc tia nạn khủng khiếp, nhất là về xe cộ, dao súng và dĩ nhiên là yểu tử, nhưng chết một cách rất thê thảm."
+      }
+    ]
+  },
+  {
+    "interpretation_id": "thất_sát_nam_menh",
+    "star_id": "thất_sát",
+    "context_type": "nam_menh",
+    "rules": [
+      {
+        "condition": "Mặc định",
+        "effect": "Sát hãm địa, gặp Hình đồng cung, nêu không mắc tù tội, tất cũng bị giết chết, hay chết vì tai nạn xe cộ."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Sát miếu, vượng hay đắc địa thủ Mệnh, gặp nhiều sao sáng sủa tột đẹp hội hợp, tất được hưởng phú qúy đến tột bậc, thường hiển đạt về võ nghiệp, có uy quyền hiển hách, danh tiếng lừng lẫy và dĩ nhiên là sống lâu."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Sát miếu, vượng hay đắc địa, gặp Hình đồng cung, là người có biệt tài về quân sự và có oai phong lẫm liệt."
+      }
+    ]
+  },
+  {
+    "interpretation_id": "thất_sát_nu_menh",
+    "star_id": "thất_sát",
+    "context_type": "nu_menh",
+    "rules": [
+      {
+        "condition": "Mặc định",
+        "effect": "Sát hãm địa, gặp nhiều sao mờ ám xấu xa hội hợp, thật là suốt đời cùng khổ cô đơn, phải lang thang phiêu bạt, thường có bệnh tật khó chữa, lại hay bị bắt bớ giam cầm, hay mắc tai nạn xe cộ, dao súng và chắc chắn là yểu tử, nhưng chết một cách rất thê thảm."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Sát miếu hay đắc địa thủ Mệnh, là người, là người tài giỏi, đảm đang, gan góc và hay ghen tuông. Tuy được hưởng giàu sang, sống lâu, nhưng phải muộn lập gia đình mới tránh khỏi được những nỗi ưu phiền đau đớn vì chồng con. Đây, nếu Sát gặp nhiều sao sáng sủa tốt đẹp hội hợp, tất được hưởng phú qúy đến tột bậc và phúc thọ song toàn."
+      }
+    ]
+  },
+  {
+    "interpretation_id": "phá_quân_general",
+    "star_id": "phá_quân",
+    "context_type": "general",
+    "rules": [
+      {
+        "condition": "Mặc định",
+        "effect": "Cung Mệnh có Phá Quân tọa thủ, nên thân hình đẫy đà, cao vừa tầm (Phá đắc địa hay Phá hãm địa, thân hình hay thấp) da hồng hào, mặt đầy đặn, mắt lộ, hầu lộ, lông mày thưa."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Phá miếu, vượng hay đắc địa là người thông minh, cương quả, hiếu thắng, tự đắc, có thủ đoạn, có tài thao lược, lại can đảm, dũng mãnh, ưa hoạt động, thích đi xa, ham săn bắn."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Phá miếu địa lại hay nghe nịnh hót."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Phá đắc địa cũng hay nghe nịnh hót nhưng có tính gian hiểm, bất nhân."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Phá miếu, vương hay đắc địa tất được hưởng giàu sang và sống lâu. Nhưng trên đường đời gặp nhiều bước thăng trầm, tiền tài công danh như đám mây nổi, tụ tán thất thường."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Phá miếu địa ứng hợp với tuổi Đinh, Kỷ, Qúy và khắc tuổi Bính, Mậu, Dần, Thân. Vậy cho nên tuổi Đinh, Kỷ, Qúy, mà cung Mệnh có Phá Miếu địa tọa thủ, chắc chắn là được hưởng phú qúy song toàn. Còn tuổi Bính, Mậu, Dần, Thân. Vậy cho nên tuổi Đinh, Kỷ, Qúy mà có Phá miếu địa tọa thủ, chắc chắn là được hưởng phú qúy song toàn. Còn tuổi Bính, Mậu, dần, Thân mà cung mệnh có Phá miếu địa tọa thủ, tuy cũng được hưởng giàu sang nhưng hay mắc tai họa."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Phá miếu, vượng hay đắc đại, gặp nhiều sao sáng sủa tốt đẹp hội hợp,"
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "99- Vân Đằng Thái Thứ Lang Tử Vi đẩu số tân biên nhất là Xương, Khúc, Tả, Hữu, Khoa, Quyền, Lộc hay Kình Đà, Không, Kiếp đắc địa, thật là thang mây nhẹ bước, tất được hưởng phú qúy đến tột bật, lại có uy quyền hiển hách, danh tiếng lừng lẫy."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Phá miếu, vượng hay đắc địa gặp nhiều sao mờ ám, xấu xa hội hợp, nhất là sát tinh hãm địa hay Song Hao, Hổ, Kỵ, Hình, nên suốt đời chẳng mấy khi được xứng ý toại lòng, vì công danh trắc trở, nghèo túng, thường phải bôn tẩu nay đây mai đó, lại hay mắc tai nạn và khó tránh thoát được tù tội, tuổi thọ cũng bị chết giảm."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Phá hãm địa là người ương ngạnh, hiếu thắng, hung tợn, nham hiểm, bất nhân, có óc kinh doanh, khéo tay, thường chuyên về kỹ nghệ, máy móc, thủ công hay đi buôn, suốt đời vất vả, thường mắc nhiều tai ách, nếu không ly tổ bôn ba, tất không thể sống lâu được."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Phá hãm địa, Mão Dậu ứng hợp với tuổi Ất, Tân, Qúy. Phá hãm địa Dần, Thân, ứng hợp với Giáp, Canh, Đinh, Kỷ. Phá hãm địa Tý Hợi ứng hợp với tuổi Mậu. Vậy cho nên tuổi Ất, Tân, Qúy, mà cung Mệnh an tại Mão Dậu có Phá tọa thủ, tuổi Giáp, Canh, Đinh, Kỷ, mà cung Mệnh an tại dần, Thân có Phá tọa thủ, và tuổi Mậu mà cung Mệnh an tại Tỵ, Hợi có Phá tọa thủ, cũng vẫn khá giả và cũng chẳng đáng lo ngại nhiều về những sự chẳng lành xảy đến trong đời."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Phá hãm địa gặp Kình, Đà, Không Kiếp đắc địa hội hợp, cũng được hưởng giàu sang nhưng hay mắc tai họa."
+      }
+    ]
+  },
+  {
+    "interpretation_id": "phá_quân_nam_menh",
+    "star_id": "phá_quân",
+    "context_type": "nam_menh",
+    "rules": [
+      {
+        "condition": "Mặc định",
+        "effect": "Phá hãm địa, gặp nhiều sao mờ ám xấu xa hội hợp, nhất là Sát tinh hãm địa hay Song Hao, Hổ, Kỵ, Hình, thật là chung thân cùng khốn cô đơn, phải lang thang phiêu bạt. Lại có tàn tật, có bệnh có chữa, thường mắc phải những tai nạn khủng khiếp, chân tay thường bị vướng vào xiềng xích, nếu không cũng bị yểu tử, nhưng chết một cách thê thảm."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Phá miếu, vượng hay đắc địa thủ mệnh, gặp nhiều sao sánh sủa tốt đẹp hội hợp, tất được hưởng phú qúy đến tột bật thường hiển đạt về võ nghiệp, có uy quyền hiển hách và sống lâu."
+      }
+    ]
+  },
+  {
+    "interpretation_id": "phá_quân_nu_menh",
+    "star_id": "phá_quân",
+    "context_type": "nu_menh",
+    "rules": [
+      {
+        "condition": "Mặc định",
+        "effect": "Phá hãm địa, gặp nhiều sao mờ ám xấu xa hội hợp, thật là suốt đời cùng khốn cô đơn, phải lang thang phiêu bạt, lại có tàn tật, có bệnh khó chữa, thường mắc những tai nạn khủng khiếp, chân tay thường bị vướng vào xiềng xích nếu không cũng bị yểu tử nhưng chết một cách rất thê thảm."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Phá miếu, vượng hay đắc địa thủ Mệnh, là người tài giỏi, đảm đang, gan góc, hay ghen tuông, tuy được hưởng giàu sang, sống lâu nhưng phải muộn lập gia đình mới tránh được những nỗi ưu phiền, và đau đớn vì chồng con. Đây, nếu Phá gặp nhiều sao sáng sủa tốt đẹp hội hợp, tất được hưởng phú qúy đến tột bậc."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Phá hãm địa là người dâm dật, ác độc, lăng loàn, phải lấy kế lấy lẽ may ra mới tránh được mấy độ buồn thương, suốt đời khổ cực, có nhiều bệnh tật, lại hay Vân Đằng Thái Thứ Lang Tử Vi đẩu số tân biên"
+      }
+    ]
+  },
+  {
+    "interpretation_id": "xương,_khúc_general",
+    "star_id": "xương,_khúc",
+    "context_type": "general",
+    "rules": [
+      {
+        "condition": "Mặc định",
+        "effect": "Cung Mệnh có Văn Xương, hay Văn Khúc tọa thủ nên vẻ mặt thanh tú và khôi ngô."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Xương, Khúc đắc địa, nên tai thính, mắt rất sáng, trong mình thường có nốt ruổi kín hợp với qúy tướng, lại là người thông minh, học rộng, biết suy xét, phán đoán mọi việc trước sau hay dở, có văn tài và có nang khiếu về âm nhạc."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Xương, Khúc đắc địa gặp nhiều sao sáng sủa tốt đẹp hội hợp, nhất là Tử, Phủ, Khôi, Việt, Tả, Hữu, Khoa, Quyền, Lộc nên đi thi đỗ cao, sớm hiển đạt, được hưởng phú qúy, có uy danh lừng lẫy và sống lâu."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Xương, Khúc đắc địa, gặp Đồng Lương sáng sủa tốt đẹp hội hợp, là người khôn khéo, có nhiều tài năng, sớm hiển đạt và được hưởng giàu sang trọn đời. Trong trường hợp này, nếu Xương, Khúc gặp Tuần, Triệt án ngữ, hay nhiều Sát tinh hột họp, thật là mờ ám xấu xa. Có cách này, nên suốt đời chẳng mấy khi được xứng ý toại lòng, vì công danh trắc trở, lại hay mắc tai họa, nhất là tù tội, tuổi thọ cũng bị chiết giảm. Chỉ có lánh mình ở chốn thuyền môn hay đạo viện may ra mới được yên thân và sông lâu."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Khúc đắc địa, gặp Vũ đồng cung, tất có tài kiêm văn võ, có uy quyển hiển hách và được hưởng giàu sang trọn dời. Tuổi Giáp mà cung Mệnh có khúc đắc địa tọa thủ, gặp Vũ đồng cung là hợp cách, nên được hưởng phú qúy đến cực độ và có uy danh lừng lẫy"
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Khúc đắc địa gặp Tham, Hỏa đồng cung hay hội chiếu, tất có quan chức lớn và có rất nhiều của cải qúy giá."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Xương, Khúc hãm địa nên làm nghề thủ công rất khéo léo, nếu chuyên về kỹ nghệ, mỹ nghệ sau cùng khá giả Vân Đằng Thái Thứ Lang Tử Vi đẩu số tân biên"
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "102-"
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Xương, Khúc hãm địa gặp nhiều sao mờ ám xấu xa hay Sát tinh hội hợp, tất trong mình có nhiều rỗ sẹo, tính nông nổi, trước khi làm bất cứ một việc gì, cũng không suy xét cần thận, nên hay nhầm lẫn, thất bại. suốt đời cùng khổ cô đơn, thường phải ly tổ bôn ba, khó tránh thoát được tai họa, nhất là tù tội, nếu không có tàn tật tất không thể sông lâu được."
+      }
+    ]
+  },
+  {
+    "interpretation_id": "xương,_khúc_nam_menh",
+    "star_id": "xương,_khúc",
+    "context_type": "nam_menh",
+    "rules": [
+      {
+        "condition": "Mặc định",
+        "effect": "Cung Mệnh có Xương, Khúc tọa thủ, dù đắc địa, hay hãm địa nhưng nếu gặp Tuế, Tấu, Long, Phượng hội hợp, cũng là người khéo nói, hát hay và rất ham chuộng thi, ca, vũ, nhạc, kịch."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Xương, Khúc đắc địa thủ Mệnh, gặp nhiều sao sáng sủa tốt đẹp hội hợp, nhất là Tử, Phủ, Khôi, Việt, Tả, Hữu, Khoa, Quyền, Lộc là người thông minh, học rộng, có văn tài lỗi lạc, sớm nhẹ bước thang mây uy danh lừng lẫy được hưởng giàu sang trọn đời và sống lâu. Vân Đằng Thái Thứ Lang Tử Vi đẩu số tân biên"
+      }
+    ]
+  },
+  {
+    "interpretation_id": "xương,_khúc_nu_menh",
+    "star_id": "xương,_khúc",
+    "context_type": "nu_menh",
+    "rules": [
+      {
+        "condition": "Mặc định",
+        "effect": "Xương, Khúc hãm địa, gặp nhiều sao mờ ám xâu xa hay Sát tinh hội hợp nên suốt đời cùng khổ cô đơn, thương phải ly tố bôn ba, khó tránh được tai họa, nếu không có tàn tật phải yểu tử."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Xương. Khúc đắc địa thủ Mệnh, nên nhan sắc tuyệt vời rất đa tình."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Xương, Khúc đắc địa, gặp nhiều sao sáng sủa tốt đẹp hội hợp, tất được hưởng phú qúy và sung sướng suốt đời."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Xương, Khúc hãm địa, nét mặt cũng tươi tỉnh, nhưng tính rất dâm đãng và suốt đời phải buồn phiền vì chồng con."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Xương, Khúc hãm địa, gặp nhiều sao mờ ám xấu xa hay Sát tinh hội hợp, là hạng gái giang hồ, ty tiện, khắc chồng hại con, và thường phải yểu tử."
+      }
+    ]
+  },
+  {
+    "interpretation_id": "khôi,_việt_general",
+    "star_id": "khôi,_việt",
+    "context_type": "general",
+    "rules": [
+      {
+        "condition": "Mặc định",
+        "effect": "Cung Mệnh có Thiên Khôi hay Thiên Việt tọa thủ, tất là con trưởng, nếu không sau cũng đoạt trưởng, lại có vẻ mặt thanh tú, khỏi ngô, mắt sáng, tính tình cao thượng và rất thông minh."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Khôi, Việt gặp nhiều sao sáng sủa tốt đẹp hội hợp, nhất là Tử, Phủ Xương, Khúc, Tả, Hữu, Khoa, Quyền, Lộc nên có tài kiêm văn võ, có óc lãnh tụ, có mưu cơ tổ chức và sớm nhẹ bước thang mây, thường nắm giữ đầu mối những công việc lớn. nhỏ liên có uy quyền hiển hách, hay lui tới gần bên bậc nguyên thủ, lại được hưởng giàu sang và sống lâu."
+      }
+    ]
+  },
+  {
+    "interpretation_id": "khôi,_việt_nam_menh",
+    "star_id": "khôi,_việt",
+    "context_type": "nam_menh",
+    "rules": [
+      {
+        "condition": "Mặc định",
+        "effect": "Khôi, Việt gặp Tuần, Triệt án ngữ, hay gặp nhiều sao mờ ám xấu xa hội hợp, nhất là Sát tinh, Kỵ, Hình, nên suốt đời chẳng mấy khi được xứng ý toại lòng, công danh trắc trở, nếu được hưởng giàu sang cùng chẳng lâu bền, thường có bệnh tật ở đầu, lại hay mắc tai họa khủng khiếp, nhất là về đao thương, súng đạn và không thể sống lâu được."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Khôi, Việt thủ Mệnh, gặp nhiều sao sáng sủa tốt đẹp hội hợp, nên được hưởng phú qúy song toàn và sống lâu."
+      }
+    ]
+  },
+  {
+    "interpretation_id": "khôi,_việt_nu_menh",
+    "star_id": "khôi,_việt",
+    "context_type": "nu_menh",
+    "rules": [
+      {
+        "condition": "Mặc định",
+        "effect": "Khôi, Việt gặp Tuần, Triệt án ngữ, hay gặp nhiều sao mờ ám xấu xa hội hợp, nên công danh trắc trở hay mắc tai họa, tuổi thọ cũng bị chiết giảm."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Khôi, Việt thủ Mệnh, gặp nhiều sao sáng sủa tốt đẹp hội hợp, là bậc hiền phụ, có danh giá, nhưng hưởng giàu sang, sống lâu và rất vượng phu ích tử."
+      }
+    ]
+  },
+  {
+    "interpretation_id": "lộc_tồn_general",
+    "star_id": "lộc_tồn",
+    "context_type": "general",
+    "rules": [
+      {
+        "condition": "Mặc định",
+        "effect": "Cung Mệnh có Lộc Tồn tọa thủ, gặp nhiều sao sáng sủa tốt đẹp hội hợp, là người thông minh, học rộng, tính nhân hậu, từ thiện, có tài tổ chức, có nhiều sáng kiến lạ và biết ứng biến, suốt đời được hưởng giàu sang, được nhiều người kính trọng và sống lâu."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Lộc gặp Tử, Phủ, Xương, Khôi, Việt, Mã hội hợp thật là rực rỡ tốt đẹp. Có cách này, chắc chắn là được hưởng phú qúy trọn đời, có uy quyền hiển hách, tuổi thọ cũng gia tăng."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Lộc gặp Quang, Qúy, Quan, Phúc, Riêu, Y hội hợp, nên chuyên nghề thuốc, sau rất nổi tiếng."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Cung Mệnh có Lộc tọa thủ, gặp nhiều sao mờ ám xấu xa hội hợp, nhất là Không, Kiếp, Hao, Kỵ, Tuế là người biển lận, ích kỷ và gian quyệt, thường sớm khắc một trong hai thân, hay phải sớm lìa bỏ gia đình, lang thang bôn tẩu ở phương xa, suốt đời chẳng mấy khi được xứng ý toại lòng, Vi công danh trắc trở, tài lộc thiếu thốn, nếu có nhiều tiền của, lại hay bị mất cắp, lừa đảo, khó tránh"
+      }
+    ]
+  },
+  {
+    "interpretation_id": "lộc_tồn_nam_menh",
+    "star_id": "lộc_tồn",
+    "context_type": "nam_menh",
+    "rules": [
+      {
+        "condition": "Mặc định",
+        "effect": "107- Vân Đằng Thái Thứ Lang Tử Vi đẩu số tân biên được những tai họa khủng khiếp, và rất dễ mắc tù tội, tuổi thọ cũng bị chiết giảm."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Lộc thủ Mệnh, gặp nhiều sao sáng sủa rốt đẹp hội hợp, nhất là Tử, Phủ, Xương, Khúc, Khôi, Việt nên được hưởng phú qúy trọn đời, có uy danh lừng lẫy và sống lâu."
+      }
+    ]
+  },
+  {
+    "interpretation_id": "lộc_tồn_nu_menh",
+    "star_id": "lộc_tồn",
+    "context_type": "nu_menh",
+    "rules": [
+      {
+        "condition": "Mặc định",
+        "effect": "Lộc gặp nhiều sao mờ ám xấu xa hội hợp, nhất là Không, Kiếp, Нao, Kỵ, Tuế nên suốt đời quẫn bách, buồn phiền vì vợ con, thường phải sớm ly tổ, lại hay mắc tai họa và không thể sống lâu được."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Lộc thủ Mệnh, gặp nhiều sao sáng sủa tốt đẹp hội hợp, nên rất đoan chính, được hưởng giàu sang trọn đời và rất vượng phu ích tử."
+      }
+    ]
+  },
+  {
+    "interpretation_id": "tả,_hữu_general",
+    "star_id": "tả,_hữu",
+    "context_type": "general",
+    "rules": [
+      {
+        "condition": "Mặc định",
+        "effect": "Cung Mệnh có Tả Phụ hay Hữu Bật tọa thủ, lại gặp nhiều sao sáng sủa tốt đẹp hội hợp, nên thân hình đầy đặn, tính nhân hậu, khoan hòa, thẳng thắn, hay cứu giúp những người khốn cùng và có nhiều mưu trí."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Tả, Hữu gặp Tử, Phủ, Xương, Khúc, Khôi, Việt hội hợp cùng với Khoa, Quyền, Lộc tất trong mình có nhiều nốt ruồi kín hợp với qúy tướng. Vậy cho nên được hưởng phú qúy trọn đời, có danh tiếng lừng lẫy, tuổi thọ cũng gia tăng."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Tả, Hữu hội hợp với Cơ, Nguyệt, Đồng, Lương, Long, Phượng, tất chuyên về nghề thuốc, sau rất khá giả."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Tả, Hữu gặp nhiều sao mờ ám xấu xa, hay Sát tinh hội hợp, tất trong mình có nhiều rỗ sẹo, thường mang tật, tính rất gian trá, hiểm độc, hay lừa đảo, hại người, suốt đời cùng khổ cô đơn, khó tránh thoát được những tai họa khủng khiếp, tuổi thọ lại bị chiết giảm."
+      }
+    ]
+  },
+  {
+    "interpretation_id": "tả,_hữu_nam_menh",
+    "star_id": "tả,_hữu",
+    "context_type": "nam_menh",
+    "rules": [
+      {
+        "condition": "Mặc định",
+        "effect": "Cung Mệnh có Tả, Hữu tọa thủ dù gặp nhiều sao sáng sủa tốt dẹp hội hợp, hay gặp nhiều sao mờ ám xấu xa hội hợp, cũng phải sớm ly tổ hay sớm lìa bỏ gia đình, tự tay lập nghiệp ở phương xa."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Tả, Hữu thủ Mệnh, gặp nhiều sao sáng sủa tốt đẹp hội hợp, là người thông"
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "109- Vân Đằng Thái Thứ Lang Tử Vi đẩu số tân biên minh, học rộng, văn võ kiêm toàn, được hưởng giàu sang đến tột bực."
+      }
+    ]
+  },
+  {
+    "interpretation_id": "tả,_hữu_nu_menh",
+    "star_id": "tả,_hữu",
+    "context_type": "nu_menh",
+    "rules": [
+      {
+        "condition": "Mặc định",
+        "effect": "Tả, Hữu gặp nhiều sao mờ ám xấu xa hội hợp nhất là Cự, Phá hãm địa hay Sát tinh hội hợp, tất phải mang tàn tật, suốt đời cùng khổ và thường yếu tử."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Tả, Hữu chủ Mệnh, gặp nhiều sao sảng sủa tốt đẹp hội hợp, là người siêng năng, hiền hậu, giàu có hơn người và rất vượng phu ích tử."
+      }
+    ]
+  },
+  {
+    "interpretation_id": "kình_dương_general",
+    "star_id": "kình_dương",
+    "context_type": "general",
+    "rules": [
+      {
+        "condition": "Mặc định",
+        "effect": "Cung Mệnh có Kình, Dương đơn thủ, nên thân hình cao và thô, da xám, mặt choắt, hầu lộ, mắt lồi."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Kình đắc địa, nên tính khí cương cường, quả quyết, dũng mảnh, lắm cơ mưu, thích mạo hiểm, nhưng hay kiêu căng tự đắc."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Nhưng nếu Kình hãm địa, thì tính khí lại hung bạo, liều lĩnh, bướng binh, ngang ngạnh và gian trá."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Kình tọa thủ tại Dần, Thân, tai hại nhất đối với tuổi Giáp Mậu, thường phải phá tán tổ nghiệp, mang tật trong mình, suốt đời sầu khổ, có sớm rời xa quê hương, mới mong sống lâu được. Trong trường hợp này, nếu may mắn có nhiều sao sáng sủa tốt đẹp hội hợp, thì tại khéo léo về thủ công."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Kình tọa thủ tại Mão, Dậu, tất chân tay có thương tích và mắt rất kém."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Kình gặp Nhật hay Nguyệt đồng cung, tất trai khắc vợ, gái sát chổng."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Kình gặp Liêm, Cự, Kỵ đồng cung, tất có ám tật. Nếu Liêm, Cự, Kỵ hãm địa, tất chân tay bị thương tàn, hay mắc kiện tụng, tù hình, càng về gia lại càng khốn khổ. Đáng lo ngại nhất là tuổi Thìn, Tuất gặp cách này."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Kình gặp Tả, Hữu, Xương, Khúc hội hợp, tất trong mình có nốt ruổi kín đáo hay có nhiều rỗ sẹo."
+      }
+    ]
+  },
+  {
+    "interpretation_id": "kình_dương_nam_menh",
+    "star_id": "kình_dương",
+    "context_type": "nam_menh",
+    "rules": [
+      {
+        "condition": "Mặc định",
+        "effect": "111- Vân Đằng Thái Thứ Lang Tử Vi đẩu số tân biên"
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Kình đắc địa thủ Mệnh: nên chuyên về quân sự, sau có uy quyển hiển hách."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Kình đắc địa gặp Tử, Phủ cũng đắc địa đồng cung, tất buôn bán lớn mà trở nên giàu có."
+      }
+    ]
+  },
+  {
+    "interpretation_id": "kình_dương_nu_menh",
+    "star_id": "kình_dương",
+    "context_type": "nu_menh",
+    "rules": [
+      {
+        "condition": "Mặc định",
+        "effect": "Kình hãm địa, không gặp Tuần, Triệt án ngữ, hay gặp nhiều sao sáng sủa tốt đẹp hội hợp cứu giải, thật là khó tránh thoát được tai họa, tuổi thọ cũng bị chiết giảm, còn sống ngày nào còn sầu khổ ngày đó. Trong trường hợp này, nếu chẳng may gặp Kình lại thêm Đà, Hỏa, Linh, Kiếp, Sát hội hợp, chắc chắn là phải chết ở nơi đường sá, hay phải phơi thây ở chốn xa trường."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Kình đắc địa thủ Mệnh nên rất giàu có và vượng phu ích tử."
+      }
+    ]
+  },
+  {
+    "interpretation_id": "hỏa,_linh_general",
+    "star_id": "hỏa,_linh",
+    "context_type": "general",
+    "rules": [
+      {
+        "condition": "Mặc định",
+        "effect": "Cung Mệnh có Hỏa Tinh hay Linh Tinh tọa thủ, nên thân hình thô xấu, lông tóc vàng hay đỏ, thường có tỳ vết ở chân, tay hay răng miệng, tính ương ngạnh, nóng nảy."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Hỏa, Linh đắc địa thủ Mệnh, là người can đảm, dũng mãnh, có chí khí hiên ngang. Sức khỏe dồi sào và ít khi mắc tai nạn. Người sinh năm Dần, Mão, Tỵ, Ngọ có Hỏa, Linh đắc địa thủ Mệnh, là hợp cách. Trong trường hợp này, nếu Hỏa Linh lại gặp nhiều sao sáng sủa tốt đẹp hội hợp, thì chắc chắn là được hưởng giàu sang trọn đời."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Người sinh ở phương Đông, Nam, mà cung Mệnh có Hỏa, Linh đắc địa tọa thủ, cũng là hợp cách, nên cũng được hưởng phú qúy."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Người sinh ở phương Tây, Bắc mà cung Mệnh có Hỏa, Linh đắc địa tọa thủ, tuy cũng được hưởng giàu sang, nhưng chẳng được lâu bền."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Cung Mệnh có Hỏa, Linh hãm địa tọa thủ, là người thâm hiểm, gian ác và rất liều lĩnh, thường mắc bệnh thần kinh hay khí huyết, nên sức khỏe càng ngày càng suy kém, suốt đời cùng khổ khó tránh được những tai họa khủng khiếp, nếu không mang tật trong mình tất phải yểu tử. Chi có sớm xa gia đình, làm con nuôi họ khác, may ra mới tạm được an thân."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Người sinh ở phương Tây, Bắc mà cung Mệnh có Hỏa Linh hãm địa tọa thủ, thật là nguy khốn đến cùng cực."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Cung Mệnh an tại Tứ Mộ, có Hỏa, Linh tọa thủ gặp Tham, Vũ đồng cung, rất rực rỡ tốt đẹp. Có cách này chắc chắn là xuất tướng, nhập tinh, văn võ toàn tài, có uy quyền hiển hách, danh tiếng lừng lẫy, và được hưởng giàu sang trọn đời. Vân Đằng Thái Thứ Lang Tử Vi đẩu số tân biên"
+      }
+    ]
+  },
+  {
+    "interpretation_id": "hỏa,_linh_nam_menh",
+    "star_id": "hỏa,_linh",
+    "context_type": "nam_menh",
+    "rules": [
+      {
+        "condition": "Mặc định",
+        "effect": "114-"
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Hỏa, Linh đắc địa thủ Mệnh, ứng hợp nam sinh và phương hướng của nơi sinh, chắc chắn là được hưởng phú qúy song toàn và hiển dạt về võ nghiệp."
+      }
+    ]
+  },
+  {
+    "interpretation_id": "hỏa,_linh_nu_menh",
+    "star_id": "hỏa,_linh",
+    "context_type": "nu_menh",
+    "rules": [
+      {
+        "condition": "Mặc định",
+        "effect": "Hỏa, Linh hãm địa thật rất đáng lo ngại, vì hay mắc phải những bệnh tật, tai họa nguy hiểm, suốt đời cùng khổ cô đơn, thường phải sớm lìa bỏ gia đinh, lang thang bôn tẩu, nếu chân tay không bị thương tàn, tất không thể sống lâu được."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Hỏa, Linh đắc địa thủ Mệnh, ứng hợp năm sinh và phương hướng của nơi sinh, tất là con nhà khuê các, nhưng có tính cương cường, nóng nảy và có gan dạ như đàn ông, suốt đời cũng được hưởng giàu sang."
+      }
+    ]
+  },
+  {
+    "interpretation_id": "không,_kiếp_general",
+    "star_id": "không,_kiếp",
+    "context_type": "general",
+    "rules": [
+      {
+        "condition": "Mặc định",
+        "effect": "Cung Mệnh có Địa Kiếp hay Địa Không đơn thủ, nên thân hình thô xấu, da kém vẻ tươi nhuận."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Kiếp, Không đắc địa, là người kín đáo, hay suy xét, có mưu trí và rất can đảm, nhưng sự nghiệp thăng trầm giàu sang như đám mây nổi vật vờ."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Kiếp, Không, hãm địa là người gian tà, xảo quyệt, ích kỷ và biển lận, suốt đời chẳng mấy khi được xứng ý toại lòng, lại thường mang tật trong mình."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Cung Mệnh có Kiếp, Không tọa thủ, dù đắc địa hay hãm địa, cũng thưởng hay mắc bệnh đau phổi, khó thở, nghẹt cuống họng, nếu không, cũng mắc bệnh ngoài da như ghẻ lở, ung nhọt có mủ."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Kiếp, Không đắc địa hội hợp với Tử, Phủ cũng đắc địa, lại thành mờ ám xấu xa, thật là khó tránh được tai họa. Trong trường hợp này, nếu Tử, Phủ hãm địa lại càng nguy khốn, ví như người bị vây hãm ở chốn hiểm nghèo."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Kiếp, Không hãm địa hội hợp với Tử, Phủ đắc địa, cùng không đáng lo ngại lắm. Trong trường hợp này, nếu Tử, Phủ cũng hãm địa, tất tuổi thọ bị chiết giảm, mà hung họa đầy dẫy, không kể xiết được."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Kiếp, Không hội hợp với nhiều Sát tinh, tất trai thì khắc vợ, gái thì khắc chồng. Nếu những sao kể trên cùng đắc địa thì cũng được hưởng giàu sang trong một thời gian ngắn, nhưng nếu cùng hãm địa, thật rất đáng lo ngại, suốt đời phải lao tâm khổ tứ, khóc nhiều hơn cười."
+      }
+    ]
+  },
+  {
+    "interpretation_id": "không,_kiếp_nam_menh",
+    "star_id": "không,_kiếp",
+    "context_type": "nam_menh",
+    "rules": [
+      {
+        "condition": "Mặc định",
+        "effect": "Kiếp, Không hội hợp với Đào, Hồng, nên duyên tình dang dở, thường phải cưới xin đến hai lần, lại hay mắc bệnh hoa liễu, tuổi thọ cũng bị chiết giảm."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Kiếp, Không đắc địa thủ Mệnh, nên làm việc gì cũng mau chóng, nhưng sự nghiệp chẳng được lầu bền."
+      }
+    ]
+  },
+  {
+    "interpretation_id": "không,_kiếp_nu_menh",
+    "star_id": "không,_kiếp",
+    "context_type": "nu_menh",
+    "rules": [
+      {
+        "condition": "Mặc định",
+        "effect": "Kiếp, Không hãm địa là hạng gian xảo, ty tiện, nếu hội hợp với nhiều sao mờ ám xấu xa, thật là suốt đời cùng khổ có đơn, khó tránh được tai họa."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Kiếp, Không đắc địa chủ Mệnh là người cương cường, có mưu lược và can đảm như đàn ông, làm việc gì cũng chóng thành tựu, nhưng chẳng được lâu Vân Đằng Thái Thứ Lang Tử Vi đẩu số tân biên"
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "116- bền."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Kiếp, Không hãm địa, nên khắc chồng hại con, suốt đời khốn khổ."
+      }
+    ]
+  },
+  {
+    "interpretation_id": "tứ_hóa_",
+    "star_id": "tứ_hóa",
+    "context_type": "",
+    "rules": [
+      {
+        "condition": "Mặc định",
+        "effect": " ☯ Hóa Lộc"
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Cung Mệnh có Hóa Lộc tọa thủ, nên rậm râu tóc, tính thẳng thắn, lương thiện, rất thông minh, sành ăn uống, suốt đời được ăn miếng ngon, mặc đồ tốt."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Lộc gặp nhiều sao sáng sủa tốt đẹp hội hợp, nhất là Tử, Phủ, Khoa, Quyền, tất được hưởng giàu sang trọn đời."
+      }
+    ]
+  },
+  {
+    "interpretation_id": "tứ_hóa_",
+    "star_id": "tứ_hóa",
+    "context_type": "",
+    "rules": [
+      {
+        "condition": "Mặc định",
+        "effect": "Lộc gặp Song Hao hay Sát tinh hột họp, tất hay tiêu pha hoang phí, nếu tiền tài cũng hao tán, không thể giữ của bền lâu được. ☯ Hóa Quyền"
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Cung Mệnh có Hóa Quyền tọa thủ, nên trong mình có tướng lạ, tính kiêu căng và tự đắc. "
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Quyền gặp Từ, Phủ hội hợp, nên thân hình đẫy đà, có oai phong, có quan chức và uy quyền hiển hách."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Quyền gặp Cự, Vũ hội hợp hay xuất tướng nhập tướng và được nhiều người kính nể."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Quyền gặp Sát tinh hội hợp, tất hay liều lĩnh, trước khi làm bất cứ một việc gì cũng không suy tính cẩn thận. Vậy cho nên suốt đời chẳng mấy khi được xứng ý toại lòng, lại hay mắc tai họa, kiện cáo và hay phải buồn phiền vì con cái."
+      }
+    ]
+  },
+  {
+    "interpretation_id": "tứ_hóa_",
+    "star_id": "tứ_hóa",
+    "context_type": "",
+    "rules": [
+      {
+        "condition": "Mặc định",
+        "effect": "Quyền gặp Tuần, Triệt án ngữ, nên công danh trắc trở, trong đời thành ít, bại nhiều. ☯ Hóa Khoa"
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Cung, Mệnh có Hóa Khoa tọa thủ, nên vẻ mặt thanh tú, tính nhân hậu, có lòng từ thiện và rất thông minh."
+      }
+    ]
+  },
+  {
+    "interpretation_id": "tứ_hóa_",
+    "star_id": "tứ_hóa",
+    "context_type": "",
+    "rules": [
+      {
+        "condition": "Mặc định",
+        "effect": "Khoa gặp nhiều sao sáng sủa tốt đẹp hội hợp, nhất là Tử, Phủ, Xương, Khúc, Khôi, Việt, tất đi thi đỗ cao, có quan chức lớn, có uy quyền hiển hách và danh tiếng lừng lẫy. Trong trường hợp này, nếu có nhiều Sát tinh xâm phạm, thì cũng phải đoán là bậc mô phạm có văn tài xuất chúng. ☯ Hóa Kỵ"
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Cung Mệnh có Hóa Kỵ tọa thủ, nên thường phải mang tật ở chân tay hay ở mắt, tính nông nổi, hay nhầm lẫn, trước khi làm bất cứ một việc gì, cũng không suy xét cần thận, lại hay mắc thị phi khẩu thiệt. Vân Đằng Thái Thứ Lang Tử Vi đẩu số tân biên"
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "118-"
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Kỵ gặp Nhật, Nguyệt hội hợp, bất cứ tại vị trí nào, cũng phải đoán là hay đau mắt và mắt rất kém."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Kỵ đắc địa, gặp Nhật, Nguyệt sáng sủa đồng cung, ví như mây năm sắc vương vấn trên nền trời. Có cách này, chắc chắn là được hưởng giàu sang trọn đời."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Kỵ đắc địa, gặp Nhật, Nguyệt mờ ám hội hợp, nên sức khỏe rất kém và công danh trắc trở."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Ky hãm địa, gặp Nhật, Nguyệt mờ ám, Hình nên hay đau yếu, suốt đời cùng khổ cô đơn, khó tránh thoát được những tai họa khủng khiếp, thường phải lang thang phiêu bạt và yểu tử."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Kỵ gặp Cự hay Tham đồng cung, nên rất dễ mắc tai nạn về sông nước, hay bị bắt bớ giam cầm. Đàn bà con gái có cách này, ví như ngọc có vết."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Kỵ gặp nhiều Sát tinh đắc địa hội hợp, nên danh tài hoạnh phát, nhưng sau lại hoạnh phá, suốt đời bôn ba lưu lạc. Trong trường hợp này, nếu Sát hãm địa, tất phải nghèo khổ, hay mắc tai họa khủng khiếp và không thể sống lâu được."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Kỵ gặp Xương, Khúc, Khôi, Việt hội hợp, là người có học, nhưng không hiển đạt."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Kỵ gặp Tuế, Đà hội hợp là người lắm điều, hay mắc thị phi, kiện cáo, tai thường bị ù, đôi khi bị điếc, tuổi thọ cũng bị chiết giảm."
+      }
+    ]
+  },
+  {
+    "interpretation_id": "lục_bại_",
+    "star_id": "lục_bại",
+    "context_type": "",
+    "rules": [
+      {
+        "condition": "Mặc định",
+        "effect": " ☯ Song Hao"
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Cung Mệnh có Đại Hao hay Tiểu Hao tọa thủ, nên nên thân hình nhỏ nhắn, bộ máy tiêu hóa không được lành mạnh, tính khôn ngoan nhưng không quả quyết, không bền chí, thích xa nhà, thích ăn ngon mặc đẹp, dễ say mê những thú vui đánh cờ, đánh bạc, chơi bời cho thỏa, tiêu tiền không biết tiếc, suốt đời túng thiếu, phải sớm ly tổ lập nghiệp ở phương xa và hay đổi chỗ ở."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Hao đắc địa lại là người thông minh, tuy ham chơi, nhưng cũng có lúc rất ham học, muốn trông xa biết rộng."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Hao đắc địa ứng hợp với tuổi Dần, Thân. Vậy cho nên tuổi Dần, Thân mà cung Mệnh có Hao đắc địa tọa thủ, là người chơi bời, thích ngao du nay đây mai đó, nhưng sau hiển đạt, hưởng giàu sang trọn đời."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Hao gặp nhiều Sát tinh hội hợp, rất hay mắc những tai nạn về đao súng. + Hao gặp Hỏa, Linh hội hợp, thường mắc nghiện (ghiền)."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Hao gặp Tuyệt đồng cung, là người xảo quyệt."
+      }
+    ]
+  },
+  {
+    "interpretation_id": "lục_bại_",
+    "star_id": "lục_bại",
+    "context_type": "",
+    "rules": [
+      {
+        "condition": "Mặc định",
+        "effect": "Cung Mệnh vô Chính diệu có Hao, Tuyệt tọa thủ đồng cung, là người xảo quyệt, nhưng rất keo kiệt ví tham lận. ☯ Tang Môn, Bạch Hổ"
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Cung Mệnh có Tang Môn hay Bạch Hổ tọa thủ, là người can đảm, cương nghị, nhưng hơi ương ngạnh, mới lọt lòng mẹ đã có tang. Suốt đòi ưu tư phiền muộn, thường có bệnh khí huyết, bệnh đau gân xương, tim phổi không được lành mạnh và rất khó nuôi súc vật."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Tang, Hổ đắc địa lại là người tài giỏi thao lược, biết xét đoán, lý luận, thích hoạt động chính trị."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Tang, Hổ dù đắc địa hay hãm địa, gặp nhiều Sát tinh hội hợp, là người bạo ngược, chung thân cùng khốn cô đơn, khắc vợ (hay chồng) hại con, lại có nhiều bệnh tật khó chữa, chân tay thường bị vướng vào xích xiềng hay mắc những tai nạn khủng khiếp và không thể sống lâu được."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Tang, Hổ gặp Kình hay Hình, hoặc đồng cung hoặc xung chiếu, tất có chí khí hiên ngang. + Cung Mệnh có Hổ đắc địa tọa thủ, sinh ban đêm là hợp cách. Như thế dĩ nhiên hiển đạt. + Hổ gặp Tham đồng cung: bị thú dữ cắn chết."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Hổ, gặp Tấu đồng cung: có văn tài, sớm hiển đạt."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Hổ gặp Phi đồng cung: suốt đời may mắn, nhẹ bước trên đường công danh. Vân Đằng Thái Thứ Lang Tử Vi đẩu số tân biên"
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "122-"
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Đàn ông cung Mệnh có Tang, Hổ đắc địa tọa thủ, thường quán xuyến cả quân sự, chính trị và hiển đạt về võ nghiệp. Hổ chủ Mệnh là người chơi bời, thích ăn ngon mặc đẹp. Hổ đắc địa thủ Mệnh, gặp nhiều sao sáng sủa tốt đẹp hội hợp, lại có thể chuyên về pháp lý, làm quan tòa, thầy kiện."
+      }
+    ]
+  },
+  {
+    "interpretation_id": "lục_bại_",
+    "star_id": "lục_bại",
+    "context_type": "",
+    "rules": [
+      {
+        "condition": "Mặc định",
+        "effect": "Đàn bà mà cung Mệnh có Tang, Hổ tọa thủ, nên vẻ mặt buồn tẻ, hôn phối thường bị trắc trở, phải muộn lập gia đình mới tránh được mấy độ buồn thương. Sau này sinh nở rất nguy nan, có bệnh ở tử cung hay đau yếu, khó nuôi con và sầu khổ vì con. ☯ Thiên Khốc, Thiên Hư"
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Cung Mệnh có Thiên Khốc hay Thiên Hư tọa thủ, nên da xanh xám, vẻ mặt buồn tẻ, mắt có quầng đen, thận hư, tính đa sầu đa cảm, suốt đời ưu tư phiền muộn."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Khốc, Hư đắc địa là người có chí lớn, có văn tài lỗi lạc, nói năng đanh thép, hùng hồn, thích hoạt động chính trị."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Khốc. Hư đắc địa Tý, Ngọ, lúc thiếu thời nghèo túng, nhưng từ ngoài 30 tuổi trở đi rất khá giả. Nếu Khốc, Hư gặp Sát hay Phá đồng cung, tất có quyền cao chức trọng, có uy danh lừng lẫy, nói một lời, ai cũng khiếp phục."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Khốc, Hư hãm địa thật là suốt đời khốn khổ, khóc nhiều hơn cười."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Khốc, Hư hãm địa, Thìn Tuất, lại hay mắc tai nạn. tuổi thọ cũng vị chiết giảm."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Khốc, Hư gặp Cơ, hoặc đồng cung, hoặc xung chiếu, nên tim phổi không lành mạnh, thường mắc bệnh ho khó chữa."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Khốc, Hư hãm địa Dần Thân, gặp Đà đồng cung là người có tài kiêm văn võ. + Khốc, Hư gặp Hình, Mã hội hợp, tất hiển đạt về võ nghiệp."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Cung Mệnh có Hư tọa thủ nên răng xấu, hay đau."
+      },
+      {
+        "condition": "Mặc định",
+        "effect": "Hư đắc địa gặp Lộc đồng cung hay xung chiếu, là người đa tài, có danh tiếng lừng lẫy."
+      }
+    ]
+  }
+]
