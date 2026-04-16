@@ -11,7 +11,7 @@ from sentence_transformers import SentenceTransformer
 # CONFIG
 # =========================
 
-PDF_PATH = r"/Users/trannguyenmyanh/Documents/SoulMap/data_raw_pdf/tu_vi_boi_toan.pdf"
+PDF_PATH = r"/Users/trannguyenmyanh/Documents/SoulMap/data_raw_pdf/tu_vi.pdf"
 OUTPUT_JSON = "dataset.json"
 FAISS_INDEX = "faiss.index"
 
@@ -426,7 +426,7 @@ def main():
     # except FileNotFoundError:
     #     print("Vui lòng lưu nội dung vào file tuvi_data.txt trước khi chạy.")
     #     return
-    PDF_PATH = r"/Users/trannguyenmyanh/Documents/SoulMap/data_raw_pdf/tu_vi_tong_hop.pdf"
+    PDF_PATH = r"/Users/trannguyenmyanh/Documents/SoulMap/data_raw_pdf/tu_vi.pdf"
     doc = fitz.open(PDF_PATH)
     print(f"📄 Total pages: {len(doc)}")
     raw_text = ""
