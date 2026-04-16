@@ -1,0 +1,1757 @@
+[
+  {
+    "star_id": "tử_vi",
+    "name": "Tử Vi",
+    "type": "Đế tinh",
+    "element": "Thổ",
+    "polarity": "Dương",
+    "direction": "Nam Bắc Đẩu tinh",
+    "core_characteristics": [
+      "uy quyền",
+      "tài lộc",
+      "phúc đức"
+    ],
+    "positions": {
+      "mieu_dia": [
+        "Dần",
+        "Tỵ",
+        "Ngọ",
+        "Thân"
+      ],
+      "vuong_dia": [
+        "Thìn",
+        "Tuất"
+      ],
+      "dac_dia": [
+        "Sửu",
+        "Mùi"
+      ],
+      "binh_hoa": [
+        "Tý",
+        "Mão",
+        "Dậu",
+        "Hợi"
+      ],
+      "ham_dia": []
+    }
+  },
+  {
+    "star_id": "liêm_trinh",
+    "name": "Liêm Trinh",
+    "type": "Tù tinh",
+    "element": "Hỏa",
+    "polarity": "Âm",
+    "direction": "Bắc Đẩu tinh",
+    "core_characteristics": [
+      "quan lộc",
+      "hình ngục"
+    ],
+    "positions": {
+      "mieu_dia": [
+        "Thìn",
+        "Tuất"
+      ],
+      "vuong_dia": [
+        "Tý",
+        "Dần",
+        "Ngọ",
+        "Thân"
+      ],
+      "dac_dia": [
+        "Sửu",
+        "Mùi"
+      ],
+      "binh_hoa": [],
+      "ham_dia": []
+    }
+  },
+  {
+    "star_id": "thiên_đồng",
+    "name": "Thiên Đồng",
+    "type": "Phúc tinh",
+    "element": "Thủy",
+    "polarity": "Dương",
+    "direction": "Nam Đẩu tinh",
+    "core_characteristics": [
+      "phúc thọ"
+    ],
+    "positions": {
+      "mieu_dia": [
+        "Dần",
+        "Thân"
+      ],
+      "vuong_dia": [
+        "Tý"
+      ],
+      "dac_dia": [
+        "Mão",
+        "Tỵ",
+        "Hợi"
+      ],
+      "binh_hoa": [],
+      "ham_dia": [
+        "Sửu",
+        "Thìn",
+        "Ngọ",
+        "Mùi",
+        "Dậu",
+        "Tuất"
+      ]
+    }
+  },
+  {
+    "star_id": "vũ_khúc",
+    "name": "Vũ Khúc",
+    "type": "Tài tinh",
+    "element": "Kim",
+    "polarity": "Âm",
+    "direction": "Bắc Đẩu tinh",
+    "core_characteristics": [
+      "tài lộc"
+    ],
+    "positions": {
+      "mieu_dia": [
+        "Sửu",
+        "Thìn",
+        "Mùi",
+        "Tuất"
+      ],
+      "vuong_dia": [
+        "Tý",
+        "Dần",
+        "Ngọ",
+        "Thân"
+      ],
+      "dac_dia": [
+        "Mão",
+        "Dậu"
+      ],
+      "binh_hoa": [],
+      "ham_dia": [
+        "Tỵ",
+        "Hợi"
+      ]
+    }
+  },
+  {
+    "star_id": "thái_dương",
+    "name": "Thái Dương",
+    "type": "Qúy tinh",
+    "element": "Hỏa",
+    "polarity": "Dương",
+    "direction": "Nam Đẩu tinh",
+    "core_characteristics": [
+      "quan lộc"
+    ],
+    "positions": {
+      "mieu_dia": [
+        "Tỵ",
+        "Ngọ"
+      ],
+      "vuong_dia": [],
+      "dac_dia": [
+        "Sửu",
+        "Mùi"
+      ],
+      "binh_hoa": [],
+      "ham_dia": [
+        "Tý",
+        "Thân",
+        "Dậu",
+        "Tuất",
+        "Hợi"
+      ]
+    }
+  },
+  {
+    "star_id": "thiên_cơ",
+    "name": "Thiên Cơ",
+    "type": "Thiện tinh",
+    "element": "Mộc",
+    "polarity": "Âm",
+    "direction": "Nam Đẩu tinh",
+    "core_characteristics": [
+      "huynh đệ",
+      "phúc thọ"
+    ],
+    "positions": {
+      "mieu_dia": [
+        "Mão",
+        "Thìn",
+        "Dậu",
+        "Tuất"
+      ],
+      "vuong_dia": [
+        "Tỵ",
+        "Thân"
+      ],
+      "dac_dia": [
+        "Tý",
+        "Sửu",
+        "Ngọ",
+        "Mùi"
+      ],
+      "binh_hoa": [],
+      "ham_dia": [
+        "Dần",
+        "Hợi"
+      ]
+    }
+  },
+  {
+    "star_id": "thiên_phủ",
+    "name": "Thiên Phủ",
+    "type": "Quyền tinh",
+    "element": "Thổ",
+    "polarity": "Âm",
+    "direction": "Nam Đẩu tinh",
+    "core_characteristics": [
+      "tài lộc",
+      "uy quyền"
+    ],
+    "positions": {
+      "mieu_dia": [
+        "Tý",
+        "Dần",
+        "Ngọ",
+        "Thân"
+      ],
+      "vuong_dia": [
+        "Thìn",
+        "Tuất"
+      ],
+      "dac_dia": [
+        "Tỵ",
+        "Mùi",
+        "Hợi"
+      ],
+      "binh_hoa": [
+        "Sửu",
+        "Mão",
+        "Dậu"
+      ],
+      "ham_dia": []
+    }
+  },
+  {
+    "star_id": "thái_âm",
+    "name": "Thái Âm",
+    "type": "Phú tinh",
+    "element": "Thủy",
+    "polarity": "Âm",
+    "direction": "Bắc Đẩu tinh",
+    "core_characteristics": [
+      "điền trạch"
+    ],
+    "positions": {
+      "mieu_dia": [
+        "Dậu",
+        "Tuất",
+        "Hợi"
+      ],
+      "vuong_dia": [],
+      "dac_dia": [
+        "Sửu",
+        "Mùi"
+      ],
+      "binh_hoa": [],
+      "ham_dia": [
+        "Dần",
+        "Mão",
+        "Thìn",
+        "Tỵ",
+        "Ngọ"
+      ]
+    }
+  },
+  {
+    "star_id": "tham_lang",
+    "name": "Tham Lang",
+    "type": "Dâm tinh",
+    "element": "Thủy",
+    "polarity": "Âm",
+    "direction": "Bắc Đẩu tinh",
+    "core_characteristics": [
+      "họa phúc",
+      "uy quyền"
+    ],
+    "positions": {
+      "mieu_dia": [
+        "Sửu",
+        "Mùi"
+      ],
+      "vuong_dia": [
+        "Thìn",
+        "Tuất"
+      ],
+      "dac_dia": [
+        "Dần",
+        "Thân"
+      ],
+      "binh_hoa": [],
+      "ham_dia": [
+        "Tý",
+        "Mão",
+        "Tỵ",
+        "Ngọ",
+        "Dậu",
+        "Hợi"
+      ]
+    }
+  },
+  {
+    "star_id": "cự_môn",
+    "name": "Cự Môn",
+    "type": "Ám tinh",
+    "element": "Thủy",
+    "polarity": "Âm",
+    "direction": "Bắc Đẩu tinh",
+    "core_characteristics": [
+      "ngôn ngữ",
+      "thị phi"
+    ],
+    "positions": {
+      "mieu_dia": [
+        "Mão",
+        "Dậu"
+      ],
+      "vuong_dia": [
+        "Tý",
+        "Dần",
+        "Ngọ"
+      ],
+      "dac_dia": [
+        "Thân",
+        "Hợi"
+      ],
+      "binh_hoa": [],
+      "ham_dia": [
+        "Sửu",
+        "Thìn",
+        "Tỵ",
+        "Mùi",
+        "Tuất"
+      ]
+    }
+  },
+  {
+    "star_id": "thiên_tướng",
+    "name": "Thiên Tướng",
+    "type": "Dũng tinh",
+    "element": "Thủy",
+    "polarity": "Dương",
+    "direction": "Nam Đẩu tinh",
+    "core_characteristics": [
+      "quan lộc",
+      "phúc thiện"
+    ],
+    "positions": {
+      "mieu_dia": [
+        "Dần",
+        "Thân"
+      ],
+      "vuong_dia": [
+        "Tý",
+        "Thìn",
+        "Ngọ",
+        "Tuất"
+      ],
+      "dac_dia": [
+        "Sửu",
+        "Tỵ",
+        "Mùi",
+        "Hợi"
+      ],
+      "binh_hoa": [],
+      "ham_dia": [
+        "Mão",
+        "Dậu"
+      ]
+    }
+  },
+  {
+    "star_id": "thiên_lương",
+    "name": "Thiên Lương",
+    "type": "Ám tinh",
+    "element": "Mộc",
+    "polarity": "Âm",
+    "direction": "Nam Đẩu tinh",
+    "core_characteristics": [
+      "phụ mẫu",
+      "phúc thọ"
+    ],
+    "positions": {
+      "mieu_dia": [
+        "Thìn",
+        "Ngọ",
+        "Tuất"
+      ],
+      "vuong_dia": [
+        "Tý",
+        "Dần",
+        "Mão",
+        "Thân"
+      ],
+      "dac_dia": [
+        "Sửu",
+        "Mùi"
+      ],
+      "binh_hoa": [],
+      "ham_dia": [
+        "Tỵ",
+        "Dậu",
+        "Hợi"
+      ]
+    }
+  },
+  {
+    "star_id": "thất_sát",
+    "name": "Thất Sát",
+    "type": "Dũng tinh",
+    "element": "Kim",
+    "polarity": "Dương",
+    "direction": "Nam Đẩu tinh",
+    "core_characteristics": [
+      "uy vũ",
+      "sát phạt"
+    ],
+    "positions": {
+      "mieu_dia": [
+        "Tý",
+        "Dần",
+        "Ngọ",
+        "Thân"
+      ],
+      "vuong_dia": [
+        "Tỵ",
+        "Hợi"
+      ],
+      "dac_dia": [
+        "Sửu",
+        "Mùi"
+      ],
+      "binh_hoa": [],
+      "ham_dia": [
+        "Mão",
+        "Thìn",
+        "Dậu",
+        "Tuất"
+      ]
+    }
+  },
+  {
+    "star_id": "phá_quân",
+    "name": "Phá Quân",
+    "type": "Hao tinh",
+    "element": "Thủy",
+    "polarity": "Âm",
+    "direction": "Bắc Đẩu tinh",
+    "core_characteristics": [
+      "phu thê",
+      "hao tán"
+    ],
+    "positions": {
+      "mieu_dia": [
+        "Tý",
+        "Ngọ"
+      ],
+      "vuong_dia": [
+        "Sửu",
+        "Mùi"
+      ],
+      "dac_dia": [
+        "Thìn",
+        "Tuất"
+      ],
+      "binh_hoa": [],
+      "ham_dia": [
+        "Dần",
+        "Mão",
+        "Tỵ",
+        "Thân",
+        "Dậu",
+        "Hợi"
+      ]
+    }
+  },
+  {
+    "star_id": "kình_dương",
+    "name": "Kình Dương",
+    "type": "Chính diệu",
+    "element": "Kim",
+    "polarity": "Dương",
+    "direction": "Bắc Đẩu tinh",
+    "core_characteristics": [
+      "sát phạt"
+    ],
+    "positions": {
+      "mieu_dia": [],
+      "vuong_dia": [],
+      "dac_dia": [
+        "Sửu",
+        "Thìn",
+        "Mùi",
+        "Tuất"
+      ],
+      "binh_hoa": [],
+      "ham_dia": []
+    }
+  },
+  {
+    "star_id": "hỏa_tinh",
+    "name": "Hỏa Tinh",
+    "type": "Chính diệu",
+    "element": "Kim",
+    "polarity": "Dương",
+    "direction": "Nam Đẩu tinh",
+    "core_characteristics": [
+      "sát phạt"
+    ],
+    "positions": {
+      "mieu_dia": [],
+      "vuong_dia": [],
+      "dac_dia": [
+        "Dần",
+        "Mão",
+        "Thìn",
+        "Tỵ",
+        "Ngọ"
+      ],
+      "binh_hoa": [],
+      "ham_dia": []
+    }
+  },
+  {
+    "star_id": "văn_xương",
+    "name": "Văn Xương",
+    "type": "Chính diệu",
+    "element": "Kim",
+    "polarity": "Dương",
+    "direction": "Bắc Đẩu tinh",
+    "core_characteristics": [
+      "văn chương",
+      "mỹ thuật",
+      "khoa giáp"
+    ],
+    "positions": {
+      "mieu_dia": [],
+      "vuong_dia": [],
+      "dac_dia": [
+        "Sửu",
+        "Thìn",
+        "Tỵ",
+        "Mùi",
+        "Tuất",
+        "Hợi"
+      ],
+      "binh_hoa": [],
+      "ham_dia": []
+    }
+  },
+  {
+    "star_id": "thiên_khôi",
+    "name": "Thiên Khôi",
+    "type": "Chính diệu",
+    "element": "Kim",
+    "polarity": "Dương",
+    "direction": "Nam Đẩu tinh",
+    "core_characteristics": [
+      "khoa giáp",
+      "quyền tước."
+    ],
+    "positions": {
+      "mieu_dia": [],
+      "vuong_dia": [],
+      "dac_dia": [],
+      "binh_hoa": [],
+      "ham_dia": []
+    }
+  },
+  {
+    "star_id": "tả_phụ",
+    "name": "Tả Phụ",
+    "type": "Chính diệu",
+    "element": "Kim",
+    "polarity": "Dương",
+    "direction": "Bắc Đẩu tinh",
+    "core_characteristics": [
+      "quyền",
+      "lệnh: chuyên phò tá",
+      "giúp đỡ"
+    ],
+    "positions": {
+      "mieu_dia": [],
+      "vuong_dia": [],
+      "dac_dia": [],
+      "binh_hoa": [],
+      "ham_dia": []
+    }
+  },
+  {
+    "star_id": "lồc_tồn",
+    "name": "Lồc Tồn",
+    "type": "Qúy tinh",
+    "element": "Thủy",
+    "polarity": "Dương",
+    "direction": "Bắc Đẩu tinh",
+    "core_characteristics": [
+      "quyền tước",
+      "tài lộc",
+      "phúc thọ"
+    ],
+    "positions": {
+      "mieu_dia": [],
+      "vuong_dia": [],
+      "dac_dia": [],
+      "binh_hoa": [],
+      "ham_dia": []
+    }
+  },
+  {
+    "star_id": "địa_kiếp",
+    "name": "Địa Kiếp",
+    "type": "Chính diệu",
+    "element": "Hỏa",
+    "polarity": "Dương",
+    "direction": "",
+    "core_characteristics": [
+      "sát",
+      "phá tán"
+    ],
+    "positions": {
+      "mieu_dia": [],
+      "vuong_dia": [],
+      "dac_dia": [
+        "Dần",
+        "Tỵ",
+        "Thân",
+        "Hợi"
+      ],
+      "binh_hoa": [],
+      "ham_dia": []
+    }
+  },
+  {
+    "star_id": "thiên_không",
+    "name": "Thiên Không",
+    "type": "Chính diệu",
+    "element": "Hỏa",
+    "polarity": "",
+    "direction": "",
+    "core_characteristics": [],
+    "positions": {
+      "mieu_dia": [],
+      "vuong_dia": [],
+      "dac_dia": [],
+      "binh_hoa": [],
+      "ham_dia": []
+    }
+  },
+  {
+    "star_id": "hóa_lộc",
+    "name": "Hóa Lộc",
+    "type": "Chính diệu",
+    "element": "Mộc",
+    "polarity": "",
+    "direction": "",
+    "core_characteristics": [],
+    "positions": {
+      "mieu_dia": [],
+      "vuong_dia": [],
+      "dac_dia": [],
+      "binh_hoa": [],
+      "ham_dia": []
+    }
+  },
+  {
+    "star_id": "hóa_quyền",
+    "name": "Hóa Quyền",
+    "type": "Chính diệu",
+    "element": "Mộc",
+    "polarity": "",
+    "direction": "",
+    "core_characteristics": [],
+    "positions": {
+      "mieu_dia": [],
+      "vuong_dia": [],
+      "dac_dia": [],
+      "binh_hoa": [],
+      "ham_dia": []
+    }
+  },
+  {
+    "star_id": "hóa_khoa",
+    "name": "Hóa Khoa",
+    "type": "Chính diệu",
+    "element": "Mộc",
+    "polarity": "",
+    "direction": "",
+    "core_characteristics": [],
+    "positions": {
+      "mieu_dia": [],
+      "vuong_dia": [],
+      "dac_dia": [],
+      "binh_hoa": [],
+      "ham_dia": []
+    }
+  },
+  {
+    "star_id": "hóa_kỵ",
+    "name": "Hóa Kỵ",
+    "type": "Chính diệu",
+    "element": "Thủy",
+    "polarity": "",
+    "direction": "",
+    "core_characteristics": [],
+    "positions": {
+      "mieu_dia": [],
+      "vuong_dia": [],
+      "dac_dia": [],
+      "binh_hoa": [],
+      "ham_dia": []
+    }
+  },
+  {
+    "star_id": "đại_hao",
+    "name": "Đại Hao",
+    "type": "Chính diệu",
+    "element": "Hỏa",
+    "polarity": "",
+    "direction": "",
+    "core_characteristics": [],
+    "positions": {
+      "mieu_dia": [],
+      "vuong_dia": [],
+      "dac_dia": [
+        "Dần",
+        "Mão",
+        "Thân",
+        "Dậu"
+      ],
+      "binh_hoa": [],
+      "ham_dia": []
+    }
+  },
+  {
+    "star_id": "tang_môn",
+    "name": "Tang Môn",
+    "type": "Chính diệu",
+    "element": "Mộc",
+    "polarity": "",
+    "direction": "",
+    "core_characteristics": [
+      "chức vị",
+      "quyền thế."
+    ],
+    "positions": {
+      "mieu_dia": [],
+      "vuong_dia": [],
+      "dac_dia": [
+        "Dần",
+        "Mão",
+        "Thân",
+        "Dậu"
+      ],
+      "binh_hoa": [],
+      "ham_dia": []
+    }
+  },
+  {
+    "star_id": "thiên_khốc",
+    "name": "Thiên Khốc",
+    "type": "Chính diệu",
+    "element": "Thủy",
+    "polarity": "",
+    "direction": "",
+    "core_characteristics": [],
+    "positions": {
+      "mieu_dia": [],
+      "vuong_dia": [],
+      "dac_dia": [
+        "Tý",
+        "Sửu",
+        "Mão",
+        "Ngọ",
+        "Mùi",
+        "Dậu"
+      ],
+      "binh_hoa": [],
+      "ham_dia": []
+    }
+  },
+  {
+    "star_id": "thiên_mã",
+    "name": "Thiên Mã",
+    "type": "Chính diệu",
+    "element": "Hỏa",
+    "polarity": "",
+    "direction": "",
+    "core_characteristics": [],
+    "positions": {
+      "mieu_dia": [],
+      "vuong_dia": [],
+      "dac_dia": [
+        "Dần",
+        "Tỵ"
+      ],
+      "binh_hoa": [],
+      "ham_dia": []
+    }
+  },
+  {
+    "star_id": "thiên_hình",
+    "name": "Thiên Hình",
+    "type": "Chính diệu",
+    "element": "Hỏa",
+    "polarity": "",
+    "direction": "",
+    "core_characteristics": [],
+    "positions": {
+      "mieu_dia": [],
+      "vuong_dia": [],
+      "dac_dia": [
+        "Dần",
+        "Mão",
+        "Thân",
+        "Dậu"
+      ],
+      "binh_hoa": [],
+      "ham_dia": []
+    }
+  },
+  {
+    "star_id": "thiên_riêu",
+    "name": "Thiên Riêu",
+    "type": "Chính diệu",
+    "element": "Thủy",
+    "polarity": "",
+    "direction": "",
+    "core_characteristics": [],
+    "positions": {
+      "mieu_dia": [],
+      "vuong_dia": [],
+      "dac_dia": [],
+      "binh_hoa": [],
+      "ham_dia": []
+    }
+  },
+  {
+    "star_id": "long_trì",
+    "name": "Long Trì",
+    "type": "Chính diệu",
+    "element": "Thủy",
+    "polarity": "",
+    "direction": "",
+    "core_characteristics": [],
+    "positions": {
+      "mieu_dia": [],
+      "vuong_dia": [],
+      "dac_dia": [],
+      "binh_hoa": [],
+      "ham_dia": []
+    }
+  },
+  {
+    "star_id": "tam_thai",
+    "name": "Tam Thai",
+    "type": "Chính diệu",
+    "element": "Thủy",
+    "polarity": "",
+    "direction": "",
+    "core_characteristics": [],
+    "positions": {
+      "mieu_dia": [],
+      "vuong_dia": [],
+      "dac_dia": [],
+      "binh_hoa": [],
+      "ham_dia": []
+    }
+  },
+  {
+    "star_id": "quang",
+    "name": "Quang",
+    "type": "Chính diệu",
+    "element": "Mộc",
+    "polarity": "",
+    "direction": "",
+    "core_characteristics": [],
+    "positions": {
+      "mieu_dia": [],
+      "vuong_dia": [],
+      "dac_dia": [],
+      "binh_hoa": [],
+      "ham_dia": []
+    }
+  },
+  {
+    "star_id": "đào_hoa",
+    "name": "Đào Hoa",
+    "type": "Chính diệu",
+    "element": "Mộc",
+    "polarity": "",
+    "direction": "",
+    "core_characteristics": [],
+    "positions": {
+      "mieu_dia": [],
+      "vuong_dia": [],
+      "dac_dia": [],
+      "binh_hoa": [],
+      "ham_dia": []
+    }
+  },
+  {
+    "star_id": "thiên_hỷ",
+    "name": "Thiên Hỷ",
+    "type": "Chính diệu",
+    "element": "Thủy",
+    "polarity": "",
+    "direction": "",
+    "core_characteristics": [],
+    "positions": {
+      "mieu_dia": [],
+      "vuong_dia": [],
+      "dac_dia": [],
+      "binh_hoa": [],
+      "ham_dia": []
+    }
+  },
+  {
+    "star_id": "thai_phụ",
+    "name": "Thai Phụ",
+    "type": "Chính diệu",
+    "element": "Kim",
+    "polarity": "",
+    "direction": "",
+    "core_characteristics": [],
+    "positions": {
+      "mieu_dia": [],
+      "vuong_dia": [],
+      "dac_dia": [],
+      "binh_hoa": [],
+      "ham_dia": []
+    }
+  },
+  {
+    "star_id": "quốc_ấn",
+    "name": "Quốc Ấn",
+    "type": "Chính diệu",
+    "element": "Thổ",
+    "polarity": "",
+    "direction": "",
+    "core_characteristics": [],
+    "positions": {
+      "mieu_dia": [],
+      "vuong_dia": [],
+      "dac_dia": [],
+      "binh_hoa": [],
+      "ham_dia": []
+    }
+  },
+  {
+    "star_id": "đường_phù",
+    "name": "Đường Phù",
+    "type": "Chính diệu",
+    "element": "Mộc",
+    "polarity": "",
+    "direction": "",
+    "core_characteristics": [],
+    "positions": {
+      "mieu_dia": [],
+      "vuong_dia": [],
+      "dac_dia": [],
+      "binh_hoa": [],
+      "ham_dia": []
+    }
+  },
+  {
+    "star_id": "thiên_thọ",
+    "name": "Thiên Thọ",
+    "type": "Chính diệu",
+    "element": "Thổ",
+    "polarity": "",
+    "direction": "",
+    "core_characteristics": [],
+    "positions": {
+      "mieu_dia": [],
+      "vuong_dia": [],
+      "dac_dia": [],
+      "binh_hoa": [],
+      "ham_dia": []
+    }
+  },
+  {
+    "star_id": "bác_sỹ",
+    "name": "Bác Sỹ",
+    "type": "Chính diệu",
+    "element": "Thủy",
+    "polarity": "",
+    "direction": "",
+    "core_characteristics": [],
+    "positions": {
+      "mieu_dia": [],
+      "vuong_dia": [],
+      "dac_dia": [],
+      "binh_hoa": [],
+      "ham_dia": []
+    }
+  },
+  {
+    "star_id": "lưu_niên_văn_tinh",
+    "name": "Lưu Niên Văn Tinh",
+    "type": "Chính diệu",
+    "element": "Hỏa",
+    "polarity": "",
+    "direction": "",
+    "core_characteristics": [],
+    "positions": {
+      "mieu_dia": [],
+      "vuong_dia": [],
+      "dac_dia": [],
+      "binh_hoa": [],
+      "ham_dia": []
+    }
+  },
+  {
+    "star_id": "hoa_cái",
+    "name": "Hoa Cái",
+    "type": "Chính diệu",
+    "element": "Kim",
+    "polarity": "",
+    "direction": "",
+    "core_characteristics": [],
+    "positions": {
+      "mieu_dia": [],
+      "vuong_dia": [],
+      "dac_dia": [],
+      "binh_hoa": [],
+      "ham_dia": []
+    }
+  },
+  {
+    "star_id": "thiên_trù",
+    "name": "Thiên Trù",
+    "type": "Chính diệu",
+    "element": "Thổ",
+    "polarity": "",
+    "direction": "",
+    "core_characteristics": [],
+    "positions": {
+      "mieu_dia": [],
+      "vuong_dia": [],
+      "dac_dia": [],
+      "binh_hoa": [],
+      "ham_dia": []
+    }
+  },
+  {
+    "star_id": "thiên_quan_qúy_nhân",
+    "name": "Thiên Quan Qúy Nhân",
+    "type": "Chính diệu",
+    "element": "Hỏa",
+    "polarity": "",
+    "direction": "",
+    "core_characteristics": [],
+    "positions": {
+      "mieu_dia": [],
+      "vuong_dia": [],
+      "dac_dia": [],
+      "binh_hoa": [],
+      "ham_dia": []
+    }
+  },
+  {
+    "star_id": "thiên_giải",
+    "name": "Thiên Giải",
+    "type": "Chính diệu",
+    "element": "Hỏa",
+    "polarity": "",
+    "direction": "",
+    "core_characteristics": [],
+    "positions": {
+      "mieu_dia": [],
+      "vuong_dia": [],
+      "dac_dia": [],
+      "binh_hoa": [],
+      "ham_dia": []
+    }
+  },
+  {
+    "star_id": "thiên_đức",
+    "name": "Thiên Đức",
+    "type": "Chính diệu",
+    "element": "Hỏa",
+    "polarity": "",
+    "direction": "",
+    "core_characteristics": [],
+    "positions": {
+      "mieu_dia": [],
+      "vuong_dia": [],
+      "dac_dia": [],
+      "binh_hoa": [],
+      "ham_dia": []
+    }
+  },
+  {
+    "star_id": "thiên_y",
+    "name": "Thiên Y",
+    "type": "Chính diệu",
+    "element": "Thủy",
+    "polarity": "",
+    "direction": "",
+    "core_characteristics": [],
+    "positions": {
+      "mieu_dia": [],
+      "vuong_dia": [],
+      "dac_dia": [],
+      "binh_hoa": [],
+      "ham_dia": []
+    }
+  },
+  {
+    "star_id": "cô_thần",
+    "name": "Cô Thần",
+    "type": "Chính diệu",
+    "element": "Thổ",
+    "polarity": "",
+    "direction": "",
+    "core_characteristics": [],
+    "positions": {
+      "mieu_dia": [],
+      "vuong_dia": [],
+      "dac_dia": [],
+      "binh_hoa": [],
+      "ham_dia": []
+    }
+  },
+  {
+    "star_id": "đẩu_quân",
+    "name": "Đẩu Quân",
+    "type": "Chính diệu",
+    "element": "Hỏa",
+    "polarity": "",
+    "direction": "",
+    "core_characteristics": [],
+    "positions": {
+      "mieu_dia": [],
+      "vuong_dia": [],
+      "dac_dia": [],
+      "binh_hoa": [],
+      "ham_dia": []
+    }
+  },
+  {
+    "star_id": "thiên_thương",
+    "name": "Thiên Thương",
+    "type": "Chính diệu",
+    "element": "Thổ",
+    "polarity": "",
+    "direction": "",
+    "core_characteristics": [],
+    "positions": {
+      "mieu_dia": [],
+      "vuong_dia": [],
+      "dac_dia": [],
+      "binh_hoa": [],
+      "ham_dia": []
+    }
+  },
+  {
+    "star_id": "kiếp_sát",
+    "name": "Kiếp Sát",
+    "type": "Chính diệu",
+    "element": "Hỏa",
+    "polarity": "",
+    "direction": "",
+    "core_characteristics": [],
+    "positions": {
+      "mieu_dia": [],
+      "vuong_dia": [],
+      "dac_dia": [],
+      "binh_hoa": [],
+      "ham_dia": []
+    }
+  },
+  {
+    "star_id": "lưu_hà",
+    "name": "Lưu Hà",
+    "type": "Chính diệu",
+    "element": "Thủy",
+    "polarity": "",
+    "direction": "",
+    "core_characteristics": [],
+    "positions": {
+      "mieu_dia": [],
+      "vuong_dia": [],
+      "dac_dia": [],
+      "binh_hoa": [],
+      "ham_dia": []
+    }
+  },
+  {
+    "star_id": "phá_toái",
+    "name": "Phá Toái",
+    "type": "Chính diệu",
+    "element": "Kim",
+    "polarity": "",
+    "direction": "",
+    "core_characteristics": [],
+    "positions": {
+      "mieu_dia": [],
+      "vuong_dia": [],
+      "dac_dia": [],
+      "binh_hoa": [],
+      "ham_dia": []
+    }
+  },
+  {
+    "star_id": "thiên_tài",
+    "name": "Thiên Tài",
+    "type": "Chính diệu",
+    "element": "Thổ",
+    "polarity": "",
+    "direction": "",
+    "core_characteristics": [],
+    "positions": {
+      "mieu_dia": [],
+      "vuong_dia": [],
+      "dac_dia": [],
+      "binh_hoa": [],
+      "ham_dia": []
+    }
+  },
+  {
+    "star_id": "thiên_la",
+    "name": "Thiên La",
+    "type": "Chính diệu",
+    "element": "Thổ",
+    "polarity": "",
+    "direction": "",
+    "core_characteristics": [],
+    "positions": {
+      "mieu_dia": [],
+      "vuong_dia": [],
+      "dac_dia": [],
+      "binh_hoa": [],
+      "ham_dia": []
+    }
+  },
+  {
+    "star_id": "thái_tuế",
+    "name": "Thái Tuế",
+    "type": "Chính diệu",
+    "element": "Hỏa",
+    "polarity": "",
+    "direction": "",
+    "core_characteristics": [],
+    "positions": {
+      "mieu_dia": [],
+      "vuong_dia": [],
+      "dac_dia": [],
+      "binh_hoa": [],
+      "ham_dia": []
+    }
+  },
+  {
+    "star_id": "thiếu_dương",
+    "name": "Thiếu Dương",
+    "type": "Chính diệu",
+    "element": "Hỏa",
+    "polarity": "",
+    "direction": "",
+    "core_characteristics": [],
+    "positions": {
+      "mieu_dia": [],
+      "vuong_dia": [],
+      "dac_dia": [],
+      "binh_hoa": [],
+      "ham_dia": []
+    }
+  },
+  {
+    "star_id": "quan_phù",
+    "name": "Quan Phù",
+    "type": "Chính diệu",
+    "element": "Hỏa",
+    "polarity": "",
+    "direction": "",
+    "core_characteristics": [],
+    "positions": {
+      "mieu_dia": [],
+      "vuong_dia": [],
+      "dac_dia": [],
+      "binh_hoa": [],
+      "ham_dia": []
+    }
+  },
+  {
+    "star_id": "tử_phù",
+    "name": "Tử Phù",
+    "type": "Chính diệu",
+    "element": "Hỏa",
+    "polarity": "",
+    "direction": "",
+    "core_characteristics": [],
+    "positions": {
+      "mieu_dia": [],
+      "vuong_dia": [],
+      "dac_dia": [],
+      "binh_hoa": [],
+      "ham_dia": []
+    }
+  },
+  {
+    "star_id": "tuế_phá",
+    "name": "Tuế Phá",
+    "type": "Chính diệu",
+    "element": "Hỏa",
+    "polarity": "",
+    "direction": "",
+    "core_characteristics": [],
+    "positions": {
+      "mieu_dia": [],
+      "vuong_dia": [],
+      "dac_dia": [],
+      "binh_hoa": [],
+      "ham_dia": []
+    }
+  },
+  {
+    "star_id": "long_đức",
+    "name": "Long Đức",
+    "type": "Chính diệu",
+    "element": "Thủy",
+    "polarity": "",
+    "direction": "",
+    "core_characteristics": [],
+    "positions": {
+      "mieu_dia": [],
+      "vuong_dia": [],
+      "dac_dia": [],
+      "binh_hoa": [],
+      "ham_dia": []
+    }
+  },
+  {
+    "star_id": "điếu_khách",
+    "name": "Điếu Khách",
+    "type": "Chính diệu",
+    "element": "Hỏa",
+    "polarity": "",
+    "direction": "",
+    "core_characteristics": [],
+    "positions": {
+      "mieu_dia": [],
+      "vuong_dia": [],
+      "dac_dia": [],
+      "binh_hoa": [],
+      "ham_dia": []
+    }
+  },
+  {
+    "star_id": "lực_sỹ",
+    "name": "Lực Sỹ",
+    "type": "Chính diệu",
+    "element": "Hỏa",
+    "polarity": "",
+    "direction": "",
+    "core_characteristics": [],
+    "positions": {
+      "mieu_dia": [],
+      "vuong_dia": [],
+      "dac_dia": [],
+      "binh_hoa": [],
+      "ham_dia": []
+    }
+  },
+  {
+    "star_id": "thanh_long",
+    "name": "Thanh Long",
+    "type": "Chính diệu",
+    "element": "Thủy",
+    "polarity": "",
+    "direction": "",
+    "core_characteristics": [],
+    "positions": {
+      "mieu_dia": [],
+      "vuong_dia": [],
+      "dac_dia": [],
+      "binh_hoa": [],
+      "ham_dia": []
+    }
+  },
+  {
+    "star_id": "tướng_quân",
+    "name": "Tướng Quân",
+    "type": "Chính diệu",
+    "element": "Mộc",
+    "polarity": "",
+    "direction": "",
+    "core_characteristics": [
+      "uy quyền",
+      "những việc có liên quan đến quân sự."
+    ],
+    "positions": {
+      "mieu_dia": [],
+      "vuong_dia": [],
+      "dac_dia": [],
+      "binh_hoa": [],
+      "ham_dia": []
+    }
+  },
+  {
+    "star_id": "tấu_thư",
+    "name": "Tấu Thư",
+    "type": "Chính diệu",
+    "element": "Kim",
+    "polarity": "",
+    "direction": "",
+    "core_characteristics": [],
+    "positions": {
+      "mieu_dia": [],
+      "vuong_dia": [],
+      "dac_dia": [],
+      "binh_hoa": [],
+      "ham_dia": []
+    }
+  },
+  {
+    "star_id": "phi_liêm",
+    "name": "Phi Liêm",
+    "type": "Chính diệu",
+    "element": "Hỏa",
+    "polarity": "",
+    "direction": "",
+    "core_characteristics": [],
+    "positions": {
+      "mieu_dia": [],
+      "vuong_dia": [],
+      "dac_dia": [],
+      "binh_hoa": [],
+      "ham_dia": []
+    }
+  },
+  {
+    "star_id": "hỷ_thần",
+    "name": "Hỷ Thần",
+    "type": "Chính diệu",
+    "element": "Hỏa",
+    "polarity": "",
+    "direction": "",
+    "core_characteristics": [],
+    "positions": {
+      "mieu_dia": [],
+      "vuong_dia": [],
+      "dac_dia": [],
+      "binh_hoa": [],
+      "ham_dia": []
+    }
+  },
+  {
+    "star_id": "bệnh_phù",
+    "name": "Bệnh Phù",
+    "type": "Chính diệu",
+    "element": "Mộc",
+    "polarity": "",
+    "direction": "",
+    "core_characteristics": [],
+    "positions": {
+      "mieu_dia": [],
+      "vuong_dia": [],
+      "dac_dia": [],
+      "binh_hoa": [],
+      "ham_dia": []
+    }
+  },
+  {
+    "star_id": "phục_binh",
+    "name": "Phục Binh",
+    "type": "Chính diệu",
+    "element": "Hỏa",
+    "polarity": "",
+    "direction": "",
+    "core_characteristics": [],
+    "positions": {
+      "mieu_dia": [],
+      "vuong_dia": [],
+      "dac_dia": [],
+      "binh_hoa": [],
+      "ham_dia": []
+    }
+  },
+  {
+    "star_id": "quan_phù",
+    "name": "Quan Phù",
+    "type": "Chính diệu",
+    "element": "Hỏa",
+    "polarity": "",
+    "direction": "",
+    "core_characteristics": [],
+    "positions": {
+      "mieu_dia": [],
+      "vuong_dia": [],
+      "dac_dia": [],
+      "binh_hoa": [],
+      "ham_dia": []
+    }
+  },
+  {
+    "star_id": "tràng_sinh",
+    "name": "Tràng Sinh",
+    "type": "Chính diệu",
+    "element": "Thủy",
+    "polarity": "",
+    "direction": "",
+    "core_characteristics": [],
+    "positions": {
+      "mieu_dia": [],
+      "vuong_dia": [],
+      "dac_dia": [],
+      "binh_hoa": [],
+      "ham_dia": []
+    }
+  },
+  {
+    "star_id": "mộc_dục",
+    "name": "Mộc Dục",
+    "type": "Chính diệu",
+    "element": "Thủy",
+    "polarity": "",
+    "direction": "",
+    "core_characteristics": [],
+    "positions": {
+      "mieu_dia": [],
+      "vuong_dia": [],
+      "dac_dia": [],
+      "binh_hoa": [],
+      "ham_dia": []
+    }
+  },
+  {
+    "star_id": "quan_đới",
+    "name": "Quan Đới",
+    "type": "Chính diệu",
+    "element": "Kim",
+    "polarity": "",
+    "direction": "",
+    "core_characteristics": [],
+    "positions": {
+      "mieu_dia": [],
+      "vuong_dia": [],
+      "dac_dia": [],
+      "binh_hoa": [],
+      "ham_dia": []
+    }
+  },
+  {
+    "star_id": "lâm_quan",
+    "name": "Lâm Quan",
+    "type": "Chính diệu",
+    "element": "Kim",
+    "polarity": "",
+    "direction": "",
+    "core_characteristics": [],
+    "positions": {
+      "mieu_dia": [],
+      "vuong_dia": [],
+      "dac_dia": [],
+      "binh_hoa": [],
+      "ham_dia": []
+    }
+  },
+  {
+    "star_id": "đế_vượng",
+    "name": "Đế Vượng",
+    "type": "Chính diệu",
+    "element": "Kim",
+    "polarity": "",
+    "direction": "",
+    "core_characteristics": [],
+    "positions": {
+      "mieu_dia": [],
+      "vuong_dia": [],
+      "dac_dia": [],
+      "binh_hoa": [],
+      "ham_dia": []
+    }
+  },
+  {
+    "star_id": "suy",
+    "name": "Suy",
+    "type": "Chính diệu",
+    "element": "Thủy",
+    "polarity": "",
+    "direction": "",
+    "core_characteristics": [],
+    "positions": {
+      "mieu_dia": [],
+      "vuong_dia": [],
+      "dac_dia": [],
+      "binh_hoa": [],
+      "ham_dia": []
+    }
+  },
+  {
+    "star_id": "bệnh",
+    "name": "Bệnh",
+    "type": "Chính diệu",
+    "element": "Hỏa",
+    "polarity": "",
+    "direction": "",
+    "core_characteristics": [],
+    "positions": {
+      "mieu_dia": [],
+      "vuong_dia": [],
+      "dac_dia": [],
+      "binh_hoa": [],
+      "ham_dia": []
+    }
+  },
+  {
+    "star_id": "tử",
+    "name": "Tử",
+    "type": "Chính diệu",
+    "element": "Thủy",
+    "polarity": "",
+    "direction": "",
+    "core_characteristics": [],
+    "positions": {
+      "mieu_dia": [],
+      "vuong_dia": [],
+      "dac_dia": [],
+      "binh_hoa": [],
+      "ham_dia": []
+    }
+  },
+  {
+    "star_id": "mộ",
+    "name": "Mộ",
+    "type": "Chính diệu",
+    "element": "Thổ",
+    "polarity": "",
+    "direction": "",
+    "core_characteristics": [],
+    "positions": {
+      "mieu_dia": [],
+      "vuong_dia": [],
+      "dac_dia": [],
+      "binh_hoa": [],
+      "ham_dia": []
+    }
+  },
+  {
+    "star_id": "tuyệt",
+    "name": "Tuyệt",
+    "type": "Chính diệu",
+    "element": "Thổ",
+    "polarity": "",
+    "direction": "",
+    "core_characteristics": [
+      "sự bại hoại",
+      "tiêu tán",
+      "khô cạn. Làm bế tắc mọi công việc. Chiết giảm"
+    ],
+    "positions": {
+      "mieu_dia": [],
+      "vuong_dia": [],
+      "dac_dia": [],
+      "binh_hoa": [],
+      "ham_dia": []
+    }
+  },
+  {
+    "star_id": "thai",
+    "name": "Thai",
+    "type": "Chính diệu",
+    "element": "Thổ",
+    "polarity": "",
+    "direction": "",
+    "core_characteristics": [],
+    "positions": {
+      "mieu_dia": [],
+      "vuong_dia": [],
+      "dac_dia": [],
+      "binh_hoa": [],
+      "ham_dia": []
+    }
+  },
+  {
+    "star_id": "dưỡng",
+    "name": "Dưỡng",
+    "type": "Chính diệu",
+    "element": "Mộc",
+    "polarity": "",
+    "direction": "",
+    "core_characteristics": [],
+    "positions": {
+      "mieu_dia": [],
+      "vuong_dia": [],
+      "dac_dia": [],
+      "binh_hoa": [],
+      "ham_dia": []
+    }
+  },
+  {
+    "star_id": "nhận_định_ảnh_hưởng_của_nam_đẩu_tinh_và_bắc_đẩu_tinh",
+    "name": "Nhận định ảnh hưởng của Nam đẩu tinh và Bắc đẩu tinh",
+    "type": "Chính diệu",
+    "element": "",
+    "polarity": "",
+    "direction": "",
+    "core_characteristics": [],
+    "positions": {
+      "mieu_dia": [],
+      "vuong_dia": [],
+      "dac_dia": [],
+      "binh_hoa": [],
+      "ham_dia": []
+    }
+  },
+  {
+    "star_id": "ảnh_hưởng_của_những_sao_nhập_hạn",
+    "name": "Ảnh hưởng của những sao nhập Hạn",
+    "type": "Chính diệu",
+    "element": "",
+    "polarity": "",
+    "direction": "",
+    "core_characteristics": [],
+    "positions": {
+      "mieu_dia": [],
+      "vuong_dia": [],
+      "dac_dia": [],
+      "binh_hoa": [],
+      "ham_dia": []
+    }
+  },
+  {
+    "star_id": "phụ_luận",
+    "name": "Phụ luận",
+    "type": "Chính diệu",
+    "element": "",
+    "polarity": "",
+    "direction": "",
+    "core_characteristics": [],
+    "positions": {
+      "mieu_dia": [],
+      "vuong_dia": [],
+      "dac_dia": [],
+      "binh_hoa": [],
+      "ham_dia": []
+    }
+  },
+  {
+    "star_id": "phụ_chú",
+    "name": "Phụ chú",
+    "type": "Chính diệu",
+    "element": "",
+    "polarity": "",
+    "direction": "",
+    "core_characteristics": [],
+    "positions": {
+      "mieu_dia": [],
+      "vuong_dia": [],
+      "dac_dia": [],
+      "binh_hoa": [],
+      "ham_dia": []
+    }
+  }
+]
