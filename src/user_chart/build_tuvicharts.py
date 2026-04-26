@@ -312,7 +312,14 @@ def build_tuvichart(user):
     }
 
 
-user = {'user_id': 'u_123', 'full_name': 'Nguyễn Văn A', 'gender': 'Nam', 'dob_solar': '1990-05-15T08:30:00', 'dob_lunar': {'year': 'Canh Ngọ', 'month': 4, 'day': 21, 'hour': 'Thìn'}, 'am_duong_gender': 'Dương Nam'}
+# user = {'user_id': 'u_123', 'full_name': 'Nguyễn Văn A', 'gender': 'Nam', 'dob_solar': '1990-05-15T08:30:00', 'dob_lunar': {'year': 'Canh Ngọ', 'month': 4, 'day': 21, 'hour': 'Thìn'}, 'am_duong_gender': 'Dương Nam'}
+
+import json
+with open("data/data_user/user_chart.json", "r", encoding="utf-8") as f:
+    user = json.load(f)
+
 tuvichart = build_tuvichart(user)
 
-print(tuvichart)
+print(json.dumps(tuvichart, indent=2, ensure_ascii=False))
+with open("data/data_user/tuvi_chart.json", "w", encoding="utf-8") as f:
+    json.dump(tuvichart, f, ensure_ascii=False, indent=2)

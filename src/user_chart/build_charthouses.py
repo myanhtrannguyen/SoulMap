@@ -1,6 +1,6 @@
 ZODIAC_ORDER = [
-    "Dần", "Mão", "Thìn", "Tỵ", "Ngọ", "Mùi",
-    "Thân", "Dậu", "Tuất", "Hợi", "Tý", "Sửu"
+    "Tý", "Sửu", "Dần", "Mão", "Thìn", "Tỵ", "Ngọ", "Mùi",
+    "Thân", "Dậu", "Tuất", "Hợi"
 ]
 
 HOUR_INDEX = {
@@ -202,13 +202,21 @@ def build_empty_houses(chart_id, cung_an_menh):
 
     return houses
 
-
+CUNG_CUC = {
+    2: HOUR_INDEX["Sửu"], 3: HOUR_INDEX["Thìn"], 
+    4: HOUR_INDEX["Hợi"], 5: HOUR_INDEX["Ngọ"] , 
+    6: HOUR_INDEX["Dậu"]
+}
 def an_tu_vi(lunar_day, cuc_number):
+    start = CUNG_CUC[cuc_number] 
+
     pos = lunar_day % cuc_number
+
     if pos == 0:
         pos = cuc_number
 
-    index = (pos - 1)
+    pos = (lunar_day + cuc_number - pos) / cuc_number
+    index = int(start + pos - 1) % 12
 
     return ZODIAC_ORDER[index]
 
@@ -487,7 +495,9 @@ def build_chart_houses(user, chart):
 
     # 2. Chính tinh
     tu_vi_pos = an_tu_vi(lunar_day, chart["cuc"]["number"])
+    print(tu_vi_pos)
     stars = an_14_chinh_tinh(tu_vi_pos)
+    print(stars)
     star_map = assign_stars_to_houses(stars)
 
     for house in houses:
@@ -549,8 +559,19 @@ def build_chart_houses(user, chart):
     return houses
 
 
-user = {'user_id': 'u_123', 'full_name': 'Nguyễn Văn A', 'gender': 'Nam', 'dob_solar': '1990-05-15T08:30:00', 'dob_lunar': {'year': 'Canh Ngọ', 'month': 4, 'day': 21, 'hour': 'Thìn'}, 'am_duong_gender': 'Dương Nam'}
-tuvichart = {'chart_id': 'chart_456', 'user_id': 'u_123', 'ban_menh': {'element': 'Thổ', 'name': 'Lộ Bàng Thổ'}, 'cung_an_menh': 'Sửu', 'cuc': {'element': 'Hỏa', 'name': 'Hỏa Lục Cục', 'number': 6}, 'menh_chu': 'Cự Môn', 'than_chu': 'Linh Tinh', 'am_duong_thuan_nghich': 'Nghịch lý', 'menh_cuc_sinh_khac': 'Thổ khắc Thủy', 'than_cu': 'Tài Bạch'}
+# user = {'user_id': 'u_123', 'full_name': 'Nguyễn Văn A', 'gender': 'Nam', 'dob_solar': '1990-05-15T08:30:00', 'dob_lunar': {'year': 'Canh Ngọ', 'month': 4, 'day': 21, 'hour': 'Thìn'}, 'am_duong_gender': 'Dương Nam'}
+# tuvichart = {'chart_id': 'chart_456', 'user_id': 'u_123', 'ban_menh': {'element': 'Thổ', 'name': 'Lộ Bàng Thổ'}, 'cung_an_menh': 'Sửu', 'cuc': {'element': 'Hỏa', 'name': 'Hỏa Lục Cục', 'number': 6}, 'menh_chu': 'Cự Môn', 'than_chu': 'Linh Tinh', 'am_duong_thuan_nghich': 'Nghịch lý', 'menh_cuc_sinh_khac': 'Thổ khắc Thủy', 'than_cu': 'Tài Bạch'}
+
+import json
+with open("data/data_user/user_chart.json", "r", encoding="utf-8") as f:
+    user = json.load(f)
+
+with open("data/data_user/tuvi_chart.json", "r", encoding="utf-8") as f:
+    tuvichart = json.load(f)
+
 charthouses = build_chart_houses(user, tuvichart)
 
-print(charthouses)
+# print(json.dumps(charthouses, indent=2, ensure_ascii=False))
+with open("data/data_user/chart_houses.json", "w", encoding="utf-8") as f:
+    json.dump(charthouses, f, ensure_ascii=False, indent=2)
+    

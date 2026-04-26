@@ -1,0 +1,13 @@
+{
+  "user_id": "u_123",
+  "full_name": "Nguyễn Thu Huyền",
+  "gender": "Nữ",
+  "dob_solar": "2005-12-15T05:20:00",
+  "dob_lunar": {
+    "year": "Ất Dậu",
+    "month": 11,
+    "day": 15,
+    "hour": "Mão"
+  },
+  "am_duong_gender": "Âm Nữ"
+}

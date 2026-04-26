@@ -1,0 +1,240 @@
+[
+  {
+    "house_id": "h_001",
+    "chart_id": "chart_456",
+    "house_topic": "Mệnh",
+    "zodiac_sign": "Dậu",
+    "chinh_tinh": [],
+    "phu_tinh_tot": [],
+    "phu_tinh_xau": [],
+    "vong_trang_sinh": "Mộc Dục",
+    "tuan_triet": [],
+    "dai_han": 2
+  },
+  {
+    "house_id": "h_002",
+    "chart_id": "chart_456",
+    "house_topic": "Phụ Mẫu",
+    "zodiac_sign": "Tuất",
+    "chinh_tinh": [],
+    "phu_tinh_tot": [],
+    "phu_tinh_xau": [],
+    "vong_trang_sinh": "Quan Đới",
+    "tuan_triet": [],
+    "dai_han": 12
+  },
+  {
+    "house_id": "h_003",
+    "chart_id": "chart_456",
+    "house_topic": "Phúc Đức",
+    "zodiac_sign": "Hợi",
+    "chinh_tinh": [],
+    "phu_tinh_tot": [],
+    "phu_tinh_xau": [],
+    "vong_trang_sinh": "Lâm Quan",
+    "tuan_triet": [],
+    "dai_han": 22
+  },
+  {
+    "house_id": "h_004",
+    "chart_id": "chart_456",
+    "house_topic": "Điền Trạch",
+    "zodiac_sign": "Tý",
+    "chinh_tinh": [
+      {
+        "star_id": "Liêm Trinh",
+        "brightness": "vượng"
+      },
+      {
+        "star_id": "Phá Quân",
+        "brightness": "miếu"
+      }
+    ],
+    "phu_tinh_tot": [
+      "Hữu Bật",
+      "Thiên Khôi"
+    ],
+    "phu_tinh_xau": [],
+    "vong_trang_sinh": "Đế Vượng",
+    "tuan_triet": [],
+    "dai_han": 32
+  },
+  {
+    "house_id": "h_005",
+    "chart_id": "chart_456",
+    "house_topic": "Quan Lộc",
+    "zodiac_sign": "Sửu",
+    "chinh_tinh": [],
+    "phu_tinh_tot": [
+      "Long Trì",
+      "Phượng Cát"
+    ],
+    "phu_tinh_xau": [],
+    "vong_trang_sinh": "Suy",
+    "tuan_triet": [],
+    "dai_han": 42
+  },
+  {
+    "house_id": "h_006",
+    "chart_id": "chart_456",
+    "house_topic": "Nô Bộc",
+    "zodiac_sign": "Dần",
+    "chinh_tinh": [
+      {
+        "star_id": "Thiên Phủ",
+        "brightness": "miếu"
+      }
+    ],
+    "phu_tinh_tot": [
+      "Tả Phụ"
+    ],
+    "phu_tinh_xau": [
+      "Đà La",
+      "Địa Kiếp"
+    ],
+    "vong_trang_sinh": "Bệnh",
+    "tuan_triet": [],
+    "dai_han": 52
+  },
+  {
+    "house_id": "h_007",
+    "chart_id": "chart_456",
+    "house_topic": "Thiên Di",
+    "zodiac_sign": "Mão",
+    "chinh_tinh": [
+      {
+        "star_id": "Thiên Đồng",
+        "brightness": "đắc"
+      },
+      {
+        "star_id": "Thái Âm",
+        "brightness": "hãm"
+      }
+    ],
+    "phu_tinh_tot": [],
+    "phu_tinh_xau": [],
+    "vong_trang_sinh": "Tử",
+    "tuan_triet": [],
+    "dai_han": 62
+  },
+  {
+    "house_id": "h_008",
+    "chart_id": "chart_456",
+    "house_topic": "Tật Ách",
+    "zodiac_sign": "Thìn",
+    "chinh_tinh": [
+      {
+        "star_id": "Vũ Khúc",
+        "brightness": "miếu"
+      },
+      {
+        "star_id": "Tham Lang",
+        "brightness": "vượng"
+      }
+    ],
+    "phu_tinh_tot": [],
+    "phu_tinh_xau": [
+      "Kình Dương"
+    ],
+    "vong_trang_sinh": "Mộ",
+    "tuan_triet": [],
+    "dai_han": 72
+  },
+  {
+    "house_id": "h_009",
+    "chart_id": "chart_456",
+    "house_topic": "Tài Bạch",
+    "zodiac_sign": "Tỵ",
+    "chinh_tinh": [
+      {
+        "star_id": "Thái Dương",
+        "brightness": "miếu"
+      },
+      {
+        "star_id": "Cự Môn",
+        "brightness": "hãm"
+      }
+    ],
+    "phu_tinh_tot": [],
+    "phu_tinh_xau": [],
+    "vong_trang_sinh": "Tuyệt",
+    "tuan_triet": [],
+    "dai_han": 82
+  },
+  {
+    "house_id": "h_010",
+    "chart_id": "chart_456",
+    "house_topic": "Tử Tức",
+    "zodiac_sign": "Ngọ",
+    "chinh_tinh": [
+      {
+        "star_id": "Thiên Tướng",
+        "brightness": "vượng"
+      }
+    ],
+    "phu_tinh_tot": [],
+    "phu_tinh_xau": [
+      "Hỏa Tinh"
+    ],
+    "vong_trang_sinh": "Thai",
+    "tuan_triet": [
+      "Tuần",
+      "Triệt"
+    ],
+    "dai_han": 92
+  },
+  {
+    "house_id": "h_011",
+    "chart_id": "chart_456",
+    "house_topic": "Phu Thê",
+    "zodiac_sign": "Mùi",
+    "chinh_tinh": [
+      {
+        "star_id": "Thiên Cơ",
+        "brightness": "đắc"
+      },
+      {
+        "star_id": "Thiên Lương",
+        "brightness": "đắc"
+      }
+    ],
+    "phu_tinh_tot": [
+      "Văn Xương",
+      "Văn Khúc"
+    ],
+    "phu_tinh_xau": [
+      "Linh Tinh"
+    ],
+    "vong_trang_sinh": "Dưỡng",
+    "tuan_triet": [
+      "Tuần",
+      "Triệt"
+    ],
+    "dai_han": 102
+  },
+  {
+    "house_id": "h_012",
+    "chart_id": "chart_456",
+    "house_topic": "Huynh Đệ",
+    "zodiac_sign": "Thân",
+    "chinh_tinh": [
+      {
+        "star_id": "Tử Vi",
+        "brightness": "miếu"
+      },
+      {
+        "star_id": "Thất Sát",
+        "brightness": "miếu"
+      }
+    ],
+    "phu_tinh_tot": [
+      "Thiên Việt"
+    ],
+    "phu_tinh_xau": [
+      "Địa Không"
+    ],
+    "vong_trang_sinh": "Tràng Sinh",
+    "tuan_triet": [],
+    "dai_han": 112
+  }
+]
