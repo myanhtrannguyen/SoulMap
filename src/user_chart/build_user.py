@@ -59,14 +59,3 @@ def build_user(full_name, gender, dob_solar_str):
         "dob_lunar": lunar_data,
         "am_duong_gender": am_duong_gender
     }
-
-user = build_user(
-    full_name="Nguyễn Thu Huyền",
-    gender="Nữ",
-    dob_solar_str="2005-12-15T05:20:00"
-)
-
-import json
-print(json.dumps(user, indent=2, ensure_ascii=False))
-with open("data/data_user/user_chart.json", "w", encoding="utf-8") as f:
-    json.dump(user, f, ensure_ascii=False, indent=2)

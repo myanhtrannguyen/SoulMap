@@ -5,8 +5,12 @@
     "house_topic": "Mệnh",
     "zodiac_sign": "Dậu",
     "chinh_tinh": [],
-    "phu_tinh_tot": [],
-    "phu_tinh_xau": [],
+    "phu_tinh": [
+      "Thái Tuế",
+      "Phi Liêm",
+      "Thiên Khốc",
+      "Thai Phụ"
+    ],
     "vong_trang_sinh": "Mộc Dục",
     "tuan_triet": [],
     "dai_han": 2
@@ -17,8 +21,14 @@
     "house_topic": "Phụ Mẫu",
     "zodiac_sign": "Tuất",
     "chinh_tinh": [],
-    "phu_tinh_tot": [],
-    "phu_tinh_xau": [],
+    "phu_tinh": [
+      "Thiếu Dương",
+      "Hỷ Thần",
+      "Bát Tọa",
+      "Địa Võng",
+      "Lưu Hà",
+      "Thiên Không"
+    ],
     "vong_trang_sinh": "Quan Đới",
     "tuan_triet": [],
     "dai_han": 12
@@ -29,8 +39,15 @@
     "house_topic": "Phúc Đức",
     "zodiac_sign": "Hợi",
     "chinh_tinh": [],
-    "phu_tinh_tot": [],
-    "phu_tinh_xau": [],
+    "phu_tinh": [
+      "Tang Môn",
+      "Bệnh Phù",
+      "Thiên Riêu",
+      "Thiên Y",
+      "Quốc Ấn",
+      "Cô Thần",
+      "Thiên Mã"
+    ],
     "vong_trang_sinh": "Lâm Quan",
     "tuan_triet": [],
     "dai_han": 22
@@ -42,19 +59,22 @@
     "zodiac_sign": "Tý",
     "chinh_tinh": [
       {
-        "star_id": "Liêm Trinh",
+        "name": "Liêm Trinh",
         "brightness": "vượng"
       },
       {
-        "star_id": "Phá Quân",
+        "name": "Phá Quân",
         "brightness": "miếu"
       }
     ],
-    "phu_tinh_tot": [
+    "phu_tinh": [
+      "Thiếu Âm",
+      "Đại Hao",
       "Hữu Bật",
-      "Thiên Khôi"
+      "Thiên Khôi",
+      "Thiên Hỷ",
+      "Thiên Thọ"
     ],
-    "phu_tinh_xau": [],
     "vong_trang_sinh": "Đế Vượng",
     "tuan_triet": [],
     "dai_han": 32
@@ -65,11 +85,13 @@
     "house_topic": "Quan Lộc",
     "zodiac_sign": "Sửu",
     "chinh_tinh": [],
-    "phu_tinh_tot": [
+    "phu_tinh": [
+      "Phục Binh",
       "Long Trì",
-      "Phượng Cát"
+      "Phượng Các",
+      "Giải Thần",
+      "Hoa Cái"
     ],
-    "phu_tinh_xau": [],
     "vong_trang_sinh": "Suy",
     "tuan_triet": [],
     "dai_han": 42
@@ -81,16 +103,20 @@
     "zodiac_sign": "Dần",
     "chinh_tinh": [
       {
-        "star_id": "Thiên Phủ",
+        "name": "Thiên Phủ",
         "brightness": "miếu"
       }
     ],
-    "phu_tinh_tot": [
-      "Tả Phụ"
-    ],
-    "phu_tinh_xau": [
+    "phu_tinh": [
+      "Quan Phù",
+      "Tử Phù",
       "Đà La",
-      "Địa Kiếp"
+      "Địa Kiếp",
+      "Tả Phụ",
+      "Nguyệt Đức",
+      "Kiếp Sát",
+      "Đẩu Quân",
+      "Thiên Thương"
     ],
     "vong_trang_sinh": "Bệnh",
     "tuan_triet": [],
@@ -103,16 +129,21 @@
     "zodiac_sign": "Mão",
     "chinh_tinh": [
       {
-        "star_id": "Thiên Đồng",
+        "name": "Thiên Đồng",
         "brightness": "đắc"
       },
       {
-        "star_id": "Thái Âm",
+        "name": "Thái Âm",
         "brightness": "hãm"
       }
     ],
-    "phu_tinh_tot": [],
-    "phu_tinh_xau": [],
+    "phu_tinh": [
+      "Tuế Phá",
+      "Lộc Tồn",
+      "Thiên Hư",
+      "Hóa Kỵ",
+      "Bác Sỹ"
+    ],
     "vong_trang_sinh": "Tử",
     "tuan_triet": [],
     "dai_han": 62
@@ -124,17 +155,23 @@
     "zodiac_sign": "Thìn",
     "chinh_tinh": [
       {
-        "star_id": "Vũ Khúc",
+        "name": "Vũ Khúc",
         "brightness": "miếu"
       },
       {
-        "star_id": "Tham Lang",
+        "name": "Tham Lang",
         "brightness": "vượng"
       }
     ],
-    "phu_tinh_tot": [],
-    "phu_tinh_xau": [
-      "Kình Dương"
+    "phu_tinh": [
+      "Long Đức",
+      "Lực Sỹ",
+      "Kình Dương",
+      "Tam Thai",
+      "Thiên Quý",
+      "Thiên La",
+      "Thiên Quan",
+      "Thiên Sứ"
     ],
     "vong_trang_sinh": "Mộ",
     "tuan_triet": [],
@@ -147,16 +184,21 @@
     "zodiac_sign": "Tỵ",
     "chinh_tinh": [
       {
-        "star_id": "Thái Dương",
+        "name": "Thái Dương",
         "brightness": "miếu"
       },
       {
-        "star_id": "Cự Môn",
+        "name": "Cự Môn",
         "brightness": "hãm"
       }
     ],
-    "phu_tinh_tot": [],
-    "phu_tinh_xau": [],
+    "phu_tinh": [
+      "Bạch Hổ",
+      "Thanh Long",
+      "Địa Giải",
+      "Phong Cáo",
+      "Phá Toái"
+    ],
     "vong_trang_sinh": "Tuyệt",
     "tuan_triet": [],
     "dai_han": 82
@@ -168,13 +210,21 @@
     "zodiac_sign": "Ngọ",
     "chinh_tinh": [
       {
-        "star_id": "Thiên Tướng",
+        "name": "Thiên Tướng",
         "brightness": "vượng"
       }
     ],
-    "phu_tinh_tot": [],
-    "phu_tinh_xau": [
-      "Hỏa Tinh"
+    "phu_tinh": [
+      "Phúc Đức",
+      "Tiểu Hao",
+      "Hỏa Tinh",
+      "Thiên Đức",
+      "Hồng Loan",
+      "Thiên Giải",
+      "Thiên Tài",
+      "Đào Hoa",
+      "Thiên Trù",
+      "Lưu Niên Văn Tinh"
     ],
     "vong_trang_sinh": "Thai",
     "tuan_triet": [
@@ -190,20 +240,24 @@
     "zodiac_sign": "Mùi",
     "chinh_tinh": [
       {
-        "star_id": "Thiên Cơ",
+        "name": "Thiên Cơ",
         "brightness": "đắc"
       },
       {
-        "star_id": "Thiên Lương",
+        "name": "Thiên Lương",
         "brightness": "đắc"
       }
     ],
-    "phu_tinh_tot": [
+    "phu_tinh": [
+      "Điếu Khách",
+      "Tướng Quân",
+      "Linh Tinh",
       "Văn Xương",
-      "Văn Khúc"
-    ],
-    "phu_tinh_xau": [
-      "Linh Tinh"
+      "Văn Khúc",
+      "Thiên Hình",
+      "Hóa Lộc",
+      "Hóa Quyền",
+      "Quả Tú"
     ],
     "vong_trang_sinh": "Dưỡng",
     "tuan_triet": [
@@ -219,19 +273,23 @@
     "zodiac_sign": "Thân",
     "chinh_tinh": [
       {
-        "star_id": "Tử Vi",
+        "name": "Tử Vi",
         "brightness": "miếu"
       },
       {
-        "star_id": "Thất Sát",
+        "name": "Thất Sát",
         "brightness": "miếu"
       }
     ],
-    "phu_tinh_tot": [
-      "Thiên Việt"
-    ],
-    "phu_tinh_xau": [
-      "Địa Không"
+    "phu_tinh": [
+      "Trực Phù",
+      "Tấu Thư",
+      "Địa Không",
+      "Thiên Việt",
+      "Ân Quang",
+      "Đường Phù",
+      "Hóa Khoa",
+      "Thiên Phúc"
     ],
     "vong_trang_sinh": "Tràng Sinh",
     "tuan_triet": [],

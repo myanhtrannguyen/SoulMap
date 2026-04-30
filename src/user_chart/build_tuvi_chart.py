@@ -257,7 +257,7 @@ def get_than_cu(lunar_hour):
     return THAN_CU_MAP[lunar_hour]
 
 
-def build_tuvichart(user):
+def build_tuvi_chart(user):
     lunar = user["dob_lunar"]
 
     lunar_year = lunar["year"]
@@ -310,16 +310,3 @@ def build_tuvichart(user):
         "menh_cuc_sinh_khac": menh_cuc,
         "than_cu": than_cu
     }
-
-
-# user = {'user_id': 'u_123', 'full_name': 'Nguyễn Văn A', 'gender': 'Nam', 'dob_solar': '1990-05-15T08:30:00', 'dob_lunar': {'year': 'Canh Ngọ', 'month': 4, 'day': 21, 'hour': 'Thìn'}, 'am_duong_gender': 'Dương Nam'}
-
-import json
-with open("data/data_user/user_chart.json", "r", encoding="utf-8") as f:
-    user = json.load(f)
-
-tuvichart = build_tuvichart(user)
-
-print(json.dumps(tuvichart, indent=2, ensure_ascii=False))
-with open("data/data_user/tuvi_chart.json", "w", encoding="utf-8") as f:
-    json.dump(tuvichart, f, ensure_ascii=False, indent=2)
