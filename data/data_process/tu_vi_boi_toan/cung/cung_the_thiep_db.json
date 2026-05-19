@@ -1,0 +1,463 @@
+{
+  "Cung_thê_thiếp": {
+    "name": "cung_thê_thiếp_phu_quân",
+    "description": "Xem cung Thê Thiếp (Phu Quân) để biết rõ những điều có liên quan đến vợ \nchồng, đến việc lập gia đình và hạnh phúc của cả một đời. \nTrước khi nhận xét những ảnh hưởng của các sao thuộc cung Thê Thiếp \n(Phu Quân), phải \nluận đoán cẩn thận cung Mệnh, Thân, Phúc Đức, Quan Lộc và Nô Bộc, Phải cân \nnhắc những sự tốt \nxấu của mỗi cung, đoạn phối hợp với cung Thê Thiếp (Phu Quân) để luận đoán \ncho thật tinh vi. \nCung Mệnh, Thân, Phức Đức sáng sủa tốt đẹp, thường giải trừ được khá \nnhiều những hình khắc đau thương, hay những cảnh chia ly tan nát, hay những \ntiếng đàn ngang cung gây ra bởi ảnh hưởng cua những sao ác độc mờ ám thuộc \ncung Thê Thiếp (Phu Quân). \nNếu chẳng may phải lập gia đình tới lần thứ hai, hay hơn nữa lần thứ ba, \nthứ tư... thì nên xem kỹ Quan Lộc và cung Nô Bộc đế tìm hiểu tương lai và hạnh \nphúc.",
+    "stars": [
+      {
+        "star_id": "tử_vi",
+        "context_type": null,
+        "rules": {
+          "đơn_thủ_tại_ngọ_phủ_đồng_cung": "hòa hợp trắng răng đến thuở bạc đầu. \nVợ chồng đều khá giả, chung hưởng giàu sang",
+          "đơn_thủ_tại_tý": "bình thường.",
+          "tướng_đồng_cung": "vợ chồng đều cứng cỏi, ương ngạnh. Mới lấy nhau \nthường hòa hợp nhưng về sau lại hay có chuyện xích mích. Cả hai đều khá giả, \nchồng nên nhiều tuổi hơn vợ. Trai nên lấy vợ là trưởng nữ, gái nên lấy chồng là \ntrưởng nam.",
+          "sát_đồng_cung": "tiên trở hậu thành mới tránh được hình khác, chia ly. \nNên muộn lập gia đình, như thế mới được hài lòng và được hưởng phú qúy trọn \nđời",
+          "phá_đồng_cung": "phải hình khắc hay chia ly, sống chung với nhau tiếp hờn \ngiận, tiếng sắt cầm chẳng được thuận tai. Nên lấy vợ nhiều tuổi hơn.",
+          "tham_đồng_cung": "muộn lập gia đình mới mong được bách niên giai \nlao. Nhưng dù sao chăng nữa, trong nhà cũng hay có sự bất hòa vì một trong hai \nngười hay ghen tuông."
+        }
+      },
+      {
+        "star_id": "liêm_trinh",
+        "context_type": null,
+        "rules": {
+          "đơn_thủ_tại_dần_thân": "ba lần lập gia đình, trai lấy vợ khó, gái lấy chồng \nnghèo.",
+          "phủ_đồng_cung": "nên muộn lập gia đình. Vợ chồng tính cương cường \nnhưng chung sống được với nhau đến lúc bạc đầu. Gia đình sung túc và thường \ncó danh giá.",
+          "tướng_đồng_cung": "vợ chồng bất hòa, nếu không tử biệt cũng sinh ly.",
+          "sát_đồng_cung": "hình khắc hay sinh ly, nên muộn lập gia đình để tránh mấy \nđộ buồn thương.",
+          "phá_đồng_cung": "vợ chồng bất hòa, hay xa cách nhau, sinh kế khó khăn.",
+          "tham_đồng_cung": "vợ chồng ở với nhau hay sinh tai họa, dễ gặp nhau lại \ndễ bỏ nhau, nếu không cũng sớm khắc."
+        }
+      },
+      {
+        "star_id": "thiên_đồng",
+        "context_type": null,
+        "rules": {
+          "đơn_thủ_tại_mão": "chậm cưới mới được dễ dàng mọi sự và chung sống với \nnhau đến lúc bạc đầu, vợ đẹp và hiền. Chồng nên là cung trưởng, vợ nên là cung \nthứ.",
+          "đơn_thủ_tại_dậu": "hay có sự bất hòa trong gia đình, thường phải xa cách \nnhau.",
+          "đơn_thủ_tại_tỵ": "dễ gặp nhau lại dễ xa nhau",
+          "đơn_thủ_tại_thìn_tuất": "vợ chồng hay cãi lộn, nếu không tử biệt cũng sinh \nly.",
+          "lương_đồng_cung": "sớm lập gia đình, hai người thường có họ với nhau, \nnếu không cũng là cung của hai gia đình đã giao du thân mật với nhau từ lâu, vợ \nchồng đẹp đôi và giàu sang.",
+          "nguyệt_đồng_cung_tại_tý": "cũng như trên, nhưng chồng hay nể vợ và được \nnhờ vợ nhiều.",
+          "nguyệt_đồng_cung_tại_ngọ": "muộn lập gia đình mới tránh được chia ly.",
+          "cự_đồng_cung": "bỏ nhau, nếu không cũng phải xa cách rất lâu rồi mới \nđoàn tụ, vợ chồng rất thông minh."
+        }
+      },
+      {
+        "star_id": "vũ_khúc",
+        "context_type": null,
+        "rules": {
+          "đơn_thủ_tại_thìn_tuất": "nên muộn lập gia đình, và lấy người bằng tuổi \n(hay gần bằng tuổi nhau). Đàn ông nhờ vụ mà có tiền còn đàn bà nhờ chồng mà \nđược hưởng giàu sang.",
+          "phủ_đồng_cung": "vợ chồng đôi khi có sự bất hòa, nhưng chung hưởng giàu \nsang đến lúc bạc đầu.",
+          "tướng_đồng_cung": "đàn ông lấy được vợ đảm đang, tài giỏi và giàu, đàn bà \nlấy được chồng hiền và sang. Cả hai đều cương cường, lúc trẻ hòa thuận, về sau \nhay xích mích nhưng đều được hưởng phú qúy trọn vẹn.",
+          "tham_đồng_cung": "nên muộn lập gia đình, vợ chồng phải chênh lệch nhau \nnhiều tuổi. Cả hai đều tài giỏi đảm đang nhưng nếu sớm đường hôn phối tất bị \nhình khắc.",
+          "phá_đồng_cung": "vợ chồng đều thao lược nhưng nếu sớm gặp nhau tất \nphải hình khắc và ít nhất là hai lần lập gia đình.",
+          "sát_đồng_cung": "hình khắc nhau rất thê thẳm, chồng chung sống với nhau \nhay sinh tai họa, để rồi xa cách hay hay một sống một chết."
+        }
+      },
+      {
+        "star_id": "thái_dương",
+        "context_type": null,
+        "rules": {
+          "đơn_thủ_tại_mão_thìn_tỵ_ngọ": "vợ chồng hợp chung sống trong cảnh \nphú qúy vinh hiển cho đến lúc đầu bạc răng long.",
+          "đơn_thủ_tại_dậu_tuất_hợi_tý": "việc cưới xin hay trắc trở, có muộn \nđường hôn phối mới tránh được những sự chẳng lành.",
+          "cự_đồng_cung_tại_dần": "vợ chồng hay có sự bất hòa, nhưng chung sống \nđược với nhau trong cảnh giàu sang cho đến lúc mãn chiều xế bóng.",
+          "cự_đồng_cung_tại_thân": "muộn lập gia đình, may ra mới tránh được sự chia \nly.",
+          "nguyệt_đồng_cung": "nên muộn đường hôn phối, nếu không tất phải xa \nnhau nhưng cả hai đều qúy hiến, trai hay nể vợ, gái thường sợ chồng."
+        }
+      },
+      {
+        "star_id": "thiên_cơ",
+        "context_type": null,
+        "rules": {
+          "đơn_thủ_tại_tỵ_ngọ_mùi": "sớm lập gia đình, vợ chồng đều cương cường, \nnhưng chung sống được với nhau, cả hai đều có tài và khá giả, chồng nên là con \ntrưởng.",
+          "đơn_thủ_tại_hợi_tý_sửu": "nên muộn lập gia đình, cả hai không hợp tính \nnhau",
+          "lương_đồng_cung": "sớm gặp người hiền lương, lấy nhau dễ dàng, làm ăn \nkhá giả và thường là người quen thuộc trước hay có họ hàng xa với nhau. Trại \nlấy vợ đẹp, gái lấy chồng hiền và hòa hợp cho đến lúc mãn chiều xế bóng",
+          "cự_đồng_cung": "trai vợ đẹp, giàu sang, thao lược, gái lấy chồng tài giỏi, có danh \nchức. nhưng nên muộn đường hôn phối. Nếu không tất hay xảy ra những sự tranh \nchấp bất hòa, dễ đi đến chỗ chia ly.",
+          "nguyệt_đồng_cung_tại_thân": "vợ chồng đều tài giòi, khá giả, lấy nhau sớm, \ntrai hay nể vợ.",
+          "nguyệt_đồng_cung_tại_dần": "thường gặp trở ngại trong việc cưới hỏi, nên \nmuộn đường hôn phối để tránh những sự bất hòa hay xa cách nhau, cả hai đều có \ntài, trai thường sợ vợ."
+        }
+      },
+      {
+        "star_id": "thiên_phủ",
+        "context_type": null,
+        "rules": {
+          "đơn_thủ_tại_tỵ_hợi": "vợ chồng khá giả, hòa thuận đến lúc đầu bạc.",
+          "đơn_thủ_tại_sửu_mùi_mão_dậu": "vợ chồng chung sống sung túc, nhưng \nhay cãi lộn.",
+          "tử_đồng_cung": "hòa hợp trắng răng đến thuở bạc đầu, vợ chồng khá giả, \nchung hưởng giàu sang",
+          "liêm_đồng_cung": "nên muộn lập gia đình. Vợ chồng tính cương cường \nnhưng chung sống được với nhau đến lúc bạc đầu. Gia đình sung túc và thường \ncó danh giá.",
+          "vũ_đồng_cung": "vợ chồng đôi khi có sự bất hòa, nhưng chung hưởng giàu \nsang đến lúc bạc đầu."
+        }
+      },
+      {
+        "star_id": "thái_âm",
+        "context_type": null,
+        "rules": {
+          "đơn_thủ_tại_dậu_tuất_hợi": "vợ chồng đều qúy hiển, lấy nhau sớm, hòa \nthuận cho đến lúc đầu bạc. Trai lấy được vợ đẹp và giàu sang, thường nể vợ và \nđôi khi nhờ vợ mới có danh giá, của cải. Gái lấy được chồng hiền, đáng ngôi \nmệnh phụ đường đường.",
+          "đơn_thủ_tại_mão_thìn_tỵ": "vợ chồng hay bất hòa, trai lấy vợ lăng loàn, \ndâm đăng, gái lấy phải chồng bần tiện, bất nhân. Trong lúc cưới xin, gặp nhiều trở \nngại, nên muộn đường hôn phối để cố tránh những nỗi buồn khổ, chia ly.",
+          "đồng_đồng_cung_tại_tý": "cũng như trên, nhưng chồng hay nể vợ và được \nnhờ vợ nhiều.",
+          "đồng_đồng_cung_tại_ngọ": "muộn lập gia đình mới tránh được chia ly.",
+          "nhật_đồng_cung": "nên muộn đường hôn phối, nếu không tất phải xa nhau \nnhưng cả hai đều qúy hiến, trai hay nể vợ, gái thường sợ chồng.",
+          "cơ_đồng_cung_tại_thân": "vợ chồng đều tài giòi, khá giả, lấy nhau sớm, trai \nhay nể vợ.",
+          "cơ_đồng_cung_tại_dần": "thường gặp trở ngại trong việc cưới hỏi, nên muộn \nđường hôn phối để tránh những sự bất hòa hay xa cách nhau, cả hai đều có tài, \ntrai thường sợ vợ."
+        }
+      },
+      {
+        "star_id": "tham_lang",
+        "context_type": null,
+        "rules": {
+          "đơn_thủ_tại_thìn_tuất": "trai lấy được vợ giàu, tài giỏi nhưng hay ghen, gái \nlấy được chồng sang nhưng hay chơi bời. Nên muộn lập gia đình để tránh những \nhình khắc hay chia ly.",
+          "đơn_thủ_tại_dần_thân": "trai lấy phải vợ hay ghen và dâm đãng. Gái lấy \nphải chồng nghèo hay hoang đãng lưu manh. Nên muộn đường hôn phối, vì dễ \ngặp nhau để rồi lại dễ xa nhau, hay hình khắc nhau.",
+          "đơn_thủ_tại_tý_ngọ": "nhận xét như trên nhưng vợ nên là con gái trưởng.",
+          "tử_đồng_cung": "muộn lập gia đình mới mong được bách niên giai lao. \nNhưng dù sao chăng nữa, trong nhà cũng hay có sự bất hòa vì một trong hai \nngười hay ghen tuông.",
+          "liêm_đồng_cung": "vợ chồng ở với nhau hay sinh tai họa, dễ gặp nhau lại \ndễ bỏ nhau, nếu không cũng sớm khắc.",
+          "vũ_đồng_cung": "nên muộn lập gia đình, vợ chồng phải chênh lệch nhau \nnhiều tuổi. Cả hai đều tài giỏi đảm đang nhưng nếu sớm đường hôn phối tất bị \nhình khắc."
+        }
+      },
+      {
+        "star_id": "cự_môn",
+        "context_type": null,
+        "rules": {
+          "đơn_thủ_tại_tý_ngọ_hợi": "vợ chồng đẹp đôi, đều qúy hiến, nhưng hay bất \nhòa.",
+          "đơn_thủ_tại_thìn_tuất_tỵ": "vợ chồng bỏ nhau, trai hay gái đều hai hay ba \nlần lập gia đình.",
+          "đồng_đồng_cung": "bỏ nhau, nếu không cũng phải xa cách rất lâu rồi mỏi \nđoàn tụ, vợ chồng rất thông minh.",
+          "nhật_đồng_cung_tại_dần": "vợ chồng hay có sự bất hòa, nhưng chung sống \nđược với nhau trong cảnh giàu sang cho đến lúc mãn chiều xế bóng.",
+          "nhật_đồng_cung_tại_thân": "muộn lập gia đình, may ra mới tránh được sự \nchia ly.",
+          "cơ_đồng_cung": "trai vợ đẹp, giàu sang, thao lược, gái lấy chồng tài giỏi, có danh \nchức. nhưng nên muộn đường hôn phối. Nếu không tất hay xảy ra những sự tranh \nchấp bất hòa, dễ đi đến chỗ chia ly."
+        }
+      },
+      {
+        "star_id": "thiên_tướng",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Trai có Thiên Tướng tọa thủ tại cung Thê Thiếp nên nể vợ và vợ thường \nlà con gái trưởng. Gái có Thiên Tướng tọa thủ tại cung Phu Quân nên hay tìm \ncách lấn át chồng và chồng thường là con trai trưởng.",
+          "đơn_thủ_tại_tỵ_hợi_sửu_mùi": "nên muộn đường hôn phối đế tránh sự bất \nhòa hay xa cách. Trai lấy vợ được đẹp, khôn ngoan, có tài đảm đang, con nhà \nkhá giả. Gái lấy được chống có danh chức và giỏi dang. Chồng nên hơn vợ nhiều \ntuổi, nếu hai người có họ xa với nhau lại càng tốt đôi.",
+          "đơn_thủ_tại_mão_dậu": "nhiều trở ngại trong việc cưới xin. Nếu muộn lập \ngia đình mới tránh được mọi hình khắc, chia ly.",
+          "tử_đồng_cung": "vợ chồng đều cứng cỏi, ương ngạnh. Mới lấy nhau thường \nhòa hợp nhưng về sau lại hay có chuyện xích mích. Cả hai đều khá giả, chồng \nnên nhiều tuổi hơn vợ. Trai nên lấy vợ là trưởng nữ, gái nên lấy chồng là trưởng \nnam.",
+          "liêm_đồng_cung": "vợ chồng bất hòa, nếu không tử biệt cũng sinh ly.",
+          "vũ_đồng_cung": "đàn ông lấy được vợ đảm đang, tài giỏi và giàu, đàn bà \nlấy được chồng hiền và sang. Cả hai đều cương cường, lúc trẻ hòa thuận, về sau \nhay xích mích nhưng đều được hưởng phú qúy trọn vẹn."
+        }
+      },
+      {
+        "star_id": "thiên_lương",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Trai lấy vợ có nhan sắc, gái lấy chồng phong lưu.",
+          "đơn_thủ_tại_tỵ_ngọ": "vợ chồng lấy nhau sớm và dễ dàng, cả hai đều qúy \nhiển, trai nên lấy vợ là trưởng nữ, gái nên lấy chồng là trưởng nam",
+          "đơn_thủ_tại_tỵ_hợi": "dễ gặp nhau lại dễ xa nhau.",
+          "nhật_đồng_cung_tại_mão": "vợ chồng hợp chung sống trong cảnh phú qúy \nvinh hiển cho đến lúc đầu bạc răng long.",
+          "nhật_đồng_cung_tại_dậu": "việc cưới xin hay trắc trở, có muộn đường hôn \nphối mới tránh được những sự chẳng lành.",
+          "đồng_đồng_cung": "sớm lập gia đình, hai người thường có họ với nhau, \nnếu không cũng là cung của hai gia đình đã giao du thân mật với nhau từ lâu, vợ \nchồng đẹp đôi và giàu sang.",
+          "cơ_đồng_cung": "sớm gặp người hiền lương, lấy nhau dễ dàng, làm ăn khá \ngiả và thường là người quen thuộc trước hay có họ hàng xa với nhau. Trại lấy vợ \nđẹp, gái lấy chồng hiền và hòa hợp cho đến lúc mãn chiều xế bóng"
+        }
+      },
+      {
+        "star_id": "thất_sát",
+        "context_type": null,
+        "rules": {
+          "đơn_thủ_tại_dần_thân": "nên muộn đường hôn phối, trai lấy vợ tài giỏi \nnhưng hay ghen và thường là con gái trưởng, gái lấy chồng danh giá và thường là \ncon trai trưởng, cả hai đều cương cường.",
+          "đơn_thủ_tại_tý_ngọ": "cũng như trên, vợ chồng hay bất hòa, nếu sớm lập \ngia đình tất phải hình khắc hay chia ly.",
+          "đơn_thủ_tại_thìn_tuất": "trai hay gái phải hai ba lần lập gia đình, rất nhiều \ntai ương xảy ra trong cuộc sống chung",
+          "tử_đồng_cung": "tiên trở hậu thành mới tránh được hình khác, chia ly. \nNên muộn lập gia đình, như thế mới được hài lòng và được hưởng phú qúy trọn \nđời",
+          "liêm_đồng_cung": "hình khắc hay sinh ly, nên muộn lập gia đình để tránh \nmấy độ buồn thương.",
+          "vũ_đồng_cung": "hình khắc nhau rất thê thẳm, chồng chung sống với nhau \nhay sinh tai họa, để rồi xa cách hay hay một sống một chết."
+        }
+      },
+      {
+        "star_id": "phá_quân",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Trai lấy vợ hay ghen. Gái lấy chồng bất nghĩa.",
+          "đơn_thủ_tại_tý_ngọ": "tuy vợ chồng khá giả nhưng nên muộn đường hôn \nphối, nếu không trong đời tất có phen phải xa cách nhau.",
+          "đơn_thủ_tại_dần_thân": "hình khắc không thế tránh được, trai lấy phải vợ \nbất nhân, dâm đãng và lăng loàn, gái lấy phải chồng bất nghĩa, hoang đàng, chơi \nbời.",
+          "đơn_thủ_tại_thìn_tuất": "nên muộn lập gia đình, nếu không tất phải hai ba \nlần chắp nối đường tơ.",
+          "tử_đồng_cung": "phải hình khắc hay chia ly, sống chung với nhau tiếp hờn \ngiận, tiếng sắt cầm chẳng được thuận tai. Nên lấy vợ nhiều tuổi hơn.",
+          "liêm_đồng_cung": "vợ chồng bất hòa, hay xa cách nhau, sinh kế khó khăn.",
+          "vũ_đồng_cung": "vợ chồng đều thao lược nhưng nếu sớm gặp nhau tất \nphải hình khắc và ít nhất là hai lần lập gia đình."
+        }
+      },
+      {
+        "star_id": "sát_tinh",
+        "context_type": null,
+        "rules": {
+          "nhiều_sao_sáng_sủa_tốt_đẹp": "hay bất hòa, nếu cô phải chia ly cũng chi trong \nmột thời gian ngắn.",
+          "nhiều_sao_mờ_ám_xấu_xa": "cưới xin khó khăn, sự hình khắc chia ly càng \ndễ xảy đến, hung họa càng nhiều thêm. Trai lấy phải vợ bất nhân, dâm đãng, \nghen tuông, gái lấy phải chồng bất nghĩa, hoang đàng, qủy quyệt."
+        }
+      },
+      {
+        "star_id": "xương_khúc",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Trai lấy vợ đẹp, thông minh, có học và thường có vợ lẽ, nhân tình. Gái lấy \nchồng danh giá, phong lưu, có học thức. Vợ chồng chung sống thuận hòa."
+        }
+      },
+      {
+        "star_id": "khôi_việt",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Trai lấy vợ đẹp, có học, có của, thường là trưởng nữ, gái lấy chồng sang, \nthường là trưởng nam."
+        }
+      },
+      {
+        "star_id": "tả_hữu",
+        "context_type": null,
+        "rules": {
+          "nhiều_sao_sáng_sủa_tốt_đẹp": "cưới xin dễ dàng, khỏi cần mối lái hay lễ nghi \nphiền phức. Vợ chồng hòa thuận, giúp đỡ nhau trong nhiều đường đi nước bước.",
+          "nhiều_sao_mờ_ám_xấu_xa": "càng dễ hình khắc chia ly."
+        }
+      },
+      {
+        "star_id": "hóa_lộc",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Trai lấy vợ có của, gái lấy chồng giàu sang."
+        }
+      },
+      {
+        "star_id": "hóa_quyền",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Trai nể vợ, gái được chồng danh giá."
+        }
+      },
+      {
+        "star_id": "hóa_khoa",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Trai lấy được vợ có học thức, gái lấy chồng có danh chức."
+        }
+      },
+      {
+        "star_id": "hóa_kỵ",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Vợ chồng bất hòa."
+        }
+      },
+      {
+        "star_id": "lộc_tồn",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Nên chậm cưới để tránh sự bất hòa hay chia ly sau này."
+        }
+      },
+      {
+        "star_id": "thiên_mã",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Gặp nhau ở nơi xa mà nên duyên vợ chồng."
+        }
+      },
+      {
+        "star_id": "thái_tuế",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Hay có sự xích mích trong gia đình."
+        }
+      },
+      {
+        "star_id": "phục_binh",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Quen nhau, thường đi lại với nhau rồi mới cưới"
+        }
+      },
+      {
+        "star_id": "tướng_quân",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Cũng như trên nhưng trai sợ vợ vì vợ hay ghen. Gái tuy nể chồng, nhưng \nvẫn tìm cách để bắt nạt."
+        }
+      },
+      {
+        "star_id": "quang_qúy",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Vợ chồng vì ân tình mà lấy nhau."
+        }
+      },
+      {
+        "star_id": "song_hao",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Cưới xin quá dễ dàng, nếu gặp nhiều sao mờ ám xấu xa trai lấy vợ hoang \ntàng, gái lấy chồng chơi bời, cờ bạc và phá của."
+        }
+      },
+      {
+        "star_id": "cô_quả",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Vợ chồng bất hòa hay xa cách nhau."
+        }
+      },
+      {
+        "star_id": "đào_hồng",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Cưới xin dễ dàng, trai lấy vợ đẹp nhưng thường lại lấy thêm vợ lẽ hay có \nnhân tình để một chỗ khác, gái lấy chồng tài hoa nhưng hay gặp phải sự rắc rối \nvì tình. Đào, Hồng gặp nhiều sao mờ ám xấu xa vợ chồng rất dễ bỏ nhau, hay \nmột mất một còn."
+        }
+      },
+      {
+        "star_id": "đẩu_quân",
+        "context_type": null,
+        "rules": {
+          "nhiều_sao_sáng_sủa_tốt_đẹp": "vợ chồng hòa thuận, chung sống lâu bền.",
+          "nhiều_sao_mờ_ám_xấu_xa": "thường bị hình khắc tai ương."
+        }
+      },
+      {
+        "star_id": "thiên_riêu",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Cả hai vợ chồng đều bất chính và rất hoang đãng."
+        }
+      },
+      {
+        "star_id": "tuần_triệt_án_ngữ",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Nên muộn lập gia đình hay đi xa mà thành hôn phối, may ra mới tránh \nđược hình khắc. Thường ít nhất cũng phải hai ba độ buồn thương chia cách."
+        }
+      },
+      {
+        "star_id": "phá_quân_tuần_triệt_án_ngữ",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Ba lần lập gia đình."
+        }
+      },
+      {
+        "star_id": "cự_hỏa_linh",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Mối lái rất nhiều nhưng vẫn khó tìm hôn phối."
+        }
+      },
+      {
+        "star_id": "phu_quân_có_cự_kỵ_mệnh_có_cô_qủa_kình_đà_linh_tử_tức_có",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Tràng Sinh \nGái lấy nhiều chồng và có nhiều con."
+        }
+      },
+      {
+        "star_id": "tham_sát_tinh",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Trai hại vợ, gái hại chồng."
+        }
+      },
+      {
+        "star_id": "thiên_tướng_đào_hồng_đồng_cung",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Trai lấy vợ đẹp, khá giả, gái lấy chồng hiền, danh giá."
+        }
+      },
+      {
+        "star_id": "tham_đà_đồng_cung",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Trai lấy vợ hoang đãng, gái lấy chồng ham mê tửu sắc, chơi bời."
+        }
+      },
+      {
+        "star_id": "sát_đà_riêu_dưỡng_linh_hỏa",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Trai giết vợ, gái giết chồng."
+        }
+      },
+      {
+        "star_id": "kiếp_kỵ",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Vợ chồng hại nhau."
+        }
+      },
+      {
+        "star_id": "kỵ_đà_hồng_đào",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Yêu nhau nhưng vẫn tìm cách lừa dối nhau. Vợ trăng hoa, ong bướm, chồng \nngoại tình"
+        }
+      },
+      {
+        "star_id": "kỵ_riêu",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Trai lấy vợ dâm đãng, loang toàng, gái lấy chồng chơi bời, nhiều ngoại tình."
+        }
+      },
+      {
+        "star_id": "kỵ_phục_cung_chiếu",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Vợ chồng ghét nhau, tìm cách bôi nhọ lẫn nhau."
+        }
+      },
+      {
+        "star_id": "lộc_hồng_đồng_cung",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Trai lấy vợ cỏ của."
+        }
+      },
+      {
+        "star_id": "lộc_phượng_long",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Trai lấy vợ rất giàu."
+        }
+      },
+      {
+        "star_id": "lộc_mã_thanh_long",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Lấy nhau dễ dàng, thường gặp nhau ở xa mà nên duyên vợ chồng, rất khá \ngiả và hòa thuận."
+        }
+      },
+      {
+        "star_id": "đào_hoa_thai_đồng_cung_hay_xung_chiếu",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Vợ chồng hay đi lại, hay có con riêng rồi mới lấy nhau."
+        }
+      },
+      {
+        "star_id": "đào_hồng_cái",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Bỏ nhau vì những nguyên nhân loạn dâm hay ngoại tình."
+        }
+      },
+      {
+        "star_id": "hồng_đào_kỵ",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Vừa bỏ nhau hay vừa góa đã có người muốn lui tới cầu xin kết nghĩa trăm \nnăm."
+        }
+      },
+      {
+        "star_id": "đào_riêu",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Trai lấy vợ bất chính hay có ngoại tình, gái lấy chồng loạn dâm, nhiều vợ lẽ."
+        }
+      },
+      {
+        "star_id": "mộc_cái",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Trai lấy vợ rất dâm dật, gái lấy chồng hoang đãng."
+        }
+      },
+      {
+        "star_id": "đào_hồng_tả_hữu",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Trai nhiều vợ, nhưng cả lẽ rất thuận hòa. Gái thường dễ lấy chồng lại dễ bỏ \nchồng."
+        }
+      }
+    ],
+    "source_content": "Xem cung Thê Thiếp (Phu Quân) để biết rõ những điều có liên quan đến vợ \nchồng, đến việc lập gia đình và hạnh phúc của cả một đời. \nTrước khi nhận xét những ảnh hưởng của các sao thuộc cung Thê Thiếp \n(Phu Quân), phải \nluận đoán cẩn thận cung Mệnh, Thân, Phúc Đức, Quan Lộc và Nô Bộc, Phải cân \nnhắc những sự tốt \nxấu của mỗi cung, đoạn phối hợp với cung Thê Thiếp (Phu Quân) để luận đoán \ncho thật tinh vi. \nCung Mệnh, Thân, Phức Đức sáng sủa tốt đẹp, thường giải trừ được khá \nnhiều những hình khắc đau thương, hay những cảnh chia ly tan nát, hay những \ntiếng đàn ngang cung gây ra bởi ảnh hưởng cua những sao ác độc mờ ám thuộc \ncung Thê Thiếp (Phu Quân). \nNếu chẳng may phải lập gia đình tới lần thứ hai, hay hơn nữa lần thứ ba, \nthứ tư... thì nên xem kỹ Quan Lộc và cung Nô Bộc đế tìm hiểu tương lai và hạnh \nphúc. \n14.1. Tử Vi \n- Đơn thủ tại Ngọ, Phủ đồng cung: hòa hợp trắng răng đến thuở bạc đầu. \nVợ chồng đều khá giả, chung hưởng giàu sang \n- Đơn thủ tại Tý: bình thường. \n- Tướng đồng cung: vợ chồng đều cứng cỏi, ương ngạnh. Mới lấy nhau \nthường hòa hợp nhưng về sau lại hay có chuyện xích mích. Cả hai đều khá giả, \nchồng nên nhiều tuổi hơn vợ. Trai nên lấy vợ là trưởng nữ, gái nên lấy chồng là \ntrưởng nam. \n- Sát đồng cung: tiên trở hậu thành mới tránh được hình khác, chia ly. \nNên muộn lập gia đình, như thế mới được hài lòng và được hưởng phú qúy trọn \nđời \n- Phá đồng cung: phải hình khắc hay chia ly, sống chung với nhau tiếp hờn \ngiận, tiếng sắt cầm chẳng được thuận tai. Nên lấy vợ nhiều tuổi hơn. \n- Tham đồng cung: muộn lập gia đình mới mong được bách niên giai \nlao. Nhưng dù sao chăng nữa, trong nhà cũng hay có sự bất hòa vì một trong hai \nngười hay ghen tuông. \n14.2. Liêm Trinh \n- Đơn thủ tại Dần, Thân: ba lần lập gia đình, trai lấy vợ khó, gái lấy chồng \nnghèo. \n- Phủ đồng cung: nên muộn lập gia đình. Vợ chồng tính cương cường \nnhưng chung sống được với nhau đến lúc bạc đầu. Gia đình sung túc và thường \ncó danh giá. \n- Tướng đồng cung: vợ chồng bất hòa, nếu không tử biệt cũng sinh ly. \n- Sát đồng cung: hình khắc hay sinh ly, nên muộn lập gia đình để tránh mấy \nđộ buồn thương. \n- Phá đồng cung: vợ chồng bất hòa, hay xa cách nhau, sinh kế khó khăn. \n- Tham đồng cung: vợ chồng ở với nhau hay sinh tai họa, dễ gặp nhau lại \ndễ bỏ nhau, nếu không cũng sớm khắc. \n14.3. Thiên Đồng \n- Đơn thủ tại Mão: chậm cưới mới được dễ dàng mọi sự và chung sống với \nnhau đến lúc bạc đầu, vợ đẹp và hiền. Chồng nên là cung trưởng, vợ nên là cung \nthứ. \n- Đơn thủ tại Dậu: hay có sự bất hòa trong gia đình, thường phải xa cách \nnhau. \n- Đơn thủ tại Tỵ: dễ gặp nhau lại dễ xa nhau \n- Đơn thủ tại Thìn, Tuất: vợ chồng hay cãi lộn, nếu không tử biệt cũng sinh \nly. \n- Lương đồng cung: sớm lập gia đình, hai người thường có họ với nhau, \nnếu không cũng là cung của hai gia đình đã giao du thân mật với nhau từ lâu, vợ \nchồng đẹp đôi và giàu sang. \n- Nguyệt đồng cung tại Tý: cũng như trên, nhưng chồng hay nể vợ và được \nnhờ vợ nhiều. \n- Nguyệt đồng cung tại Ngọ: muộn lập gia đình mới tránh được chia ly. \n- Cự đồng cung: bỏ nhau, nếu không cũng phải xa cách rất lâu rồi mới \nđoàn tụ, vợ chồng rất thông minh. \n14.4. Vũ Khúc \n- Đơn thủ tại Thìn, Tuất: nên muộn lập gia đình, và lấy người bằng tuổi \n(hay gần bằng tuổi nhau). Đàn ông nhờ vụ mà có tiền còn đàn bà nhờ chồng mà \nđược hưởng giàu sang. \n- Phủ đồng cung: vợ chồng đôi khi có sự bất hòa, nhưng chung hưởng giàu \nsang đến lúc bạc đầu. \n- Tướng đồng cung: đàn ông lấy được vợ đảm đang, tài giỏi và giàu, đàn bà \nlấy được chồng hiền và sang. Cả hai đều cương cường, lúc trẻ hòa thuận, về sau \nhay xích mích nhưng đều được hưởng phú qúy trọn vẹn. \n- Tham đồng cung: nên muộn lập gia đình, vợ chồng phải chênh lệch nhau \nnhiều tuổi. Cả hai đều tài giỏi đảm đang nhưng nếu sớm đường hôn phối tất bị \nhình khắc. \n- Phá đồng cung: vợ chồng đều thao lược nhưng nếu sớm gặp nhau tất \nphải hình khắc và ít nhất là hai lần lập gia đình. \n- Sát đồng cung: hình khắc nhau rất thê thẳm, chồng chung sống với nhau \nhay sinh tai họa, để rồi xa cách hay hay một sống một chết. \n14.5. Thái Dương \n- Đơn thủ tại Mão, Thìn, Tỵ, Ngọ: vợ chồng hợp chung sống trong cảnh \nphú qúy vinh hiển cho đến lúc đầu bạc răng long. \n- Đơn thủ tại Dậu, Tuất, Hợi, Tý: việc cưới xin hay trắc trở, có muộn \nđường hôn phối mới tránh được những sự chẳng lành. \n- Cự đồng cung tại Dần: vợ chồng hay có sự bất hòa, nhưng chung sống \nđược với nhau trong cảnh giàu sang cho đến lúc mãn chiều xế bóng. \n- Cự đồng cung tại Thân: muộn lập gia đình, may ra mới tránh được sự chia \nly. \n- Nguyệt đồng cung: nên muộn đường hôn phối, nếu không tất phải xa \nnhau nhưng cả hai đều qúy hiến, trai hay nể vợ, gái thường sợ chồng. \n14.6. Thiên Cơ \n- Đơn thủ tại Tỵ. Ngọ. Mùi: sớm lập gia đình, vợ chồng đều cương cường, \nnhưng chung sống được với nhau, cả hai đều có tài và khá giả, chồng nên là con \ntrưởng. \n- Đơn thủ tại Hợi, Tý, Sửu: nên muộn lập gia đình, cả hai không hợp tính \nnhau \n- Lương đồng cung: sớm gặp người hiền lương, lấy nhau dễ dàng, làm ăn \nkhá giả và thường là người quen thuộc trước hay có họ hàng xa với nhau. Trại \nlấy vợ đẹp, gái lấy chồng hiền và hòa hợp cho đến lúc mãn chiều xế bóng \n- Cự đồng cung: trai vợ đẹp, giàu sang, thao lược, gái lấy chồng tài giỏi, có danh \nchức. nhưng nên muộn đường hôn phối. Nếu không tất hay xảy ra những sự tranh \nchấp bất hòa, dễ đi đến chỗ chia ly. \n- Nguyệt đồng cung tại Thân: vợ chồng đều tài giòi, khá giả, lấy nhau sớm, \ntrai hay nể vợ. \n- Nguyệt đồng cung tại Dần: thường gặp trở ngại trong việc cưới hỏi, nên \nmuộn đường hôn phối để tránh những sự bất hòa hay xa cách nhau, cả hai đều có \ntài, trai thường sợ vợ. \n14.7. Thiên Phủ \n- Đơn thủ tại Tỵ, Hợi: vợ chồng khá giả, hòa thuận đến lúc đầu bạc. \n- Đơn thủ tại Sửu, Mùi, Mão, Dậu: vợ chồng chung sống sung túc, nhưng \nhay cãi lộn. \n- Tử đồng cung: hòa hợp trắng răng đến thuở bạc đầu, vợ chồng khá giả, \nchung hưởng giàu sang \n- Liêm đồng cung: nên muộn lập gia đình. Vợ chồng tính cương cường \nnhưng chung sống được với nhau đến lúc bạc đầu. Gia đình sung túc và thường \ncó danh giá. \n- Vũ đồng cung: vợ chồng đôi khi có sự bất hòa, nhưng chung hưởng giàu \nsang đến lúc bạc đầu. \n14.8. Thái Âm \n- Đơn thủ tại Dậu, Tuất, Hợi: vợ chồng đều qúy hiển, lấy nhau sớm, hòa \nthuận cho đến lúc đầu bạc. Trai lấy được vợ đẹp và giàu sang, thường nể vợ và \nđôi khi nhờ vợ mới có danh giá, của cải. Gái lấy được chồng hiền, đáng ngôi \nmệnh phụ đường đường. \n- Đơn thủ tại Mão, Thìn, Tỵ : vợ chồng hay bất hòa, trai lấy vợ lăng loàn, \ndâm đăng, gái lấy phải chồng bần tiện, bất nhân. Trong lúc cưới xin, gặp nhiều trở \nngại, nên muộn đường hôn phối để cố tránh những nỗi buồn khổ, chia ly. \n- Đồng đồng cung tại Tý: cũng như trên, nhưng chồng hay nể vợ và được \nnhờ vợ nhiều. \n- Đồng đồng cung tại Ngọ: muộn lập gia đình mới tránh được chia ly. \n- Nhật đồng cung: nên muộn đường hôn phối, nếu không tất phải xa nhau \nnhưng cả hai đều qúy hiến, trai hay nể vợ, gái thường sợ chồng. \n- Cơ đồng cung tại Thân: vợ chồng đều tài giòi, khá giả, lấy nhau sớm, trai \nhay nể vợ. \n- Cơ đồng cung tại Dần: thường gặp trở ngại trong việc cưới hỏi, nên muộn \nđường hôn phối để tránh những sự bất hòa hay xa cách nhau, cả hai đều có tài, \ntrai thường sợ vợ. \n14.9. Tham Lang \n- Đơn thủ tại Thìn, Tuất: trai lấy được vợ giàu, tài giỏi nhưng hay ghen, gái \nlấy được chồng sang nhưng hay chơi bời. Nên muộn lập gia đình để tránh những \nhình khắc hay chia ly. \n- Đơn thủ tại Dần, Thân: trai lấy phải vợ hay ghen và dâm đãng. Gái lấy \nphải chồng nghèo hay hoang đãng lưu manh. Nên muộn đường hôn phối, vì dễ \ngặp nhau để rồi lại dễ xa nhau, hay hình khắc nhau. \n- Đơn thủ tại Tý, Ngọ: nhận xét như trên nhưng vợ nên là con gái trưởng. \n- Tử đồng cung: muộn lập gia đình mới mong được bách niên giai lao. \nNhưng dù sao chăng nữa, trong nhà cũng hay có sự bất hòa vì một trong hai \nngười hay ghen tuông. \n- Liêm đồng cung: vợ chồng ở với nhau hay sinh tai họa, dễ gặp nhau lại \ndễ bỏ nhau, nếu không cũng sớm khắc. \n- Vũ đồng cung: nên muộn lập gia đình, vợ chồng phải chênh lệch nhau \nnhiều tuổi. Cả hai đều tài giỏi đảm đang nhưng nếu sớm đường hôn phối tất bị \nhình khắc. \n14.10. Cự Môn \n- Đơn thủ tại Tý, Ngọ, Hợi: vợ chồng đẹp đôi, đều qúy hiến, nhưng hay bất \nhòa. \n- Đơn thủ tại Thìn, Tuất, Tỵ: vợ chồng bỏ nhau, trai hay gái đều hai hay ba \nlần lập gia đình. \n- Đồng đồng cung: bỏ nhau, nếu không cũng phải xa cách rất lâu rồi mỏi \nđoàn tụ, vợ chồng rất thông minh. \n- Nhật đồng cung tại Dần: vợ chồng hay có sự bất hòa, nhưng chung sống \nđược với nhau trong cảnh giàu sang cho đến lúc mãn chiều xế bóng. \n- Nhật đồng cung tại Thân: muộn lập gia đình, may ra mới tránh được sự \nchia ly. \n- Cơ đồng cung: trai vợ đẹp, giàu sang, thao lược, gái lấy chồng tài giỏi, có danh \nchức. nhưng nên muộn đường hôn phối. Nếu không tất hay xảy ra những sự tranh \nchấp bất hòa, dễ đi đến chỗ chia ly. \n14.11. Thiên Tướng \n- Trai có Thiên Tướng tọa thủ tại cung Thê Thiếp nên nể vợ và vợ thường \nlà con gái trưởng. Gái có Thiên Tướng tọa thủ tại cung Phu Quân nên hay tìm \ncách lấn át chồng và chồng thường là con trai trưởng. \n- Đơn thủ tại Tỵ, Hợi, Sửu, Mùi: nên muộn đường hôn phối đế tránh sự bất \nhòa hay xa cách. Trai lấy vợ được đẹp, khôn ngoan, có tài đảm đang, con nhà \nkhá giả. Gái lấy được chống có danh chức và giỏi dang. Chồng nên hơn vợ nhiều \ntuổi, nếu hai người có họ xa với nhau lại càng tốt đôi. \n- Đơn thủ tại Mão, Dậu: nhiều trở ngại trong việc cưới xin. Nếu muộn lập \ngia đình mới tránh được mọi hình khắc, chia ly. \n- Tử đồng cung: vợ chồng đều cứng cỏi, ương ngạnh. Mới lấy nhau thường \nhòa hợp nhưng về sau lại hay có chuyện xích mích. Cả hai đều khá giả, chồng \nnên nhiều tuổi hơn vợ. Trai nên lấy vợ là trưởng nữ, gái nên lấy chồng là trưởng \nnam. \n- Liêm đồng cung: vợ chồng bất hòa, nếu không tử biệt cũng sinh ly. \n- Vũ đồng cung: đàn ông lấy được vợ đảm đang, tài giỏi và giàu, đàn bà \nlấy được chồng hiền và sang. Cả hai đều cương cường, lúc trẻ hòa thuận, về sau \nhay xích mích nhưng đều được hưởng phú qúy trọn vẹn. \n14.12. Thiên Lương \n- Trai lấy vợ có nhan sắc, gái lấy chồng phong lưu. \n- Đơn thủ tại Tỵ, Ngọ: vợ chồng lấy nhau sớm và dễ dàng, cả hai đều qúy \nhiển, trai nên lấy vợ là trưởng nữ, gái nên lấy chồng là trưởng nam \n- Đơn thủ tại Tỵ, Hợi: dễ gặp nhau lại dễ xa nhau. \n- Nhật đồng cung tại Mão: vợ chồng hợp chung sống trong cảnh phú qúy \nvinh hiển cho đến lúc đầu bạc răng long. \n- Nhật đồng cung tại Dậu: việc cưới xin hay trắc trở, có muộn đường hôn \nphối mới tránh được những sự chẳng lành. \n- Đồng đồng cung: sớm lập gia đình, hai người thường có họ với nhau, \nnếu không cũng là cung của hai gia đình đã giao du thân mật với nhau từ lâu, vợ \nchồng đẹp đôi và giàu sang. \n- Cơ đồng cung: sớm gặp người hiền lương, lấy nhau dễ dàng, làm ăn khá \ngiả và thường là người quen thuộc trước hay có họ hàng xa với nhau. Trại lấy vợ \nđẹp, gái lấy chồng hiền và hòa hợp cho đến lúc mãn chiều xế bóng \n14.13. Thất Sát \n- Đơn thủ tại Dần, Thân: nên muộn đường hôn phối, trai lấy vợ tài giỏi \nnhưng hay ghen và thường là con gái trưởng, gái lấy chồng danh giá và thường là \ncon trai trưởng, cả hai đều cương cường. \n- Đơn thủ tại Tý, Ngọ: cũng như trên, vợ chồng hay bất hòa, nếu sớm lập \ngia đình tất phải hình khắc hay chia ly. \n- Đơn thủ tại Thìn, Tuất: trai hay gái phải hai ba lần lập gia đình, rất nhiều \ntai ương xảy ra trong cuộc sống chung \n- Tử đồng cung: tiên trở hậu thành mới tránh được hình khác, chia ly. \nNên muộn lập gia đình, như thế mới được hài lòng và được hưởng phú qúy trọn \nđời \n- Liêm đồng cung: hình khắc hay sinh ly, nên muộn lập gia đình để tránh \nmấy độ buồn thương. \n- Vũ đồng cung: hình khắc nhau rất thê thẳm, chồng chung sống với nhau \nhay sinh tai họa, để rồi xa cách hay hay một sống một chết. \n14.14. Phá Quân \n- Trai lấy vợ hay ghen. Gái lấy chồng bất nghĩa. \n- Đơn thủ tại Tý, Ngọ: tuy vợ chồng khá giả nhưng nên muộn đường hôn \nphối, nếu không trong đời tất có phen phải xa cách nhau. \n- Đơn thủ tại Dần, Thân: hình khắc không thế tránh được, trai lấy phải vợ \nbất nhân, dâm đãng và lăng loàn, gái lấy phải chồng bất nghĩa, hoang đàng, chơi \nbời. \n- Đơn thủ tại Thìn, Tuất: nên muộn lập gia đình, nếu không tất phải hai ba \nlần chắp nối đường tơ. \n- Tử đồng cung: phải hình khắc hay chia ly, sống chung với nhau tiếp hờn \ngiận, tiếng sắt cầm chẳng được thuận tai. Nên lấy vợ nhiều tuổi hơn. \n- Liêm đồng cung: vợ chồng bất hòa, hay xa cách nhau, sinh kế khó khăn. \n- Vũ đồng cung: vợ chồng đều thao lược nhưng nếu sớm gặp nhau tất \nphải hình khắc và ít nhất là hai lần lập gia đình. \n14.14. Sát Tinh \n- Nhiều sao sáng sủa tốt đẹp: hay bất hòa, nếu cô phải chia ly cũng chi trong \nmột thời gian ngắn. \n- Nhiều sao mờ ám xấu xa: cưới xin khó khăn, sự hình khắc chia ly càng \ndễ xảy đến, hung họa càng nhiều thêm. Trai lấy phải vợ bất nhân, dâm đãng, \nghen tuông, gái lấy phải chồng bất nghĩa, hoang đàng, qủy quyệt. \n14.16. Xương, Khúc \nTrai lấy vợ đẹp, thông minh, có học và thường có vợ lẽ, nhân tình. Gái lấy \nchồng danh giá, phong lưu, có học thức. Vợ chồng chung sống thuận hòa. \n14.17. Khôi, Việt \nTrai lấy vợ đẹp, có học, có của, thường là trưởng nữ, gái lấy chồng sang, \nthường là trưởng nam. \n14.18. Tả, Hữu \n- Nhiều sao sáng sủa tốt đẹp: cưới xin dễ dàng, khỏi cần mối lái hay lễ nghi \nphiền phức. Vợ chồng hòa thuận, giúp đỡ nhau trong nhiều đường đi nước bước. \n- Nhiều sao mờ ám xấu xa: càng dễ hình khắc chia ly. \n14.19. Hóa Lộc \nTrai lấy vợ có của, gái lấy chồng giàu sang. \n14.20. Hóa Quyền \nTrai nể vợ, gái được chồng danh giá. \n14.21. Hóa Khoa \nTrai lấy được vợ có học thức, gái lấy chồng có danh chức. \n14.22. Hóa Kỵ \nVợ chồng bất hòa. \n14.23. Lộc Tồn \nNên chậm cưới để tránh sự bất hòa hay chia ly sau này. \n14.24. Thiên Mã \nGặp nhau ở nơi xa mà nên duyên vợ chồng. \n14.25. Thái Tuế \nHay có sự xích mích trong gia đình. \n14.26. Phục Binh \nQuen nhau, thường đi lại với nhau rồi mới cưới \n14.27. Tướng Quân \nCũng như trên nhưng trai sợ vợ vì vợ hay ghen. Gái tuy nể chồng, nhưng \nvẫn tìm cách để bắt nạt. \n14.28. Quang, Qúy \nVợ chồng vì ân tình mà lấy nhau. \n14.29. Song Hao \nCưới xin quá dễ dàng, nếu gặp nhiều sao mờ ám xấu xa trai lấy vợ hoang \ntàng, gái lấy chồng chơi bời, cờ bạc và phá của. \n14.30. Cô, Quả \nVợ chồng bất hòa hay xa cách nhau. \n14.31. Đào, Hồng \nCưới xin dễ dàng, trai lấy vợ đẹp nhưng thường lại lấy thêm vợ lẽ hay có \nnhân tình để một chỗ khác, gái lấy chồng tài hoa nhưng hay gặp phải sự rắc rối \nvì tình. Đào, Hồng gặp nhiều sao mờ ám xấu xa vợ chồng rất dễ bỏ nhau, hay \nmột mất một còn. \n14.32. Đẩu Quân \n- Nhiều sao sáng sủa tốt đẹp: vợ chồng hòa thuận, chung sống lâu bền. \n- Nhiều sao mờ ám xấu xa: thường bị hình khắc tai ương. \n14.33. Thiên Riêu \nCả hai vợ chồng đều bất chính và rất hoang đãng. \n14.34. Tuần, Triệt án ngữ \nNên muộn lập gia đình hay đi xa mà thành hôn phối, may ra mới tránh \nđược hình khắc. Thường ít nhất cũng phải hai ba độ buồn thương chia cách. \n14.35. Phá Quân, Tuần, Triệt án ngữ \nBa lần lập gia đình. \n14.36. Cự, Hỏa, Linh \nMối lái rất nhiều nhưng vẫn khó tìm hôn phối. \n14.37. Phu Quân có Cự, Kỵ - Mệnh có Cô, Qủa, Kình, Đà, Linh - Tử Tức có \nTràng Sinh \nGái lấy nhiều chồng và có nhiều con. \n14.38. Tham, Sát Tinh \nTrai hại vợ, gái hại chồng. \n14.39. Thiên Tướng, Đào, Hồng đồng cung \nTrai lấy vợ đẹp, khá giả, gái lấy chồng hiền, danh giá. \n14.40. Tham, Đà đồng cung \nTrai lấy vợ hoang đãng, gái lấy chồng ham mê tửu sắc, chơi bời. \n14.41. Sát, Đà, Riêu, Dưỡng, Linh, Hỏa \nTrai giết vợ, gái giết chồng. \n14.42. Kiếp, Kỵ \nVợ chồng hại nhau. \n14.43. Kỵ, Đà, Hồng, Đào \nYêu nhau nhưng vẫn tìm cách lừa dối nhau. Vợ trăng hoa, ong bướm, chồng \nngoại tình \n14.44. Kỵ, Riêu \nTrai lấy vợ dâm đãng, loang toàng, gái lấy chồng chơi bời, nhiều ngoại tình. \n14.45. Kỵ, Phục cung chiếu \nVợ chồng ghét nhau, tìm cách bôi nhọ lẫn nhau. \n14.46. Lộc, Hồng đồng cung \nTrai lấy vợ cỏ của. \n14.47. Lộc, Phượng, Long \nTrai lấy vợ rất giàu. \n14.48. Lộc, Mã, Thanh Long \nLấy nhau dễ dàng, thường gặp nhau ở xa mà nên duyên vợ chồng, rất khá \ngiả và hòa thuận. \n14.49. Đào Hoa, Thai đồng cung hay xung chiếu \nVợ chồng hay đi lại, hay có con riêng rồi mới lấy nhau. \n14.50. Đào, Hồng, Cái \nBỏ nhau vì những nguyên nhân loạn dâm hay ngoại tình. \n14.51. Hồng, Đào, Kỵ \nVừa bỏ nhau hay vừa góa đã có người muốn lui tới cầu xin kết nghĩa trăm \nnăm. \n14.52. Đào, Riêu \nTrai lấy vợ bất chính hay có ngoại tình, gái lấy chồng loạn dâm, nhiều vợ lẽ. \n14.53. Mộc, Cái \nTrai lấy vợ rất dâm dật, gái lấy chồng hoang đãng. \n14.54. Đào, Hồng, Tả, Hữu \nTrai nhiều vợ, nhưng cả lẽ rất thuận hòa. Gái thường dễ lấy chồng lại dễ bỏ \nchồng."
+  }
+}

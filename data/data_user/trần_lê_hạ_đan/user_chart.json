@@ -1,0 +1,13 @@
+{
+  "user_id": "u_123",
+  "full_name": "Trần Lê Hạ Đan",
+  "gender": "Nữ",
+  "dob_solar": "2005-07-21T10:20:00",
+  "dob_lunar": {
+    "year": "Ất Dậu",
+    "month": 6,
+    "day": 16,
+    "hour": "Tỵ"
+  },
+  "am_duong_gender": "Âm Nữ"
+}

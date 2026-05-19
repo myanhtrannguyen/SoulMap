@@ -1,0 +1,416 @@
+{
+  "Cung_quan_loc": {
+    "name": "cung_quan_lộc",
+    "description": "Xem cung Quan Lộc để biết rõ công danh, sự nghiệp, cũng như là khả năng chuyên môn.",
+    "stars": [
+      {
+        "star_id": "tử_vi",
+        "context_type": null,
+        "rules": {
+          "đơn_thủ_tại_ngọ_phủ_đồng_cung": "công danh hiến hách, phú qúy song \ntoàn.",
+          "đơn_thủ_tại_tý": "bình thường.",
+          "tướng_đồng_cung": "văn võ toàn tài trước nhỏ sau lớn. Có tài tổ chức, \nnhiều mánh lới, thủ đoạn, hay lấn quyền người trên",
+          "sát_đồng_cung": "có uy quyền, nên chuyên về quân sự",
+          "phá_đồng_cung": "thành công trong võ nghiệp nhưng thăng giáng thất \nthường. Nếu đi buôn cũng phát đạt.",
+          "tham_đồng_cung": "bình thường. Nếu công danh rực rỡ, tất sinh tai họa."
+        }
+      },
+      {
+        "star_id": "liêm_trinh",
+        "context_type": null,
+        "rules": {
+          "đơn_thủ_tại_dần_thân": "võ nghiệp hiến đạt, có uy quyền kiêm nhiếp cả \nviệc chính trị, được nhiều người kính nể.",
+          "phủ_đồng_cung": "phú qúy song toàn, lập được nhiều chiến công, có uy \nquyền hiển hách.",
+          "tướng_đồng_cung": "văn võ kiêm toàn, được hưởng giàu sang, được nhiều \nngười kính nể.",
+          "sát_đồng_cung": "chuyên về quân sự nhưng thăng giáng thất thường, nhanh \nlên để rồi chóng xuống. Trong cái may thường chứa đựng nhiều cái rủi, tai họa \nđi liền với lợi danh. Nếu kinh doanh, buôn bán hay chuyên về kỹ nghệ, cũng \nphát đạt và được yên thân.",
+          "phá_đồng_cung": "nên chuyên về kỹ nghệ, hay thương mại. Nếu chen chân \nvào đường công danh, tất chẳng được xứng ý toại lòng, suốt đời hậm hực.",
+          "tham_đồng_cung": "có võ chức, nhưng nhỏ thấp. Trên đường công danh \nthường gặp nhiều trở ngại, tai ương, nhất là hình ngục. Chỉ có lánh mình ra khỏi \nchỗ lợi danh, mới được an toàn."
+        }
+      },
+      {
+        "star_id": "thiên_đồng",
+        "context_type": null,
+        "rules": {
+          "đơn_thủ_tại_mão": "văn võ kiêm toàn nhưng hay thay đổi công việc.",
+          "đơn_thủ_tại_dậu": "công danh muộn màng, chức vị nhỏ thấp, lại hay thay \nđổi, thăng giáng. Nên chuyên về thương mại hay kỹ nghệ.",
+          "đơn_thú_tại_tỵ_hợi": "công danh phú qúy như đám mây nổi, làm việc hay \nchóng chán, thích di chuyển. Nên làm công việc có tính cách lưu động.",
+          "đơn_thủ_tại_thìn_tuất": "công việc di chuyển luôn luôn, công danh trước \nnhỏ sau lớn, có tài ăn nói và luận lý.",
+          "nguyệt_đồng_cung_tại_tý": "công danh hiển hách, có tài can gián người trên",
+          "nguyệt_đồng_cung_tại_ngọ": "nên chuyên về kỹ nghệ hay doanh thương.",
+          "lương_đồng_cung": "phú qúy song toàn, rất nổi tiếng nếu chuyên về y \nkhoa hay sư phạm. Bước vào trường chính trị cũng toại lòng.",
+          "cự_đồng_cung": "rất chật vật trong đường công danh, phải nhờ người trên \ndìu dắt, giúp đỡ, hay mắc thị phi hình sự."
+        }
+      },
+      {
+        "star_id": "vũ_khúc",
+        "context_type": null,
+        "rules": {
+          "đơn_thủ_tại_thìn_tuất": "võ nghiệp hiển đạt, nếu chuyên về doanh thương, \ncũng có nhiều tài lộc",
+          "phủ_đồng_cung": "công danh hoạnh đạt, văn võ kiêm toàn, có chức vụ thuộc \nvề tài chánh hay kinh tế.",
+          "tướng_đồng_cung": "bước vào đường công danh cũng được toại lòng. Nếu \nkhông, buôn bán kinh doanh cũng sớm trở nên giàu có.",
+          "sát_đồng_cung": "võ nghiệp hiển đạt, thường trọng trấn ở nơi xa, lập được \nnhiều chiến công, nhưng thăng giáng thất thường.",
+          "phá_đồng_cung": "xuất thân bằng võ nghiệp, nhưng rất chật vật. Nếu kinh \ndoanh buôn bán, rất được xứng ý toại lòng.",
+          "tham_đồng_cung": "giàu có và thành công trong việc kinh doanh, buôn \nbán. Nếu có danh chức, cũng chỉ sau một thời gian ngắn lại trở về thương \ntrường. Lúc thiếu thời mọi sự chẳng được hành thông, từ 30 tuổi trở đi, mới \nđược xứng ý toại lòng."
+        }
+      },
+      {
+        "star_id": "thái_dương",
+        "context_type": null,
+        "rules": {
+          "đơn_thủ_tại_tý_ngọ": "công danh sớm đạt, văn võ kiêm toàn",
+          "đơn_thủ_tại_thìn": "cũng như trên nhưng thường bị nhiều người ghen ghét \nvà hay bị bó buộc vào những công việc không hợp với chí hướng.",
+          "đơn_thủ_tại_tý": "công danh muộn màng, có tài ăn nói, văn chương lỗi lạc",
+          "đơn_thủ_tại_tuất_hợi": "gặp nhiều trở ngại trên đường công danh, lúc \nthiếu thời lật đật vất vả, đến khi nhiều tuổi mới được xứng ý toại lòng. Có tài, \nnhưng không gặp cơ hội đi thi thố, nên suốt đời hậm hực. Tuy vậy, vẫn được \nnhiều người kính trọng vì có đức độ và có tài văn chương.",
+          "cự_đồng_cung_tại_dần": "công danh hiển hách. Nên chuyên về hình luật, vì \ncó tài luận lý, xét đoán.",
+          "cự_đồng_cung_tại_thân": "công danh thăng giáng thất thường, hay mắc thị \nphi quân sự. Về già mới được xứng ý toại lòng.",
+          "lương_đồng_cung_tại_dậu": "có tài, nhưng không gặp thời, công danh muộn \nmàng và lật đật. Nên chuyên về y được hay sư phạm.",
+          "lương_đồng_cung_tại_mão": "công danh sớm đạt. Nên chuyên về y dược, sư \nphạm, sau rất nổi tiếng.",
+          "nguyệt_đồng_cung": "công danh trắc trở. Lúc thiếu thời khó được xứng ý \ntoại lòng, vì có tài nhưng bất đắc chí, về già mới có chút hư danh. Trường hợp \nnày rất cần gặp Tuần, Triệt án ngữ, tuy buổi đầu mưu cầu công danh thường mắc \nnhiều trở ngại, nhưng về sau rất hiển hách."
+        }
+      },
+      {
+        "star_id": "thiên_cơ",
+        "context_type": null,
+        "rules": {
+          "đơn_thủ_tại_tỵ_ngọ_mùi": "phú qúy song toàn nhưng không được hiển \nhách. Nên chuyên về kỹ nghệ, máy móc.",
+          "đơn_thủ_tại_hợi_tý_sửu": "công danh muộn màng và chật vật. Nên chuyên \nvẻ doanh thương hay kỹ nghệ.",
+          "nguyệt_đồng_cung_tại_thìn": "nên chuyên về khoa hay sư phạm. Buôn bán \ncũng phát đạt",
+          "nguyệt_đồng_cung_dần": "cũng như trên, nhưng muộn và gặp nhiều trở \nngại.",
+          "cự_đồng_cung": "văn võ toàn tài nhưng hưởng phú qúy vững bền. Có nhiều \nmưu trí và rất ưa thích máy móc",
+          "lương_đồng_cung": "công danh hiển đạt văn võ kiêm toàn. Bất cứ làm việc \ngì cũng cẩn thận, hay suy xét xa gần. Thích luận đàm về chính trị và quân sự. Nếu \nchuyên việc tham mưu, tất có chức vị lớn lao. Nếu làm thầy thuốc hay thầy giáo, \nđược nhiều người biết tiếng."
+        }
+      },
+      {
+        "star_id": "thiên_phủ",
+        "context_type": null,
+        "rules": {
+          "đơn_thủ_tại_tỵ_hợi": "công danh bền vững, nhưng không hiển hách.",
+          "đơn_thủ_tại_sửu_mùi_mão_dậu": "thành công trong việc kinh doanh buôn \nbán. Nếu có danh chức, cũng chỉ trong một thời gian ngắn",
+          "tử_đồng_cung": "công danh hiến hách, phú qúy song toàn.",
+          "liêm_đồng_cung": "phú qúy song toàn, lập được nhiều chiến công, có uy \nquyền hiển hách.",
+          "vũ_đồng_cung": "công danh hoạnh đạt, văn võ kiêm toàn, có chức vụ thuộc \nvề tài chánh hay kinh tế."
+        }
+      },
+      {
+        "star_id": "thái_âm",
+        "context_type": null,
+        "rules": {
+          "đơn_thủ_tại_dậu_hợi": "công danh sớm đạt, văn võ kiêm toàn.",
+          "đơn_thủ_tại_tuất": "cũng như trên nhưng thường bị nhiều người ghen ghét \nvà hay bị bó buộc vào những công việc không hợp với chí hướng.",
+          "đơn_thủ_tại_mão": "công danh muộn màng, có tài ăn nói, văn chương lỗi lạc.",
+          "đơn_thủ_tại_thìn_tỵ": "gặp nhiều trở ngại trên đường công danh, lúc thiếu \nthời lật đật vất vả, đến khi nhiều tuổi mới được xứng ý toại lòng. Có tài, nhưng \nkhông gặp cơ hội đi thi thố, nên suốt đời hậm hực. Tuy vậy, vẫn được nhiều \nngười kính trọng vì có đức độ và có tài văn chương.",
+          "đồng_đồng_cung_tại_tý": "công danh hiển hách, có tài can gián người trên",
+          "đồng_đồng_cung_tại_ngọ": "nên chuyên về kỹ nghệ hay doanh thương.",
+          "cơ_đồng_cung_tại_thìn": "nên chuyên về khoa hay sư phạm. Buôn bán cũng \nphát đạt",
+          "cơ_đồng_cung_dần": "cũng như trên, nhưng muộn và gặp nhiều trở ngại.",
+          "nguyệt_đồng_cung": "công danh trắc trở. Lúc thiếu thời khó được xứng ý \ntoại lòng, vì có tài nhưng bất đắc chí, về già mới có chút hư danh. Trường hợp \nnày rất cần gặp Tuần, Triệt án ngữ, tuy buổi đầu mưu cầu công danh thường mắc \nnhiều trở ngại, nhưng về sau rất hiển hách."
+        }
+      },
+      {
+        "star_id": "tham_lang",
+        "context_type": null,
+        "rules": {
+          "đơn_thủ_tại_thìn_tuất": "võ nghiệp hiển đạt. Nếu buôn bán kinh doanh, \ncũng được xứng ý toại lòng.",
+          "đơn_thủ_tại_dần_thần": "có chức vị quân sự nhưng nhỏ thấp. Suốt đời \nkhông được toại nguyện. Công danh trắc trở nhưng nếu buôn bán lại phát đạt.",
+          "đơn_thủ_tại_tý_ngọ": "chức vị nhỏ thấp, thăng giáng thất thường, là hạng \ntham quan ô lại",
+          "tử_đồng_cung": "bình thường. Nếu công danh rực rỡ, tất sinh tai họa.",
+          "liêm_đồng_cung": "có võ chức, nhưng nhỏ thấp. Trên đường công danh \nthường gặp nhiều trở ngại, tai ương, nhất là hình ngục. Chỉ có lánh mình ra khỏi \nchỗ lợi danh, mới được an toàn.",
+          "vũ_đồng_cung": "giàu có và thành công trong việc kinh doanh, buôn bán. \nNếu có danh chức, cũng chỉ sau một thời gian ngắn lại trở về thương trường. \nLúc thiếu thời mọi sự chẳng được hành thông, từ 30 tuổi trở đi, mới được xứng \ný toại lòng."
+        }
+      },
+      {
+        "star_id": "cự_môn",
+        "context_type": null,
+        "rules": {
+          "đơn_thủ_tại_tý_ngọ": "văn võ kiêm toàn, làm thầy giáo cũng nổi tiếng, có \nnhiều tài năng, nhất là ăn nói và tổ chức. Không những thế lại còn sẵn mưu trí \nnữa. Được hưởng phú qúy lâu bền, được nhiều người kính trọng vị nể.",
+          "đơn_thủ_tại_hợi": "công danh sớm đạt, nhưng không nên trèo lên cao nhiều \nquá.",
+          "đơn_thủ_tại_tỵ": "công danh trắc trở, chức vị nhỏ thấp, hay gặp tai ương.",
+          "đơn_thủ_thìn_tuất": "công danh trước nhỏ, sau lớn, hay phải thay đổi công \nviệc. Có tài xét đoán, luận lý và ăn nói hùng hồn nhưng thường gặp nhiều chuyện thị \nphì, hay có người gièm pha oán trách.",
+          "đồng_đồng_cung": "rất chật vật trong đường công danh, phải nhờ người trên \ndìu dắt, giúp đỡ, hay mắc thị phi hình sự.",
+          "nhật_đồng_cung_tại_dần": "công danh hiển hách. Nên chuyên về hình luật, vì \ncó tài luận lý, xét đoán.",
+          "nhật_đồng_cung_tại_thân": "công danh thăng giáng thất thường, hay mắc thị \nphi quân sự. Về già mới được xứng ý toại lòng.",
+          "cơ_đồng_cung": "văn võ toàn tài nhưng hưởng phú qúy vững bền. Có nhiều \nmưu trí và rất ưa thích máy móc"
+        }
+      },
+      {
+        "star_id": "thiên_tướng",
+        "context_type": null,
+        "rules": {
+          "đơn_thủ_tại_sửu_mùi": "công danh nhẹ bước, văn võ kiêm toàn.",
+          "đơn_thủ_tại_tỵ_hợi": "không được hiển đạt rực rỡ như trên, nhưng cũng \nđược xứng ý toại lòng. Nên chuyên về kỹ thuật hay mỹ thuật.",
+          "đơn_thủ_tại_mão_dậu": "chức vị nhỏ thấp, thăng giáng thất thường.",
+          "tử_đồng_cung": "văn võ toàn tài trước nhỏ sau lớn. Có tài tổ chức, nhiều \nmánh lới, thủ đoạn, hay lấn quyền người trên",
+          "liêm_đồng_cung": "văn võ kiêm toàn, được hưởng giàu sang, được nhiều \nngười kính nể.",
+          "vũ_đồng_cung": "bước vào đường công danh cũng được toại lòng. Nếu \nkhông, buôn bán kinh doanh cũng sớm trở nên giàu có."
+        }
+      },
+      {
+        "star_id": "thiên_lương",
+        "context_type": null,
+        "rules": {
+          "đơn_thủ_tại_tý_ngọ": "công danh hoạnh đạt, văn võ kiêm toàn, nhưng văn \nchức hiển hách hơn võ chức. Phú qúy đến lột bực, có danh tiếng lừng lẫy.",
+          "đơn_thủ_tại_sửu_mùi": "bình thường. Nên chuyên về y dược hay sư phạm. \nBuôn bán cũng phát đạt",
+          "đơn_thủ_tại_tỵ_hợi": "công danh phú qúy như đám mây nổi, làm việc hay \nchóng chán, thích di chuyển. Nên làm công việc có tính cách lưu động.",
+          "đồng_đồng_cung": "phú qúy song toàn, rất nổi tiếng nếu chuyên về y khoa \nhay sư phạm. Bước vào trường chính trị cũng toại lòng.",
+          "nhật_đồng_cung_tại_mão": "công danh sớm đạt. Nên chuyên về y dược, sư \nphạm, sau rất nổi tiếng.",
+          "nhật_đồng_cung_tại_dậu": "có tài, nhưng không gặp thời, công danh muộn \nmàng và lật đật. Nên chuyên về y được hay sư phạm.",
+          "cơ_đồng_cung": "công danh hiển đạt văn võ kiêm toàn. Bất cứ làm việc gì \ncũng cẩn thận, hay suy xét xa gần. Thích luận đàm về chính trị và quân sự. Nếu \nchuyên việc tham mưu, tất có chức vị lớn lao. Nếu làm thầy thuốc hay thầy giáo, \nđược nhiều người biết tiếng."
+        }
+      },
+      {
+        "star_id": "thất_sát",
+        "context_type": null,
+        "rules": {
+          "đơn_thủ_tại_dần_thân": "văn võ kiêm toàn, thành công trong những việc thật \nkhó khăn. Càng khắc phục được nhiều trở ngại lại càng hiển đạt. Có uy quyền lớn lao, \nđược nhiều người kính nể.",
+          "đơn_thủ_tại_tý_ngọ": "văn chức hay võ chức đều hiển đạt, nhưng không \nđược rực rỡ như trên. Thường gặp nhiều trở ngại, may đi liền với rủi.",
+          "đơn_thủ_tại_thìn_tuất": "xuất thân bằng võ nghiệp nhưng chẳng được lâu \nbền. Tai ương họa hại, nhất là đao nghiệp binh thương thường đi liền với lợi \ndanh.",
+          "tử_đồng_cung": "có uy quyền, nên chuyên về quân sự",
+          "liêm_đồng_cung": "chuyên về quân sự nhưng thăng giáng thất thường, \nnhanh lên để rồi chóng xuống. Trong cái may thường chứa đựng nhiều cái rủi, \ntai họa đi liền với lợi danh. Nếu kinh doanh, buôn bán hay chuyên về kỹ nghệ, \ncũng phát đạt và được yên thân.",
+          "vũ_đồng_cung": "võ nghiệp hiển đạt, thường trọng trấn ở nơi xa, lập được \nnhiều chiến công, nhưng thăng giáng thất thường."
+        }
+      },
+      {
+        "star_id": "phá_quân",
+        "context_type": null,
+        "rules": {
+          "đơn_thủ_tại_tý_ngọ": "võ nghiệp hiển đạt, nhưng thăng giáng thất thường. \nLập công danh trong thời loạn. Thành công trong những việc thật khó khăn và \nnguy hiểm, có nhiều mưu trí và rất dũng mãnh.",
+          "đơn_thủ_tại_тhìn_tuất": "thành công về quân sự, nổi tiếng về sự nghiệp \nchính trị. Có uy quyền hiển hách. Rất lắm mưu trí, thường át quyền người trên. \nNếu đi buôn bán cũng phát đạt.",
+          "đơn_thủ_tại_dần_thân": "công danh trắc trở, chức vị nhỏ thấp. Nếu giàu \nsang cũng chẳng được lâu bền. Nên kinh doanh, buôn bán hay chuyên về kỹ \nnghệ.",
+          "tử_đồng_cung": "thành công trong võ nghiệp nhưng thăng giáng thất \nthường. Nếu đi buôn cũng phát đạt.",
+          "liêm_đồng_cung": "nên chuyên về kỹ nghệ, hay thương mại. Nếu chen chân \nvào đường công danh, tất chẳng được xứng ý toại lòng, suốt đời hậm hực.",
+          "vũ_đồng_cung": "xuất thân bằng võ nghiệp, nhưng rất chật vật. Nếu kinh \ndoanh buôn bán, rất được xứng ý toại lòng."
+        }
+      },
+      {
+        "star_id": "sát_tinh",
+        "context_type": null,
+        "rules": {
+          "sáng_sủa_tốt_đẹp": "+ Tử, Phủ, Cự, Nhật, Cơ, Nguyệt, Đồng, Lương sáng sủa tốt đẹp: công \ndanh trắc trở, chức vị nhỏ thấp, thăng giáng thất thường. Đôi khi chỉ có hư danh mà \nkhông có thực quyền. Suốt đời không được xứng ý toại lòng, vì không gặp cơ hội để thi \nthố tài năng và thường bị tiểu nhân ghen ghét mưu hại \n\t\n+ Tử, Phủ, Cự, Nhật, Cơ, Nguyệt, Đồng, Lương mờ ám xấu xa: \nkhông thế hiển đạt được. Thường mắc nhiều tai họa và bị kẻ tiểu nhân mưu hại. \n\t\n+ Sát, Phá, Liêm, Tham, sáng sủa tốt dẹp: công danh hoạnh đạt. Có võ chức \nlớn lao, hiển hách trong thời loạn. Nhưng thăng giáng thất thường. Vì liều lĩnh mạo \nhiểm mà thành công trong những việc thật khó khăn, được hưởng phú qúy. Tuy vậy \nchẳng được lâu bền, đã hoạnh phát tất hoạnh tán. \n\t\n+ Sát, Phá, Liêm, Tham mờ ám xấu xa: có danh chức nhưng nhỏ \nthấp, thăng giáng thất thường. Tuy vậy, vẫn gặp được người dìu dắt, nâng đỡ. \n\t\n+ Vũ, Tướng sáng sủa tốt đẹp: công danh hoạnh đạt, có võ chức lớn \nlao, có uy quyền hiển hách. Được nhiều người kính trọng và nể sợ, gặp được \nnhững người giúp việc đắc lực. \n\t\n+ Vũ, Tướng mờ ám xấu xa: có danh chức, nhưng nhỏ thấp. Tuy vậy \nvẫn gặp được nhiều người dìu dắt, nâng đỡ.",
+          "mờ_ám_xấu_xa_+_tử_phủ_cự_nhật_cơ_nguyệt_đồng_lương_sáng_sủa_tốt_đẹp": "có \nchức vị lớn lao, nhưng vẫn chưa toại nguyện. Trên đường công danh hay gặp trở \nngại, thường bị kẻ dưới lừa gạt, những người tùy thuộc giúp việc đều bất lực. \n\t\n+ Tử, Phủ, Cự, Nhật, Cơ, Nguyệt, Đổng, Lương mờ ám xấu xa: \nkhông thể hiển đạt được. \nNên lánh mình ra khỏi đường công danh, nên an thường thủ phận để tránh mọi \ntai ương họa hại. \n\t\n+ Sát, Phá, Liêm, Tham sáng sủa tốt đẹp: có danh chức nhưng \nkhông toại nguyện, thiếu người giúp việc đắc lực. \n\t\n+ Sát, Phá, Liêm, Tham mờ ám xấu xa: nên an thường thủ phận. \n\t\n+ Vũ, Tướng sáng sủa tốt đẹp: có danh chức và uy quyền vượt mọi \ntrở ngại, thắng mọi âm lọc lừa của kẻ dưới. \n\t\n+ Vũ, Tướng mờ ám xấu xa: không thể hiển đạt được, trên đường \ncông danh đầy rẫy những trở ngại tai ương."
+        }
+      },
+      {
+        "star_id": "xương_khúc",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Công danh hiển đạt, có văn tài lỗi lạc."
+        }
+      },
+      {
+        "star_id": "khôi_việt",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Có danh chức lớn, nếu Khôi, Việt lại gặp thêm nhiều sao sáng sủa tốt đẹp \nhội hợp, tất được \nnắm giữ đầu mối những công việc lớn và được chỉ huy một số người dưới quyền \nthật đông đảo."
+        }
+      },
+      {
+        "star_id": "tả_hữu",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Được nhiều người nâng đỡ trên đường công danh."
+        }
+      },
+      {
+        "star_id": "lộc_tồn",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Có danh chức và nhiều tiền bạc, có tài tổ chức."
+        }
+      },
+      {
+        "star_id": "hóa_kỵ",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Hay gặp sự phiền lòng, công danh trắc trở nhưng nếu gặp Nhật, Nguyệt \nđồng cung tại Sửu, Mùi tất công danh hoạnh đạt, mọi sự đều hành thông"
+        }
+      },
+      {
+        "star_id": "khoa_quyền_lộc",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Tài lộc thêm đồi dào, uy quyền thêm hiển hách, danh chức thêm lớn lao."
+        }
+      },
+      {
+        "star_id": "khốc_hư",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Hay suy xét, luận lý.",
+          "sáng_sủa_tốt_đẹp": "có uy quyền, ăn nói hoạt bát và hùng hồn. Ra ngoài \nđược nhiều người kính phục. Lúc thiếu thời gặp nhiều trở ngại trên đường \ncông danh, đến khi đứng tuổi mới được xứng ý toại lòng. Nên chuyên về pháp lý \nhay chính trị.",
+          "mờ_ám_xấu_xa": "hay gặp sự phiền lòng, trên đường công danh hay gặp \nnhiều trở ngại"
+        }
+      },
+      {
+        "star_id": "thiên_mã",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Công danh hiển đạt, nên làm công việc có tính cách lưu động. Có tài tổ \nchức và thao lược."
+        }
+      },
+      {
+        "star_id": "tham_xương_hay_khúc_đồng_cung_tại_hợi_tý",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Có danh chức, được nhiều người biết tiếng, tài lộc dồi dào."
+        }
+      },
+      {
+        "star_id": "cự_đồng_hình",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Phải nhờ người trên dìu dắt mới khá giả được."
+        }
+      },
+      {
+        "star_id": "đồng_âm_kình_đồng_cung_tại_ngọ",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Làm võ quan trọng trấn ở biên thùy. Lập được nhiều chiến công, hiển đạt \ntrong thời loạn. Thường là bậc anh hùng dân tộc, có danh tiếng lừng lẫy."
+        }
+      },
+      {
+        "star_id": "cơ_nguyệt_đồng_cung_gặp_tả_hữu_hội_hợp",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Đàn bà gặp cách này hay làm nghề cô đỡ (cô mụ)."
+        }
+      },
+      {
+        "star_id": "cơ_nguyệt_đồng_lương_tai_dần_thân_thìn_tuất_gặp_xương_khúc",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Tả, Hữu \nNên chuyên nghề thầy thuốc, nếu dạy học cũng nổi tiếng."
+        }
+      },
+      {
+        "star_id": "cơ_nguyệt_đồng_lương_khoa_tả_hữu_quang_qúy_quan_phúc",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Vinh hiển trong nghề làm thuốc, được nhiều người kính trọng."
+        }
+      },
+      {
+        "star_id": "sát_tọa_thủ_tại_dần_thân_gặp_quyền_đồng_cung",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Có chức vụ lớn lao, uy quyền hiển hách, nhiều người vị nể."
+        }
+      },
+      {
+        "star_id": "lộc_mã",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Danh chức khá lớn, nên làm công việc có tính cách lưu động. Tài lộc ngày \ncàng tăng tiến, có tài buôn bán kinh doanh."
+        }
+      },
+      {
+        "star_id": "kiếp_hư_hao_quyền",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Trên đường công danh đầy rẫy những trở ngại. Thường bị tiểu nhân ghen \nghét gièm pha và làm hại."
+        }
+      },
+      {
+        "star_id": "kình_lực_đồng_cung",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Công danh trắc trở, chức vị nhỏ thấp. Có công trạng không được người \ntrên biết đến. Mọi công việc lớn nhỏ đều chẳng được lâu bền, suốt đời bất đắc \nchí."
+        }
+      },
+      {
+        "star_id": "kình_tọa_thủ_tại_tứ_mộ_gặp_mã",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Có võ chức, được trọng trấn ở nơi xa xôi, nguy hiểm."
+        }
+      },
+      {
+        "star_id": "tuế_hổ_phù_xương_khúc",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Có tài hùng biện, biết suy xét luận lý, văn chương lỗi lạc. Nên chuyên về \npháp lý, chính trị, kinh tế."
+        }
+      },
+      {
+        "star_id": "xương_khúc_tấu_long_phượng",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Có khiếu về ca nhạc hay nói chung là tất cả những bộ môn văn nghệ."
+        }
+      },
+      {
+        "star_id": "hồng_đào_riêu_tấu_cơ_vũ",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Chuyên vê múa, hát, tuồng, kịch."
+        }
+      },
+      {
+        "star_id": "tướng_tấu_phù_mệnh_có_tả_hữu_tọa_thủ",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Làm thầy chùa hay phủ thủy (thầy pháp)."
+        }
+      },
+      {
+        "star_id": "binh_hình_tướng_ấn",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Có võ chức, nhưng chuyên về việc văn phòng."
+        }
+      },
+      {
+        "star_id": "hổ_tấu_đồng_cung",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Có khiếu về văn chương. Học ngoại ngữ rất chóng thông hiểu. Về sau có \ndanh chức khá lớn. Cầu danh rất dể dàng."
+        }
+      },
+      {
+        "star_id": "hình_riêu_y",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Làm thầy thuốc hay báo chí."
+        }
+      },
+      {
+        "star_id": "mã_hỏa_linh",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Chuyên về cơ khí, hay làm nghề vận tải"
+        }
+      },
+      {
+        "star_id": "thai_tọa_đào_hồng",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Công danh sớm đạt, mưu sự chóng thành tựu, công việc trước sau đều dễ \ndàng."
+        }
+      },
+      {
+        "star_id": "đào_hồng_tọa_thủ_tại_tý",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Tuổi Tý, Dậu, sớm hiển đạt nhưng chết non."
+        }
+      },
+      {
+        "star_id": "lương_phá_đồng_cung_phá_toái_phá_quân",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Võ nghiệp hiển đạt, rất dũng mãnh. Hay làm những việc mạo hiếm, sau có \nuy quyền khá lớn."
+        }
+      },
+      {
+        "star_id": "vô_chính_diệu",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Coi Chính diệu xung chiếu như Chính diệu tọa thủ. Nên chú ý rằng \ncung Quan Lộc vô Chính diệu, dù có gặp nhiều sao sáng sủa tốt đẹp phối chiếu \ncũng không được toàn mỹ. Như thế, dĩ nhiên là công danh không thể hiển đạt \nđược, chức vị cũng bình thường. Nhưng ngoại trừ có hai trường hợp đặc biệt:",
+          "tuần_triệt_án_ngữ": "tuy gặp nhiều trở ngại trên đường công danh nhưng \nsau vẫn hiển đạt. Thường là hoạnh phát hoạnh phá, có chức vị cũng chẳng được \nlâu bền.",
+          "nhật_nguyệt_cùng_sáng_sủa_xung_chiếu_hay_hợp_chiếu": "công danh rực \nrỡ, uy quyền hiển hách. Nên chuyên về chính trị, kinh tế về sau tất được xứng \ný toại lòng. Cũng trong trường hợp này, nếu cung Quan Lộc vô Chính diệu có \nTuần, Triệt án ngữ, lại càng rực rỡ tốt đẹp bội phần."
+        }
+      }
+    ],
+    "source_content": "Xem cung Quan Lộc để biết rõ công danh, sự nghiệp, cũng như là khả năng \nchuyên môn. \n8.1. Tử Vi \n- Đơn thủ tại Ngọ, Phủ đồng cung: công danh hiến hách, phú qúy song \ntoàn. \n- Đơn thủ tại Tý: bình thường. \n- Tướng đồng cung: văn võ toàn tài trước nhỏ sau lớn. Có tài tổ chức, \nnhiều mánh lới, thủ đoạn, hay lấn quyền người trên \n- Sát đồng cung: có uy quyền, nên chuyên về quân sự \n- Phá đồng cung: thành công trong võ nghiệp nhưng thăng giáng thất \nthường. Nếu đi buôn cũng phát đạt. \n- Tham đồng cung: bình thường. Nếu công danh rực rỡ, tất sinh tai họa. \n8.2. Liêm Trinh \n- Đơn thủ tại Dần, Thân: võ nghiệp hiến đạt, có uy quyền kiêm nhiếp cả \nviệc chính trị, được nhiều người kính nể. \n- Phủ đồng cung: phú qúy song toàn, lập được nhiều chiến công, có uy \nquyền hiển hách. \n- Tướng đồng cung: văn võ kiêm toàn, được hưởng giàu sang, được nhiều \nngười kính nể. \n- Sát đồng cung: chuyên về quân sự nhưng thăng giáng thất thường, nhanh \nlên để rồi chóng xuống. Trong cái may thường chứa đựng nhiều cái rủi, tai họa \nđi liền với lợi danh. Nếu kinh doanh, buôn bán hay chuyên về kỹ nghệ, cũng \nphát đạt và được yên thân. \n- Phá đồng cung: nên chuyên về kỹ nghệ, hay thương mại. Nếu chen chân \nvào đường công danh, tất chẳng được xứng ý toại lòng, suốt đời hậm hực. \n- Tham đồng cung: có võ chức, nhưng nhỏ thấp. Trên đường công danh \nthường gặp nhiều trở ngại, tai ương, nhất là hình ngục. Chỉ có lánh mình ra khỏi \nchỗ lợi danh, mới được an toàn. \n8.3. Thiên Đồng \n- Đơn thủ tại Mão: văn võ kiêm toàn nhưng hay thay đổi công việc. \n- Đơn thủ tại Dậu: công danh muộn màng, chức vị nhỏ thấp, lại hay thay \nđổi, thăng giáng. Nên chuyên về thương mại hay kỹ nghệ. \n- Đơn thú tại Tỵ, Hợi: công danh phú qúy như đám mây nổi, làm việc hay \nchóng chán, thích di chuyển. Nên làm công việc có tính cách lưu động. \n- Đơn thủ tại Thìn, Tuất: công việc di chuyển luôn luôn, công danh trước \nnhỏ sau lớn, có tài ăn nói và luận lý. \n- Nguyệt đồng cung tại Tý: công danh hiển hách, có tài can gián người trên \n- Nguyệt đồng cung tại Ngọ: nên chuyên về kỹ nghệ hay doanh thương. \n- Lương đồng cung: phú qúy song toàn, rất nổi tiếng nếu chuyên về y \nkhoa hay sư phạm. Bước vào trường chính trị cũng toại lòng. \n- Cự đồng cung: rất chật vật trong đường công danh, phải nhờ người trên \ndìu dắt, giúp đỡ, hay mắc thị phi hình sự. \n8.4. Vũ Khúc \n- Đơn thủ tại Thìn, Tuất: võ nghiệp hiển đạt, nếu chuyên về doanh thương, \ncũng có nhiều tài lộc \n- Phủ đồng cung: công danh hoạnh đạt, văn võ kiêm toàn, có chức vụ thuộc \nvề tài chánh hay kinh tế. \n- Tướng đồng cung: bước vào đường công danh cũng được toại lòng. Nếu \nkhông, buôn bán kinh doanh cũng sớm trở nên giàu có. \n- Sát đồng cung: võ nghiệp hiển đạt, thường trọng trấn ở nơi xa, lập được \nnhiều chiến công, nhưng thăng giáng thất thường. \n- Phá đồng cung: xuất thân bằng võ nghiệp, nhưng rất chật vật. Nếu kinh \ndoanh buôn bán, rất được xứng ý toại lòng. \n- Tham đồng cung: giàu có và thành công trong việc kinh doanh, buôn \nbán. Nếu có danh chức, cũng chỉ sau một thời gian ngắn lại trở về thương \ntrường. Lúc thiếu thời mọi sự chẳng được hành thông, từ 30 tuổi trở đi, mới \nđược xứng ý toại lòng. \n8.5. Thái Dương \n- Đơn thủ tại Tý, Ngọ: công danh sớm đạt, văn võ kiêm toàn \n- Đơn thủ tại Thìn: cũng như trên nhưng thường bị nhiều người ghen ghét \nvà hay bị bó buộc vào những công việc không hợp với chí hướng. \n- Đơn thủ tại Tý: công danh muộn màng, có tài ăn nói, văn chương lỗi lạc \n- Đơn thủ tại Tuất, Hợi: gặp nhiều trở ngại trên đường công danh, lúc \nthiếu thời lật đật vất vả, đến khi nhiều tuổi mới được xứng ý toại lòng. Có tài, \nnhưng không gặp cơ hội đi thi thố, nên suốt đời hậm hực. Tuy vậy, vẫn được \nnhiều người kính trọng vì có đức độ và có tài văn chương. \n- Cự đồng cung tại Dần: công danh hiển hách. Nên chuyên về hình luật, vì \ncó tài luận lý, xét đoán. \n- Cự đồng cung tại Thân: công danh thăng giáng thất thường, hay mắc thị \nphi quân sự. Về già mới được xứng ý toại lòng. \n- Lương đồng cung tại Dậu: có tài, nhưng không gặp thời, công danh muộn \nmàng và lật đật. Nên chuyên về y được hay sư phạm. \n- Lương đồng cung tại Mão: công danh sớm đạt. Nên chuyên về y dược, sư \nphạm, sau rất nổi tiếng. \n- Nguyệt đồng cung: công danh trắc trở. Lúc thiếu thời khó được xứng ý \ntoại lòng, vì có tài nhưng bất đắc chí, về già mới có chút hư danh. Trường hợp \nnày rất cần gặp Tuần, Triệt án ngữ, tuy buổi đầu mưu cầu công danh thường mắc \nnhiều trở ngại, nhưng về sau rất hiển hách. \n8.6. Thiên Cơ \n- Đơn thủ tại Tỵ, Ngọ, Mùi: phú qúy song toàn nhưng không được hiển \nhách. Nên chuyên về kỹ nghệ, máy móc. \n- Đơn thủ tại Hợi, Tý, Sửu: công danh muộn màng và chật vật. Nên chuyên \nvẻ doanh thương hay kỹ nghệ. \n- Nguyệt đồng cung tại Thìn: nên chuyên về khoa hay sư phạm. Buôn bán \ncũng phát đạt \n- Nguyệt đồng cung Dần: cũng như trên, nhưng muộn và gặp nhiều trở \nngại. \n- Cự đồng cung: văn võ toàn tài nhưng hưởng phú qúy vững bền. Có nhiều \nmưu trí và rất ưa thích máy móc \n- Lương đồng cung: công danh hiển đạt văn võ kiêm toàn. Bất cứ làm việc \ngì cũng cẩn thận, hay suy xét xa gần. Thích luận đàm về chính trị và quân sự. Nếu \nchuyên việc tham mưu, tất có chức vị lớn lao. Nếu làm thầy thuốc hay thầy giáo, \nđược nhiều người biết tiếng. \n8.7. Thiên Phủ \n- Đơn thủ tại Tỵ, Hợi: công danh bền vững, nhưng không hiển hách. \n- Đơn thủ tại Sửu, Mùi, Mão, Dậu: thành công trong việc kinh doanh buôn \nbán. Nếu có danh chức, cũng chỉ trong một thời gian ngắn \n- Tử đồng cung: công danh hiến hách, phú qúy song toàn. \n- Liêm đồng cung: phú qúy song toàn, lập được nhiều chiến công, có uy \nquyền hiển hách. \n- Vũ đồng cung: công danh hoạnh đạt, văn võ kiêm toàn, có chức vụ thuộc \nvề tài chánh hay kinh tế. \n8.8. Thái Âm \n- Đơn thủ tại Dậu, Hợi: công danh sớm đạt, văn võ kiêm toàn. \n- Đơn thủ tại Tuất: cũng như trên nhưng thường bị nhiều người ghen ghét \nvà hay bị bó buộc vào những công việc không hợp với chí hướng. \n- Đơn thủ tại Mão: công danh muộn màng, có tài ăn nói, văn chương lỗi lạc. \n- Đơn thủ tại Thìn, Tỵ: gặp nhiều trở ngại trên đường công danh, lúc thiếu \nthời lật đật vất vả, đến khi nhiều tuổi mới được xứng ý toại lòng. Có tài, nhưng \nkhông gặp cơ hội đi thi thố, nên suốt đời hậm hực. Tuy vậy, vẫn được nhiều \nngười kính trọng vì có đức độ và có tài văn chương. \n- Đồng đồng cung tại Tý: công danh hiển hách, có tài can gián người trên \n- Đồng đồng cung tại Ngọ: nên chuyên về kỹ nghệ hay doanh thương. \n- Cơ đồng cung tại Thìn: nên chuyên về khoa hay sư phạm. Buôn bán cũng \nphát đạt \n- Cơ đồng cung Dần: cũng như trên, nhưng muộn và gặp nhiều trở ngại. \n- Nguyệt đồng cung: công danh trắc trở. Lúc thiếu thời khó được xứng ý \ntoại lòng, vì có tài nhưng bất đắc chí, về già mới có chút hư danh. Trường hợp \nnày rất cần gặp Tuần, Triệt án ngữ, tuy buổi đầu mưu cầu công danh thường mắc \nnhiều trở ngại, nhưng về sau rất hiển hách. \n8.9. Tham Lang \n- Đơn thủ tại Thìn, Tuất: võ nghiệp hiển đạt. Nếu buôn bán kinh doanh, \ncũng được xứng ý toại lòng. \n- Đơn thủ tại Dần, Thần: có chức vị quân sự nhưng nhỏ thấp. Suốt đời \nkhông được toại nguyện. Công danh trắc trở nhưng nếu buôn bán lại phát đạt. \n- Đơn thủ tại Tý, Ngọ: chức vị nhỏ thấp, thăng giáng thất thường, là hạng \ntham quan ô lại \n- Tử đồng cung: bình thường. Nếu công danh rực rỡ, tất sinh tai họa. \n- Liêm đồng cung: có võ chức, nhưng nhỏ thấp. Trên đường công danh \nthường gặp nhiều trở ngại, tai ương, nhất là hình ngục. Chỉ có lánh mình ra khỏi \nchỗ lợi danh, mới được an toàn. \n- Vũ đồng cung: giàu có và thành công trong việc kinh doanh, buôn bán. \nNếu có danh chức, cũng chỉ sau một thời gian ngắn lại trở về thương trường. \nLúc thiếu thời mọi sự chẳng được hành thông, từ 30 tuổi trở đi, mới được xứng \ný toại lòng. \n8.10. Cự Môn \n- Đơn thủ tại Tý, Ngọ: văn võ kiêm toàn, làm thầy giáo cũng nổi tiếng, có \nnhiều tài năng, nhất là ăn nói và tổ chức. Không những thế lại còn sẵn mưu trí \nnữa. Được hưởng phú qúy lâu bền, được nhiều người kính trọng vị nể. \n- Đơn thủ tại Hợi: công danh sớm đạt, nhưng không nên trèo lên cao nhiều \nquá. \n- Đơn thủ tại Tỵ: công danh trắc trở, chức vị nhỏ thấp, hay gặp tai ương. \n- Đơn thủ Thìn, Tuất: công danh trước nhỏ, sau lớn, hay phải thay đổi công \nviệc. Có tài xét đoán, luận lý và ăn nói hùng hồn nhưng thường gặp nhiều chuyện thị \nphì, hay có người gièm pha oán trách. \n- Đồng đồng cung: rất chật vật trong đường công danh, phải nhờ người trên \ndìu dắt, giúp đỡ, hay mắc thị phi hình sự. \n- Nhật đồng cung tại Dần: công danh hiển hách. Nên chuyên về hình luật, vì \ncó tài luận lý, xét đoán. \n- Nhật đồng cung tại Thân: công danh thăng giáng thất thường, hay mắc thị \nphi quân sự. Về già mới được xứng ý toại lòng. \n- Cơ đồng cung: văn võ toàn tài nhưng hưởng phú qúy vững bền. Có nhiều \nmưu trí và rất ưa thích máy móc \n8.11. Thiên Tướng \n- Đơn thủ tại Sửu, Mùi: công danh nhẹ bước, văn võ kiêm toàn. \n- Đơn thủ tại Tỵ, Hợi: không được hiển đạt rực rỡ như trên, nhưng cũng \nđược xứng ý toại lòng. Nên chuyên về kỹ thuật hay mỹ thuật. \n- Đơn thủ tại Mão, Dậu: chức vị nhỏ thấp, thăng giáng thất thường. \n- Tử đồng cung: văn võ toàn tài trước nhỏ sau lớn. Có tài tổ chức, nhiều \nmánh lới, thủ đoạn, hay lấn quyền người trên \n- Liêm đồng cung: văn võ kiêm toàn, được hưởng giàu sang, được nhiều \nngười kính nể. \n- Vũ đồng cung: bước vào đường công danh cũng được toại lòng. Nếu \nkhông, buôn bán kinh doanh cũng sớm trở nên giàu có. \n8.12. Thiên Lương \n- Đơn thủ tại Tý, Ngọ: công danh hoạnh đạt, văn võ kiêm toàn, nhưng văn \nchức hiển hách hơn võ chức. Phú qúy đến lột bực, có danh tiếng lừng lẫy. \n- Đơn thủ tại Sửu, Mùi: bình thường. Nên chuyên về y dược hay sư phạm. \nBuôn bán cũng phát đạt \n- Đơn thủ tại Tỵ, Hợi: công danh phú qúy như đám mây nổi, làm việc hay \nchóng chán, thích di chuyển. Nên làm công việc có tính cách lưu động. \n- Đồng đồng cung: phú qúy song toàn, rất nổi tiếng nếu chuyên về y khoa \nhay sư phạm. Bước vào trường chính trị cũng toại lòng. \n- Nhật đồng cung tại Mão: công danh sớm đạt. Nên chuyên về y dược, sư \nphạm, sau rất nổi tiếng. \n- Nhật đồng cung tại Dậu: có tài, nhưng không gặp thời, công danh muộn \nmàng và lật đật. Nên chuyên về y được hay sư phạm. \n- Cơ đồng cung: công danh hiển đạt văn võ kiêm toàn. Bất cứ làm việc gì \ncũng cẩn thận, hay suy xét xa gần. Thích luận đàm về chính trị và quân sự. Nếu \nchuyên việc tham mưu, tất có chức vị lớn lao. Nếu làm thầy thuốc hay thầy giáo, \nđược nhiều người biết tiếng. \n8.13. Thất Sát \n- Đơn thủ tại Dần, Thân: văn võ kiêm toàn, thành công trong những việc thật \nkhó khăn. Càng khắc phục được nhiều trở ngại lại càng hiển đạt. Có uy quyền lớn lao, \nđược nhiều người kính nể. \n- Đơn thủ tại Tý, Ngọ: văn chức hay võ chức đều hiển đạt, nhưng không \nđược rực rỡ như trên. Thường gặp nhiều trở ngại, may đi liền với rủi. \n- Đơn thủ tại Thìn, Tuất: xuất thân bằng võ nghiệp nhưng chẳng được lâu \nbền. Tai ương họa hại, nhất là đao nghiệp binh thương thường đi liền với lợi \ndanh. \n- Tử đồng cung: có uy quyền, nên chuyên về quân sự \n- Liêm đồng cung: chuyên về quân sự nhưng thăng giáng thất thường, \nnhanh lên để rồi chóng xuống. Trong cái may thường chứa đựng nhiều cái rủi, \ntai họa đi liền với lợi danh. Nếu kinh doanh, buôn bán hay chuyên về kỹ nghệ, \ncũng phát đạt và được yên thân. \n- Vũ đồng cung: võ nghiệp hiển đạt, thường trọng trấn ở nơi xa, lập được \nnhiều chiến công, nhưng thăng giáng thất thường. \n8.14. Phá Quân \n- Đơn thủ tại Tý, Ngọ: võ nghiệp hiển đạt, nhưng thăng giáng thất thường. \nLập công danh trong thời loạn. Thành công trong những việc thật khó khăn và \nnguy hiểm, có nhiều mưu trí và rất dũng mãnh. \n- Đơn thủ tại Тhìn, Tuất: thành công về quân sự, nổi tiếng về sự nghiệp \nchính trị. Có uy quyền hiển hách. Rất lắm mưu trí, thường át quyền người trên. \nNếu đi buôn bán cũng phát đạt. \n- Đơn thủ tại Dần, Thân: công danh trắc trở, chức vị nhỏ thấp. Nếu giàu \nsang cũng chẳng được lâu bền. Nên kinh doanh, buôn bán hay chuyên về kỹ \nnghệ. \n- Tử đồng cung: thành công trong võ nghiệp nhưng thăng giáng thất \nthường. Nếu đi buôn cũng phát đạt. \n- Liêm đồng cung: nên chuyên về kỹ nghệ, hay thương mại. Nếu chen chân \nvào đường công danh, tất chẳng được xứng ý toại lòng, suốt đời hậm hực. \n- Vũ đồng cung: xuất thân bằng võ nghiệp, nhưng rất chật vật. Nếu kinh \ndoanh buôn bán, rất được xứng ý toại lòng. \n8.14. Sát tinh \n- Sáng sủa tốt đẹp: \n\t\n+ Tử, Phủ, Cự, Nhật, Cơ, Nguyệt, Đồng, Lương sáng sủa tốt đẹp: công \ndanh trắc trở, chức vị nhỏ thấp, thăng giáng thất thường. Đôi khi chỉ có hư danh mà \nkhông có thực quyền. Suốt đời không được xứng ý toại lòng, vì không gặp cơ hội để thi \nthố tài năng và thường bị tiểu nhân ghen ghét mưu hại \n\t\n+ Tử, Phủ, Cự, Nhật, Cơ, Nguyệt, Đồng, Lương mờ ám xấu xa: \nkhông thế hiển đạt được. Thường mắc nhiều tai họa và bị kẻ tiểu nhân mưu hại. \n\t\n+ Sát, Phá, Liêm, Tham, sáng sủa tốt dẹp: công danh hoạnh đạt. Có võ chức \nlớn lao, hiển hách trong thời loạn. Nhưng thăng giáng thất thường. Vì liều lĩnh mạo \nhiểm mà thành công trong những việc thật khó khăn, được hưởng phú qúy. Tuy vậy \nchẳng được lâu bền, đã hoạnh phát tất hoạnh tán. \n\t\n+ Sát, Phá, Liêm, Tham mờ ám xấu xa: có danh chức nhưng nhỏ \nthấp, thăng giáng thất thường. Tuy vậy, vẫn gặp được người dìu dắt, nâng đỡ. \n\t\n+ Vũ, Tướng sáng sủa tốt đẹp: công danh hoạnh đạt, có võ chức lớn \nlao, có uy quyền hiển hách. Được nhiều người kính trọng và nể sợ, gặp được \nnhững người giúp việc đắc lực. \n\t\n+ Vũ, Tướng mờ ám xấu xa: có danh chức, nhưng nhỏ thấp. Tuy vậy \nvẫn gặp được nhiều người dìu dắt, nâng đỡ. \n- Mờ ám xấu xa \n\t\n+ Tử, Phủ, Cự, Nhật, Cơ, Nguyệt, Đồng, Lương sáng sủa tốt đẹp: có \nchức vị lớn lao, nhưng vẫn chưa toại nguyện. Trên đường công danh hay gặp trở \nngại, thường bị kẻ dưới lừa gạt, những người tùy thuộc giúp việc đều bất lực. \n\t\n+ Tử, Phủ, Cự, Nhật, Cơ, Nguyệt, Đổng, Lương mờ ám xấu xa: \nkhông thể hiển đạt được. \nNên lánh mình ra khỏi đường công danh, nên an thường thủ phận để tránh mọi \ntai ương họa hại. \n\t\n+ Sát, Phá, Liêm, Tham sáng sủa tốt đẹp: có danh chức nhưng \nkhông toại nguyện, thiếu người giúp việc đắc lực. \n\t\n+ Sát, Phá, Liêm, Tham mờ ám xấu xa: nên an thường thủ phận. \n\t\n+ Vũ, Tướng sáng sủa tốt đẹp: có danh chức và uy quyền vượt mọi \ntrở ngại, thắng mọi âm lọc lừa của kẻ dưới. \n\t\n+ Vũ, Tướng mờ ám xấu xa: không thể hiển đạt được, trên đường \ncông danh đầy rẫy những trở ngại tai ương. \n8.15. Xương, Khúc \nCông danh hiển đạt, có văn tài lỗi lạc. \n8.16. Khôi, Việt \nCó danh chức lớn, nếu Khôi, Việt lại gặp thêm nhiều sao sáng sủa tốt đẹp \nhội hợp, tất được \nnắm giữ đầu mối những công việc lớn và được chỉ huy một số người dưới quyền \nthật đông đảo. \n8.17. Tả, Hữu \nĐược nhiều người nâng đỡ trên đường công danh. \n8.18. Lộc Tồn \nCó danh chức và nhiều tiền bạc, có tài tổ chức. \n8.19. Hóa Kỵ \nHay gặp sự phiền lòng, công danh trắc trở nhưng nếu gặp Nhật, Nguyệt \nđồng cung tại Sửu, Mùi tất công danh hoạnh đạt, mọi sự đều hành thông \n8.20. Khoa, Quyền, Lộc \nTài lộc thêm đồi dào, uy quyền thêm hiển hách, danh chức thêm lớn lao. \n8.21. Khốc, Hư \n- Hay suy xét, luận lý. \n- Sáng sủa tốt đẹp: có uy quyền, ăn nói hoạt bát và hùng hồn. Ra ngoài \nđược nhiều người kính phục. Lúc thiếu thời gặp nhiều trở ngại trên đường \ncông danh, đến khi đứng tuổi mới được xứng ý toại lòng. Nên chuyên về pháp lý \nhay chính trị. \n- Mờ ám xấu xa: hay gặp sự phiền lòng, trên đường công danh hay gặp \nnhiều trở ngại \n8.22. Thiên Mã \nCông danh hiển đạt, nên làm công việc có tính cách lưu động. Có tài tổ \nchức và thao lược. \n8.23. Tham, Xương (hay Khúc) đồng cung tại Hợi, Tý \nCó danh chức, được nhiều người biết tiếng, tài lộc dồi dào. \n8.24. Cự, Đồng, Hình \nPhải nhờ người trên dìu dắt mới khá giả được. \n8.25. Đồng, Âm, Kình đồng cung tại Ngọ \nLàm võ quan trọng trấn ở biên thùy. Lập được nhiều chiến công, hiển đạt \ntrong thời loạn. Thường là bậc anh hùng dân tộc, có danh tiếng lừng lẫy. \n8.26. Cơ, Nguyệt đồng cung gặp Tả, Hữu hội hợp \nĐàn bà gặp cách này hay làm nghề cô đỡ (cô mụ). \n8.27. Cơ, Nguyệt, Đồng, Lương tai Dần, Thân, Thìn, Tuất gặp Xương, Khúc, \nTả, Hữu \nNên chuyên nghề thầy thuốc, nếu dạy học cũng nổi tiếng. \n8.28. Cơ, Nguyệt, Đồng, Lương, Khoa, Tả, Hữu, Quang, Qúy, Quan, Phúc \nVinh hiển trong nghề làm thuốc, được nhiều người kính trọng. \n8.29. Sát tọa thủ tại Dần, Thân gặp Quyền đồng cung \nCó chức vụ lớn lao, uy quyền hiển hách, nhiều người vị nể. \n8.30. Lộc, Mã \nDanh chức khá lớn, nên làm công việc có tính cách lưu động. Tài lộc ngày \ncàng tăng tiến, có tài buôn bán kinh doanh. \n8.31. Kiếp, Hư, Hao, Quyền \nTrên đường công danh đầy rẫy những trở ngại. Thường bị tiểu nhân ghen \nghét gièm pha và làm hại. \n8.32. Kình, Lực đồng cung \nCông danh trắc trở, chức vị nhỏ thấp. Có công trạng không được người \ntrên biết đến. Mọi công việc lớn nhỏ đều chẳng được lâu bền, suốt đời bất đắc \nchí. \n8.33. Kình tọa thủ tại Tứ Mộ gặp Mã \nCó võ chức, được trọng trấn ở nơi xa xôi, nguy hiểm. \n8.34. Tuế, Hổ, Phù, Xương, Khúc \nCó tài hùng biện, biết suy xét luận lý, văn chương lỗi lạc. Nên chuyên về \npháp lý, chính trị, kinh tế. \n8.35. Xương, Khúc, Tấu, Long, Phượng \nCó khiếu về ca nhạc hay nói chung là tất cả những bộ môn văn nghệ. \n8.36. Hồng, Đào, Riêu, Tấu, Cơ, Vũ \nChuyên vê múa, hát, tuồng, kịch. \n8.37. Tướng, Tấu, Phù, Mệnh có Tả, Hữu tọa thủ \nLàm thầy chùa hay phủ thủy (thầy pháp). \n8.38. Binh, Hình, Tướng, Ấn \nCó võ chức, nhưng chuyên về việc văn phòng. \n8.39. Hổ, Tấu đồng cung \nCó khiếu về văn chương. Học ngoại ngữ rất chóng thông hiểu. Về sau có \ndanh chức khá lớn. Cầu danh rất dể dàng. \n8.40. Hình, Riêu, Y \nLàm thầy thuốc hay báo chí. \n8.41. Mã, Hỏa, Linh \nChuyên về cơ khí, hay làm nghề vận tải \n8.42. Thai, Tọa, Đào, Hồng \nCông danh sớm đạt, mưu sự chóng thành tựu, công việc trước sau đều dễ \ndàng. \n8.43. Đào, Hồng tọa thủ tại Tý \nTuổi Tý, Dậu, sớm hiển đạt nhưng chết non. \n8.44. Lương, Phá đồng cung (Phá Toái, Phá Quân) \nVõ nghiệp hiển đạt, rất dũng mãnh. Hay làm những việc mạo hiếm, sau có \nuy quyền khá lớn. \n8.45. Vô Chính diệu \nCoi Chính diệu xung chiếu như Chính diệu tọa thủ. Nên chú ý rằng \ncung Quan Lộc vô Chính diệu, dù có gặp nhiều sao sáng sủa tốt đẹp phối chiếu \ncũng không được toàn mỹ. Như thế, dĩ nhiên là công danh không thể hiển đạt \nđược, chức vị cũng bình thường. Nhưng ngoại trừ có hai trường hợp đặc biệt: \n- Tuần, Triệt án ngữ: tuy gặp nhiều trở ngại trên đường công danh nhưng \nsau vẫn hiển đạt. Thường là hoạnh phát hoạnh phá, có chức vị cũng chẳng được \nlâu bền. \n- Nhật, Nguyệt (cùng sáng sủa) xung chiếu hay hợp chiếu: công danh rực \nrỡ, uy quyền hiển hách. Nên chuyên về chính trị, kinh tế về sau tất được xứng \ný toại lòng. Cũng trong trường hợp này, nếu cung Quan Lộc vô Chính diệu có \nTuần, Triệt án ngữ, lại càng rực rỡ tốt đẹp bội phần."
+  }
+}

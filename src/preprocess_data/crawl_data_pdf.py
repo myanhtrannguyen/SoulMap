@@ -133,7 +133,60 @@ def build_dataset(chunks):
 
     return dataset
 
+from collections import Counter
 
+def remove_repeated_lines(pages, threshold=0.6):
+    all_lines = []
+    
+    for page in pages:
+        doc = page.get_text()
+        lines = doc.split("\n")
+        all_lines.extend(set(lines))  # tránh đếm trùng trong 1 page
+    
+    counter = Counter(all_lines)
+    num_pages = len(pages)
+    
+    # dòng xuất hiện ở >60% số trang => header/footer
+    repeated = {line for line, count in counter.items() 
+                if count / num_pages > threshold}
+    
+    cleaned_pages = []
+    for page in pages:
+        doc = page.get_text()
+        lines = doc.split("\n")
+        lines = [l for l in lines if l not in repeated]
+        cleaned_pages.append("\n".join(lines))
+    
+    return cleaned_pages
+
+import re
+
+def remove_page_numbers(lines):
+    patterns = [
+        r'^\s*trang\s*\d+\s*$',           # Trang 1
+        r'^\s*page\s*\d+\s*$',            # Page 1
+        r'^\s*\d+\s*/\s*\d+\s*$',         # 1/10
+        r'^\s*-\s*\d+\s*-\s*$',           # - 1 -
+        r'^\s*\d+\s*$',                   # chỉ có số
+    ]
+    
+    cleaned = []
+    for line in lines:
+        if any(re.match(p, line.lower()) for p in patterns):
+            continue
+        cleaned.append(line)
+    return cleaned
+
+def clean_pdf_text(pages):
+    pages = remove_repeated_lines(pages)
+    
+    cleaned = []
+    for page in pages:
+        lines = page.split("\n")
+        lines = remove_page_numbers(lines)
+        cleaned.append("\n".join(lines))
+    
+    return cleaned
 # =========================
 # STEP 6: SAVE JSON
 # =========================
@@ -146,16 +199,16 @@ def save_json(dataset, path):
 
 def main():
     
-    PDF_PATH = r"D:\Hust\Năm ba\NLP\prj\data_raw_pdf\tu_vi_boi_toan.pdf"
+    PDF_PATH = r"D:\Hust\Năm ba\NLP\prj\data\data_raw_pdf\tu_vi_boi_toan.pdf"
     doc = fitz.open(PDF_PATH)
     print(f"📄 Total pages: {len(doc)}")
-    raw_text = ""
-    for page in doc:
-        raw_text += page.get_text()
-        
-    with open("data_process/tu_vi_boi_toan/tu_vi_boi_toan_raw_text.txt", "w", encoding="utf-8") as f:
-        f.write(raw_text)
-        print(len(raw_text))
+    # raw_text = ""
+    # for page in doc:
+    #     raw_text += page.get_text()
+    cleaned_text = clean_pdf_text(doc)
+    with open("data/data_process/tu_vi_boi_toan/tu_vi_boi_toan_raw_text.txt", "w", encoding="utf-8") as f:
+        f.write("\n".join(cleaned_text))
+        print(len(cleaned_text))
         # print(raw_text[:500])
 
 if __name__ == "__main__":

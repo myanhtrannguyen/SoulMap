@@ -49,22 +49,29 @@ def build_empty_houses(chart_id, cung_an_menh):
 #   1. Tử Vi tinh hệ
 
 CUNG_CUC = {
-    2: HOUR_INDEX["Sửu"], 3: HOUR_INDEX["Thìn"], 
-    4: HOUR_INDEX["Hợi"], 5: HOUR_INDEX["Ngọ"] , 
-    6: HOUR_INDEX["Dậu"]
+    6: {6: HOUR_INDEX["Dần"], 5: HOUR_INDEX["Sửu"], 4: HOUR_INDEX["Thìn"], 
+        3: HOUR_INDEX["Hợi"], 2: HOUR_INDEX["Ngọ"] , 
+        1: HOUR_INDEX["Dậu"]},
+    5: {5: HOUR_INDEX["Dần"], 4: HOUR_INDEX["Sửu"], 3: HOUR_INDEX["Thìn"], 
+        2: HOUR_INDEX["Hợi"], 1: HOUR_INDEX["Ngọ"]},
+    4: {4: HOUR_INDEX["Dần"], 3: HOUR_INDEX["Sửu"], 2: HOUR_INDEX["Thìn"], 
+        1: HOUR_INDEX["Hợi"]},
+    3: {3: HOUR_INDEX["Dần"], 2: HOUR_INDEX["Sửu"], 1: HOUR_INDEX["Thìn"]},
+    2: {2: HOUR_INDEX["Dần"], 1: HOUR_INDEX["Sửu"]}
 }
 
 def an_tu_vi(lunar_day, cuc_number):
-    start = CUNG_CUC[cuc_number] 
-
     pos = lunar_day % cuc_number
 
     if pos == 0:
         pos = cuc_number
 
-    pos = (lunar_day + cuc_number - pos) // cuc_number
-    index = int(start + pos - 1) % 12
+    start = CUNG_CUC[cuc_number][pos]
 
+    pos = lunar_day // cuc_number
+    index = int(start + pos) % 12
+
+    # print(f"An Tu Vi - Lunar Day: {lunar_day}, An: {CHI[index]}, Start: {CHI[start]}, Pos: {pos}, Cuc Number: {cuc_number}")
     return CHI[index]
 
 def an_tu_vi_tinh_he(tu_vi):
@@ -80,11 +87,15 @@ def an_tu_vi_tinh_he(tu_vi):
     return stars
 
 #   2. Thiên Phủ tinh hệ
-
+MATCH_TU_VI_THIEN_PHU = {
+    "Tý": "Thìn", "Sửu": "Mão", "Dần": "Dần", 
+    "Thìn": "Tý", "Mão": "Sửu", "Thân": "Thân",
+    "Tỵ": "Hợi", "Ngọ": "Tuất", "Mùi": "Dậu",
+    "Hợi": "Tỵ", "Tuất": "Ngọ", "Dậu": "Mùi"
+}
 def an_thien_phu_tinh_he(tu_vi):
     stars = {}
-
-    thien_phu = move(tu_vi, 6)
+    thien_phu = MATCH_TU_VI_THIEN_PHU[tu_vi]
 
     stars["Thiên Phủ"] = thien_phu
     stars["Thái Âm"] = move(thien_phu, 1)
@@ -249,7 +260,7 @@ def an_loc_ton_tinh_he(can, am_duong_gender):
     stars["Bệnh Phù"] = move(loc_ton, 8 * d)
     stars["Đại Hao"] = move(loc_ton, 9 * d)
     stars["Phục Binh"] = move(loc_ton, 10 * d)
-    stars["Quan Phù"] = move(loc_ton, 11 * d)
+    stars["Quan Phủ"] = move(loc_ton, 11 * d)
 
     return stars
 
@@ -323,7 +334,7 @@ def an_ta_huu(lunar_month):
     huu_bat = move("Tuất", -steps)
 
     return {
-        "Tả Phụ": ta_phu,
+        "Tả Phù": ta_phu,
         "Hữu Bật": huu_bat
     }
 
@@ -406,7 +417,7 @@ def an_quang_quy(lunar_day, van_xuong, van_khuc):
     an_quang = move(an_quang, -1)
 
     thien_quy = move(van_khuc, -steps)
-    thien_quy = move(thien_quy, -1)
+    thien_quy = move(thien_quy, 1) # Lùi 1 bước nhưng vì theo chiều nghịch nên là tiến
 
     return {
         "Ân Quang": an_quang,
@@ -546,7 +557,7 @@ TU_HOA_TABLE = {
     "Kỷ": ("Vũ Khúc", "Tham Lang", "Thiên Lương", "Văn Khúc"),
     "Canh": ("Thái Dương", "Vũ Khúc", "Thái Âm", "Thiên Đồng"),
     "Tân": ("Cự Môn", "Thiên Lương", "Văn Khúc", "Văn Xương"),
-    "Nhâm": ("Thiên Lương", "Tử Vi", "Tả Phụ", "Vũ Khúc"),
+    "Nhâm": ("Thiên Lương", "Tử Vi", "Tả Phù", "Vũ Khúc"),
     "Quý": ("Phá Quân", "Cự Môn", "Thái Âm", "Tham Lang")
 }
 
@@ -889,7 +900,7 @@ def build_houses_chart(user, tuvichart):
     stars.update(an_khoi_viet(can))
     stars.update(an_khoc_hu(chi))
 
-    stars.update(an_thai_toa(lunar_day, ta_huu["Tả Phụ"], ta_huu["Hữu Bật"]))
+    stars.update(an_thai_toa(lunar_day, ta_huu["Tả Phù"], ta_huu["Hữu Bật"]))
     stars.update(an_quang_quy(lunar_day, xuong_khuc["Văn Xương"], xuong_khuc["Văn Khúc"]))
 
     stars.update(an_thien_nguyet_duc(chi))
@@ -949,6 +960,8 @@ def build_houses_chart(user, tuvichart):
 
         # Chính tinh
         for star, pos in stars.items():
+            # if star == "Quan Phù":
+            #     print(pos)
             if pos == zodiac:
                 if star in BRIGHTNESS_TABLE:
                     house["chinh_tinh"].append({

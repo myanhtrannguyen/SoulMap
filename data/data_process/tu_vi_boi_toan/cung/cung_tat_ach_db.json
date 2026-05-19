@@ -1,0 +1,492 @@
+{
+  "Cung_tat_ach": {
+    "name": "cung_tật_ách",
+    "description": "Xem cung Tật Ách để biết rõ những tì vết trong người nếu cô, những bệnh tật  có thể mắc phải và những tai ương có thể xảy đến trong cả một đời người. Ngoài ra lại  còn để biết rõ về lúc chết nữa  Trước khi nhận định những ảnh hưởng của những sao tọa thủ thủ cung  Tật Ách phải luận đoán сẩn thận ba cung Mệnh, Thân và Phúc Đức vì những  cung này thường làm lăng hay giảm sự tốt xấu của cung Tật Ách.  Nếu cung Tật Ách mờ ám xấu xa, đáng lẽ bệnh tật, tai ương đầy rẫy,  nhưng may mắn lại được cung Mệnh, cung Thân hay cung Phúc Đức sáng sủa  tốt dẹp, có nhiều phúc tinh, cứu tinh hội hợp, như vậy cung chẳng đáng lo ngại vì  những sao này giải trừ được khá nhiều sự chẳng lành.  Xem cung Tật Ách, người nghiên cứu đẩu số phải tìm ngay những phúc  tinh hay cứu tinh hội hợp cùng một lúc với những sao ác độc có ảnh hưởng gây  nên bệnh tật hay tai ương. Đoạn phải cân nhắc ảnh hưởng cứu giải và ảnh hưởng  tác họa của hai nhóm sao để chế hóa bù trừ, tăng giảm.  Muốn rộng đường luận đoán, người nghiên cứu đẩu số nên nhận định cần  thận tính chất các sao, biểu tượng bằng các sao, những bộ phận trong thân thể,  thức ăn, thức uống và đồ dùng. Sau đó phải kết hợp lại đề suy ra những hình thái  đặc biệt của bệnh tật, tai ương, đồng thời tìm hiểu nguyên nhân gây nên những  nỗi hiểm nghèo, cùng một lúc với những bộ phận trong thân thể bị hư hại.",
+    "stars": [
+      {
+        "star_id": "tử_vi_đơn_thủ_tại_tý_ngọ",
+        "context_type": "sao_cuu_giai",
+        "rules": {
+          "phủ_đồng_cung_sát_đồng_cung_thiên_phủ_thiên_lương_sáng_sủa_tốt_đẹp": "cứu giải khá nhiều bệnh tật, tai ương."
+        }
+      },
+      {
+        "star_id": "hóa_khoa",
+        "context_type": "sao_cuu_giai",
+        "rules": {
+          "rule_text": "Ảnh hướng cứu giải khá mạnh mẽ, giảm bớt sự nguy hiểm. Mắc nạn gặp \nngười cứu, đau yếu gặp thầy gặp thuốc."
+        }
+      },
+      {
+        "star_id": "thiên_giải_địa_giải_giải_thần",
+        "context_type": "sao_cuu_giai",
+        "rules": {
+          "rule_text": "Giải trừ bệnh tật tai ương"
+        }
+      },
+      {
+        "star_id": "lộc_tồn_hóa_lộc_bác_sĩ",
+        "context_type": "sao_cuu_giai",
+        "rules": {
+          "rule_text": "Cũng như Hóa Khoa nhưng nếu Lộc Tồn, Hóa Lộc, Bác Sĩ gặp nhiều Sát \ntinh xâm phạm sẽ mất hẳn ảnh hưởng cứu giải và đôi khi lại thành ra những sao \ntác họa."
+        }
+      },
+      {
+        "star_id": "đế_vượng",
+        "context_type": "sao_cuu_giai",
+        "rules": {
+          "rule_text": "Ít bệnh tật."
+        }
+      },
+      {
+        "star_id": "tràng_sinh",
+        "context_type": "sao_cuu_giai",
+        "rules": {
+          "rule_text": "Ít bệnh tật nhưng nếu Tràng Sinh lại gặp nhiều sao tác họa hội hợp, chắc \nchắn là đau yếu lâu khỏi."
+        }
+      },
+      {
+        "star_id": "thiếu_dương_thiếu_âm_thiên_đức_phúc_đức_thanh_long",
+        "context_type": "sao_cuu_giai",
+        "rules": {
+          "rule_text": "Cứu giải những bệnh tật hay tai ương nhỏ."
+        }
+      },
+      {
+        "star_id": "hóa_quyền",
+        "context_type": "sao_cuu_giai",
+        "rules": {
+          "nhiều_sao_cứu_giải": "qua khỏi bệnh nạn một cách nhanh chóng bất ngờ.",
+          "nhiều_sao_tác_họa": "rất nguy nan."
+        }
+      },
+      {
+        "star_id": "tả_hữu",
+        "context_type": "sao_cuu_giai",
+        "rules": {
+          "nhiều_sao_cứu_giải": "lúc lâm nguy gặp người trợ giúp.",
+          "nhiều_sao_tác_họa": "rất nguy nan."
+        }
+      },
+      {
+        "star_id": "tuần_triệt_án_ngữ",
+        "context_type": "sao_cuu_giai",
+        "rules": {
+          "rule_text": "Suốt đời mạnh khỏe, không đáng lo ngại nhiều về bệnh nạn."
+        }
+      },
+      {
+        "star_id": "liêm_trinh",
+        "context_type": "sao_tac_hoa",
+        "rules": {
+          "rule_text": "Có tỳ vết ở chân tay hay ở lưng.",
+          "tham_đồng_cung": "mắt kém, hay mắc tù tội.",
+          "tham_đồng_cung_tại_tỵ_tướng_hỏa_đồng_cung": "tự tử.",
+          "tham_không_kiếp_đồng_cung": "chết một cách thê thảm.",
+          "sát_đồng_cung": "mắt rất kém, mắc tai nạn xe cộ hay đao thương.",
+          "kỵ_đồng_cung_tại_dần_thân": "chết bất đắc kỳ tử, hoặc vì mắc tai nạn, hoặc \nvì ngộ độc."
+        }
+      },
+      {
+        "star_id": "thiên_đồng",
+        "context_type": "sao_tac_hoa",
+        "rules": {
+          "rule_text": "Đau bụng, bộ máy tiêu hóa không được lành mạnh.",
+          "cự_đồng_cung": "bệnh tâm khí",
+          "nguyệt_đồng_cung": "bệnh huyết khí.",
+          "kỵ_đồng_cung": "đau dạ dày hay ruột gan.",
+          "kỵ_hình_thai_mộc": "bệnh phạm phòng."
+        }
+      },
+      {
+        "star_id": "vũ_khúc",
+        "context_type": "sao_tac_hoa",
+        "rules": {
+          "rule_text": "Bệnh ngoài da, chân tay có tỳ vết.",
+          "tướng_đồng_cung": "có ám tật.",
+          "tham_xương_khúc_đồng_cung": "nhiều nốt ruồi, hay mắc bệnh có liên \nquan đến lông tóc.",
+          "sát_đồng_cung": "bệnh ở bộ máy tiêu hóa.",
+          "long_đồng_cung": "có nốt ruồi đỏ.",
+          "riêu_đồng_cung": "bệnh tè thấp hay phù chân tay.",
+          "riêu_việt_toái": "câm"
+        }
+      },
+      {
+        "star_id": "thái_dương",
+        "context_type": "sao_tac_hoa",
+        "rules": {
+          "rule_text": "Căng mạch máu, hay nhức đầu.",
+          "nguyệt_đồng_cung": "bệnh nạn liên miên",
+          "sáng_sủa_tuần_triệt_án_ngữ": "đau mắt, mắt rất kém.",
+          "sáng_sủa_riêu_đà_kỵ": "đau mắt,có tật ở mắt.",
+          "mờ_ám_riêu_đà_kỵ": "nếu không mù mắt, què chân cũng đau mắt nặng và \nkhản tiếng.",
+          "thanh_long_đồng_cung": "mác nạn sông nước.",
+          "hình_đồng_cung": "vật kim khí sắc nhọn đâm vào mắt."
+        }
+      },
+      {
+        "star_id": "thiên_cơ",
+        "context_type": "sao_tac_hoa",
+        "rules": {
+          "rule_text": "Bệnh ngoài da hay bệnh tê thấp.",
+          "cự_đồng_cung": "bệnh khi huyết",
+          "lương_đồng_cung": "bệnh ở hạ bộ.",
+          "nguyệt_đồng_cung": "có nhiều mụn nhọt,",
+          "kình_đà": "chân tay yếu gân.",
+          "khốc_hư": "bệnh phong đàm, ho ra máu.",
+          "hình_không_kiếp": "mắc bệnh tật hay tai nạn bất ngờ rất đáng lo ngại.",
+          "hỏa_linh": "bệnh ma làm.",
+          "tuần_triệt_án_ngữ": "cây cối đè phải chân tay, bị thương."
+        }
+      },
+      {
+        "star_id": "thái_âm",
+        "context_type": "sao_tac_hoa",
+        "rules": {
+          "rule_text": "Đau bụng",
+          "mờ_ám": "đau phổi",
+          "mờ_ám_riêu_đà_ky": "mất kém, thường bị lòa hay thông manh.",
+          "hình_đồng_cung": "vật kim khí sắc nhọn đâm vào mắt."
+        }
+      },
+      {
+        "star_id": "tham_lang",
+        "context_type": "sao_tac_hoa",
+        "rules": {
+          "đơn_thủ_tại_dần_thân": "bệnh ở chân",
+          "đà_đồng_cung_tại_dần_thân": "mắc tai nạn xe cộ hay bị súc vật cắn đá, nếu \nkhông, cũng vì ăn uống mà sinh bệnh khó chữa.",
+          "đơn_thủ_tại_thìn_tuất": "thú dữ cắn đá, nếu không, cũng mác tai nạn xe cộ \nrất nguy hiểm.",
+          "hổ_đồng_cung_tại_tuất": "thú dữ cắn chết",
+          "đơn_thủ_tại_tý_ngọ": "chơi bời mà mắc bệnh.",
+          "kỵ_đồng_cung": "tai nạn sòng nước.",
+          "lương_kỵ": "mác kiện cáo tù tội.",
+          "riêu_đồng_cung": "mắc tai nạn sông nước, hay mang bệnh phong tình."
+        }
+      },
+      {
+        "star_id": "cự_môn",
+        "context_type": "sao_tac_hoa",
+        "rules": {
+          "rule_text": "Bệnh ở hạ bộ, mặt thường có vết, lúc ít tuổi có nhiều mụn nhọt.",
+          "nhật_đồng_cung": "hình dáng kỳ dị.",
+          "kình_hỏa_đồng_cung": "bệnh do tửu sắc gây nên.",
+          "kỵ_đồng_cung": "chết đuối."
+        }
+      },
+      {
+        "star_id": "thiên_tướng",
+        "context_type": "sao_tac_hoa",
+        "rules": {
+          "rule_text": "Bệnh ở đầu hay mặt.",
+          "đơn_thủ_tại_mão_dậu": "da mặt vàng, có bệnh thuộc về khí huyết hay bệnh \nngoài da.",
+          "vũ_đồng_cung": "mang tật ở đầu.",
+          "hình_đồng_cung": "mang tật ở đầu.",
+          "tuần_triệt_án_ngữ": "mắc tai nạn, đầu hay mặt bị thương khá nặng."
+        }
+      },
+      {
+        "star_id": "thiên_lương",
+        "context_type": "sao_tac_hoa",
+        "rules": {
+          "đơn_thủ_tại_hợi_tý_sửu": "mắc bệnh hàn nhiệt, nhưng không đáng lo ngại.",
+          "kỵ_đồng_cung": "cây cối hay đồ gỗ đè trúng chân tay."
+        }
+      },
+      {
+        "star_id": "thất_sát",
+        "context_type": "sao_tac_hoa",
+        "rules": {
+          "rule_text": "Mặt có vết, lúc ít tuổi sức khỏe rất kém.",
+          "vũ_đồng_cung": "bộ máy tiêu hóa bị hư hại, thường mắc bệnh trĩ. Nếu \nkhông chân tay cũng có thương tích.",
+          "không_kiếp_hình": "mắc tai nạn về súng đạn hay đao thương.",
+          "sát_tinh": "chân tay có tỳ vết, thường hay mắc tai nạn về đao thương.",
+          "kỵ_đà": "bệnh tật ở mặt.",
+          "hao_mộc_kỵ": "có ung thư, nếu không, cũng mắc bệnh sẽ phải mổ xẻ mới \ncứu khỏi được.",
+          "đà_phá_hình": "khó thoát được tù tội."
+        }
+      },
+      {
+        "star_id": "phá_quân",
+        "context_type": "sao_tac_hoa",
+        "rules": {
+          "rule_text": "Máu nóng, nên lúc ít tuổi có nhiều mụn nhọt, chóc lở. Lớn lên lại hay \nmắc tai nạn xe cộ. Nếu không cũng khó tránh được tù tội.",
+          "vũ_đồng_cung": "mắt kém.",
+          "liêm_đồng_cung": "chân tay có tỳ vết.",
+          "liêm_hỏa_đồng_cung": "chết đuối.",
+          "kình_đà_hình_kỵ": "điên cuồng, nếu không, cũng có tật ở mắt.",
+          "không_kiếp": "mắc tù tội, bị đánh dập tàn nhẫn.",
+          "hao_mộc_kỵ": "có ung thư, nếu không, cũng mắc bệnh cần phải mổ xẻ mới \nqua khỏi được",
+          "hình": "bị đánh đập, mang thương tích. Nếu không, cũng mắc tai nạn về xe \ncộ hay mắc tù tội.",
+          "hình_việt_hỏa_linh": "bị điện giật hay sét đánh rất nguy nan. Nếu không, \ncũng tai nạn về súng đạn.",
+          "hình_phục_không_kiếp": "bị ám sát.",
+          "riêu_hồng": "mắc bệnh mộng tinh."
+        }
+      },
+      {
+        "star_id": "kình_dương",
+        "context_type": "sao_tac_hoa",
+        "rules": {
+          "rule_text": "Mắc bệnh ở tai, thường có bệnh trĩ, nếu không, cũng có tỳ vết ở chân.",
+          "tọa_thủ_tại_ngọ_sát_hình": "mắc tù tội hay tai nạn đao thương",
+          "kỵ_đồng_cung_tại_hợi_tý": "mù lòa.",
+          "hỏa_linh_không_kiếp": "tự sát hay bị giết.",
+          "hổ_đồng_cung": "chó dại cắn.",
+          "cái_không_kiếp": "phát ban hay lên đậu sởi rất đáng lo ngại.",
+          "hình": "bị đánh đập, mang thương tích, nếu không cũng mắc tai nạn về xe \ncộ hay máy móc.",
+          "hình_không_kiếp": "bị giết chết, nếu không cũng mắc tù tội khốn khổ.",
+          "tuế_đồng_cung": "mắc kiện cáo, tù tội."
+        }
+      },
+      {
+        "star_id": "đà_la",
+        "context_type": "sao_tac_hoa",
+        "rules": {
+          "rule_text": "Lúc ít tuổi hay đau răng, đầu và mặt thường có tỳ vết.",
+          "tọa_thủ_tại_tỵ_ngọ_phủ": "bị sét đánh ngã hay có thương tích.",
+          "mã_đồng_cung": "có tật ở chân tay, thường hay mắc tai nạn xe cộ.",
+          "riêu_kỵ": "nhiều bệnh tật, hay đau yếu luôn, đáng lo ngại nhất là bệnh đau \nmắt, đau ruột gan hay dạ dày."
+        }
+      },
+      {
+        "star_id": "hỏa_linh",
+        "context_type": "sao_tac_hoa",
+        "rules": {
+          "sáng_sủa_tốt_đẹp": "thân thể tráng kiện",
+          "mờ_ám_xấu_xa": "mắc bệnh nóng lạnh.",
+          "tọa_thủ_tại_thìn_linh_kình": "chết đuối.",
+          "hình_việt": "mắc tai nạn về đao thương hay súng đạn.",
+          "hình_việt_phi": "bị sét đánh hay súng bắn.",
+          "bệnh_phủ_đồng_cung": "hay sốt nóng, đáng lo ngại nhất là sốt thương hàn \nhay lên đậu lào.",
+          "mộc_đồng_cung": "phỏng nước hay phòng lửa."
+        }
+      },
+      {
+        "star_id": "không_kiếp",
+        "context_type": "sao_tac_hoa",
+        "rules": {
+          "rule_text": "Xấu máu nên hay có mụn nhọt, chốc lở.",
+          "cơ": "có mụn nhọt hôi thối.",
+          "hình_đồng_cung": "mắc tù tội hay bị đâm chém.",
+          "việt_đồng_cung": "bị đánh đập mang thương tích.",
+          "việt_tuế": "mắc tai nạn về đao thương rất đáng lo ngại."
+        }
+      },
+      {
+        "star_id": "lộc_tồn_không_kiếp",
+        "context_type": "sao_tac_hoa",
+        "rules": {
+          "rule_text": "Nếu có ám tật mới sống tâu."
+        }
+      },
+      {
+        "star_id": "hóa_kỵ",
+        "context_type": "sao_tac_hoa",
+        "rules": {
+          "rule_text": "Hay đau bụng vặt, đàn ông vì dương hư nên hiếm con, đàn bà thường khó \nsinh đẻ.",
+          "nhật_hư": "đàn bà mắc bệnh về khí huyết, mất sinh đẻ.",
+          "hình_đồng_cung_tại_hợi_tý": "đau mắt nặng, có tật ở mắt, nếu không cũng \nmắc tù tội.",
+          "tang_điếu": "tự sát.",
+          "hao_mộc": "mắc bệnh cần phải mổ cắt hay châm chích mới qua khỏi được.",
+          "riêu_đồng_cung": "môi có tỳ vết."
+        }
+      },
+      {
+        "star_id": "thiên_mã",
+        "context_type": "sao_tac_hoa",
+        "rules": {
+          "kiếp_tuế": "chết vì đâm chém.",
+          "hình_đồng_cung": "mắc tai nạn xe cộ hay vì ngã té mà có thương tích ở chân \ntay.",
+          "tuần_triệt_án_ngữ": "mắc tai nạn xe cộ rất nguy hiểm, nếu không chân tay \ncũng phải mang tật từ lúc mới lọt lòng."
+        }
+      },
+      {
+        "star_id": "thái_tuế",
+        "context_type": "sao_tac_hoa",
+        "rules": {
+          "rule_text": "Hay mắc kiện cáo, tù tội, nếu không cũng bị đánh đập.",
+          "sát_đà_kỵ": "chết vì đâm chém,"
+        }
+      },
+      {
+        "star_id": "song_hao",
+        "context_type": "sao_tac_hoa",
+        "rules": {
+          "rule_text": "Bộ máy tiêu hóa không được lành mạnh vì ăn uống mà mắc bệnh khó chữa."
+        }
+      },
+      {
+        "star_id": "tang_môn",
+        "context_type": "sao_tac_hoa",
+        "rules": {
+          "rule_text": "Mắc bệnh thuộc về khí huyết, có thế là thiếu máu hay căng mạch máu. \nTim yếu, đàn bà khó đẻ.",
+          "tử_đồng_cung": "khó thoát được tù tội.",
+          "hổ_khốc_hư": "ho lao",
+          "điếu": "ngã đau, có thương tích."
+        }
+      },
+      {
+        "star_id": "bạch_hổ",
+        "context_type": "sao_tac_hoa",
+        "rules": {
+          "rule_text": "Máu xấu, hay đau xương cốt, đàn bà sinh đẻ khó khăn.",
+          "kình_đà": "thú dữ cắn rất nguy hiểm",
+          "riêu_đồng_cung": "chó dại cắn.",
+          "phù": "mắc kiện cáo hay bị bắt bớ giam cầm"
+        }
+      },
+      {
+        "star_id": "thiên_khốc",
+        "context_type": "sao_tac_hoa",
+        "rules": {
+          "rule_text": "Phổi yếu, hay ho vặt, thận kém."
+        }
+      },
+      {
+        "star_id": "thiên_hư",
+        "context_type": "sao_tac_hoa",
+        "rules": {
+          "rule_text": "Thận suy, răng xấu, hay bị sâu."
+        }
+      },
+      {
+        "star_id": "thiên_hình",
+        "context_type": "sao_tac_hoa",
+        "rules": {
+          "rule_text": "Mắc bệnh phong sang, thường phải châm chích, hay bị dao kéo đụng \nchạm rất đau đớn.",
+          "kình_đẩu_đồng_cung": "bị châm chích mổ xẻ.",
+          "riêu_không_kiếp": "mắc bệnh phong tình.",
+          "phục_đồng_cung": "nói ngọng hay nói lắp.",
+          "kỵ_kiếp_đồng_cung": "mắc tai nạn đao thương hay bị giam cầm."
+        }
+      },
+      {
+        "star_id": "long_trì",
+        "context_type": "sao_tac_hoa",
+        "rules": {
+          "nhật_sát": "đau đầu.",
+          "nguyệt_sát": "đau bụng.",
+          "không_kiếp_mộc": "mắc tai nạn sổng nước, hay đau mắt, đàn bà thường \nkhó đẻ."
+        }
+      },
+      {
+        "star_id": "đào_hồng",
+        "context_type": "sao_tac_hoa",
+        "rules": {
+          "rule_text": "Tim yếu, bệnh ở hạ bộ.",
+          "không_kiếp": "mắc bệnh phong tình.",
+          "riêu_hỉ": "mộng tình, di tinh."
+        }
+      },
+      {
+        "star_id": "điếu_khách",
+        "context_type": "sao_tac_hoa",
+        "rules": {
+          "rule_text": "Nga đau, có thương tích."
+        }
+      },
+      {
+        "star_id": "quan_phù_kình_đồng_cung",
+        "context_type": "sao_tac_hoa",
+        "rules": {
+          "rule_text": "Bị sét đánh hay điện giật, nếu không cũng khó tránh thoát được tù tội."
+        }
+      },
+      {
+        "star_id": "thai",
+        "context_type": "sao_tac_hoa",
+        "rules": {
+          "không_kiếp": "đàn bà mắc bệnh đau tử cung hay lệch tử cung.",
+          "hồng_đào_kình_kỵ_mộc": "đàn ông mắc bệnh phạm phòng, đàn bà đau \nyếu vì tiểu sản, hậu sản."
+        }
+      },
+      {
+        "star_id": "mộc_dục",
+        "context_type": "sao_tac_hoa",
+        "rules": {
+          "rule_text": "Mắc bệnh tê thấp, thận suy."
+        }
+      },
+      {
+        "star_id": "bệnh",
+        "context_type": "sao_tac_hoa",
+        "rules": {
+          "rule_text": "Hay cảm sốt luôn."
+        }
+      },
+      {
+        "star_id": "bệnh_phù",
+        "context_type": "sao_tac_hoa",
+        "rules": {
+          "rule_text": "Sức khỏe rất kém.",
+          "hình_kỵ": "có bệnh phong sang, thường mắc ác bệnh, đáng lo ngại nhất là \nbệnh hủi (cùi).",
+          "hao_sát_tinh": "mắc ác bệnh rất khó chữa."
+        }
+      },
+      {
+        "star_id": "thiên_riêu",
+        "context_type": "sao_tac_hoa",
+        "rules": {
+          "rule_text": "Thận suy, hay đau răng, bộ tiêu hóa không được lành mạnh.",
+          "tang_đồng_cung": "té đau, có thương tích.",
+          "hỏa_linh": "đau yếu vì ma qủy phá phách."
+        }
+      },
+      {
+        "star_id": "lưu_hà",
+        "context_type": "sao_tac_hoa",
+        "rules": {
+          "rule_text": "Mắc tai nạn sông nước, đàn bà thường khó đẻ, hay gặp nhiều sự nguy \nhiểm trước khi lâm bồn.",
+          "không_kiếp": "chết bất đắc kỳ tử.",
+          "kiếp_sát_đồng_cung": "chết vì tai nạn xe cộ hay bị đâm chém."
+        }
+      },
+      {
+        "star_id": "hoa_cái",
+        "context_type": "sao_tac_hoa",
+        "rules": {
+          "mộc_đồng_cung": "có bệnh di mộng tinh.",
+          "riêu": "bệnh phong tình."
+        }
+      },
+      {
+        "star_id": "hỷ_thần",
+        "context_type": "sao_tac_hoa",
+        "rules": {
+          "rule_text": "Mắc bệnh ở hậu môn, hay đau bụng đi rửa."
+        }
+      },
+      {
+        "star_id": "phục_hình_việt",
+        "context_type": "sao_tac_hoa",
+        "rules": {
+          "rule_text": "Bị kẻ thù đâm chém."
+        }
+      },
+      {
+        "star_id": "cô_quả",
+        "context_type": "sao_tac_hoa",
+        "rules": {
+          "rule_text": "Thường có tỳ vết ở hậu môn, hay đau bụng đi rửa, khi đau yếu thường \nhay mắc tai nạn, không gặp được người giúp đỡ."
+        }
+      },
+      {
+        "star_id": "dưỡng",
+        "context_type": "sao_tac_hoa",
+        "rules": {
+          "rule_text": "Bệnh tật hay kéo dài, lâu khỏi."
+        }
+      },
+      {
+        "star_id": "thiên_khôi",
+        "context_type": "sao_tac_hoa",
+        "rules": {
+          "đơn_thủ_tại_mão_dậu": "da mặt vàng, có bệnh thuộc về khí huyết hay bệnh \nngoài da.",
+          "vũ_đồng_cung": "mang tật ở đầu.",
+          "hình_đồng_cung": "mang tật ở đầu.",
+          "tuần_triệt_án_ngữ": "mắc tai nạn, đầu hay mặt bị thương khá nặng."
+        }
+      }
+    ],
+    "source_content": "Xem cung Tật Ách để biết rõ những tì vết trong người nếu cô, những bệnh tật \ncó thể mắc phải và những tai ương có thể xảy đến trong cả một đời người. Ngoài ra lại \ncòn để biết rõ về lúc chết nữa \nTrước khi nhận định những ảnh hưởng của những sao tọa thủ thủ cung \nTật Ách phải luận đoán сẩn thận ba cung Mệnh, Thân và Phúc Đức vì những \ncung này thường làm lăng hay giảm sự tốt xấu của cung Tật Ách. \nNếu cung Tật Ách mờ ám xấu xa, đáng lẽ bệnh tật, tai ương đầy rẫy, \nnhưng may mắn lại được cung Mệnh, cung Thân hay cung Phúc Đức sáng sủa \ntốt dẹp, có nhiều phúc tinh, cứu tinh hội hợp, như vậy cung chẳng đáng lo ngại vì \nnhững sao này giải trừ được khá nhiều sự chẳng lành. \nXem cung Tật Ách, người nghiên cứu đẩu số phải tìm ngay những phúc \ntinh hay cứu tinh hội hợp cùng một lúc với những sao ác độc có ảnh hưởng gây \nnên bệnh tật hay tai ương. Đoạn phải cân nhắc ảnh hưởng cứu giải và ảnh hưởng \ntác họa của hai nhóm sao để chế hóa bù trừ, tăng giảm. \nMuốn rộng đường luận đoán, người nghiên cứu đẩu số nên nhận định cần \nthận tính chất các sao, biểu tượng bằng các sao, những bộ phận trong thân thể, \nthức ăn, thức uống và đồ dùng. Sau đó phải kết hợp lại đề suy ra những hình thái \nđặc biệt của bệnh tật, tai ương, đồng thời tìm hiểu nguyên nhân gây nên những \nnỗi hiểm nghèo, cùng một lúc với những bộ phận trong thân thể bị hư hại. \n11.1. Ảnh hưởng của những sao cứu giải \n11.1.1. Tử Vi đơn thủ tại Tý, Ngọ \nPhủ đồng cung, Sát đồng cung, Thiên Phủ, Thiên Lương sáng sủa tốt \nđẹp: cứu giải khá nhiều bệnh tật, tai ương. \n11.1.2. Hóa Khoa \nẢnh hướng cứu giải khá mạnh mẽ, giảm bớt sự nguy hiểm. Mắc nạn gặp \nngười cứu, đau yếu gặp thầy gặp thuốc. \n11.1.3. Thiên Giải, Địa Giải, Giải Thần \nGiải trừ bệnh tật tai ương \n11.1.4. Lộc Tồn, Hóa Lộc, Bác Sĩ \nCũng như Hóa Khoa nhưng nếu Lộc Tồn, Hóa Lộc, Bác Sĩ gặp nhiều Sát \ntinh xâm phạm sẽ mất hẳn ảnh hưởng cứu giải và đôi khi lại thành ra những sao \ntác họa. \n11.1.5. Đế Vượng \nÍt bệnh tật. \n11.1.6. Tràng Sinh \nÍt bệnh tật nhưng nếu Tràng Sinh lại gặp nhiều sao tác họa hội hợp, chắc \nchắn là đau yếu lâu khỏi. \n11.1.7. Thiếu Dương, Thiếu Âm, Thiên Đức, Phúc Đức, Thanh Long \nCứu giải những bệnh tật hay tai ương nhỏ. \n11.1.8. Hóa Quyền \n- Nhiều sao cứu giải: qua khỏi bệnh nạn một cách nhanh chóng bất ngờ. \n- Nhiều sao tác họa: rất nguy nan. \n11.1.9. Tả, Hữu \n- Nhiều sao cứu giải: lúc lâm nguy gặp người trợ giúp. \n- Nhiều sao tác họa: rất nguy nan. \n11.1.10. Tuần, Triệt án ngữ \nSuốt đời mạnh khỏe, không đáng lo ngại nhiều về bệnh nạn. \n11.2. Ảnh hưởng của những sao tác họa \n11.2.1. Liêm Trinh \n- Có tỳ vết ở chân tay hay ở lưng. \n- Tham đồng cung: mắt kém, hay mắc tù tội. \n- Tham đồng cung tại Tỵ, Tướng, Hỏa đồng cung: tự tử. \n- Tham, Không, Kiếp đồng cung: chết một cách thê thảm. \n- Sát đồng cung: mắt rất kém, mắc tai nạn xe cộ hay đao thương. \n- Kỵ đồng cung tại Dần, Thân: chết bất đắc kỳ tử, hoặc vì mắc tai nạn, hoặc \nvì ngộ độc. \n11.2.2. Thiên Đồng \n- Đau bụng, bộ máy tiêu hóa không được lành mạnh. \n- Cự đồng cung: bệnh tâm khí \n- Nguyệt đồng cung: bệnh huyết khí. \n- Kỵ đồng cung: đau dạ dày hay ruột gan. \n- Kỵ, Hình, Thai, Mộc: bệnh phạm phòng. \n11.2.3. Vũ Khúc \n- Bệnh ngoài da, chân tay có tỳ vết. \n- Tướng đồng cung: có ám tật. \n- Tham, Xương, Khúc đồng cung: nhiều nốt ruồi, hay mắc bệnh có liên \nquan đến lông tóc. \n- Sát đồng cung: bệnh ở bộ máy tiêu hóa. \n- Long đồng cung: có nốt ruồi đỏ. \n- Riêu đồng cung: bệnh tè thấp hay phù chân tay. \n- Riêu, Việt, Toái: câm \n11.2.4. Thái Dương \n- Căng mạch máu, hay nhức đầu. \n- Nguyệt đồng cung: bệnh nạn liên miên \n- Sáng sủa, Tuần, Triệt án ngữ: đau mắt, mắt rất kém. \n- Sáng sủa, Riêu, Đà, Kỵ: đau mắt,có tật ở mắt. \n- Mờ ám, Riêu, Đà, Kỵ: nếu không mù mắt, què chân cũng đau mắt nặng và \nkhản tiếng. \n- Thanh Long đồng cung: mác nạn sông nước. \n- Hình đồng cung: vật kim khí sắc nhọn đâm vào mắt. \n11.2.5. Thiên Cơ \n- Bệnh ngoài da hay bệnh tê thấp. \n- Cự đồng cung: bệnh khi huyết \n- Lương đồng cung: bệnh ở hạ bộ. \n- Nguyệt đồng cung: có nhiều mụn nhọt, \n- Kình, Đà: chân tay yếu gân. \n- Khốc, Hư: bệnh phong đàm, ho ra máu. \n- Hình, Không, Kiếp: mắc bệnh tật hay tai nạn bất ngờ rất đáng lo ngại. \n- Hỏa, Linh: bệnh ma làm. \n- Tuần, Triệt án ngữ: cây cối đè phải chân tay, bị thương. \n11.2.6. Thái Âm \n- Đau bụng \n- Mờ ám: đau phổi \n- Mờ ám, Riêu, Đà, Ky: mất kém, thường bị lòa hay thông manh. \n- Hình đồng cung: vật kim khí sắc nhọn đâm vào mắt. \n11.2.7. Tham Lang \n- Đơn thủ tại Dần, Thân: bệnh ở chân \n- Đà đồng cung tại Dần, Thân: mắc tai nạn xe cộ hay bị súc vật cắn đá, nếu \nkhông, cũng vì ăn uống mà sinh bệnh khó chữa. \n- Đơn thủ tại Thìn, Tuất: thú dữ cắn đá, nếu không, cũng mác tai nạn xe cộ \nrất nguy hiểm. \n- Hổ đồng cung tại Tuất: thú dữ cắn chết \n- Đơn thủ tại Tý, Ngọ: chơi bời mà mắc bệnh. \n- Kỵ đồng cung: tai nạn sòng nước. \n- Lương, Kỵ: mác kiện cáo tù tội. \n- Riêu đồng cung: mắc tai nạn sông nước, hay mang bệnh phong tình. \n11.2.8. Cự Môn \n- Bệnh ở hạ bộ, mặt thường có vết, lúc ít tuổi có nhiều mụn nhọt. \n- Nhật đồng cung: hình dáng kỳ dị. \n- Kình, Hỏa đồng cung: bệnh do tửu sắc gây nên. \n- Kỵ đồng cung: chết đuối. \n11.2.9. Thiên Tướng \n- Bệnh ở đầu hay mặt. \n- Đơn thủ tại Mão, Dậu: da mặt vàng, có bệnh thuộc về khí huyết hay bệnh \nngoài da. \n- Vũ đồng cung: mang tật ở đầu. \n- Hình đồng cung: mang tật ở đầu. \n- Tuần, Triệt án ngữ: mắc tai nạn, đầu hay mặt bị thương khá nặng. \n11.2.10. Thiên Lương \n- Đơn thủ tại Hợi, Tý, Sửu: mắc bệnh hàn nhiệt, nhưng không đáng lo ngại. \n- Kỵ đồng cung: cây cối hay đồ gỗ đè trúng chân tay. \n11.2.11. Thất Sát \n- Mặt có vết, lúc ít tuổi sức khỏe rất kém. \n- Vũ đồng cung: bộ máy tiêu hóa bị hư hại, thường mắc bệnh trĩ. Nếu \nkhông chân tay cũng có thương tích. \n- Không, Kiếp, Hình: mắc tai nạn về súng đạn hay đao thương. \n- Sát tinh: chân tay có tỳ vết, thường hay mắc tai nạn về đao thương. \n- Kỵ, Đà: bệnh tật ở mặt. \n- Hao, Mộc, Kỵ: có ung thư, nếu không, cũng mắc bệnh sẽ phải mổ xẻ mới \ncứu khỏi được. \n- Đà, Phá, Hình: khó thoát được tù tội. \n11.2.12. Phá Quân \n- Máu nóng, nên lúc ít tuổi có nhiều mụn nhọt, chóc lở. Lớn lên lại hay \nmắc tai nạn xe cộ. Nếu không cũng khó tránh được tù tội. \n- Vũ đồng cung: mắt kém. \n- Liêm đồng cung: chân tay có tỳ vết. \n- Liêm, Hỏa đồng cung: chết đuối. \n- Kình, Đà, Hình, Kỵ: điên cuồng, nếu không, cũng có tật ở mắt. \n- Không, Kiếp: mắc tù tội, bị đánh dập tàn nhẫn. \n- Hao, Mộc, Kỵ: có ung thư, nếu không, cũng mắc bệnh cần phải mổ xẻ mới \nqua khỏi được \n- Hình: bị đánh đập, mang thương tích. Nếu không, cũng mắc tai nạn về xe \ncộ hay mắc tù tội. \n- Hình, Việt, Hỏa, Linh: bị điện giật hay sét đánh rất nguy nan. Nếu không, \ncũng tai nạn về súng đạn. \n- Hình, Phục, Không, Kiếp: bị ám sát. \n- Riêu, Hồng: mắc bệnh mộng tinh. \n11.2.13. Kình Dương \n- Mắc bệnh ở tai, thường có bệnh trĩ, nếu không, cũng có tỳ vết ở chân. \n- Tọa thủ tại Ngọ, Sát, Hình: mắc tù tội hay tai nạn đao thương \n- Kỵ đồng cung tại Hợi, Tý: mù lòa. \n- Hỏa, Linh, Không, Kiếp: tự sát hay bị giết. \n- Hổ đồng cung: chó dại cắn. \n- Cái, Không, Kiếp: phát ban hay lên đậu sởi rất đáng lo ngại. \n- Hình: bị đánh đập, mang thương tích, nếu không cũng mắc tai nạn về xe \ncộ hay máy móc. \n- Hình, Không, Kiếp: bị giết chết, nếu không cũng mắc tù tội khốn khổ. \n- Tuế đồng cung: mắc kiện cáo, tù tội. \n11.2.14. Đà La \n- Lúc ít tuổi hay đau răng, đầu và mặt thường có tỳ vết. \n- Tọa thủ tại Tỵ, Ngọ, Phủ: bị sét đánh ngã hay có thương tích. \n- Mã đồng cung: có tật ở chân tay, thường hay mắc tai nạn xe cộ. \n- Riêu, Kỵ: nhiều bệnh tật, hay đau yếu luôn, đáng lo ngại nhất là bệnh đau \nmắt, đau ruột gan hay dạ dày. \n11.2.14. Hỏa, Linh \n- Sáng sủa tốt đẹp: thân thể tráng kiện \n- Mờ ám xấu xa: mắc bệnh nóng lạnh. \n- Tọa thủ tại Thìn, Linh, Kình: chết đuối. \n- Hình, Việt: mắc tai nạn về đao thương hay súng đạn. \n- Hình, Việt, Phi: bị sét đánh hay súng bắn. \n- Bệnh, Phủ đồng cung: hay sốt nóng, đáng lo ngại nhất là sốt thương hàn \nhay lên đậu lào. \n- Mộc đồng cung: phỏng nước hay phòng lửa. \n11.2.16. Không, Kiếp \n- Xấu máu nên hay có mụn nhọt, chốc lở. \n- Cơ: có mụn nhọt hôi thối. \n- Hình đồng cung: mắc tù tội hay bị đâm chém. \n- Việt đồng cung: bị đánh đập mang thương tích. \n- Việt, Tuế: mắc tai nạn về đao thương rất đáng lo ngại. \n11.2.17. Lộc Tồn, Không, Kiếp \nNếu có ám tật mới sống tâu. \n11.2.18. Hóa Kỵ \n- Hay đau bụng vặt, đàn ông vì dương hư nên hiếm con, đàn bà thường khó \nsinh đẻ. \n- Nhật, Hư: đàn bà mắc bệnh về khí huyết, mất sinh đẻ. \n- Hình đồng cung tại Hợi, Tý: đau mắt nặng, có tật ở mắt, nếu không cũng \nmắc tù tội. \n- Tang, Điếu: tự sát. \n- Hao, Mộc: mắc bệnh cần phải mổ cắt hay châm chích mới qua khỏi được. \n- Riêu đồng cung: môi có tỳ vết. \n11.2.19. Thiên Mã \n- Kiếp, Tuế: chết vì đâm chém. \n- Hình đồng cung: mắc tai nạn xe cộ hay vì ngã té mà có thương tích ở chân \ntay. \n- Tuần, Triệt án ngữ: mắc tai nạn xe cộ rất nguy hiểm, nếu không chân tay \ncũng phải mang tật từ lúc mới lọt lòng. \n11.2.20. Thái Tuế \n- Hay mắc kiện cáo, tù tội, nếu không cũng bị đánh đập. \n- Sát, Đà, Kỵ: chết vì đâm chém, \n11.2.21. Song Hao \nBộ máy tiêu hóa không được lành mạnh vì ăn uống mà mắc bệnh khó chữa. \n11.2.22. Tang Môn \n- Mắc bệnh thuộc về khí huyết, có thế là thiếu máu hay căng mạch máu. \nTim yếu, đàn bà khó đẻ. \n- Tử đồng cung: khó thoát được tù tội. \n- Hổ, Khốc, Hư: ho lao \n- Điếu: ngã đau, có thương tích. \n11.2.23. Bạch Hổ \n- Máu xấu, hay đau xương cốt, đàn bà sinh đẻ khó khăn. \n- Kình, Đà: thú dữ cắn rất nguy hiểm \n- Riêu đồng cung: chó dại cắn. \n- Phù: mắc kiện cáo hay bị bắt bớ giam cầm \n11.2.24. Thiên Khốc \nPhổi yếu, hay ho vặt, thận kém. \n11.2.25. Thiên Hư \nThận suy, răng xấu, hay bị sâu. \n11.2.26. Thiên Hình \n- Mắc bệnh phong sang, thường phải châm chích, hay bị dao kéo đụng \nchạm rất đau đớn. \n- Kình, Đẩu đồng cung: bị châm chích mổ xẻ. \n- Riêu, Không, Kiếp: mắc bệnh phong tình. \n- Phục đồng cung: nói ngọng hay nói lắp. \n- Kỵ, Kiếp đồng cung: mắc tai nạn đao thương hay bị giam cầm. \n11.2.27. Long Trì \n- Nhật, Sát: đau đầu. \n- Nguyệt, Sát: đau bụng. \n- Không, Kiếp, Mộc: mắc tai nạn sổng nước, hay đau mắt, đàn bà thường \nkhó đẻ. \n11.2.38. Đào, Hồng \n- Tim yếu, bệnh ở hạ bộ. \n- Không, Kiếp: mắc bệnh phong tình. \n- Riêu, Hỉ: mộng tình, di tinh. \n11.2.29. Điếu Khách \nNga đau, có thương tích. \n11.2.30. Quan Phù, Kình đồng cung \nBị sét đánh hay điện giật, nếu không cũng khó tránh thoát được tù tội. \n11.2.31. Thai \n- Không, Kiếp: đàn bà mắc bệnh đau tử cung hay lệch tử cung. \n- Hồng, Đào, Kình, Kỵ, Mộc: đàn ông mắc bệnh phạm phòng, đàn bà đau \nyếu vì tiểu sản, hậu sản. \n11.2.32. Mộc Dục \nMắc bệnh tê thấp, thận suy. \n11.2.33. Bệnh \nHay cảm sốt luôn. \n11.2.34. Bệnh Phù \n- Sức khỏe rất kém. \n- Hình, Kỵ: có bệnh phong sang, thường mắc ác bệnh, đáng lo ngại nhất là \nbệnh hủi (cùi). \n- Hao, Sát tinh: mắc ác bệnh rất khó chữa. \n11.3.35. Thiên Riêu \n- Thận suy, hay đau răng, bộ tiêu hóa không được lành mạnh. \n- Tang đồng cung: té đau, có thương tích. \n- Hỏa, Linh: đau yếu vì ma qủy phá phách. \n11.3.36. Lưu Hà \n- Mắc tai nạn sông nước, đàn bà thường khó đẻ, hay gặp nhiều sự nguy \nhiểm trước khi lâm bồn. \n- Không, Kiếp : chết bất đắc kỳ tử. \n- Kiếp (Sát) đồng cung: chết vì tai nạn xe cộ hay bị đâm chém. \n11.2.37. Hoa Cái \n- Mộc đồng cung: có bệnh di mộng tinh. \n- Riêu: bệnh phong tình. \n11.2.38. Hỷ Thần \nMắc bệnh ở hậu môn, hay đau bụng đi rửa. \n11.2.39. Phục, Hình, Việt \nBị kẻ thù đâm chém. \n11.2.40. Cô, Quả \nThường có tỳ vết ở hậu môn, hay đau bụng đi rửa, khi đau yếu thường \nhay mắc tai nạn, không gặp được người giúp đỡ. \n11.2.41. Dưỡng \nBệnh tật hay kéo dài, lâu khỏi. \n11.2.42. Thiên Khôi \n- Đơn thủ tại Mão, Dậu: da mặt vàng, có bệnh thuộc về khí huyết hay bệnh \nngoài da. \n- Vũ đồng cung: mang tật ở đầu. \n- Hình đồng cung: mang tật ở đầu. \n- Tuần, Triệt án ngữ: mắc tai nạn, đầu hay mặt bị thương khá nặng."
+  }
+}

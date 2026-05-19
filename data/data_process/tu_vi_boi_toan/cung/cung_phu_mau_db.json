@@ -1,0 +1,312 @@
+{
+  "Cung_phu_mau": {
+    "name": "cung_phụ_mẫu",
+    "description": "Xem cung Phụ Mẫu đế biết rõ sự thọ yểu, giàu nghèo hay sang hèn của \ncha mẹ và cùng để biết sự hòa hợp hay xung khắc giữa cha mẹ và con. \nMuốn luận đoán cung Phụ Mẫu thật cẩn chận, người nghiên cứu đẩu số \nphải kết hợp nhận định ảnh hưởng của Nhật, Nguyệt tại các vị trí trên bản đồ \n12 cung với nhận định ảnh hưởng các sao tọa thủ tại cung Phụ Mẫu.",
+    "stars": [
+      {
+        "star_id": "tử_vi",
+        "context_type": null,
+        "rules": {
+          "đơn_thủ_tại_ngọ": "cha mẹ qúy hiển, giàu có và sống lâu.",
+          "đơn_thủ_tại_tý": "cha mẹ khá giả.",
+          "phủ_đồng_cung": "cha mẹ giàu sang. Con được thừa hưởng của cha mẹ để tại \nrất nhiều.",
+          "tướng_đồng_cung": "cha mẹ vinh hiển. Gia đình yên vui, phúc lộc dồi dào.",
+          "sát_đồng_cung": "cha mẹ phú qúy, nhưng bất hòa. Con không hợp với tính \ncha mẹ. Gia đình ly tán.",
+          "phá_đồng_cung": "trong nhà hay có sự bất hòa: cha mc khá giả. Nhưng sớm \nkhắc mộc trong hai thân, hay phải xa cách từ lúc thiếu thời.",
+          "tham_đồng_cung": "cha mẹ bình thường. Nên làm con nuôi họ khác. Nếu \nkhông, tất sớm xa cách một trong hai thân."
+        }
+      },
+      {
+        "star_id": "liêm_trinh",
+        "context_type": null,
+        "rules": {
+          "đơn_thủ_tại_dần_thân": "cha mẹ nghèo, nhưng có đức. Sớm xa cách hai \nthân. Có làm con nuôi khác họ mới tránh được mọi bình khắc.",
+          "phủ_đồng_cung": "hai thân giàu có, nhưng bất hòa. Con không hợp tính cha \nmẹ.",
+          "tướng_đồng_cung": "cha mẹ hay gặp tai nạn bất kỳ và rất vất vả. Con không \nthể chung sống được với cha mẹ. Nên làm con nuôi họ khác.",
+          "sát_đồng_cung": "sớm khắc một trong hai thân. Nếu không, cha mẹ và con \ncũng không thể sống được với nhau. Trong nhà thường có sự bất hòa cha mẹ hay \nmắc tai họa rất đáng lo ngại.",
+          "tham_đồng_cung": "cha mẹ khốn cùng hay mắc tai ương và xa cách nhau. \nSớm lìa bỏ hai thân."
+        }
+      },
+      {
+        "star_id": "thiên_đồng",
+        "context_type": null,
+        "rules": {
+          "đơn_thủ_tại_mão": "cha mẹ khá giả. Lợi ích cho mẹ nhiều hơn cho cha.",
+          "đơn_thủ_tại_dậu": "cha mẹ bình thường. Sức khỏe của mẹ suy kém.",
+          "đơn_thủ_tại_tỵ_hợi": "hai thân cách xa cách nhau. Con thường phải xa cha \nmẹ, nhưng gia đình sung túc.",
+          "đơn_thủ_tại_thìn_tuất": "Trong nhà hay có sự bất hòa. Hai thân xa cách \nnhau. Con và cha mẹ không thể chung sống lâu dài với nhau được. Nên làm con \nnuôi họ khác.",
+          "lương_đồng_cung": "cha me khá giả và sống lâu.",
+          "nguyệt_đồng_cung_tại_tý": "cha mẹ vinh hiển và nhiều của cải.",
+          "nguyệt_đồng_cung_tại_ngọ": "Trong nhà hay có sự bất hòa. Sớm xa cách một \ntrong hai thân.",
+          "cự_đồng_cung": "sớm xa cách hai thân. Trong nhà thiếu hòa khí. Có đi \nxa hay làm con nuôi họ khác mới tránh được mọi sự hình khắc. Nhưng dù sao \nchăng nữa, ít nhất là phải sớm lìa bỏ một trong hai thân."
+        }
+      },
+      {
+        "star_id": "vũ_khúc",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Bất cứ tại vị trí nào cũng sớm khắc một trong hai thân",
+          "đơn_thủ_tại_thìn_tuất": "cha mẹ giàu có, khá giả.",
+          "phủ_đồng_cung": "cha mẹ giàu có và vinh hiển.",
+          "tướng_đồng_cung": "cha mẹ có uy quyền và nhiều của cải.",
+          "tham_đồng_cung": "cha mẹ giàu, nhưng con không hợp tính cha mẹ. Trong \nnhà thiếu hòa khí.",
+          "phá_đồng_cung": "hai thân bất hòa. Cha mẹ và con không hợp tính nhau. \nGia đình thường ly tán. Nên làm con nuôi họ khác.",
+          "sát_đồng_cung": "hai thân bần khổ, hay mắc tai ương. Nếu không, tất phải \nmang bệnh tật, hay đau yếu. Nên sớm xa cách hai thân. Nên làm con nuôi họ \nkhác, để tránh mọi hình khắc."
+        }
+      },
+      {
+        "star_id": "thái_dương",
+        "context_type": null,
+        "rules": {
+          "tọa_thủ_tại_dần_mão_thìn_tỵ_ngọ": "hai thân giàu có, qúy hiển và sống \nlâu, lợi ích cho cha nhiều hơn cho mẹ.",
+          "tọa_thủ_tại_thân_dậu_tuất_hợi_tý": "hai thân vất và, sớm khắc một trong \nhai thân. Nên làm con nuôi họ khác.",
+          "nguyệt_đồng_cung_tại_sửu_mùi": "hai thân bất hòa, cha mẹ khá giả nhưng \ncon không thể ở gần được."
+        }
+      },
+      {
+        "star_id": "thiên_cơ",
+        "context_type": null,
+        "rules": {
+          "đơn_thủ_tại_tỵ_ngọ_mùi": "cha mẹ khá giả.",
+          "đơn_thủ_tại_hợi_tý_sửu": "cha mẹ bình thường, cha mẹ và con không hợp \ntính nhau. Nên làm con nuôi họ khác. Nếu không, rất khó tránh được mọi hình \nkhắc.",
+          "nguyệt_đồng_cung_tại_thân": "hai thân khá giá.",
+          "nguyệt_đồng_cung_tại_dần": "hai thân giàu có, nhưng sớm xa cách một trong \nhai thân. Không lợi ích cho mẹ.",
+          "lương_đồng_cung": "cha mẹ giàu sang và sống lâu.",
+          "cự_đồng_cung": "sớm khắc một trong hai thân. Nên phải xa cách hai thân. \nTrong nhà thiếu hòa khí"
+        }
+      },
+      {
+        "star_id": "thiên_phủ",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Bất cứ tại vị trí nào, cha mẹ cũng có của.",
+          "đơn_thủ_tại_tỵ_hợi": "cha mẹ khá giả, có danh сhức.",
+          "đơn_thủ_tại_sửu_mùi_mão_dậu": "hai thân phú qúy song toàn, nhưng \nsớm xa cách một trong hai thân.",
+          "tử_đồng_cung": "cha mẹ giàu sang. Con được thừa hưởng của cha mẹ để tại \nrất nhiều.",
+          "liêm_trinh_đồng_cung": "hai thân giàu có, nhưng bất hòa. Con không hợp \ntính cha mẹ.",
+          "vũ_khúc_đồng_cung": "cha mẹ giàu có và vinh hiển."
+        }
+      },
+      {
+        "star_id": "thái_âm",
+        "context_type": null,
+        "rules": {
+          "đơn_thủ_tại_dậu_tuất_hợi": "hai thân giàu sang. Lợi ích cho mẹ nhiều hơn \nlà cho cha.",
+          "đơn_thủ_tại_mão_thìn_tỵ": "hai thân vất vả. Sớm khắc một trong hai \nthân. Nên làm con nuôi họ khác.",
+          "nhật_đồng_cung_tại_sửu_mùi": "hai thân bất hòa, cha mẹ khá giả nhưng con \nkhông thể ở gần được.",
+          "đồng_đồng_cung_tại_tý": "cha mẹ vinh hiển và nhiều của cải.",
+          "đồng_đồng_cung_tại_ngọ": "Trong nhà hay có sự bất hòa. Sớm xa cách một \ntrong hai thân.",
+          "cơ_đồng_cung_tại_thân": "hai thân khá giá.",
+          "cơ_đồng_cung_tại_dần": "hai thân giàu có, nhưng sớm xa cách một trong hai \nthân. Không lợi ích cho mẹ."
+        }
+      },
+      {
+        "star_id": "tham_lang",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Bất cứ tại vị trí nào cũng sớm khắc một trong hai thân. Nếu không, cũng \nphải xa cách hai thân.",
+          "đơn_thủ_tại_thìn_tuất": "cha mẹ giàu có, nhưng con không được thừa \nhưởng. Trong nhà thiếu hòa khí.",
+          "đơn_thủ_tại_dần_thân": "hai thân túng thiếu, bất hòa, hay xa cách nhau, cha \nmẹ không hợp tính con.",
+          "đơn_thủ_tại_tý_ngọ": "cha mẹ bình thường. Trong nhà thiếu hòa khí. Nên \nlàm con nuôi họ khác.",
+          "tử_đồng_cung": "cha mẹ bình thường. Nên làm con nuôi họ khác. Nếu \nkhông, tất sớm xa cách một trong hai thân.",
+          "liêm_đồng_cung": "cha mẹ khốn cùng hay mắc tai ương và xa cách nhau. \nSớm lìa bỏ hai thân.",
+          "vũ_đồng_cung": "cha mẹ giàu, nhưng con không hợp tính cha mẹ. Trong nhà \nthiếu hòa khí."
+        }
+      },
+      {
+        "star_id": "cự_môn",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Bất cứ tại vị trí nào, cha mẹ cũng bất hòa. Trong nhà có sự tranh chấp.",
+          "đơn_thủ_tại_hợi_tý_ngọ": "cha mẹ giàu sang, nhưng không hợp tính với \ncon.",
+          "đơn_thủ_tại_tỵ": "hai thân thường xa cách nhau. Nếu không, cũng sớm khắc \nmột trong hai thân.",
+          "đơn_thủ_tại_thìn_tuất": "cha mẹ bỏ nhau, hay một còn một mất từ lúc con \ncòn ít tuổi.",
+          "nhật_đồng_cung_tại_dần": "hai thân giàu có, qúy hiển và sống lâu, lợi ích cho \ncha nhiều hơn cho mẹ.",
+          "nhật_đồng_cung_tại_thân": "hai thân vất và, sớm khắc một trong hai thân. \nNên làm con nuôi họ khác.",
+          "đồng_đồng_cung": "sớm xa cách hai thân. Trong nhà thiếu hòa khí. Có đi \nxa hay làm con nuôi họ khác mới tránh được mọi sự hình khắc. Nhưng dù sao \nchăng nữa, ít nhất là phải sớm lìa bỏ một trong hai thân.",
+          "cơ_đồng_cung": "sớm khắc một trong hai thân. Nên phải xa cách hai thân. \nTrong nhà thiếu hòa khí"
+        }
+      },
+      {
+        "star_id": "thiên_tướng",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Bất cứ tại vị trí nào, cha mẹ cũng sống lâu.",
+          "đơn_thủ_tại_tỵ_hợi_sửu_mùi": "hai thân khá giả nhưng hay bất hòa.",
+          "đơn_thủ_tại_mão_dậu": "hai thân bình thường. Nên làm con nuôi họ khác \nđể tránh mọi hình khắc.",
+          "tử_đồng_cung": "cha mẹ vinh hiển. Gia đình yên vui, phúc lộc dồi dào.",
+          "liêm_đồng_cung": "cha mẹ hay gặp tai nạn bất kỳ và rất vất vả. Con không \nthể chung sống được với cha mẹ. Nên làm con nuôi họ khác.",
+          "vũ_đồng_cung": "cha mẹ có uy quyền và nhiều của cải."
+        }
+      },
+      {
+        "star_id": "thiên_lương",
+        "context_type": null,
+        "rules": {
+          "đơn_thủ_tại_tỵ_ngọ": "cha mẹ nhân đức, giàu sang và sống lâu.",
+          "đơn_thủ_tại_sửu_mùi": "hai thân bình thường. Trong nhà thiếu hòa khí.",
+          "đơn_thủ_tại_ty_hợi": "hai thân bất hòa, hay xa cách nhau. Sớm lìa bỏ một \ntrong hai thân. Nếu không, cha mẹ và con cũng không thể sống chung với nhau \nlâu dài được.",
+          "nhật_đồng_cung_tại_mão": "hai thân giàu có, qúy hiển và sống lâu, lợi ích cho \ncha nhiều hơn cho mẹ.",
+          "nhật_đồng_cung_tại_dậu": "hai thân vất và, sớm khắc một trong hai thân. \nNên làm con nuôi họ khác.",
+          "đồng_đồng_cung": "cha me khá giả và sống lâu.",
+          "cơ_đồng_cung": "cha mẹ giàu sang và sống lâu."
+        }
+      },
+      {
+        "star_id": "thất_sát",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Bất cứ tại vị trí nào, cha mẹ cũng bất hòa. Nếu không, cha mẹ và con cũng \nkhông hợp tính nhau.",
+          "đơn_thủ_tại_dần_thân": "cha mẹ qúy hiến và sống lâu.",
+          "đơn_thủ_tại_tỵ_ngọ": "cha mẹ khá giả, nhưng sớm xa cách một trong hai \nthân.",
+          "đơn_thủ_tại_thìn_tuất": "cha mẹ túng thiếu, vất vả, thường mang cố tật, \nhay mắc ác bệnh. Nếu không, tất mắc nhiều tai họa. Sớm khắc một trong hai \nthân, cha mẹ và con cũng không thể sống chung với nhau lâu dài được. Nên làm \ncon nuôi họ khác.",
+          "tử_đồng_cung": "cha mẹ phú qúy, nhưng bất hòa. Con không hợp với tính \ncha mẹ. Gia đình ly tán.",
+          "liêm_đồng_cung": "sớm khắc một trong hai thân. Nếu không, cha mẹ và con \ncũng không thể sống được với nhau. Trong nhà thường có sự bất hòa cha mẹ hay \nmắc tai họa rất đáng lo ngại.",
+          "vũ_đồng_cung": "hai thân bần khổ, hay mắc tai ương. Nếu không, tất phải \nmang bệnh tật, hay đau yếu. Nên sớm xa cách hai thân. Nên làm con nuôi họ \nkhác, để tránh mọi hình khắc."
+        }
+      },
+      {
+        "star_id": "phá_quân",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Bất cứ tại vị trí nào, cũng sớm khắc một trong hai thân. Nếu không, hai \nthân cũng phải xa cách nhau. Trong nhà thiếu hòa khí.",
+          "đơn_thủ_tại_tý_ngọ": "cha mẹ khá giá.",
+          "đơn_thủ_tại_dần_thân": "cha mẹ bất hòa. Nên ở xa cha mẹ hay làm con nuôi \nhọ khác.",
+          "đơn_thủ_tại_thìn_tuất": "cha mẹ vất vả, không hợp tính với con. Sớm xa \ncách một trong hai thân.",
+          "tử_đồng_cung": "trong nhà hay có sự bất hòa: cha mc khá giả. Nhưng sớm \nkhắc mộc trong hai thân, hay phải xa cách từ lúc thiếu thời.",
+          "vũ_đồng_cung": "hai thân bất hòa. Cha mẹ và con không hợp tính nhau. \nGia đình thường ly tán. Nên làm con nuôi họ khác."
+        }
+      },
+      {
+        "star_id": "kình_đà",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Bất cứ tại vị trí nào, cha mẹ và con cũng không hợp tính nhau",
+          "liêm_đồng_cung": "hai thân hay mắc nạn, nhất là kiện cáo tù tội và \nthường phải xa cách nhau. Gia đình túng thiếu.",
+          "sát_đồng_cung": "Sớm xa cách hai thân, cha mẹ khó tránh được hình thương \nhọa hại.",
+          "tham_đồng_cung": "cha hay mẹ là người hoang đàng chơi bời. Sớm xa cách \nmột trong hai thân."
+        }
+      },
+      {
+        "star_id": "hỏa_linh",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Bất cứ tại vị trí nào, cũng giảm thọ. Trong nhà thiếu hòa khí.",
+          "tham_đồng_cung": "cha mẹ qúy hiến và giàu sang",
+          "phá_đồng_cung": "sớm khắc hai thân. Nếu không, cũng phải sớm xa cách, đi \ncư ngụ ở nơi đất khách quê người, cha mẹ thường mắc tai nạn bất kỳ, rất đáng lo \nngại."
+        }
+      },
+      {
+        "star_id": "không_kiếp",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Bất cứ tại vị trí nào, hai thân cũng vất vả. Nếu không cũng bất hòa, cha \nmẹ và con không hợp tính nhau."
+        }
+      },
+      {
+        "star_id": "xương_khúc",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Hai thân có danh chức."
+        }
+      },
+      {
+        "star_id": "khôi_việt",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Cha thường là con trưởng. Nếu không, cũng đoạt trưởng có danh chức"
+        }
+      },
+      {
+        "star_id": "tả_hữu",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Hai thân khá giả, nâng đỡ con trong nhiều công việc. Trong nhà có hòa \nkhí. Nếu Tả, Hữu lại gặp nhiều Sát tinh xâm phạm, cha mẹ thật khó tránh được \nnhững sự chẳng lành, hoặc là hình khắc chia ly, hoặc là tai ương họa bại."
+        }
+      },
+      {
+        "star_id": "lộc_tồn",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Hai thân có của, nhưng con phá tán mất khá nhiều. Cha mẹ và con không \nhợp tính nhau. Nên ở xa cha mẹ."
+        }
+      },
+      {
+        "star_id": "hóa_lộc",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Hai thân có của."
+        }
+      },
+      {
+        "star_id": "hóa_quyền",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Hai thân có quyền thế."
+        }
+      },
+      {
+        "star_id": "hóa_khoa",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Hai thân thông minh, nhân hậu, có danh chức"
+        }
+      },
+      {
+        "star_id": "hóa_kỵ",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Hai thân bất hòa. Nếu không, cha mẹ và con cũng không hợp tính nhau.",
+          "nhật_nguyệt_đồng_cung_tại_sửu_mùi": "cha mẹ giàu sang.",
+          "xương_khúc_đồng_cung": "cha mẹ giảm thọ."
+        }
+      },
+      {
+        "star_id": "thiên_mã",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Hai thân có danh giá, nhưng thường hay xa cách nhau. Nếu Mã, Đà lại gặp thêm nhiều Sát tinh xâm phạm, chắc chắn là cha \nmẹ bỏ nhau. Nếu không, cũng một còn một mất, từ lúc con còn ít tuổi. Ngoài \nra, cha mẹ thường mắc phải những tai nạn rất đáng lo ngại.",
+          "lộc": "cha mẹ rất khá giả. Nhưng con nên ở xa cha mẹ.",
+          "đà": "hai thân bất hòa, thường hay xung đột. Cha mẹ và con không hợp tính \nnhau. Nên ở xa cha mẹ."
+        }
+      },
+      {
+        "star_id": "thái_tuế",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Trong nhà thiếu hòa khí, hay có sự tranh chấp. Cha mẹ và con không hợp \ntính nhau. Nếu Tuế lại gặp thêm nhiều Sát tinh nhất là Đà, Kỵ xâm phạm, tất cha \nmẹ phải xa cách nhau. Gia đình ly tán. Ngoài ra, cha mẹ thường hay mắc tai họa, \nđáng lo ngại nhất là mắc kiện cáo."
+        }
+      },
+      {
+        "star_id": "cô_quả",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Hai thân không hợp tính nhau. Cha mẹ và con không thể ở gần nhau lâu \nđược. Nếu Cô, Quả lại gặp nhiều Sát tinh xâm phạm, tất sớm khắc một trong hai \nthân. Nên làm con nuôi họ khác."
+        }
+      },
+      {
+        "star_id": "đào_hồng",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Cha hay mẹ thường là người tài hoa, phóng đãng. Nếu Đào, Hoa lại gặp \nVượng, Thái đồng cung, tất cha có vợ lẽ, ngoại tình, hay mẹ là người bất chính."
+        }
+      },
+      {
+        "star_id": "tuần_triệt_án_ngữ",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Dù cung Phụ Mẫu tốt hay xấu, cũng sớm khắc một trong hai thân. Nếu \nkhông, tất phải sớm xa cách hai thân, hay làm con nuôi họ khác.",
+          "phải_nhận_định_nghịch_đảo_ảnh_hưởng_của_những_sao_tọa_thủ": "tốt hóa xấu, \nxấu thành tốt, để luận đoán sự giàu nghèo, sang hèn của cha mẹ."
+        }
+      },
+      {
+        "star_id": "vô_chính_diệu",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Coi Chính diệu xung chiếu như Chính diệu tọa thủ."
+        }
+      }
+    ],
+    "source_content": " \nXem cung Phụ Mẫu đế biết rõ sự thọ yểu, giàu nghèo hay sang hèn của \ncha mẹ và cùng để biết sự hòa hợp hay xung khắc giữa cha mẹ và con. \nMuốn luận đoán cung Phụ Mẫu thật cẩn chận, người nghiên cứu đẩu số \nphải kết hợp nhận định ảnh hưởng của Nhật, Nguyệt tại các vị trí trên bản đồ \n12 cung với nhận định ảnh hưởng các sao tọa thủ tại cung Phụ Mẫu. \n5.1. Ảnh hưởng của Nhật, Nhật tại các vị trí trên bản đồ 12 cung \nTrước hết phải nhận định ảnh hưởng của Nhật, Nguyệt tại các vị trí trên \nbản đồ 12 cung để luận đoán хеm cha mất trước mẹ hay mẹ mất trước cha. \nNhật là biếu tượng của cha, Nguyệt là biểu tượng của mẹ. Có những trường \nhợp sau đây cần phải phân định: \n5.1.1. Nhật tọa thủ Dần, Mão, Thìn, Tỵ, Ngọ. Nguyệt tọa thủ Thân, \nDậu, Tuất, Hợi, Tý \nTrong trường hợp này, sao nào không gặp Tuần hay Triệt án ngữ, được coi \nlà sáng sủa. Trái lại, sao nào gặp Tuần hay Triệt án ngữ, bị coi là mờ ám. \n- Nhật sáng sủa, Nguyệt mờ ám: mẹ mất trước cha \n- Nhật mờ ám, Nguyệt sáng sủa: cha mất trước mẹ. \n- Nhật, Nguyệt cùng sáng sủa \n\t\n+ Sinh ban ngày: cha mất trước mẹ. \n\t\n+ Sinh ban đêm: mẹ mất trước cha. \n- Nhật, Nguyệt cùng mờ ám: \n\t\n+ Sinh ban ngày: mẹ mất trước cha. \n\t\n+ Sinh ban đêm: cha mất trước mẹ. \n5.1.2. Nhật tọa thủ Thân, Dậu, Tuất, Hợi, Tý. Nguyệt tọa thủ Dần, \nMão, Thìn, Tỵ, Ngọ \nTrong trường hợp này, sao nào gặp Tuần hay Triệt án ngữ, được coi là sáng \nsủa. Trái lại, sao nào không gặp Tuần hay Triệt án ngữ, bị coi là mờ ám. \n- Nhật sáng sủa, Nguyệt mờ ám: mẹ mất trước cha \n- Nhật mờ ám, Nguyệt sáng sủa: cha mất trước mẹ. \n- Nhật, Nguyệt cùng sáng sủa \n\t\n+ Sinh ban ngày: cha mất trước mẹ. \n\t\n+ Sinh ban đêm: mẹ mất trước cha. \n- Nhật, Nguyệt cùng mờ ám: \n\t\n+ Sinh ban ngày: mẹ mất trước cha. \n\t\n+ Sinh ban đêm: cha mất trước mẹ. \n5.1.3. Nhật, Nguyệt tọa thủ đồng cung tại Sửu, Mùi \n- Không gặp Tuần hay Triệt án ngữ: \n\t\n+ Sinh ban ngày: mẹ mất trước cha. \n\t\n+ Sinh ban đêm: cha mất trước mẹ. \n- Gặp Tuần hay Triệt án ngữ: \n\t\n+ Sinh ban ngày: cha mất trước mẹ. \n\t\n+ Sinh ban đêm: mẹ mất trước cha. \n5.2. Ảnh hưởng của những sao tọa thủ tại cung Phụ Mẫu \n5.2.1. Tử Vi \n- Đơn thủ tại Ngọ: cha mẹ qúy hiển, giàu có và sống lâu. \n- Đơn thủ tại Tý: cha mẹ khá giả. \n- Phủ đồng cung: cha mẹ giàu sang. Con được thừa hưởng của cha mẹ để tại \nrất nhiều. \n- Tướng đồng cung: cha mẹ vinh hiển. Gia đình yên vui, phúc lộc dồi dào. \n- Sát đồng cung: cha mẹ phú qúy, nhưng bất hòa. Con không hợp với tính \ncha mẹ. Gia đình ly tán. \n- Phá đồng cung: trong nhà hay có sự bất hòa: cha mc khá giả. Nhưng sớm \nkhắc mộc trong hai thân, hay phải xa cách từ lúc thiếu thời. \n- Tham đồng cung: cha mẹ bình thường. Nên làm con nuôi họ khác. Nếu \nkhông, tất sớm xa cách một trong hai thân. \n5.2.2. Liêm Trinh \n- Đơn thủ tại Dần, Thân: cha mẹ nghèo, nhưng có đức. Sớm xa cách hai \nthân. Có làm con nuôi khác họ mới tránh được mọi bình khắc. \n- Phủ đồng cung: hai thân giàu có, nhưng bất hòa. Con không hợp tính cha \nmẹ. \n- Tướng đồng cung: cha mẹ hay gặp tai nạn bất kỳ và rất vất vả. Con không \nthể chung sống được với cha mẹ. Nên làm con nuôi họ khác. \n- Sát đồng cung: sớm khắc một trong hai thân. Nếu không, cha mẹ và con \ncũng không thể sống được với nhau. Trong nhà thường có sự bất hòa cha mẹ hay \nmắc tai họa rất đáng lo ngại. \n- Tham đồng cung: cha mẹ khốn cùng hay mắc tai ương và xa cách nhau. \nSớm lìa bỏ hai thân. \n5.2.3. Thiên Đồng \n- Đơn thủ tại Mão: cha mẹ khá giả. Lợi ích cho mẹ nhiều hơn cho cha. \n- Đơn thủ tại Dậu: cha mẹ bình thường. Sức khỏe của mẹ suy kém. \n- Đơn thủ tại Tỵ, Hợi: hai thân cách xa cách nhau. Con thường phải xa cha \nmẹ, nhưng gia đình sung túc. \n- Đơn thủ tại Thìn, Tuất: Trong nhà hay có sự bất hòa. Hai thân xa cách \nnhau. Con và cha mẹ không thể chung sống lâu dài với nhau được. Nên làm con \nnuôi họ khác. \n- Lương đồng cung: cha me khá giả và sống lâu. \n- Nguyệt đồng cung tại Tý: cha mẹ vinh hiển và nhiều của cải. \n- Nguyệt đồng cung tại Ngọ: Trong nhà hay có sự bất hòa. Sớm xa cách một \ntrong hai thân. \n- Cự đồng cung: sớm xa cách hai thân. Trong nhà thiếu hòa khí. Có đi \nxa hay làm con nuôi họ khác mới tránh được mọi sự hình khắc. Nhưng dù sao \nchăng nữa, ít nhất là phải sớm lìa bỏ một trong hai thân. \n5.2.4. Vũ Khúc \n- Bất cứ tại vị trí nào cũng sớm khắc một trong hai thân \n- Đơn thủ tại Thìn, Tuất: cha mẹ giàu có, khá giả. \n- Phủ đồng cung: cha mẹ giàu có và vinh hiển. \n- Tướng đồng cung: cha mẹ có uy quyền và nhiều của cải. \n- Tham đồng cung: cha mẹ giàu, nhưng con không hợp tính cha mẹ. Trong \nnhà thiếu hòa khí. \n- Phá đồng cung: hai thân bất hòa. Cha mẹ và con không hợp tính nhau. \nGia đình thường ly tán. Nên làm con nuôi họ khác. \n- Sát đồng cung: hai thân bần khổ, hay mắc tai ương. Nếu không, tất phải \nmang bệnh tật, hay đau yếu. Nên sớm xa cách hai thân. Nên làm con nuôi họ \nkhác, để tránh mọi hình khắc. \n5.2.5. Thái Dương \n- Tọa thủ tại Dần, Mão, Thìn, Tỵ, Ngọ: hai thân giàu có, qúy hiển và sống \nlâu, lợi ích cho cha nhiều hơn cho mẹ. \n- Tọa thủ tại Thân, Dậu, Tuất, Hợi, Tý: hai thân vất và, sớm khắc một trong \nhai thân. Nên làm con nuôi họ khác. \n- Nguyệt đồng cung tại Sửu, Mùi: hai thân bất hòa, cha mẹ khá giả nhưng \ncon không thể ở gần được. \n5.2.6. Thiên Cơ \n- Đơn thủ tại Tỵ, Ngọ, Mùi: cha mẹ khá giả. \n- Đơn thủ tại Hợi, Tý, Sửu: cha mẹ bình thường, cha mẹ và con không hợp \ntính nhau. Nên làm con nuôi họ khác. Nếu không, rất khó tránh được mọi hình \nkhắc. \n- Nguyệt đồng cung tại Thân: hai thân khá giá. \n- Nguyệt đồng cung tại Dần: hai thân giàu có, nhưng sớm xa cách một trong \nhai thân. Không lợi ích cho mẹ. \n- Lương đồng cung: cha mẹ giàu sang và sống lâu. \n- Cự đồng cung: sớm khắc một trong hai thân. Nên phải xa cách hai thân. \nTrong nhà thiếu hòa khí \n5.2.7. Thiên Phủ \n- Bất cứ tại vị trí nào, cha mẹ cũng có của. \n- Đơn thủ tại Tỵ, Hợi: cha mẹ khá giả, có danh сhức. \n- Đơn thủ tại Sửu, Mùi, Mão, Dậu: hai thân phú qúy song toàn, nhưng \nsớm xa cách một trong hai thân. \n- Tử đồng cung: cha mẹ giàu sang. Con được thừa hưởng của cha mẹ để tại \nrất nhiều. \n- Liêm Trinh đồng cung: hai thân giàu có, nhưng bất hòa. Con không hợp \ntính cha mẹ. \n- Vũ Khúc đồng cung: cha mẹ giàu có và vinh hiển. \n5.2.8. Thái Âm \n- Đơn thủ tại Dậu, Tuất, Hợi: hai thân giàu sang. Lợi ích cho mẹ nhiều hơn \nlà cho cha. \n- Đơn thủ tại Mão, Thìn, Tỵ: hai thân vất vả. Sớm khắc một trong hai \nthân. Nên làm con nuôi họ khác. \n- Nhật đồng cung tại Sửu, Mùi: hai thân bất hòa, cha mẹ khá giả nhưng con \nkhông thể ở gần được. \n- Đồng đồng cung tại Tý: cha mẹ vinh hiển và nhiều của cải. \n- Đồng đồng cung tại Ngọ: Trong nhà hay có sự bất hòa. Sớm xa cách một \ntrong hai thân. \n- Cơ đồng cung tại Thân: hai thân khá giá. \n- Cơ đồng cung tại Dần: hai thân giàu có, nhưng sớm xa cách một trong hai \nthân. Không lợi ích cho mẹ. \n5.2.9. Tham Lang \n- Bất cứ tại vị trí nào cũng sớm khắc một trong hai thân. Nếu không, cũng \nphải xa cách hai thân. \n- Đơn thủ tại Thìn, Tuất: cha mẹ giàu có, nhưng con không được thừa \nhưởng. Trong nhà thiếu hòa khí. \n- Đơn thủ tại Dần, Thân: hai thân túng thiếu, bất hòa, hay xa cách nhau, cha \nmẹ không hợp tính con. \n- Đơn thủ tại Tý, Ngọ: cha mẹ bình thường. Trong nhà thiếu hòa khí. Nên \nlàm con nuôi họ khác. \n- Tử đồng cung: cha mẹ bình thường. Nên làm con nuôi họ khác. Nếu \nkhông, tất sớm xa cách một trong hai thân. \n- Liêm đồng cung: cha mẹ khốn cùng hay mắc tai ương và xa cách nhau. \nSớm lìa bỏ hai thân. \n- Vũ đồng cung: cha mẹ giàu, nhưng con không hợp tính cha mẹ. Trong nhà \nthiếu hòa khí. \n5.2.10. Cự Môn \n- Bất cứ tại vị trí nào, cha mẹ cũng bất hòa. Trong nhà có sự tranh chấp. \n- Đơn thủ tại Hợi, Tý, Ngọ: cha mẹ giàu sang, nhưng không hợp tính với \ncon. \n- Đơn thủ tại Tỵ: hai thân thường xa cách nhau. Nếu không, cũng sớm khắc \nmột trong hai thân. \n- Đơn thủ tại Thìn, Tuất: cha mẹ bỏ nhau, hay một còn một mất từ lúc con \ncòn ít tuổi. \n- Nhật đồng cung tại Dần: hai thân giàu có, qúy hiển và sống lâu, lợi ích cho \ncha nhiều hơn cho mẹ. \n- Nhật đồng cung tại Thân: hai thân vất và, sớm khắc một trong hai thân. \nNên làm con nuôi họ khác. \n- Đồng đồng cung: sớm xa cách hai thân. Trong nhà thiếu hòa khí. Có đi \nxa hay làm con nuôi họ khác mới tránh được mọi sự hình khắc. Nhưng dù sao \nchăng nữa, ít nhất là phải sớm lìa bỏ một trong hai thân. \n- Cơ đồng cung: sớm khắc một trong hai thân. Nên phải xa cách hai thân. \nTrong nhà thiếu hòa khí \n5.2.11. Thiên Tướng \n- Bất cứ tại vị trí nào, cha mẹ cũng sống lâu. \n- Đơn thủ tại Tỵ, Hợi, Sửu, Mùi: hai thân khá giả nhưng hay bất hòa. \n- Đơn thủ tại Mão, Dậu: hai thân bình thường. Nên làm con nuôi họ khác \nđể tránh mọi hình khắc. \n- Tử đồng cung: cha mẹ vinh hiển. Gia đình yên vui, phúc lộc dồi dào. \n- Liêm đồng cung: cha mẹ hay gặp tai nạn bất kỳ và rất vất vả. Con không \nthể chung sống được với cha mẹ. Nên làm con nuôi họ khác. \n- Vũ đồng cung: cha mẹ có uy quyền và nhiều của cải. \n5.2.12. Thiên Lương \n- Đơn thủ tại Tỵ, Ngọ: cha mẹ nhân đức, giàu sang và sống lâu. \n- Đơn thủ tại Sửu, Mùi: hai thân bình thường. Trong nhà thiếu hòa khí. \n- Đơn thủ tại Ty, Hợi: hai thân bất hòa, hay xa cách nhau. Sớm lìa bỏ một \ntrong hai thân. Nếu không, cha mẹ và con cũng không thể sống chung với nhau \nlâu dài được. \n- Nhật đồng cung tại Mão: hai thân giàu có, qúy hiển và sống lâu, lợi ích cho \ncha nhiều hơn cho mẹ. \n- Nhật đồng cung tại Dậu: hai thân vất và, sớm khắc một trong hai thân. \nNên làm con nuôi họ khác. \n- Đồng đồng cung: cha me khá giả và sống lâu. \n- Cơ đồng cung: cha mẹ giàu sang và sống lâu. \n5.2.13. Thất Sát \n- Bất cứ tại vị trí nào, cha mẹ cũng bất hòa. Nếu không, cha mẹ và con cũng \nkhông hợp tính nhau. \n- Đơn thủ tại Dần, Thân: cha mẹ qúy hiến và sống lâu. \n- Đơn thủ tại Tỵ, Ngọ: cha mẹ khá giả, nhưng sớm xa cách một trong hai \nthân. \n- Đơn thủ tại Thìn, Tuất: cha mẹ túng thiếu, vất vả, thường mang cố tật, \nhay mắc ác bệnh. Nếu không, tất mắc nhiều tai họa. Sớm khắc một trong hai \nthân, cha mẹ và con cũng không thể sống chung với nhau lâu dài được. Nên làm \ncon nuôi họ khác.\n- Tử đồng cung: cha mẹ phú qúy, nhưng bất hòa. Con không hợp với tính \ncha mẹ. Gia đình ly tán. \n- Liêm đồng cung: sớm khắc một trong hai thân. Nếu không, cha mẹ và con \ncũng không thể sống được với nhau. Trong nhà thường có sự bất hòa cha mẹ hay \nmắc tai họa rất đáng lo ngại. \n- Vũ đồng cung: hai thân bần khổ, hay mắc tai ương. Nếu không, tất phải \nmang bệnh tật, hay đau yếu. Nên sớm xa cách hai thân. Nên làm con nuôi họ \nkhác, để tránh mọi hình khắc. \n5.2.14. Phá Quân \n- Bất cứ tại vị trí nào, cũng sớm khắc một trong hai thân. Nếu không, hai \nthân cũng phải xa cách nhau. Trong nhà thiếu hòa khí. \n- Đơn thủ tại Tý, Ngọ: cha mẹ khá giá. \n- Đơn thủ tại Dần, Thân: cha mẹ bất hòa. Nên ở xa cha mẹ hay làm con nuôi \nhọ khác. \n- Đơn thủ tại Thìn, Tuất: cha mẹ vất vả, không hợp tính với con. Sớm xa \ncách một trong hai thân. \n- Tử đồng cung: trong nhà hay có sự bất hòa: cha mc khá giả. Nhưng sớm \nkhắc mộc trong hai thân, hay phải xa cách từ lúc thiếu thời. \n- Vũ đồng cung: hai thân bất hòa. Cha mẹ và con không hợp tính nhau. \nGia đình thường ly tán. Nên làm con nuôi họ khác. \n5.2.15. Kình, Đà \n- Bất cứ tại vị trí nào, cha mẹ và con cũng không hợp tính nhau \n- Liêm đồng cung: hai thân hay mắc nạn, nhất là kiện cáo tù tội và \nthường phải xa cách nhau. Gia đình túng thiếu. \n- Sát đồng cung: Sớm xa cách hai thân, cha mẹ khó tránh được hình thương \nhọa hại. \n- Tham đồng cung: cha hay mẹ là người hoang đàng chơi bời. Sớm xa cách \nmột trong hai thân. \n5.2.16. Hỏa, Linh \n- Bất cứ tại vị trí nào, cũng giảm thọ. Trong nhà thiếu hòa khí. \n- Tham đồng cung: cha mẹ qúy hiến và giàu sang \n- Phá đồng cung: sớm khắc hai thân. Nếu không, cũng phải sớm xa cách, đi \ncư ngụ ở nơi đất khách quê người, cha mẹ thường mắc tai nạn bất kỳ, rất đáng lo \nngại. \n5.2.17. Không, Kiếp \nBất cứ tại vị trí nào, hai thân cũng vất vả. Nếu không cũng bất hòa, cha \nmẹ và con không hợp tính nhau. \n5.2.18. Xương, Khúc \nHai thân có danh chức. \n5.2.19. Khôi, Việt \nCha thường là con trưởng. Nếu không, cũng đoạt trưởng có danh chức \n5.2.20. Tả, Hữu \nHai thân khá giả, nâng đỡ con trong nhiều công việc. Trong nhà có hòa \nkhí. Nếu Tả, Hữu lại gặp nhiều Sát tinh xâm phạm, cha mẹ thật khó tránh được \nnhững sự chẳng lành, hoặc là hình khắc chia ly, hoặc là tai ương họa bại. \n5.2.21. Lộc Tồn \nHai thân có của, nhưng con phá tán mất khá nhiều. Cha mẹ và con không \nhợp tính nhau. Nên ở xa cha mẹ. \n5.2.22. Hóa Lộc \nHai thân có của. \n5.2.23. Hóa Quyền \nHai thân có quyền thế. \n5.2.24. Hóa Khoa \nHai thân thông minh, nhân hậu, có danh chức\n5.2.25. Hóa Kỵ \n- Hai thân bất hòa. Nếu không, cha mẹ và con cũng không hợp tính nhau. \n- Nhật, Nguyệt đồng cung tại Sửu, Mùi: cha mẹ giàu sang. \n- Xương, Khúc đồng cung: cha mẹ giảm thọ. \n5.2.26. Thiên Mã \n- Hai thân có danh giá, nhưng thường hay xa cách nhau. \n- Lộc: cha mẹ rất khá giả. Nhưng con nên ở xa cha mẹ. \n- Đà: hai thân bất hòa, thường hay xung đột. Cha mẹ và con không hợp tính \nnhau. Nên ở xa cha mẹ. \n- Nếu Mã, Đà lại gặp thêm nhiều Sát tinh xâm phạm, chắc chắn là cha \nmẹ bỏ nhau. Nếu không, cũng một còn một mất, từ lúc con còn ít tuổi. Ngoài \nra, cha mẹ thường mắc phải những tai nạn rất đáng lo ngại. \n5.2.27. Thái Tuế \nTrong nhà thiếu hòa khí, hay có sự tranh chấp. Cha mẹ và con không hợp \ntính nhau. Nếu Tuế lại gặp thêm nhiều Sát tinh nhất là Đà, Kỵ xâm phạm, tất cha \nmẹ phải xa cách nhau. Gia đình ly tán. Ngoài ra, cha mẹ thường hay mắc tai họa, \nđáng lo ngại nhất là mắc kiện cáo. \n5.2.28. Cô, Quả \nHai thân không hợp tính nhau. Cha mẹ và con không thể ở gần nhau lâu \nđược. Nếu Cô, Quả lại gặp nhiều Sát tinh xâm phạm, tất sớm khắc một trong hai \nthân. Nên làm con nuôi họ khác. \n5.2.29. Đào, Hồng \nCha hay mẹ thường là người tài hoa, phóng đãng. Nếu Đào, Hoa lại gặp \nVượng, Thái đồng cung, tất cha có vợ lẽ, ngoại tình, hay mẹ là người bất chính. \n5.2.30. Tuần, Triệt án ngữ \n- Dù cung Phụ Mẫu tốt hay xấu, cũng sớm khắc một trong hai thân. Nếu \nkhông, tất phải sớm xa cách hai thân, hay làm con nuôi họ khác. \n- Phải nhận định nghịch đảo ảnh hưởng của những sao tọa thủ: tốt hóa xấu, \nxấu thành tốt, để luận đoán sự giàu nghèo, sang hèn của cha mẹ. \n5.2.31. Vô Chính diệu \nCoi Chính diệu xung chiếu như Chính diệu tọa thủ. \n"
+  }
+}

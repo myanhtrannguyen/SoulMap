@@ -1,0 +1,56 @@
+{
+  "sự_nghiệp": [
+    "Cung_dien_trach",
+    "Cung_menh",
+    "Cung_quan_loc",
+    "Cung_thê_thiếp"
+  ],
+  "tài_chính": [
+    "Cung_dien_trach",
+    "Cung_huynh_đệ",
+    "Cung_phu_mau",
+    "Cung_phuc_duc",
+    "Cung_tai_bach",
+    "Cung_thê_thiếp"
+  ],
+  "gia_đình": [
+    "Cung_huynh_đệ",
+    "Cung_menh",
+    "Cung_no_boc",
+    "Cung_phu_mau",
+    "Cung_phuc_duc",
+    "Cung_tai_bach",
+    "Cung_thien_di",
+    "Cung_thê_thiếp",
+    "Cung_tu_tuc"
+  ],
+  "con_cái": [
+    "Cung_huynh_đệ",
+    "Cung_tu_tuc"
+  ],
+  "học_vấn": [
+    "Cung_menh",
+    "Cung_no_boc",
+    "Cung_quan_loc",
+    "Cung_thê_thiếp"
+  ],
+  "sức_khỏe": [
+    "Cung_menh",
+    "Cung_phu_mau",
+    "Cung_phuc_duc",
+    "Cung_tat_ach",
+    "Cung_thien_di",
+    "Cung_tu_tuc"
+  ],
+  "di_chuyển": [
+    "Cung_menh",
+    "Cung_thien_di"
+  ],
+  "bạn_bè": [
+    "Cung_no_boc",
+    "Cung_thê_thiếp"
+  ],
+  "tình_duyên": [
+    "Cung_thê_thiếp"
+  ]
+}

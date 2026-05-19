@@ -1,0 +1,13 @@
+{
+  "user_id": "u_123",
+  "full_name": "Trần Nguyễn Mỹ Anh",
+  "gender": "Nữ",
+  "dob_solar": "2005-03-26T10:20:00",
+  "dob_lunar": {
+    "year": "Ất Dậu",
+    "month": 2,
+    "day": 17,
+    "hour": "Tỵ"
+  },
+  "am_duong_gender": "Âm Nữ"
+}

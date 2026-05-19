@@ -1,0 +1,302 @@
+[
+  {
+    "house_id": "h_001",
+    "chart_id": "chart_456",
+    "house_topic": "Mệnh",
+    "zodiac_sign": "Tuất",
+    "chinh_tinh": [
+      {
+        "name": "Thái Âm",
+        "brightness": "miếu"
+      }
+    ],
+    "phu_tinh": [
+      "Thiếu Dương",
+      "Hỷ Thần",
+      "Thiên Hình",
+      "Địa Võng",
+      "Hóa Kỵ",
+      "Lưu Hà",
+      "Thiên Không"
+    ],
+    "vong_trang_sinh": "Quan Đới",
+    "tuan_triet": [],
+    "dai_han": 5
+  },
+  {
+    "house_id": "h_002",
+    "chart_id": "chart_456",
+    "house_topic": "Phụ Mẫu",
+    "zodiac_sign": "Hợi",
+    "chinh_tinh": [
+      {
+        "name": "Tham Lang",
+        "brightness": "hãm"
+      }
+    ],
+    "phu_tinh": [
+      "Tang Môn",
+      "Bệnh Phù",
+      "Quốc Ấn",
+      "Thai Phụ",
+      "Cô Thần",
+      "Thiên Mã"
+    ],
+    "vong_trang_sinh": "Lâm Quan",
+    "tuan_triet": [],
+    "dai_han": 15
+  },
+  {
+    "house_id": "h_003",
+    "chart_id": "chart_456",
+    "house_topic": "Phúc Đức",
+    "zodiac_sign": "Tý",
+    "chinh_tinh": [
+      {
+        "name": "Cự Môn",
+        "brightness": "vượng"
+      }
+    ],
+    "phu_tinh": [
+      "Thiếu Âm",
+      "Đại Hao",
+      "Thiên Khôi",
+      "Thiên Hỷ"
+    ],
+    "vong_trang_sinh": "Đế Vượng",
+    "tuan_triet": [],
+    "dai_han": 25
+  },
+  {
+    "house_id": "h_004",
+    "chart_id": "chart_456",
+    "house_topic": "Điền Trạch",
+    "zodiac_sign": "Sửu",
+    "chinh_tinh": [
+      {
+        "name": "Liêm Trinh",
+        "brightness": "đắc"
+      },
+      {
+        "name": "Thiên Tướng",
+        "brightness": "đắc"
+      }
+    ],
+    "phu_tinh": [
+      "Phục Binh",
+      "Long Trì",
+      "Phượng Các",
+      "Giải Thần",
+      "Hoa Cái",
+      "Đẩu Quân"
+    ],
+    "vong_trang_sinh": "Suy",
+    "tuan_triet": [],
+    "dai_han": 35
+  },
+  {
+    "house_id": "h_005",
+    "chart_id": "chart_456",
+    "house_topic": "Quan Lộc",
+    "zodiac_sign": "Dần",
+    "chinh_tinh": [
+      {
+        "name": "Thiên Lương",
+        "brightness": "vượng"
+      }
+    ],
+    "phu_tinh": [
+      "Quan Phù",
+      "Tử Phù",
+      "Đà La",
+      "Nguyệt Đức",
+      "Thiên Riêu",
+      "Thiên Y",
+      "Hóa Quyền",
+      "Kiếp Sát"
+    ],
+    "vong_trang_sinh": "Bệnh",
+    "tuan_triet": [],
+    "dai_han": 45
+  },
+  {
+    "house_id": "h_006",
+    "chart_id": "chart_456",
+    "house_topic": "Nô Bộc",
+    "zodiac_sign": "Mão",
+    "chinh_tinh": [
+      {
+        "name": "Thất Sát",
+        "brightness": "hãm"
+      }
+    ],
+    "phu_tinh": [
+      "Tuế Phá",
+      "Lộc Tồn",
+      "Thiên Hư",
+      "Bác Sỹ",
+      "Thiên Thương"
+    ],
+    "vong_trang_sinh": "Tử",
+    "tuan_triet": [],
+    "dai_han": 55
+  },
+  {
+    "house_id": "h_007",
+    "chart_id": "chart_456",
+    "house_topic": "Thiên Di",
+    "zodiac_sign": "Thìn",
+    "chinh_tinh": [
+      {
+        "name": "Thiên Đồng",
+        "brightness": "hãm"
+      }
+    ],
+    "phu_tinh": [
+      "Long Đức",
+      "Lực Sỹ",
+      "Kình Dương",
+      "Địa Kiếp",
+      "Thiên Quý",
+      "Thiên La",
+      "Thiên Quan"
+    ],
+    "vong_trang_sinh": "Mộ",
+    "tuan_triet": [],
+    "dai_han": 65
+  },
+  {
+    "house_id": "h_008",
+    "chart_id": "chart_456",
+    "house_topic": "Tật Ách",
+    "zodiac_sign": "Tỵ",
+    "chinh_tinh": [
+      {
+        "name": "Vũ Khúc",
+        "brightness": "hãm"
+      }
+    ],
+    "phu_tinh": [
+      "Bạch Hổ",
+      "Thanh Long",
+      "Linh Tinh",
+      "Tả Phụ",
+      "Văn Xương",
+      "Bát Tọa",
+      "Thiên Thọ",
+      "Phá Toái",
+      "Thiên Sứ"
+    ],
+    "vong_trang_sinh": "Tuyệt",
+    "tuan_triet": [],
+    "dai_han": 75
+  },
+  {
+    "house_id": "h_009",
+    "chart_id": "chart_456",
+    "house_topic": "Tài Bạch",
+    "zodiac_sign": "Ngọ",
+    "chinh_tinh": [
+      {
+        "name": "Thái Dương",
+        "brightness": "miếu"
+      }
+    ],
+    "phu_tinh": [
+      "Phúc Đức",
+      "Tiểu Hao",
+      "Địa Không",
+      "Thiên Đức",
+      "Hồng Loan",
+      "Đào Hoa",
+      "Thiên Trù",
+      "Lưu Niên Văn Tinh"
+    ],
+    "vong_trang_sinh": "Thai",
+    "tuan_triet": [
+      "Tuần",
+      "Triệt"
+    ],
+    "dai_han": 85
+  },
+  {
+    "house_id": "h_010",
+    "chart_id": "chart_456",
+    "house_topic": "Tử Tức",
+    "zodiac_sign": "Mùi",
+    "chinh_tinh": [
+      {
+        "name": "Phá Quân",
+        "brightness": "vượng"
+      }
+    ],
+    "phu_tinh": [
+      "Điếu Khách",
+      "Tướng Quân",
+      "Phong Cáo",
+      "Thiên Tài",
+      "Quả Tú"
+    ],
+    "vong_trang_sinh": "Dưỡng",
+    "tuan_triet": [
+      "Tuần",
+      "Triệt"
+    ],
+    "dai_han": 95
+  },
+  {
+    "house_id": "h_011",
+    "chart_id": "chart_456",
+    "house_topic": "Phu Thê",
+    "zodiac_sign": "Thân",
+    "chinh_tinh": [
+      {
+        "name": "Thiên Cơ",
+        "brightness": "vượng"
+      }
+    ],
+    "phu_tinh": [
+      "Trực Phù",
+      "Tấu Thư",
+      "Hỏa Tinh",
+      "Thiên Việt",
+      "Ân Quang",
+      "Đường Phù",
+      "Địa Giải",
+      "Hóa Lộc",
+      "Thiên Phúc"
+    ],
+    "vong_trang_sinh": "Tràng Sinh",
+    "tuan_triet": [],
+    "dai_han": 105
+  },
+  {
+    "house_id": "h_012",
+    "chart_id": "chart_456",
+    "house_topic": "Huynh Đệ",
+    "zodiac_sign": "Dậu",
+    "chinh_tinh": [
+      {
+        "name": "Tử Vi",
+        "brightness": "bình"
+      },
+      {
+        "name": "Thiên Phủ",
+        "brightness": "bình"
+      }
+    ],
+    "phu_tinh": [
+      "Thái Tuế",
+      "Phi Liêm",
+      "Hữu Bật",
+      "Văn Khúc",
+      "Thiên Khốc",
+      "Tam Thai",
+      "Thiên Giải",
+      "Hóa Khoa"
+    ],
+    "vong_trang_sinh": "Mộc Dục",
+    "tuan_triet": [],
+    "dai_han": 115
+  }
+]
