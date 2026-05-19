@@ -1,0 +1,399 @@
+{
+  "Cung_no_boc": {
+    "name": "cung_nô_bộc",
+    "description": "Xem cung Nô Bộc để biết rõ về những người giúp việc và bạn bè. Ngoài ra \ncòn để biết thêm những điều có liên quan đến thê thiếp. \nTrước hết phải nhận định cùng một lúc sự sáng sủa tốt đẹp hay mờ ám \nxấu xa, hoặc của Chính diệu hoặc của Sát tinh tọa thủ tại cung Mệnh và cung Nô \nBộc. Đoạn phải kết hợp những nhận định thuộc hai cung đó đế luận đoán đại \ncương. Sau lại phải xét đến ảnh hưởng của mỗi trung tinh, bàng tinh tọa thủ hay \nnhiều trung tinh hội hợp để phụ đoán chi tiết.",
+    "stars": [
+      {
+        "star_id": [
+          "sát",
+          "phá",
+          "liêm",
+          "tham"
+        ],
+        "sao_toa_thu_tai_cung_menh": [
+          "tử",
+          "phủ",
+          "cự",
+          "nhật",
+          "cơ",
+          "nguyệt",
+          "đồng",
+          "lương"
+        ],
+        "context_type": "menh_status_sáng_sủa_tốt_đẹp",
+        "rules": {
+          "sáng_sủa_tốt_đẹp": "người giúp việc đắc lực, đông đảo, bạn bè khá  giả.",
+          "mờ_ám_xấu_xa": "người giúp việc kém cỏi, về sau hay ly tán, ít  bạn bè."
+        }
+      },
+      {
+        "star_id": [
+          "vũ_tướng"
+        ],
+        "sao_toa_thu_tai_cung_menh": [
+          "tử",
+          "phủ",
+          "cự",
+          "nhật",
+          "cơ",
+          "nguyệt",
+          "đồng",
+          "lương"
+        ],
+        "context_type": "menh_status_sáng_sủa_tốt_đẹp",
+        "rules": {
+          "sáng_sủa_tốt_đẹp": "người giúp việc rất tài giỏi, bạn bè qúy hiển,  giàu có.",
+          "mờ_ám_xấu_xa": "người giúp việc bất lực hay ly tán và mang lòng  oán hận, bạn bè cùng khốn."
+        }
+      },
+      {
+        "star_id": [
+          "sát_tinh"
+        ],
+        "sao_toa_thu_tai_cung_menh": [
+          "tử",
+          "phủ",
+          "cự",
+          "nhật",
+          "cơ",
+          "nguyệt",
+          "đồng",
+          "lương"
+        ],
+        "context_type": "menh_status_sáng_sủa_tốt_đẹp",
+        "rules": {
+          "sáng_sủa_tốt_đẹp": "người giúp việc và bạn bè tuy tài giỏi, nhưng  là hạng bất lương, hay làm hại, hay lừa phần, trước quần tụ, sau  ly tán.",
+          "mờ_ám_xấu_xa": "khó thuê mượn người giúp việc, người giúp việc  và bạn bè đều vô tài, bất lực nhưng lại bất nhân, bất nghĩa."
+        }
+      },
+      {
+        "star_id": [
+          "sát",
+          "phá",
+          "liêm",
+          "tham"
+        ],
+        "sao_toa_thu_tai_cung_menh": [
+          "tử",
+          "phủ",
+          "cự",
+          "nhật",
+          "cơ",
+          "nguyệt",
+          "đồng",
+          "lương"
+        ],
+        "context_type": "menh_status_mờ_ám_xấu_xa",
+        "rules": {
+          "sáng_sủa_tốt_đẹp": "người giúp việc đắc lực, nhưng hay lấn quyền  người trên, bạn bè tài giỏi biết, nâng đỡ.",
+          "mờ_ám_xấu_xa": "người giúp việc thưa thớt và kém cỏi, bạn bè ly tán."
+        }
+      },
+      {
+        "star_id": [
+          "vũ_tướng"
+        ],
+        "sao_toa_thu_tai_cung_menh": [
+          "tử",
+          "phủ",
+          "cự",
+          "nhật",
+          "cơ",
+          "nguyệt",
+          "đồng",
+          "lương"
+        ],
+        "context_type": "menh_status_mờ_ám_xấu_xa",
+        "rules": {
+          "sáng_sủa_tốt_đẹp": "người giúp việc đắc lực và trung thành, bạn bè  khá giả.",
+          "mờ_ám_xấu_xa": "người giúp việc hèn kém, ít bạn bè."
+        }
+      },
+      {
+        "star_id": [
+          "sát_tinh"
+        ],
+        "sao_toa_thu_tai_cung_menh": [
+          "tử",
+          "phủ",
+          "cự",
+          "nhật",
+          "cơ",
+          "nguyệt",
+          "đồng",
+          "lương"
+        ],
+        "context_type": "menh_status_mờ_ám_xấu_xa",
+        "rules": {
+          "sáng_sủa_tốt_đẹp": "rất đáng lo ngại vì những người giúp việc cũng  như bạn bè, phần nhiều là hạng bất lương, lui tới thất thường, nhằm  trục lợi, hay làm hại.",
+          "mờ_ám_xấu_xa": "người giúp việc kém cỏi và không được lâu bền,  bạn bè thưa thớt, thường là hạng bất nhân."
+        }
+      },
+      {
+        "star_id": [
+          "tử",
+          "phủ",
+          "cự",
+          "nhật",
+          "cơ",
+          "nguyệt",
+          "đồng",
+          "lương"
+        ],
+        "sao_toa_thu_tai_cung_menh": [
+          "sát",
+          "phá",
+          "liêm",
+          "tham"
+        ],
+        "context_type": "menh_status_sáng_sủa_tốt_đẹp",
+        "rules": {
+          "sáng_sủa_tốt_đẹp": "thuê mượn người giúp việc trước khó sau dễ, bạn  bè tốt, khá giả. Tuy vậy, vẫn không bao giờ được hài lòng, vì trên dưới  không nhất trí, không hợp tính nhau.",
+          "mờ_ám_xấu_xa": "người giúp việc bất lực, càng ngày càng ly tán và hay  nói xấu người trên, bạn bè thường lui tới nhờ vả."
+        }
+      },
+      {
+        "star_id": [
+          "vũ_tướng"
+        ],
+        "sao_toa_thu_tai_cung_menh": [
+          "sát",
+          "phá",
+          "liêm",
+          "tham"
+        ],
+        "context_type": "menh_status_sáng_sủa_tốt_đẹp",
+        "rules": {
+          "sáng_sủa_tốt_đẹp": "người giúp việc và bạn bè đều khá giả và có lòng tốt.",
+          "mờ_ám_xấu_xa": "người giúp việc và bạn bè kém cỏi."
+        }
+      },
+      {
+        "star_id": [
+          "sát_tinh"
+        ],
+        "sao_toa_thu_tai_cung_menh": [
+          "sát",
+          "phá",
+          "liêm",
+          "tham"
+        ],
+        "context_type": "menh_status_sáng_sủa_tốt_đẹp",
+        "rules": {
+          "sáng_sủa_tốt_đẹp": "người giáp việc đắc lực, càng ngày càng lui tới đồng  đảo, có thể thu phục và cảm hóa được những quân giặc cướp, bạn bè tài  giỏi và rất khá giả.",
+          "mờ_ám_xấu_xa": "người giúp việc thưa thớt và bất lực, bạn bè cùng khổ ly  tán."
+        }
+      },
+      {
+        "star_id": [
+          "tử",
+          "phủ",
+          "cự",
+          "nhật",
+          "cơ",
+          "nguyệt",
+          "đồng",
+          "lương"
+        ],
+        "sao_toa_thu_tai_cung_menh": [
+          "sát",
+          "phá",
+          "liêm",
+          "tham"
+        ],
+        "context_type": "menh_status_mờ_ám_xấu_xa",
+        "rules": {
+          "sáng_sủa_tốt_đẹp": "người giúp việc đông đảo, đắc lực và trung thành,  bạn bè khá giả và có lòng tốt. Những lúc hoạn nạn thường gặp người cứu  giúp.",
+          "mờ_ám_xấu_xa": "rất ít người giúp việc, cũng như là bạn bè."
+        }
+      },
+      {
+        "star_id": [
+          "vũ_tướng"
+        ],
+        "sao_toa_thu_tai_cung_menh": [
+          "sát",
+          "phá",
+          "liêm",
+          "tham"
+        ],
+        "context_type": "menh_status_mờ_ám_xấu_xa",
+        "rules": {
+          "sáng_sủa_tốt_đẹp": "người giúp việc và bạn bè rất tài giỏi và lòng tốt.",
+          "mờ_ám_xấu_xa": "rất ít người giúp việc cũng như là bạn bè, hay bị người  dưới oán trách."
+        }
+      },
+      {
+        "star_id": [
+          "sát_tinh"
+        ],
+        "sao_toa_thu_tai_cung_menh": [
+          "sát",
+          "phá",
+          "liêm",
+          "tham"
+        ],
+        "context_type": "menh_status_mờ_ám_xấu_xa",
+        "rules": {
+          "sáng_sủa_tốt_đẹp": "người giúp việc và bạn bè tài giỏi và khá giả, nhưng tụ  tán thất thường.",
+          "mờ_ám_xấu_xa": "hay bị nói xấu, người giúp việc và bạn bè đều bất lực vô  tài và cùng khổ."
+        }
+      },
+      {
+        "star_id": [
+          "tử",
+          "phủ",
+          "cự",
+          "nhật",
+          "cơ",
+          "nguyệt",
+          "đồng",
+          "lương"
+        ],
+        "sao_toa_thu_tai_cung_menh": [
+          "vũ_tướng"
+        ],
+        "context_type": "menh_status_mờ_ám_xấu_xa",
+        "rules": {
+          "sáng_sủa_tốt_đẹp": "người giúp việc và bạn bè đều khá giả, có tài năng và  có lòng tốt.",
+          "mờ_ám_xấu_xa": "người giúp việc và bạn bè đều thưa thớt và kém cỏi."
+        }
+      },
+      {
+        "star_id": [
+          "sát",
+          "phá",
+          "liêm",
+          "tham"
+        ],
+        "sao_toa_thu_tai_cung_menh": [
+          "vũ_tướng"
+        ],
+        "context_type": "menh_status_mờ_ám_xấu_xa",
+        "rules": {
+          "sáng_sủa_tốt_đẹp": "người giúp việc tài giói và trung thành, bạn bè khá  giả, có tòng tốt.",
+          "mờ_ám_xấu_xa": "người giúp việc và bạn bè đều kém cỏi và không được  khá giả. Mệnh vô Chính diệu Nô Bộc vô Chính diệu Coi Chính diệu xung chiếu như Chính  diệu tọa thủ Coi Chính diệu xung chiếu như Chính  diệu tọa thủ Nếu cung Nô Bộc có Chính diệu với Sát tinh đồng cung thì chỉ cần nhận  định sự sáng sủa tốt đẹp hay mờ ám xấu xa của Chính diệu mà thôi."
+        }
+      },
+      {
+        "star_id": "xương_khúc_khôi_việt",
+        "context_type": "phu_doan",
+        "rules": {
+          "rule_text": "Bạn bè có danh chức.",
+          "nhiều_sao_sáng_sủa_tốt_đẹp": "nên kết giao với những người có địa vị hay \nquyền thế, nhất là với những người có học thức.",
+          "nhiều_sao_mờ_ám_xấu_xa": "nên lánh xa những người có danh giá, học \nthức. Chính những người này thường hay làm hại."
+        }
+      },
+      {
+        "star_id": "tả_phụ_hữu_bật",
+        "context_type": "phu_doan",
+        "rules": {
+          "nhiều_sao_sáng_sủa_tốt_đẹp": "người giúp việc rất đắc lực, bạn bè tốt và khá \ngiả.",
+          "nhiều_sao_mờ_ám_xấu_xa": "người giúp việc tuy tài giỏi nhưng điên đảo làm \nhại, bạn bè hay lừa đảo."
+        }
+      },
+      {
+        "star_id": "lộc_tồn",
+        "context_type": "phu_doan",
+        "rules": {
+          "rule_text": "Khó thuê mượn người làm, ít bạn bè."
+        }
+      },
+      {
+        "star_id": "khoa_quyền_lộc",
+        "context_type": "phu_doan",
+        "rules": {
+          "rule_text": "Người giúp việc khá giả nhưng hay lấn át người trên, bạn bè có lòng tốt và \nrất qúy hiển."
+        }
+      },
+      {
+        "star_id": "hóa_kỵ",
+        "context_type": "phu_doan",
+        "rules": {
+          "rule_text": "Hay mắc thị phi, thường bị những người giúp việc hay bạn bè nói xấu và \noán trách."
+        }
+      },
+      {
+        "star_id": "song_hao",
+        "context_type": "phu_doan",
+        "rules": {
+          "rule_text": "Khó thuê mượn người làm, nếu có người giúp việc cũng là hạng gian giảo, \nnay đến mai đi. Bạn bè là phường du đãng, hoang chơi, hay lui tới bòn của."
+        }
+      },
+      {
+        "star_id": "khốc_hư",
+        "context_type": "phu_doan",
+        "rules": {
+          "rule_text": "Hay bị người giúp việc oán trách."
+        }
+      },
+      {
+        "star_id": "tướng_quân",
+        "context_type": "phu_doan",
+        "rules": {
+          "rule_text": "Người giúp việc hay lấn át người trên."
+        }
+      },
+      {
+        "star_id": "phục_binh",
+        "context_type": "phu_doan",
+        "rules": {
+          "nhiều_sao_sáng_sủa_tốt_đẹp": "người giúp việc đắc lực và đông đảo, ra ngoài \ngặp nhiều người phụ giúp, bạn bè tốt.",
+          "nhiều_sao_mờ_ám_xấu_xa": "người giúp việc hay lừa đào làm hại, bạn bè gian \nquyệt, bất nhân."
+        }
+      },
+      {
+        "star_id": "đào_hoa",
+        "context_type": "phu_doan",
+        "rules": {
+          "rule_text": "Mang lụy vì tình, đàn ông thường đa mang lẽ mọn, ưa việc trăng gió, \nbướm hoa, đàn bà là người bất chính, hay lừa chồng."
+        }
+      },
+      {
+        "star_id": "tuần_triệt_án_ngữ",
+        "context_type": "phu_doan",
+        "rules": {
+          "rule_text": "Thuê mượn người giúp việc trước khó sau dễ, tuy vậy cùng chẳng được lâu \nbền.",
+          "nhiều_sao_sáng_sủa_tốt_đẹp": "nhận định mờ ám xấu xa.",
+          "nhiều_sao_mờ_ám_xấu_xa": "nhận định sáng sủa tốt đẹp."
+        }
+      },
+      {
+        "star_id": "tả_hữu_không_kiếp",
+        "context_type": "phu_doan",
+        "rules": {
+          "rule_text": "Người giúp việc và bạn bè đều là hạng gian quyệt, bất nhân, hay lừa đảo, \nlàm hại."
+        }
+      },
+      {
+        "star_id": "tả_hữu_tướng_binh",
+        "context_type": "phu_doan",
+        "rules": {
+          "rule_text": "Người giúp việc đắc lực, tận tâm và trung chành, bạn bè rốt."
+        }
+      },
+      {
+        "star_id": "đào_quyền_đồng_cung",
+        "context_type": "phu_doan",
+        "rules": {
+          "rule_text": "Đàn ông có vợ lẽ cướp quyền vợ cả, đàn bà bất chính hay lấn át chồng để \nlàm điều xằng bậy."
+        }
+      },
+      {
+        "star_id": "đào_hồng_cái_tả_hữu_đồng_cung",
+        "context_type": "phu_doan",
+        "rules": {
+          "rule_text": "Đàn ông có vợ lẽ, nhưng trong nhà không có chuyện ghen tuông, vì cả, lẽ \nthuận hòa. Đàn bà ra ngoài đường được nhiều người thuộc phái khỏe qúy mến \nchiều chuộng và thường có ngoại tình."
+        }
+      },
+      {
+        "star_id": "thai_vượng_đào_hồng",
+        "context_type": "phu_doan",
+        "rules": {
+          "rule_text": "Trong nhà có sự gian dâm."
+        }
+      }
+    ],
+    "source_content": "Xem cung Nô Bộc để biết rõ về những người giúp việc và bạn bè. Ngoài ra \ncòn để biết thêm những điều có liên quan đến thê thiếp. \nTrước hết phải nhận định cùng một lúc sự sáng sủa tốt đẹp hay mờ ám \nxấu xa, hoặc của Chính diệu hoặc của Sát tinh tọa thủ tại cung Mệnh và cung Nô \nBộc. Đoạn phải kết hợp những nhận định thuộc hai cung đó đế luận đoán đại \ncương. Sau lại phải xét đến ảnh hưởng của mỗi trung tinh, bàng tinh tọa thủ hay \nnhiều trung tinh hội hợp để phụ đoán chi tiết. \n9.1. Kết hợp nhận định \nMệnh\nNô Bộc\nTử, Phủ,\nCự,\nNhật,\nCơ,\nNguyệt,\nĐồng,\nLương\nsáng sủa\ntốt đẹp\n- Sát, Phá, Liêm, Tham\n+ Sáng sủa tốt đẹp: người giúp việc đắc lực, đông đảo, bạn bè khá \ngiả.\n+ Mờ ám xấu xa: người giúp việc kém cỏi, về sau hay ly tán, ít \nbạn bè.\n- Vũ Tướng.\n+ Sáng sủa tốt đẹp: người giúp việc rất tài giỏi, bạn bè qúy hiển, \ngiàu có.\n+ Mờ ám xấu xa: người giúp việc bất lực hay ly tán và mang lòng \noán hận, bạn bè cùng khốn.\n- Sát tinh.\n+ Sáng sủa tốt đẹp: người giúp việc và bạn bè tuy tài giỏi, nhưng \nlà hạng bất lương, hay làm hại, hay lừa phần, trước quần tụ, sau \nly tán.\n+ Mờ ám xấu xa: khó thuê mượn người giúp việc, người giúp việc \nvà bạn bè đều vô tài, bất lực nhưng lại bất nhân, bất nghĩa.\nMệnh\nNô Bộc\nTử, Phủ,\nCự,\nNhật,\nCơ,\nNguyệt,\nĐồng,\nLương\nmờ ám\nxấu xa\n- Sát, Phá, Liêm, Tham.\n+ Sáng sủa tốt đẹp: người giúp việc đắc lực, nhưng hay lấn quyền \nngười trên, bạn bè tài giỏi biết, nâng đỡ.\n+ Mờ ám xấu xa: người giúp việc thưa thớt và kém cỏi, bạn bè ly tán.\n- Vũ Tướng.\n+ Sáng sủa tốt đẹp: người giúp việc đắc lực và trung thành, bạn bè \nkhá giả.\n+ Mờ ám xấu xa: người giúp việc hèn kém, ít bạn bè.\n- Sát tinh.\n+ Sáng sủa tốt đẹp: rất đáng lo ngại vì những người giúp việc cũng \nnhư bạn bè, phần nhiều là hạng bất lương, lui tới thất thường, nhằm \ntrục lợi, hay làm hại.\n+ Mờ ám xấu xa: người giúp việc kém cỏi và không được lâu bền, \nbạn bè thưa thớt, thường là hạng bất nhân.\nMệnh\nNô Bộc\nSát, \nPhá,\nLiêm,\nTham\nsáng sủa\ntốt đẹp\n- Tử, Phủ, Cự, Nhật, Cơ, Nguyệt, Đồng, Lương.\n+ Sáng sủa tốt đẹp: thuê mượn người giúp việc trước khó sau dễ, bạn \nbè tốt, khá giả. Tuy vậy, vẫn không bao giờ được hài lòng, vì trên dưới \nkhông nhất trí, không hợp tính nhau.\n+ Mờ ám xấu xa: người giúp việc bất lực, càng ngày càng ly tán và hay \nnói xấu người trên, bạn bè thường lui tới nhờ vả.\n- Vũ Tướng.\n+ Sáng sủa tốt đẹp: người giúp việc và bạn bè đều khá giả và có lòng tốt.\n+ Mờ ám xấu xa: người giúp việc và bạn bè kém cỏi.\n- Sát tinh.\n+ Sáng sủa tốt đẹp: người giáp việc đắc lực, càng ngày càng lui tới đồng \nđảo, có thể thu phục và cảm hóa được những quân giặc cướp, bạn bè tài \ngiỏi và rất khá giả.\n+ Mờ ám xấu xa: người giúp việc thưa thớt và bất lực, bạn bè cùng khổ ly \ntán.\nMệnh\nNô Bộc\nSát, \nPhá,\nLiêm,\nTham\nmờ ám\nxấu xa\n- Tử, Phủ, Cự, Nhật, Cơ, Nguyệt, Đồng, Lương.\n+ Sáng sủa tốt đẹp: người giúp việc đông đảo, đắc lực và trung thành, \nbạn bè khá giả và có lòng tốt. Những lúc hoạn nạn thường gặp người cứu \ngiúp.\n+ Mờ ám xấu xa: rất ít người giúp việc, cũng như là bạn bè.\n- Vũ Tướng.\n+ Sáng sủa tốt đẹp: người giúp việc và bạn bè rất tài giỏi và lòng tốt.\n+ Mờ ám xấu xa: rất ít người giúp việc cũng như là bạn bè, hay bị người \ndưới oán trách.\n- Sát tinh.\n+ Sáng sủa tốt đẹp: người giúp việc và bạn bè tài giỏi và khá giả, nhưng tụ \ntán thất thường.\n+ Mờ ám xấu xa: hay bị nói xấu, người giúp việc và bạn bè đều bất lực vô \ntài và cùng khổ.\nMệnh\nNô Bộc\nVũ\nTướng\nsáng \nsủa\ntốt đẹp\n- Tử, Phủ, Cự, Nhật, Cơ, Nguyệt, Đồng, Lương.\n+ Sáng sủa tốt đẹp: người giúp việc và bạn bè đều khá giả, có tài năng và \ncó lòng tốt.\n+ Mờ ám xấu xa: giúp việc bất tài, bạn bè có lòng tốt nhưng không được \nkhá giả.\n- Sát, Phá, Liêm, Tham.\n+ Sáng sủa tốt đẹp: được nhiều người tùng phục, người giúp việc và bạn \nbè đều tài giỏi.\n+ Mờ ám xấu xa: hay bị người dưới trách oán, thù oán, người giúp việc \nthường tìm cách lừa phản, nhưng mưu sự bất thành, ít bạn bè, mà bạn bè \ncũng bất nhân, gian quyệt.\nMệnh\nNô Bộc\nVũ\nTướng\nmờ ám\nxấu xa\n- Tử, Phủ, Cự, Nhật, Cơ, Nguyệt, Đồng, Lương.\n+ Sáng sủa tốt đẹp: người giúp việc và bạn bè đều khá giả, có tài năng và \ncó lòng tốt.\n+ Mờ ám xấu xa: người giúp việc và bạn bè đều thưa thớt và kém cỏi.\n- Sát, Phá, Liêm, Tham.\n+ Sáng sủa tốt đẹp: người giúp việc tài giói và trung thành, bạn bè khá \ngiả, có tòng tốt.\n+ Mờ ám xấu xa: người giúp việc và bạn bè đều kém cỏi và không được \nkhá giả.\nMệnh vô Chính diệu\nNô Bộc vô Chính diệu\nCoi Chính diệu xung chiếu như Chính \ndiệu tọa thủ\nCoi Chính diệu xung chiếu như Chính \ndiệu tọa thủ\nNếu cung Nô Bộc có Chính diệu với Sát tinh đồng cung thì chỉ cần nhận \nđịnh sự sáng sủa tốt đẹp hay mờ ám xấu xa của Chính diệu mà thôi. \n9.2. Phụ đoán \n9.2.1. Xương, Khúc, Khôi, Việt \n- Bạn bè có danh chức. \n- Nhiều sao sáng sủa tốt đẹp: nên kết giao với những người có địa vị hay \nquyền thế, nhất là với những người có học thức. \n- Nhiều sao mờ ám xấu xa: nên lánh xa những người có danh giá, học \nthức. Chính những người này thường hay làm hại. \n9.2.2. Tả Phụ, Hữu Bật \n- Nhiều sao sáng sủa tốt đẹp: người giúp việc rất đắc lực, bạn bè tốt và khá \ngiả. \n- Nhiều sao mờ ám xấu xa: người giúp việc tuy tài giỏi nhưng điên đảo làm \nhại, bạn bè hay lừa đảo. \n9.2.3. Lộc Tồn \nKhó thuê mượn người làm, ít bạn bè. \n9.2.4. Khoa, Quyền, Lộc \nNgười giúp việc khá giả nhưng hay lấn át người trên, bạn bè có lòng tốt và \nrất qúy hiển. \n9.2.5. Hóa Kỵ \nHay mắc thị phi, thường bị những người giúp việc hay bạn bè nói xấu và \noán trách. \n9.2.6. Song Hao \nKhó thuê mượn người làm, nếu có người giúp việc cũng là hạng gian giảo, \nnay đến mai đi. Bạn bè là phường du đãng, hoang chơi, hay lui tới bòn của. \n9.2.7. Khốc, Hư \nHay bị người giúp việc oán trách. \n9.2.8. Tướng Quân \nNgười giúp việc hay lấn át người trên. \n9.2.9. Phục Binh \n- Nhiều sao sáng sủa tốt đẹp: người giúp việc đắc lực và đông đảo, ra ngoài \ngặp nhiều người phụ giúp, bạn bè tốt. \n- Nhiều sao mờ ám xấu xa: người giúp việc hay lừa đào làm hại, bạn bè gian \nquyệt, bất nhân. \n9.2.10. Đào Hoa \nMang lụy vì tình, đàn ông thường đa mang lẽ mọn, ưa việc trăng gió, \nbướm hoa, đàn bà là người bất chính, hay lừa chồng. \n9.2.11. Tuần, Triệt án ngữ \n- Thuê mượn người giúp việc trước khó sau dễ, tuy vậy cùng chẳng được lâu \nbền. \n- Nhiều sao sáng sủa tốt đẹp: nhận định mờ ám xấu xa. \n- Nhiều sao mờ ám xấu xa: nhận định sáng sủa tốt đẹp. \n9.2.12. Tả, Hữu, Không, Kiếp \nNgười giúp việc và bạn bè đều là hạng gian quyệt, bất nhân, hay lừa đảo, \nlàm hại. \n9.2.13. Tả, Hữu, Tướng, Binh \nNgười giúp việc đắc lực, tận tâm và trung chành, bạn bè rốt. \n9.2.14. Đào, Quyền đồng cung \nĐàn ông có vợ lẽ cướp quyền vợ cả, đàn bà bất chính hay lấn át chồng để \nlàm điều xằng bậy. \n9.2.14. Đào, Hồng, Cái, Tả, Hữu đồng cung \n- Đàn ông có vợ lẽ, nhưng trong nhà không có chuyện ghen tuông, vì cả, lẽ \nthuận hòa. \n- Đàn bà ra ngoài đường được nhiều người thuộc phái khỏe qúy mến \nchiều chuộng và thường có ngoại tình. \n9.2.16. Thai, Vượng, Đào, Hồng \nTrong nhà có sự gian dâm."
+  }
+}

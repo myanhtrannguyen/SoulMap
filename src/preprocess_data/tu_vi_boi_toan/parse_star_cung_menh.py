@@ -54,7 +54,8 @@ def parse_star_dictionary_advanced(text):
                 "dac_dia": [],
                 "binh_hoa": [],
                 "ham_dia": []
-            }
+            },
+            "all_content": (block) # Lưu nguyên văn nội dung để tham khảo sau này
         }
         
         # 2. Xử lý Header: Bóc tách Tên, Phương vị, Âm/Dương, Ngũ hành, Loại sao
@@ -119,7 +120,7 @@ def parse_star_dictionary_advanced(text):
     return stars_db
 
 
-def parse_star_interpretations(text):
+def parse_star_interpretations_cung_menh(text):
     """
     Trích xuất luận giải chi tiết từ Phần 4 (hoặc các phần luận giải Cung)
     Mẫu: "4.2.1. Tử Vi" sau đó là các thẻ "☯ Đại cương", "☯ Nam mệnh"...
@@ -128,63 +129,96 @@ def parse_star_interpretations(text):
     
     # Cắt văn bản ra thành từng khối sao dựa trên mục 4.2.x.
     blocks = re.split(r'4\.2\.\d+\.\s+', text)
-    
+
     for block in blocks[1:]: # Bỏ qua phần giới thiệu đầu tiên
         lines = block.split('\n')
         star_name = clean_text(lines[0].strip())
         star_id = star_name.lower().replace(" ", "_")
         
         current_context = ""
-        current_rules = []
+        current_rules = {}
         rule_text = ""
+        cau_phu = ""
         for line in lines[1:]:
             # line = line.strip()
-            if not line:
+            if not line or re.match(r'^\s*-\s*\d+\s*-\s*$', line.lower()) :
                 continue
             # if star_id == "hỏa,_linh":
             #     print(line)
             if "☯" in line and current_rules:
-                if star_id == "hỏa,_linh":
-                    print("star_id:", line)
-                    print(current_rules)
+                # if star_id == "hỏa,_linh":
+                #     print("star_id:", line)
+                #     print(current_rules)
+                if "rule_text" not in current_rules:
+                    current_rules["rule_text"] = []
+                        
+                current_rules["rule_text"].append(rule_text)
+    
                 interpretations_db.append({
-                    "interpretation_id": f"{star_id}_{current_context}",
                     "star_id": star_id,
                     "context_type": current_context,
                     "rules": current_rules
                 })
-                current_rules = []
+                current_context = ""
+                current_rules = {}
+                rule_text = ""
+                cau_phu = ""
 
             # Nhận diện Context [cite: 782, 792, 798, 801]
-            if "☯ Đại cương" in line:
-                current_context = "general"
-            elif "☯ Nam mệnh" in line:
-                current_context = "nam_menh"
-            elif "☯ Nữ mệnh" in line:
-                current_context = "nu_menh"
-            elif "☯ Phú giải" in line:
-                current_context = "phu_giai"
-            elif current_context == "phu_giai" and line:
+            if "☯" in line:
+                current_context = "_".join(clean_text(line.strip()).lower().split(" ")[1:])
+            elif current_context == "phú_giải" :
+                
                 # Lưu câu phú nguyên bản 
-                current_rules.append({
-                    "condition": "Câu Phú",
-                    "effect": line
-                })
+                
+                if line[0].lower() != line[0]:
+                    # print(line)
+                    
+                    if cau_phu:
+                        if "Câu_Phú" not in current_rules:
+                            current_rules["Câu_Phú"] = []
+
+                        current_rules["Câu_Phú"].append(cau_phu)
+                        
+                    cau_phu = clean_text(line)
+                else:
+                    cau_phu += " " + clean_text(line)
+                
             # Nhận diện các dòng luận giải bắt đầu bằng dấu '+' hoặc '-' [cite: 782, 783]
             elif line.startswith("+") or line.startswith("-"):
+                
                 if rule_text:
-                    current_rules.append({
-                        "condition": "Mặc định", # Cần NLP thêm để tách "Gặp Xương Khúc -> ..."
-                        "effect": rule_text
-                    })
+                    if "rule_text" not in current_rules:
+                        current_rules["rule_text"] = []
+                        
+                    current_rules["rule_text"].append(rule_text)
+                    
                 rule_text = clean_text(line[1:])
             else:
                 rule_text += " " + clean_text(line)
+        
+        if cau_phu:
+            if "Câu_Phú" not in current_rules:
+                current_rules["Câu_Phú"] = []
 
-                
+            current_rules["Câu_Phú"].append(cau_phu)
             
-            
-    return interpretations_db
+        if current_rules:
+            interpretations_db.append({
+                "star_id": star_id,
+                "context_type": current_context,
+                "rules": current_rules
+            })
+            current_rules = {}
+  
+    return {
+        "Cung_menh": {
+            "name": "cung_mệnh_và_cung_thân",
+            "description": "Luận giải chi tiết về các sao tại cung Mệnh và Thân, bao gồm các bối cảnh như Đại cương, Nam mệnh, Nữ mệnh, v.v... Các luận giải được phân loại theo từng sao và từng bối cảnh cụ thể.",
+            "stars": interpretations_db,
+            "source_content": re.search(r'4\.\s+NHẬN\s+ĐỊNH\s+KHÁI\s+QUÁT\s+VỀ\s+CUNG\s+MỆNH\s+VÀ\s+CUNG\s+THÂN(.*?)(?=5\.\s+CUNG\s+PHỤ\s+MẪU|\Z)', text, re.DOTALL).group(1).strip()  # Lưu nguyên văn nội dung để tham khảo sau này
+        }
+    }
 
 def main():
     # Đọc file dữ liệu đã extract
@@ -195,7 +229,7 @@ def main():
     #     print("Vui lòng lưu nội dung vào file tuvi_data.txt trước khi chạy.")
     #     return
     try:
-        with open(r"D:\Hust\Năm ba\NLP\prj\data_process\data_raw_text.txt", "r", encoding="utf-8") as f:
+        with open(r"D:\Hust\Năm ba\NLP\prj\data\data_process\tu_vi_boi_toan\tu_vi_boi_toan_raw_text.txt", "r", encoding="utf-8") as f:
             full_text = f.read()
     except FileNotFoundError:
         print("Vui lòng lưu nội dung vào file data_raw_text.txt.")
@@ -203,15 +237,18 @@ def main():
     
     # 1. Trích xuất danh sách sao
     stars_data = parse_star_dictionary_advanced(full_text)
-    with open("stars_db.json", "w", encoding="utf-8") as f:
+    with open("data/data_process/tu_vi_boi_toan/stars_db.json", "w", encoding="utf-8") as f:
         json.dump(stars_data, f, ensure_ascii=False, indent=2)
     print(f"Đã trích xuất thành công {len(stars_data)} vì sao vào stars_db.json")
 
     # 2. Trích xuất luận giải sao tại Mệnh/Thân
-    interpretations_data = parse_star_interpretations(full_text)
-    with open("interpretations_db.json", "w", encoding="utf-8") as f:
-        json.dump(interpretations_data, f, ensure_ascii=False, indent=2)
-    print(f"Đã trích xuất thành công {len(interpretations_data)} khối luận giải vào interpretations_db.json")
+    cung = re.split(r'\d+\.\s+', full_text)
+    print(cung[0])
+    # print(type(full_text))
+    interpretations_data_cung_menh = parse_star_interpretations_cung_menh(full_text[full_text.find("4. NHẬN ĐỊNH KHÁI QUÁT VỀ CUNG MỆNH VÀ CUNG THÂN"): full_text.rfind("5. CUNG PHỤ MẪU")])
+    with open("data/data_process/tu_vi_boi_toan/cung/cung_menh_va_cung_than_db.json", "w", encoding="utf-8") as f:
+        json.dump(interpretations_data_cung_menh, f, ensure_ascii=False, indent=2)
+    print(f"Đã trích xuất thành công {len(interpretations_data_cung_menh)} khối luận giải vào interpretations_db.json")
 
 
 if __name__ == "__main__":

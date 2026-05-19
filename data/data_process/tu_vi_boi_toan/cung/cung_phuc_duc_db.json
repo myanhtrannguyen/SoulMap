@@ -1,0 +1,522 @@
+{
+  "Cung_phuc_duc": {
+    "name": "cung_phúc_đức",
+    "description": "Xem cung Phúc Đức để biết rỗ sự thọ yểu, cùng là sự thịnh suy, tụ tán của \nhọ hàng. Ngoài ra, còn được biết rõ vê âm phần mà mình chịu ảnh hưởng. Cung \nPhúc Đức chi phối tất cả 11 cung số. Vậy cho nên luận đoán cung Phúc Đức phải \nrất cẩn thận.",
+    "stars": [
+      {
+        "star_id": "tử_vi",
+        "context_type": null,
+        "rules": {
+          "đơn_thủ_tại_ngọ": "hưởng phúc lâu dài. Tránh được nhiều tai họa. Trong họ \ncó nhiều người qúy hiến.",
+          "đơn_thủ_tại_tý": "suốt đời hay gặp những sự may mắn. Trong họ tuy hiếm \nngười, nhưng cùng khá giả.",
+          "phủ_đồng_cung_tướng_đồng_cung": "suốt đời được xứng ý toại lòng, sống \nlâu và hưởng phúc. Họ hàng nhiều người giàu sang.",
+          "sát_đồng_cung": "phải ly tổ, bôn ba mới được hưởng phúc sống lâu. Trong họ \ncó nhiều người giàu sang, hiển đạt về võ nghiệp, nhưng ở xa quê hương.",
+          "phá_đồng_cung": "Lao tâm khổ tứ, chẳng được yên thân. Phải lìa bỏ quê \nhương mới khá giả và sống lâu. Họ hàng ly tán.",
+          "tham_đồng_cung": "suốt đời chẳng được xứng ý toại lòng, giảm thọ vì bạc \nphúc. Họ hàng ly tán, người nào khá giả lại chết sớm."
+        }
+      },
+      {
+        "star_id": "liêm_trinh",
+        "context_type": null,
+        "rules": {
+          "đơn_thủ_tại_dần_thân": "được hưởng phúc. Trong họ ít của, hiếm người.",
+          "phủ_đồng_cung": "suốt đời sung sướng, phúc thọ song toàn. Trong họ có \nnhiều người giàu sang.",
+          "tướng_đồng_cung": "được hưởng phúc. Họ hàng khá giả nhưng hiếm người.",
+          "phá_đồng_cung": "vất vả lao khổ, phải xa quê hương mới sống lâu. Họ hàng \nly tán.",
+          "tham_đồng_cung": "giảm thọ, khó tránh được tai ương, họa hại. Trong họ có \nnhiều người bần hàn hay mắc tù tội, thường phải bạt quán xiêu cư.",
+          "sát_đồng_cung": "giảm thọ, hay gặp nguy hiểm, phải xa quê hương mới \nmong được an toàn. Trong họ có nhiều người chết non một cách thê thảm. Nếu \nkhông, cũng phải mang tàn tật, ác bệnh, hay mắc tù tội, khốn cùng."
+        }
+      },
+      {
+        "star_id": "thiên_đồng",
+        "context_type": null,
+        "rules": {
+          "đơn_thủ_tại_mão": "được hưởng phúc, sống lâu, nhưng thường hay thay \nđổi chí hướng, hay canh cải công việc. Càng xa quê hương lại càng khá giả. Họ \nhàng phân tán làm ăn ở phương xa. Trong họ thường có thần đồng xuất hiện.",
+          "đơn_thủ_tại_dậu": "giảm thọ. Suốt đời lao tâm khổ tứ, hay phải thay đổi \ncông việc và chí hướng, nhưng chẳng được xứng ý toại lòng. Có lập nghiệp ở xa \nquê hương mới mong được đủ ăn, đủ mặc. Họ hàng ly tán.",
+          "đơn_thủ_tại_tỵ_hợi": "suốt đời sung sướng, nhưng giảm thọ. Muốn sống lâu, \nnên xuất ngoại, nay đây mai đó. Họ hàng ly tán, phiêu bạt, trai gái rất phóng đãng.",
+          "đơn_thủ_tại_thìn_tuất_cự_đồng_cung": "giảm thọ, suốt đời vui ít buồn \nnhiều, hay mắc tai nạn, khẩu thiệt, kiện cáo. Phải ly tổ, xa gia đình mới mong \nđược yên thân. Họ hàng ly tán, thường tranh chấp lẫn nhau.",
+          "lương_đồng_cung": "suốt đời thanh nhàn, được hưởng phúc sống lâu. \nTrong họ có nhiều người qúy hiến, giàu sang và thường có thần nhân giáng hạ.",
+          "nguyệt_đồng_cung_tại_tý": "được hưởng phúc, sống lâu, Nên lập nghiệp ở xa \nquê hương, bản quán. Họ hàng qúy hiển, có danh giá, uy quyền tế thế.",
+          "nguyệt_đồng_cung_tại_ngọ": "giảm thọ. Phải ly tổ bôn ba mới mong được \nyên thân. Họ hàng càng ngày càng sa sút phiêu bạt."
+        }
+      },
+      {
+        "star_id": "vũ_khúc",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Trong họ hiếm người.",
+          "đơn_thủ_tại_thìn_tuất_tham_đồng_cung": "được hưởng phúc sống lâu. Về \ngià, lại càng xứng ý toại lòng. Trong họ thường có người giàu sang hay hiển đạt về \nvõ nghiệp.",
+          "phủ_đồng_cung": "được hưởng phúc, sống lâu. Họ hàng khá giả.",
+          "tướng_đồng_cung": "phúc thọ song toàn. Suốt đời hay gặp may mắn. Họ \nhàng qúy hiển giàu sang.",
+          "phá_đồng_cung": "phải lập nghiệp ở xa quê hương, phải sớm xa gia đình \nmới mong được yên thân hưởng phúc sống lâu. Họ hàng ly tán nhưng có \nngười giỏi vế kỹ thuật, mỹ thuật hay kinh doanh buôn bán.",
+          "sát_đồng_cung": "giảm thọ vì bạc phúc. Suốt đời lao tâm khổ tứ, hay mắc \ntai họa. Xa quê hương, xa gia đình cũng chẳng được yên thân. Họ hàng sa sút ly \ntán, thường có người chết non, mang ác tật hay bần khổ."
+        }
+      },
+      {
+        "star_id": "thái_dương",
+        "context_type": null,
+        "rules": {
+          "tọa_thủ_tại_dần_mão_thìn_tỵ_ngọ": "được hưởng phúc, sống lâu và sung \nsướng. Họ hàng qúy hiển, giàu sang, có danh giá và uy quyền tế thế.",
+          "tọa_thủ_tại_thân_dậu_tuất_hợi_tý": "bạc phúc nên tuổi thọ bị chiết giảm. \nSuốt đời chẳng được xứng ý toại lòng. Nên ly tổ hay ở xa gia đình. Họ hàng càng \nngày càng sa sút ly tán, có nhiều người gian quyệt nhưng bần cùng, có người \nphiêu bạt giang hồ, lại có người mang ác tật hay mắc tai nạn chết một cách thê \nthảm.",
+          "nguyệt_đồng_cung": "không được hưởng phúc dồi dào, nên hay gặp trở \nngại trên đường đời. Nên tập nghiệp ở nơi thật xa quê hương. Họ hàng khá giả, \nnhưng ly tán. Nếu sinh ban ngày, phải luận đoán trong họ đàn ông, con trai hiển \nđạt, còn đàn bà con gái vất vả về chồng con, hay yểu tử. Trái lại, nếu sinh ban \nđêm, phải luận đoán là trong họ đàn bà, con gái giàu có, sung sướng, còn đàn \nông con trai cùng khổ phiêu bạt."
+        }
+      },
+      {
+        "star_id": "thiên_cơ",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Trong họ hiếm người",
+          "đơn_thủ_tại_tỵ_ngọ_mùi": "được hưởng phúc, sống lâu. Họ hàng khá giả",
+          "đơn_thủ_tại_hợi_tý_sửu": "bạc phúc: họ hàng ly tán.",
+          "cự_đồng_cung": "tuy được hưởng phục, nhưng lúc thiếu thời chẳng được \nxứng ý toại lòng. Về già hay gặp may mắn. Họ hàng khá giả.",
+          "lương_đồng_cung": "sống lâu, thanh nhàn, sung sướng. Họ hàng có \nngười giàu sang, và thường có thần nhân giáng hạ.",
+          "nguyệt_đồng_cung_tại_thân": "được hưởng phúc, sống lâu. Trong họ có \nngười giàu sang, nhưng đàn bà con gái thường khá giả hơn là đàn ông con trai.",
+          "nguyệt_đồng_cung_tại_dần": "không được hưởng phúc dồi dào nên suốt đời \nchẳng được xứng ý toại lòng. Họ hàng bình thường, nhưng đàn bà con gái hay \ntrắc trở vê chồng con, lại có người phong tình hoa nguyệt."
+        }
+      },
+      {
+        "star_id": "thiên_phủ",
+        "context_type": null,
+        "rules": {
+          "đơn_thủ_tại_tỵ_нợi": "được hưởng phúc, sống lâu. Họ hàng đông đảo, khá \ngiả",
+          "đơn_thủ_tại_sửu_mùi_mão_dậu": "không được hưởng phúc dồi dào. Nên \nlập nghiệp ở nơi thật xa quê hương. Trong họ, nhiều người giàu sang, nhưng ly \ntán.",
+          "tử_đồng_cung_tướng_đồng_cung": "suốt đời được xứng ý toại lòng, sống lâu \nvà hưởng phúc. Họ hàng nhiều người giàu sang.",
+          "liêm_đồng_cung": "suốt đời sung sướng, phúc thọ song toàn. Trong họ có \nnhiều người giàu sang.",
+          "vũ_đồng_cung": "được hưởng phúc, sống lâu. Họ hàng khá giả."
+        }
+      },
+      {
+        "star_id": "thái_âm",
+        "context_type": null,
+        "rules": {
+          "đơn_thủ_tại_dậu_tuất_hợi": "được hưởng phúc trọn đời, sung sướng, sống \nlâu. Trong họ có nhiều người qúy hiến và giàu sang.",
+          "đơn_thủ_tại_mão_thìn_tỵ": "bạc phúc nên tuổi thọ bị chiết giảm. Suốt đời \nvui ít buồn nhiều, lao tâm khổ tứ. Nên lập nghiệp ở nơi thật xa quê hương, có \nsớm xa cách gia đình mới mong được yên thân. Họ hàng ly tán, nhiều người cùng \nkhổ, cô đơn, mang ác tật, phiêu bạt giang hồ, hay mắc tai nạn mà chết một cách \nthê thảm. Đàn bà con gái trong họ rất vất vả về chồng con.",
+          "đồng_đồng_cung_tại_tý": "được hưởng phúc, sống lâu, Nên lập nghiệp ở xa \nquê hương, bản quán. Họ hàng qúy hiển, có danh giá, uy quyền tế thế.",
+          "đồng_đồng_cung_tại_ngọ": "giảm thọ. Phải ly tổ bôn ba mới mong được yên \nthân. Họ hàng càng ngày càng sa sút phiêu bạt.",
+          "nhật_đồng_cung": "không được hưởng phúc dồi dào, nên hay gặp trở ngại \ntrên đường đời. Nên tập nghiệp ở nơi thật xa quê hương. Họ hàng khá giả, \nnhưng ly tán. Nếu sinh ban ngày, phải luận đoán trong họ đàn ông, con trai hiển \nđạt, còn đàn bà con gái vất vả về chồng con, hay yểu tử. Trái lại, nếu sinh ban \nđêm, phải luận đoán là trong họ đàn bà, con gái giàu có, sung sướng, còn đàn ông \ncon trai cùng khổ phiêu bạt.",
+          "cơ_đồng_cung_tại_thân": "được hưởng phúc, sống lâu. Trong họ có người \ngiàu sang, nhưng đàn bà con gái thường khá giả hơn là đàn ông con trai.",
+          "cơ_cung_tại_dần": "không được hưởng phúc dồi dào nên suốt đời chẳng \nđược xứng ý toại lòng. Họ hàng bình thường, nhưng đàn bà con gái hay trắc trở \nvê chồng con, lại có người phong tình hoa nguyệt."
+        }
+      },
+      {
+        "star_id": "tham_lang",
+        "context_type": null,
+        "rules": {
+          "đơn_thủ_tại_thìn_tuất": "được hưởng phúc. Về già rất sung sướng. Trong \nhọ nhiều người giàu có, nhưng thường lập nghiệp ở nơi thật xa quê hương.",
+          "đơn_thủ_tại_dần_thân": "Không được hưởng phúc dồi dào, nhưng cũng \nsống lâu. Họ hàng bình thường, có nhiều người lập thân bằng võ nghiệp.",
+          "đơn_thủ_tại_tý_ngọ": "bạc phúc nên giảm thọ. Phải lập nghiệp ở xa quê \nhương, phải sớm xa gia đình mới mong được yên thân. Họ hàng ly tán, càng ngày \ncàng sa sút, lại có nhiều người rất dâm đãng",
+          "tử_đồng_cung": "suốt đời chẳng được xứng ý toại lòng, giảm thọ vì bạc \nphúc. Họ hàng ly tán, người nào khá giả lại chết sớm.",
+          "liêm_đồng_cung": "giảm thọ, khó tránh được tai ương, họa hại. Trong họ có \nnhiều người bần hàn hay mắc tù tội, thường phải bạt quán xiêu cư.",
+          "vũ_đồng_cung": "được hưởng phúc sống lâu. Về già, lại càng xứng ý toại \nlòng. Trong họ thường có người giàu sang hay hiển đạt về võ nghiệp."
+        }
+      },
+      {
+        "star_id": "cự_môn",
+        "context_type": null,
+        "rules": {
+          "đơn_thủ_lại_hợi_tý_ngọ": "được hưởng phúc, sống lâu, về già rất sung \nsướng. Họ hàng giàu có qúy hiển.",
+          "đơn_thủ_tại_tỵ_thìn_tuất": "giảm thọ. Suốt đời lao tâm khổ tứ chẳng được \nxứng ý toại lòng, lại hay mắc tai nạn khẩu thiệt, kiện cáo. Phải sớm xa gia đình \nmới mong được yên thân. Trong họ thường có sự tranh chấp, nhiều người \nphiêu bạt giang hồ, nếu không, cũng khốn cùng, mắc hình ngục, hay yểu tử.",
+          "tọa_thủ_tại_dần_mão_thìn_tỵ_ngọ": "được hưởng phúc, sống lâu và sung \nsướng. Họ hàng qúy hiển, giàu sang, có danh giá và uy quyền tế thế.",
+          "tọa_thủ_tại_thân_dậu_tuất_hợi_tý": "bạc phúc nên tuổi thọ bị chiết giảm. \nSuốt đời chẳng được xứng ý toại lòng. Nên ly tổ hay ở xa gia đình. Họ hàng càng \nngày càng sa sút ly tán, có nhiều người gian quyệt nhưng bần cùng, có người \nphiêu bạt giang hồ, lại có người mang ác tật hay mắc tai nạn chết một cách thê \nthảm",
+          "đồng_đồng_cung": "giảm thọ, suốt đời vui ít buồn nhiều, hay mắc tai nạn, \nkhẩu thiệt, kiện cáo. Phải ly tổ, xa gia đình mới mong được yên thân. Họ hàng ly \ntán, thường tranh chấp lẫn nhau.",
+          "cơ_đồng_cung": "tuy được hưởng phục, nhưng lúc thiếu thời chẳng được \nxứng ý toại lòng. Về già hay gặp may mắn. Họ hàng khá giả."
+        }
+      },
+      {
+        "star_id": "thiên_tướng",
+        "context_type": null,
+        "rules": {
+          "đơn_thủ_tại_tỵ_hợi_sửu_mủi": "được hưởng phúc, suốt đời bay gặp may \nmắn. Trong họ có nhiều người qúy hiển, giàu sang.",
+          "đơn_thủ_tại_mão_dậu": "không được hưởng phúc dồi dào, nên lúc thiếu thời \nchẳng được xứng ý toại lòng. Về già hay gặp may mắn. Họ hàng càng ngày càng \nkhá giả.",
+          "tử_đồng_cung": "suốt đời được xứng ý toại lòng, sống lâu và hưởng phúc. \nHọ hàng nhiều người giàu sang.",
+          "liêm_đồng_cung": "được hưởng phúc. Họ hàng khá giả nhưng hiếm người.",
+          "vũ_đồng_cung": "phúc thọ song toàn. Suốt đời hay gặp may mắn. Họ hàng \nqúy hiển giàu sang."
+        }
+      },
+      {
+        "star_id": "thiên_lương",
+        "context_type": null,
+        "rules": {
+          "đơn_thủ_tại_tý_ngọ": "được hưởng phúc, thanh nhàn, sung sướng tránh \nđược nhiều tai họa và sống lâu. Trong họ có nhiều người qúy hiến, có danh tiếng \nlừng lẫy.",
+          "đơn_thủ_tại_sửu_mùi": "được hưởng phúc, sống lâu. Họ hàng bình thường.",
+          "đớn_thủ_tại_tỵ_hợi": "giảm thọ, khó tránh được tai họa. thường phải sớm \nxa gia đình, nay đây mai đó, hay thay đổi công việc và chí hướng. Họ hàng càng \nngày càng sa sút ly tán, đàn ông con trai có nhiều người chơi bời, du đãng, đàn \nbà con gái cũng có nhiều người dâm dật, hay trắc trở về chồng con.",
+          "đồng_đồng_cung": "suốt đời thanh nhàn, được hưởng phúc sống lâu. \nTrong họ có nhiều người qúy hiến, giàu sang và thường có thần nhân giáng hạ.",
+          "tọa_thủ_tại_dần_mão_thìn_tỵ_ngọ": "được hưởng phúc, sống lâu và sung \nsướng. Họ hàng qúy hiển, giàu sang, có danh giá và uy quyền tế thế.",
+          "tọa_thủ_tại_thân_dậu_tuất_hợi_tý": "bạc phúc nên tuổi thọ bị chiết giảm. \nSuốt đời chẳng được xứng ý toại lòng. Nên ly tổ hay ở xa gia đình. Họ hàng càng \nngày càng sa sút ly tán, có nhiều người gian quyệt nhưng bần cùng, có người \nphiêu bạt giang hồ, lại có người mang ác tật hay mắc tai nạn chết một cách thê \nthảm",
+          "cơ_đồng_cung": "sống lâu, thanh nhàn, sung sướng. Họ hàng có người giàu \nsang, và thường có thần nhân giáng hạ."
+        }
+      },
+      {
+        "star_id": "thất_sát",
+        "context_type": null,
+        "rules": {
+          "đơn_thủ_tại_dần_thân": "được hưởng phúc, nhưng nên lập nghiệp ở nơi \nthật xa quê hương. Họ hàng khá giả, có danh giá và uy quyền tế thế, lại có nhiều \nngười hiển đạt về võ nghiệp.",
+          "đơn_thủ_tại_tý_ngọ": "không được hưởng phúc dồi dào, suốt đời may \nthường đi liền với rủi. Nên ly tổ có sớm xa gia đình mới mong được yên thân. \nHọ hàng khá giả, nhưng ly tán, có nhiều người hiển đạt về vỗ nghiệp.",
+          "đơn_thủ_tại_тhìn_tuất": "bạc phúc nên giảm thọ. Khó tránh được lai nạn \nvẻ đao thương, dễ mắc hình ngục. Phải ly tổ, ở xa gia đình, may ra mới được yên \nthân. Họ hàng càng ngày càng sa sút, nghèo khổ, ly tán, lại có nhiều người chết \nnon.",
+          "tử_đồng_cung": "phải ly tổ, bôn ba mới được hưởng phúc sống lâu. Trong họ \ncó nhiều người giàu sang, hiển đạt về võ nghiệp, nhưng ở xa quê hương.",
+          "liêm_đồng_cung": "giảm thọ, hay gặp nguy hiểm, phải xa quê hương mới \nmong được an toàn. Trong họ có nhiều người chết non một cách thê thảm. Nếu \nkhông, cũng phải mang tàn tật, ác bệnh, hay mắc tù tội, khốn cùng.",
+          "vũ_đồng_cung": "giảm thọ vì bạc phúc. Suốt đời lao tâm khổ tứ, hay mắc \ntai họa. Xa quê hương, xa gia đình cũng chẳng được yên thân. Họ hàng sa sút ly \ntán, thường có người chết non, mang ác tật hay bần khổ."
+        }
+      },
+      {
+        "star_id": "phá_quân",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Họ hàng ly tán, thường lập nghiệp ở xa quê hương.",
+          "đơn_thủ_tại_tý_ngọ": "được hưởng phúc, sống lâu, nhưng nên lập nghiệp \nở nơi thật xa quê hương, Họ hàng khá giả. Tuy vậy ngành trưởng bao giờ cũng \nphiêu bạt, lụn bại.",
+          "đơn_thủ_tại_thìn_tuất": "không được hưởng phúc dồi dào. Phải ly tán, sớm \nxa gia đình, mới mong được yên thân. Trong họ có người qúy hiển.",
+          "đơn_thủ_tại_dần_thân": "bạc phúc nên giảm thọ. Khó tránh được tai họa. \nPhải ly tổ, sớm xa gia đình, may ra mới được yên thân. Họ hàng càng ngày càng \nsa sút.",
+          "tử_đồng_cung": "Lao tâm khổ tứ, chẳng được yên thân. Phải lìa bỏ quê \nhương mới khá giả và sống lâu. Họ hàng ly tán.",
+          "liêm_đồng_cung": "vất vả lao khổ, phải xa quê hương mới sống lâu. Họ hàng \nly tán.",
+          "vũ_đồng_cung": "phải lập nghiệp ở xa quê hương, phải sớm xa gia đình mới \nmong được yên thân hưởng phúc sống lâu. Họ hàng ly tán nhưng có người giỏi vế kỹ \nthuật, mỹ thuật hay kinh doanh buôn bán."
+        }
+      },
+      {
+        "star_id": "kình_đà",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Họ hàng ly tán.",
+          "sáng_sủa_tốt_đẹp": "suốt đời may thường đi liền với rủi, về già được an \nnhàn. Họ hàng trước ly tán, sau quần tụ, càng ngày càng khá giả.",
+          "mờ_ám_xâu_xa": "bạc phúc nên giảm thọ. Khó tránh được tai họa, thường \nphải lập nghiệp thật xa quê hương, không mấy khi được xúng ý toại lòng. Trong họ \ncó người tàn tật, chết non hoặc trộm cắp, du đãng."
+        }
+      },
+      {
+        "star_id": "hỏa_linh",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Giảm thọ.",
+          "sáng_sủa_tốt_đẹp": "suốt đời may thường đi liền với rủi. Trong họ có nhiều \nngười qúy hiển, nhưng hay chết non.",
+          "mờ_ám_xâu_xa": "suốt đời lao tâm khổ tứ, không mấy khi được xứng ý toại \nlòng. Khó tránh được tai họa. Họ hàng càng ngày càng sa sút."
+        }
+      },
+      {
+        "star_id": "không_kiếp",
+        "context_type": null,
+        "rules": {
+          "sáng_sủa_tốt_đẹp": "bạc phúc, suốt đời mưu sự buổi đầu thường trắc trở, về \nsau mới được hành thông, đắc ý. Trong cái may có chứa dựng nhiều cái rủi. Họ \nhàng khá giả, nhưng ly tán.",
+          "mờ_ám_xấu_xa": "giảm thọ, khó tránh được tai họa. Phải lập nghiệp ở nơi \nthật xa quê hương, may ra mới được yên thân. Họ hàng càng ngày càng sa sút, ly \ntán."
+        }
+      },
+      {
+        "star_id": "xương_khúc",
+        "context_type": null,
+        "rules": {
+          "nhiều_sao_sáng_sủa_tốt_đẹp": "được hưởng phúc sung sướng, vinh hiển và \nsống lâu. Trong họ có nhiều người đỗ đạt cao có danh giá.",
+          "nhiều_sao_mờ_ám_xấu_xa": "giảm thọ, khó tránh được tai họa. Phải sớm xa \ngia đình, như thế may ra mới được yên thân. Họ hàng tuy khá giả, có người đỗ \nđạt cao, nhưng ly tán. Những người có danh giá lại hay mang tàn tật, ác bệnh, nếu \nkhông cũng chết non."
+        }
+      },
+      {
+        "star_id": "khôi_việt",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Tăng tuổi thọ",
+          "nhiều_sao_sáng_sủa_tốt_đẹp": "được hưởng phúc vinh hiển và sống lâu. \nTrong họ có nhiều người đỗ đạt làm nên danh giá, lại thường có vĩ nhân hay thần \nđồng xuất hiện.",
+          "nhiều_sao_mờ_ám_xấu_xa": "trong cái may có chứa đựng nhiều cái rủi. Nếu \ncó danh giá, tất khó tránh được tai họa. Họ hàng mỗi ngày một suy bại."
+        }
+      },
+      {
+        "star_id": "tả_hữu",
+        "context_type": null,
+        "rules": {
+          "nhiều_sao_sáng_sủa_tốt_đẹp": "được hưởng phúc sống lâu. Suốt đời hay gặp \nmay mắn. Càng ở xa quê hương lại càng khá giả. Họ hàng qúy hiển giàu sang, \nnhưng không ở gần nhau.",
+          "nhiều_sao_mờ_ám_xấu_xa": "bạc phúc nên giảm thọ. Khó tránh được tai họa. \nPhải lập nghiệp ở nơi thật xa quê hương, hay phải sớm xa gia đình, may ra mới \nđược yên thân. Trong họ có người cùng khổ phiêu bạt, hoặc du đãng, bất lương, \nnếu không, cùng mang tàn tật, ác bệnh, hay mắc tai nạn mà chết một cách thê \nthảm. Họ hàng càng ngày càng ly tán, lụn bại."
+        }
+      },
+      {
+        "star_id": "lộc_tồn",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Tăng tuổi thọ, được hưởng phúc, trong họ hiếm người và thường có sự \ntranh chấp bất hòa. Họ hàng khá giả nhưng ly tán."
+        }
+      },
+      {
+        "star_id": "hóa_lộc",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Được hưởng phúc, khỏi phải lo lắng những lúc túng thiếu. Tránh được \nnhiều tai họa, họ hàng giàu có."
+        }
+      },
+      {
+        "star_id": "hóa_quyền",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Được hưởng phúc. Được nhiều người vị nể. Họ hàng qúy hiển, có danh \ngiá, truyền từ đời này sang đời khác. Nhận định theo Thiên Khôi, Thiên Việt"
+        }
+      },
+      {
+        "star_id": "hóa_khoa",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Được hưởng phúc sống lâu. Tránh được nhiều tai họa. Họ hàng khá giả, có \nngười đỗ đạt cao."
+        }
+      },
+      {
+        "star_id": "hóa_kỵ",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Giảm thọ. Họ hàng ly tán, hay tranh chấp lẫn nhau."
+        }
+      },
+      {
+        "star_id": "song_hao",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Giảm thọ. Nên sớm xa gia đình, trong họ có nhiều người nghèo túng, phải \nđi biệt xứ."
+        }
+      },
+      {
+        "star_id": "tang_hổ",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Giảm thọ. Họ hàng ly tán, những người khá giả lại chết sớm."
+        }
+      },
+      {
+        "star_id": "khốc_hư",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Giảm thọ. Họ hàng hay oán trách lẫn nhau."
+        }
+      },
+      {
+        "star_id": "thiên_mã",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Tăng tuổi thọ. Càng ở xa quê hương lại càng khá giả. Trong họ có nhiều \nngười hiển đạt, nhưng không ở gần nhau."
+        }
+      },
+      {
+        "star_id": "thái_tuế",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Không được hưởng phúc dồi dào, khó tránh được tai họa. Trong họ thiếu \nhòa khí, thường có sự tranh chấp lẫn nhau."
+        }
+      },
+      {
+        "star_id": "long_phượng",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Được hưởng phúc. Trong họ có nhiều người khá giả."
+        }
+      },
+      {
+        "star_id": "cô_quả",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Trong họ hiếm người.",
+          "nhiều_sao_sáng_sủa_tốt_đẹp": "được hưởng phúc. Tránh được nhiều tai họa. \nHọ hàng khá giả.",
+          "nhiều_sao_mờ_ám_xấu_xa": "giảm thọ, khó tránh được tai họa. Họ hàng càng \nngày càng lụn bại."
+        }
+      },
+      {
+        "star_id": "đào_hồng",
+        "context_type": null,
+        "rules": {
+          "nhiều_sao_sáng_sủa_tốt_đẹp": "được hưởng phúc sống lâu. Suốt đời hay gặp \nmay. Trong họ có nhiều người qúy hiển giàu sang. Nhưng bao giờ đàn ba con gái \ncung khá giả hơn đàn ông con trai.",
+          "nhiều_sao_mờ_ám_xấu_xa": "bạc phúc nên giảm thọ. Khó tranh được tai \nhọa. Họ hàng càng ngày càng lụn bại, ly tán. Đàn bà con gái rất trắc trở về chồng \ncon, lại có nhiều người dâm đãng."
+        }
+      },
+      {
+        "star_id": "quang_qúy",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Được hưởng phúc. Suốt đời hay gặp may mắn. Họ hàng khá giả."
+        }
+      },
+      {
+        "star_id": "quan_phúc",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Được hưởng phúc. Tránh được nhiều tai họa. Trong họ có nhiều người khá \ngiả và nhân đức."
+        }
+      },
+      {
+        "star_id": "tuần_triệt_án_ngữ",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Lập nghiệp ở nơi thật xa quê hương. Càng sớm xa gia đình lại càng khá \ngiả. Họ hàng ly tán. Ngành , trưởng họ lụn bại.",
+          "nhiều_sao_sáng_sủa_tốt_đẹp": "giảm thọ, khó tránh được tai họa. Suốt đời \nchẳng được xứng ý toại lòng. Họ hàng càng ngày càng ly tán lụn bại.",
+          "nhiều_sao_mờ_ám_xấu_xa": "tăng thọ, tránh được nhiều tai họa. Mưu sự gay \ntrắc trở buổi đầu, nhưng về sau lại hành thông toại ý. Họ hàng ngày càng khá giả."
+        }
+      },
+      {
+        "star_id": "tử_vi_sát_tinh_đồng_cung",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Giảm thọ, khó tránh được tai họa. Phải lập nghiệp ở nơi thật xa quê hương, \nmay ra mới được yên thân. Họ hàng ly tán, có nhiều người chết bất đắc kỳ tử. \nNgành trưởng họ suy bại"
+        }
+      },
+      {
+        "star_id": "vũ_xương_khúc_khôi_việt",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Được hưởng phúc, sống lâu. Suốt đời gặp may mắn. Trong họ có nhiều \nngười qúy hiển, lại thường có vĩ nhân hay anh hùng dân tộc xuất hiện."
+        }
+      },
+      {
+        "star_id": "nhật_sáng_sủa_riêu_đà_kỵ",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Giảm thọ, mắt kém. Khó tránh được tai họa. Suốt đời chẳng được xứng ý \ntoại lòng. Họ hàng ly tán, hay tranh chấp lẫn nhau. Những người qúy hiển lại hay \ngặp những chuyện chẳng lành."
+        }
+      },
+      {
+        "star_id": "nhật_mờ_ám_riêu_đà_kỵ",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Giảm thọ, mắt kém. Khó tránh được tai họa. Suốt đời bất đắc chí. Họ hàng \nly tán, hay tranh chấp lẫn nhau. Những người qúy hiến lại hay gặp những sự \nchẳng lành. Đàn bà con gái trong họ thường phải buồn phiền vì chồng con."
+        }
+      },
+      {
+        "star_id": "nguyệt_sáng_sủa_riêu_đà_kỵ",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Giảm thọ, mắt kém. Khó tránh được tai họa. Suốt đời bất đắc chí. Họ hàng \nly tán, hay tranh chấp lẫn nhau. Những người qúy hiến lại hay gặp những sự \nchẳng lành. Đàn bà con gái trong họ thường phải buồn phiền vì chồng con."
+        }
+      },
+      {
+        "star_id": "nguyệt_mờ_ám_riêu_đà_kỵ",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Giảm thọ, mắt kém rất đáng lo ngại. Tai họa đầy rẫy không kể xiết được. \nHọ hàng càng \nngày càng ly tán, suy bại. Đàn bà con gái trong họ, nếu không vất vả về chồng con, \ncũng chết sớm."
+        }
+      },
+      {
+        "star_id": "nhật_nguyệt_kỵ_đồng_cung_sửu_mùi",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Được hưởng phúc sống lâu. Suốt đời gặp may mắn. Càng ở xa quê hương \nlại càng khá giả. Trong họ có nhiều người qúy hiến, nhưng thường bất hòa, \nkhông ở gần nhau. Tổ tiên xa đời cũng đã có danh giá và tiếng tăm lưu lại đến đời \nnay."
+        }
+      },
+      {
+        "star_id": "phủ_tam_không_đồng_cung",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Bạc phúc nên giảm thọ. Khó tránh được tai họa. Phải lập nghiệp ở nơi thật \nxa quê hương, hay phải sớm xa gia đình may ra mới được yên thân. Họ hàng \ncàng ngày càng ly tán, suy bại. Ngành trưởng họ phiêu bạt cùng khổ."
+        }
+      },
+      {
+        "star_id": "tham_vũ_hỏa_hay_linh_đồng_cung_sửu_mùi",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Được hưởng phúc, tăng thêm tuổi thọ. Suốt đời hay gặp may mắn. Họ \nhàng khá giả, nhiều người giàu có qúy hiến."
+        }
+      },
+      {
+        "star_id": "cự_kỵ_đồng_cung",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Giảm thọ. Khó tránh được tai họa. Suốt đời chẳng được xứng ý toại lòng. \nHọ hàng bất hòa ly tán và càng ngày càng suy bại. Lại có người mắc hình ngục, \nhay chết một cách thê thảm."
+        }
+      },
+      {
+        "star_id": "cự_hỏa_đồng_cung",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Giảm thọ, tai họa đầy rẫy. Họ hàng bất hòa ly tán và càng ngày càng suy bại. \nNhà thờ họ đã có lần bị cháy."
+        }
+      },
+      {
+        "star_id": "sát_kình_đồng_cung",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Giảm thọ. Khó tránh được tai hoa. Trong họ có nhiều người chết bất đắc kỳ \ntử."
+        }
+      },
+      {
+        "star_id": "kình_đà_không_kiếp",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Giảm thọ. Khó tránh được những sự chẳng lành. Suốt đời lao tâm khổ tứ. \nHọ hàng ly tán, lại có nhiều người mang tàn tật hay ác bệnh. Nếu không cũng là \nhạng du đãng, cùng khổ và chết non."
+        }
+      },
+      {
+        "star_id": "kình_đà_hỏa",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Bạc phúc nên giảm thọ. Tai họa đẫy rẫy. Họ hàng ly tán càng ngày càng suy \nbại, lại có nhiều người cùng khổ, du đãng, nếu không cũng điên cuồng, hay mang \ntàn tật, ác bệnh, hay chết non."
+        }
+      },
+      {
+        "star_id": "hỏa_hay_linh_tang_đồng_cung",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Giảm thọ. Khó tránh được tai họa. Họ hàng ly tán. Những người khá giả \nlại hay chết non. Nhà thờ họ đả có lần bị cháy."
+        }
+      },
+      {
+        "star_id": "kỵ_kình_hay_đà_đồng_cung",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Bạc phúc nên suốt đời lao tâm khổ tứ may ít rủi nhiều. Họ hàng hay tranh \nchấp lẫn nhau và càng ngày càng sa sút lại có nhiều người là hạng du đãng trộm \ncướp."
+        }
+      },
+      {
+        "star_id": "kỵ_không_kiếp_đồng_cung",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Giảm thọ. Suốt đời chẳng được xứng ý toại lòng. Họ hàng ly tán, càng ngày \ncàng suy bại, lại có nhiều người bất lương."
+        }
+      },
+      {
+        "star_id": "kỵ_bệnh_phù_hình",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Giảm thọ. Khó tránh được tai họa. Đau ốm lâu khỏi. Trong họ có nhiều \nngười mang ác tật, ác bệnh (điên, lao, hủi), nếu không, cùng nghèo hèn hay chết \nnon."
+        }
+      },
+      {
+        "star_id": "cô_hay_qủa_thiên_quan_hay_thiên_phúc_đồng_cung",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Suốt đời hay gặp may mắn, tránh được nhiều tai họa, vì luôn luôn có thần \nlinh hộ trì. Trong họ có phúc thần."
+        }
+      },
+      {
+        "star_id": "cô_hay_qủa_quang_hay_qúy_đồng_cung",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Suốt đời hay gặp may mắn, tránh được nhiều tai họa, vì luôn luôn có thần \nlinh hộ trì. Trong họ có phúc thần."
+        }
+      },
+      {
+        "star_id": "cô_hay_qủa_hồng_hay_đào_đồng_cung",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Có bà tổ linh thiêng hộ trì. Trong họ, đàn bà con gái thường trắc trở về \nchồng con, nếu không cũng yểu tử."
+        }
+      },
+      {
+        "star_id": "đào_hồng_binh_tướng",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Trong họ có nhiều con gái bất chính."
+        }
+      },
+      {
+        "star_id": "đào_hồng_binh_tướng_dưỡng_thai",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Trong họ có nhiều con gái chửa hoang, hay bỏ nhà theo trai."
+        }
+      },
+      {
+        "star_id": "riêu_hay_tử_nhiều_sao_thuộc_thủy",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Giảm thọ. Phải lìa bỏ quê hương, đi lập nghiệp ở nơi thật xa xôi. Họ hàng \ncàng nghèo khổ ly tán, lại có nhiều người mang ác bệnh ác tật, nếu không cũng \nyểu tử. Đàn bà con gái trong họ thường trắc trở về đường chồng con."
+        }
+      },
+      {
+        "star_id": "vô_chính_diệu",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Coi Chính diệu xung chiếu như Chính diệu tọa thủ. Nếu cung Phúc Đức vô Chính diệu có Tuần, Triệt án ngữ, hay có Tam Không \nhội hợp, phải luận đoán là được hưởng phúc sống lâu. Trái lại, nếu cung Phúc Đức vô \nChính diệu không có Tuần, Triệt án ngữ, hay không có Tam Không hội hợp, phải luận \nđoán là kém phúc (dù có sự hội hợp của nhiều sao sáng sủa tốt đẹp cũng thế). Nên chú \ný nhận định những trường hợp đặc biệt sau đây:",
+          "nhật_nguyệt_chiếu_hư_không": "cung Phúc Đức vô Chính diệu có Nhật, \nNguyệt sáng sủa tốt đẹp hội chiếu được hưởng phúc sống lâu, tránh được nhiều \ntai họa. Họ hàng khá giả, có nhiều người qúy hiển, giàu sang. Tổ tiên xa đời \ncũng đã có danh giá tiếng tăm còn lưu lại đến đời nay. Cũng trong trường hợp \nnày, nếu cung Phúc Đức vô Chính diệu lại có Tuần, Triệt án ngữ, hay có Tam \nKhông hội hợp lại càng rực rỡ",
+          "đà_la_độc_thủ_cung_phúc_đức_vô_chính_diệu_an_tại_dần_thân_có_đà_la_tọa_thủ": "được hưởng phúc, sống lâu. Suốt đời hay gặp may mắn. Họ hàng càng \nngày càng khá giả, có nhiều người qúy hiển, văn võ toàn tài. Cũng trong trường \nhợp này, nếu Đà La gặp Tuần, Triệt án ngữ sẽ không được coi là Đà La độc thủ \nnữa."
+        }
+      }
+    ],
+    "source_content": "Xem cung Phúc Đức để biết rỗ sự thọ yểu, cùng là sự thịnh suy, tụ tán của \nhọ hàng. Ngoài ra, còn được biết rõ vê âm phần mà mình chịu ảnh hưởng. Cung \nPhúc Đức chi phối tất cả 11 cung số. Vậy cho nên luận đoán cung Phúc Đức phải \nrất cẩn thận. \n6.1. Nhận định ảnh hưởng các sao tọa thủ tại cung Phúc Đức để luận \nđoán phúc trạch, thọ yểu và họ hàng. \n6.1.1. Tử Vi \n- Đơn thủ tại Ngọ: hưởng phúc lâu dài. Tránh được nhiều tai họa. Trong họ \ncó nhiều người qúy hiến. \n- Đơn thủ tại Tý: suốt đời hay gặp những sự may mắn. Trong họ tuy hiếm \nngười, nhưng cùng khá giả. \n- Phủ đồng cung, Tướng đồng cung: suốt đời được xứng ý toại lòng, sống \nlâu và hưởng phúc. Họ hàng nhiều người giàu sang. \n- Sát đồng cung: phải ly tổ, bôn ba mới được hưởng phúc sống lâu. Trong họ \ncó nhiều người giàu sang, hiển đạt về võ nghiệp, nhưng ở xa quê hương. \n- Phá đồng cung: Lao tâm khổ tứ, chẳng được yên thân. Phải lìa bỏ quê \nhương mới khá giả và sống lâu. Họ hàng ly tán. \n- Tham đồng cung: suốt đời chẳng được xứng ý toại lòng, giảm thọ vì bạc \nphúc. Họ hàng ly tán, người nào khá giả lại chết sớm. \n6.1.2. Liêm Trinh \n- Đơn thủ tại Dần, Thân: được hưởng phúc. Trong họ ít của, hiếm người. \n- Phủ đồng cung: suốt đời sung sướng, phúc thọ song toàn. Trong họ có \nnhiều người giàu sang. \n- Tướng đồng cung: được hưởng phúc. Họ hàng khá giả nhưng hiếm người. \n- Phá đồng cung: vất vả lao khổ, phải xa quê hương mới sống lâu. Họ hàng \nly tán. \n- Tham đồng cung: giảm thọ, khó tránh được tai ương, họa hại. Trong họ có \nnhiều người bần hàn hay mắc tù tội, thường phải bạt quán xiêu cư. \n- Sát đồng cung: giảm thọ, hay gặp nguy hiểm, phải xa quê hương mới \nmong được an toàn. Trong họ có nhiều người chết non một cách thê thảm. Nếu \nkhông, cũng phải mang tàn tật, ác bệnh, hay mắc tù tội, khốn cùng. \n6.1.3. Thiên Đồng \n- Đơn thủ tại Mão: được hưởng phúc, sống lâu, nhưng thường hay thay \nđổi chí hướng, hay canh cải công việc. Càng xa quê hương lại càng khá giả. Họ \nhàng phân tán làm ăn ở phương xa. Trong họ thường có thần đồng xuất hiện. \n- Đơn thủ tại Dậu: giảm thọ. Suốt đời lao tâm khổ tứ, hay phải thay đổi \ncông việc và chí hướng, nhưng chẳng được xứng ý toại lòng. Có lập nghiệp ở xa \nquê hương mới mong được đủ ăn, đủ mặc. Họ hàng ly tán. \n- Đơn thủ tại Tỵ, Hợi: suốt đời sung sướng, nhưng giảm thọ. Muốn sống lâu, \nnên xuất ngoại, nay đây mai đó. Họ hàng ly tán, phiêu bạt, trai gái rất phóng đãng. \n- Đơn thủ tại Thìn, Tuất, Cự đồng cung: giảm thọ, suốt đời vui ít buồn \nnhiều, hay mắc tai nạn, khẩu thiệt, kiện cáo. Phải ly tổ, xa gia đình mới mong \nđược yên thân. Họ hàng ly tán, thường tranh chấp lẫn nhau. \n- Lương đồng cung: suốt đời thanh nhàn, được hưởng phúc sống lâu. \nTrong họ có nhiều người qúy hiến, giàu sang và thường có thần nhân giáng hạ. \n- Nguyệt đồng cung tại Tý: được hưởng phúc, sống lâu, Nên lập nghiệp ở xa \nquê hương, bản quán. Họ hàng qúy hiển, có danh giá, uy quyền tế thế. \n- Nguyệt đồng cung tại Ngọ: giảm thọ. Phải ly tổ bôn ba mới mong được \nyên thân. Họ hàng càng ngày càng sa sút phiêu bạt. \n6.1.4. Vũ Khúc \n- Trong họ hiếm người. \n- Đơn thủ tại Thìn, Tuất, Tham đồng cung: được hưởng phúc sống lâu. Về \ngià, lại càng xứng ý toại lòng. Trong họ thường có người giàu sang hay hiển đạt về \nvõ nghiệp. \n- Phủ đồng cung: được hưởng phúc, sống lâu. Họ hàng khá giả. \n- Tướng đồng cung: phúc thọ song toàn. Suốt đời hay gặp may mắn. Họ \nhàng qúy hiển giàu sang. \n- Phá đồng cung: phải lập nghiệp ở xa quê hương, phải sớm xa gia đình \nmới mong được yên thân hưởng phúc sống lâu. Họ hàng ly tán nhưng có \nngười giỏi vế kỹ thuật, mỹ thuật hay kinh doanh buôn bán. \n- Sát đồng cung: giảm thọ vì bạc phúc. Suốt đời lao tâm khổ tứ, hay mắc \ntai họa. Xa quê hương, xa gia đình cũng chẳng được yên thân. Họ hàng sa sút ly \ntán, thường có người chết non, mang ác tật hay bần khổ. \n6.1.5. Thái Dương \n- Tọa thủ tại Dần, Mão, Thìn, Tỵ, Ngọ: được hưởng phúc, sống lâu và sung \nsướng. Họ hàng qúy hiển, giàu sang, có danh giá và uy quyền tế thế. \n- Tọa thủ tại Thân, Dậu, Tuất, Hợi, Tý: bạc phúc nên tuổi thọ bị chiết giảm. \nSuốt đời chẳng được xứng ý toại lòng. Nên ly tổ hay ở xa gia đình. Họ hàng càng \nngày càng sa sút ly tán, có nhiều người gian quyệt nhưng bần cùng, có người \nphiêu bạt giang hồ, lại có người mang ác tật hay mắc tai nạn chết một cách thê \nthảm.\n- Nguyệt đồng cung: không được hưởng phúc dồi dào, nên hay gặp trở \nngại trên đường đời. Nên tập nghiệp ở nơi thật xa quê hương. Họ hàng khá giả, \nnhưng ly tán. Nếu sinh ban ngày, phải luận đoán trong họ đàn ông, con trai hiển \nđạt, còn đàn bà con gái vất vả về chồng con, hay yểu tử. Trái lại, nếu sinh ban \nđêm, phải luận đoán là trong họ đàn bà, con gái giàu có, sung sướng, còn đàn \nông con trai cùng khổ phiêu bạt. \n6.1.6. Thiên Cơ \n- Trong họ hiếm người \n- Đơn thủ tại Tỵ, Ngọ, Mùi: được hưởng phúc, sống lâu. Họ hàng khá giả \n- Đơn thủ tại Hợi, Tý, Sửu: bạc phúc: họ hàng ly tán. \n- Cự đồng cung: tuy được hưởng phục, nhưng lúc thiếu thời chẳng được \nxứng ý toại lòng. Về già hay gặp may mắn. Họ hàng khá giả. \n- Lương đồng cung: sống lâu, thanh nhàn, sung sướng. Họ hàng có \nngười giàu sang, và thường có thần nhân giáng hạ. \n- Nguyệt đồng cung tại Thân: được hưởng phúc, sống lâu. Trong họ có \nngười giàu sang, nhưng đàn bà con gái thường khá giả hơn là đàn ông con trai. \n- Nguyệt đồng cung tại Dần: không được hưởng phúc dồi dào nên suốt đời \nchẳng được xứng ý toại lòng. Họ hàng bình thường, nhưng đàn bà con gái hay \ntrắc trở vê chồng con, lại có người phong tình hoa nguyệt. \n6.1.7. Thiên Phủ \n- Đơn thủ tại Tỵ, Нợi: được hưởng phúc, sống lâu. Họ hàng đông đảo, khá \ngiả \n- Đơn thủ tại Sửu, Mùi, Mão, Dậu: không được hưởng phúc dồi dào. Nên \nlập nghiệp ở nơi thật xa quê hương. Trong họ, nhiều người giàu sang, nhưng ly \ntán. \n- Tử đồng cung, Tướng đồng cung: suốt đời được xứng ý toại lòng, sống lâu \nvà hưởng phúc. Họ hàng nhiều người giàu sang. \n- Liêm đồng cung: suốt đời sung sướng, phúc thọ song toàn. Trong họ có \nnhiều người giàu sang. \n- Vũ đồng cung: được hưởng phúc, sống lâu. Họ hàng khá giả. \n6.1.8. Thái Âm \n- Đơn thủ tại Dậu, Tuất, Hợi: được hưởng phúc trọn đời, sung sướng, sống \nlâu. Trong họ có nhiều người qúy hiến và giàu sang. \n- Đơn thủ tại Mão, Thìn, Tỵ: bạc phúc nên tuổi thọ bị chiết giảm. Suốt đời \nvui ít buồn nhiều, lao tâm khổ tứ. Nên lập nghiệp ở nơi thật xa quê hương, có \nsớm xa cách gia đình mới mong được yên thân. Họ hàng ly tán, nhiều người cùng \nkhổ, cô đơn, mang ác tật, phiêu bạt giang hồ, hay mắc tai nạn mà chết một cách \nthê thảm. Đàn bà con gái trong họ rất vất vả về chồng con. \n- Đồng đồng cung tại Tý: được hưởng phúc, sống lâu, Nên lập nghiệp ở xa \nquê hương, bản quán. Họ hàng qúy hiển, có danh giá, uy quyền tế thế. \n- Đồng đồng cung tại Ngọ: giảm thọ. Phải ly tổ bôn ba mới mong được yên \nthân. Họ hàng càng ngày càng sa sút phiêu bạt. \n- Nhật đồng cung: không được hưởng phúc dồi dào, nên hay gặp trở ngại \ntrên đường đời. Nên tập nghiệp ở nơi thật xa quê hương. Họ hàng khá giả, \nnhưng ly tán. Nếu sinh ban ngày, phải luận đoán trong họ đàn ông, con trai hiển \nđạt, còn đàn bà con gái vất vả về chồng con, hay yểu tử. Trái lại, nếu sinh ban \nđêm, phải luận đoán là trong họ đàn bà, con gái giàu có, sung sướng, còn đàn ông \ncon trai cùng khổ phiêu bạt. \n- Cơ đồng cung tại Thân: được hưởng phúc, sống lâu. Trong họ có người \ngiàu sang, nhưng đàn bà con gái thường khá giả hơn là đàn ông con trai. \n- Cơ cung tại Dần: không được hưởng phúc dồi dào nên suốt đời chẳng \nđược xứng ý toại lòng. Họ hàng bình thường, nhưng đàn bà con gái hay trắc trở \nvê chồng con, lại có người phong tình hoa nguyệt. \n6.1.9. Tham Lang \n- Đơn thủ tại Thìn, Tuất: được hưởng phúc. Về già rất sung sướng. Trong \nhọ nhiều người giàu có, nhưng thường lập nghiệp ở nơi thật xa quê hương. \n- Đơn thủ tại Dần, Thân: Không được hưởng phúc dồi dào, nhưng cũng \nsống lâu. Họ hàng bình thường, có nhiều người lập thân bằng võ nghiệp. \n- Đơn thủ tại Tý, Ngọ: bạc phúc nên giảm thọ. Phải lập nghiệp ở xa quê \nhương, phải sớm xa gia đình mới mong được yên thân. Họ hàng ly tán, càng ngày \ncàng sa sút, lại có nhiều người rất dâm đãng \n- Tử đồng cung: suốt đời chẳng được xứng ý toại lòng, giảm thọ vì bạc \nphúc. Họ hàng ly tán, người nào khá giả lại chết sớm. \n- Liêm đồng cung: giảm thọ, khó tránh được tai ương, họa hại. Trong họ có \nnhiều người bần hàn hay mắc tù tội, thường phải bạt quán xiêu cư. \n- Vũ đồng cung: được hưởng phúc sống lâu. Về già, lại càng xứng ý toại \nlòng. Trong họ thường có người giàu sang hay hiển đạt về võ nghiệp. \n6.1.10. Cự Môn \n- Đơn thủ lại Hợi, Tý, Ngọ: được hưởng phúc, sống lâu, về già rất sung \nsướng. Họ hàng giàu có qúy hiển. \n- Đơn thủ tại Tỵ, Thìn, Tuất: giảm thọ. Suốt đời lao tâm khổ tứ chẳng được \nxứng ý toại lòng, lại hay mắc tai nạn khẩu thiệt, kiện cáo. Phải sớm xa gia đình \nmới mong được yên thân. Trong họ thường có sự tranh chấp, nhiều người \nphiêu bạt giang hồ, nếu không, cũng khốn cùng, mắc hình ngục, hay yểu tử. \n- Tọa thủ tại Dần, Mão, Thìn, Tỵ, Ngọ: được hưởng phúc, sống lâu và sung \nsướng. Họ hàng qúy hiển, giàu sang, có danh giá và uy quyền tế thế. \n- Tọa thủ tại Thân, Dậu, Tuất, Hợi, Tý: bạc phúc nên tuổi thọ bị chiết giảm. \nSuốt đời chẳng được xứng ý toại lòng. Nên ly tổ hay ở xa gia đình. Họ hàng càng \nngày càng sa sút ly tán, có nhiều người gian quyệt nhưng bần cùng, có người \nphiêu bạt giang hồ, lại có người mang ác tật hay mắc tai nạn chết một cách thê \nthảm \n- Đồng đồng cung: giảm thọ, suốt đời vui ít buồn nhiều, hay mắc tai nạn, \nkhẩu thiệt, kiện cáo. Phải ly tổ, xa gia đình mới mong được yên thân. Họ hàng ly \ntán, thường tranh chấp lẫn nhau. \n- Cơ đồng cung: tuy được hưởng phục, nhưng lúc thiếu thời chẳng được \nxứng ý toại lòng. Về già hay gặp may mắn. Họ hàng khá giả. \n6.1.11. Thiên Tướng \n- Đơn thủ tại Tỵ, Hợi, Sửu, Mủi: được hưởng phúc, suốt đời bay gặp may \nmắn. Trong họ có nhiều người qúy hiển, giàu sang. \n- Đơn thủ tại Mão, Dậu: không được hưởng phúc dồi dào, nên lúc thiếu thời \nchẳng được xứng ý toại lòng. Về già hay gặp may mắn. Họ hàng càng ngày càng \nkhá giả. \n- Tử đồng cung: suốt đời được xứng ý toại lòng, sống lâu và hưởng phúc. \nHọ hàng nhiều người giàu sang. \n- Liêm đồng cung: được hưởng phúc. Họ hàng khá giả nhưng hiếm người. \n- Vũ đồng cung: phúc thọ song toàn. Suốt đời hay gặp may mắn. Họ hàng \nqúy hiển giàu sang. \n6.1.12. Thiên Lương \n- Đơn thủ tại Tý, Ngọ: được hưởng phúc, thanh nhàn, sung sướng tránh \nđược nhiều tai họa và sống lâu. Trong họ có nhiều người qúy hiến, có danh tiếng \nlừng lẫy. \n- Đơn thủ tại Sửu, Mùi: được hưởng phúc, sống lâu. Họ hàng bình thường. \n- Đớn thủ tại Tỵ, Hợi: giảm thọ, khó tránh được tai họa. thường phải sớm \nxa gia đình, nay đây mai đó, hay thay đổi công việc và chí hướng. Họ hàng càng \nngày càng sa sút ly tán, đàn ông con trai có nhiều người chơi bời, du đãng, đàn \nbà con gái cũng có nhiều người dâm dật, hay trắc trở về chồng con. \n- Đồng đồng cung: suốt đời thanh nhàn, được hưởng phúc sống lâu. \nTrong họ có nhiều người qúy hiến, giàu sang và thường có thần nhân giáng hạ. \n- Tọa thủ tại Dần, Mão, Thìn, Tỵ, Ngọ: được hưởng phúc, sống lâu và sung \nsướng. Họ hàng qúy hiển, giàu sang, có danh giá và uy quyền tế thế. \n- Tọa thủ tại Thân, Dậu, Tuất, Hợi, Tý: bạc phúc nên tuổi thọ bị chiết giảm. \nSuốt đời chẳng được xứng ý toại lòng. Nên ly tổ hay ở xa gia đình. Họ hàng càng \nngày càng sa sút ly tán, có nhiều người gian quyệt nhưng bần cùng, có người \nphiêu bạt giang hồ, lại có người mang ác tật hay mắc tai nạn chết một cách thê \nthảm \n- Cơ đồng cung: sống lâu, thanh nhàn, sung sướng. Họ hàng có người giàu \nsang, và thường có thần nhân giáng hạ. \n6.1.13. Thất Sát \n- Đơn thủ tại Dần, Thân: được hưởng phúc, nhưng nên lập nghiệp ở nơi \nthật xa quê hương. Họ hàng khá giả, có danh giá và uy quyền tế thế, lại có nhiều \nngười hiển đạt về võ nghiệp. \n- Đơn thủ tại Tý, Ngọ: không được hưởng phúc dồi dào, suốt đời may \nthường đi liền với rủi. Nên ly tổ có sớm xa gia đình mới mong được yên thân. \nHọ hàng khá giả, nhưng ly tán, có nhiều người hiển đạt về vỗ nghiệp. \n- Đơn thủ tại Тhìn, Tuất: bạc phúc nên giảm thọ. Khó tránh được lai nạn \nvẻ đao thương, dễ mắc hình ngục. Phải ly tổ, ở xa gia đình, may ra mới được yên \nthân. Họ hàng càng ngày càng sa sút, nghèo khổ, ly tán, lại có nhiều người chết \nnon. \n- Tử đồng cung: phải ly tổ, bôn ba mới được hưởng phúc sống lâu. Trong họ \ncó nhiều người giàu sang, hiển đạt về võ nghiệp, nhưng ở xa quê hương. \n- Liêm đồng cung: giảm thọ, hay gặp nguy hiểm, phải xa quê hương mới \nmong được an toàn. Trong họ có nhiều người chết non một cách thê thảm. Nếu \nkhông, cũng phải mang tàn tật, ác bệnh, hay mắc tù tội, khốn cùng. \n- Vũ đồng cung: giảm thọ vì bạc phúc. Suốt đời lao tâm khổ tứ, hay mắc \ntai họa. Xa quê hương, xa gia đình cũng chẳng được yên thân. Họ hàng sa sút ly \ntán, thường có người chết non, mang ác tật hay bần khổ. \n6.1.14. Phá Quân \n- Họ hàng ly tán, thường lập nghiệp ở xa quê hương. \n- Đơn thủ tại Tý, Ngọ: được hưởng phúc, sống lâu, nhưng nên lập nghiệp \nở nơi thật xa quê hương, Họ hàng khá giả. Tuy vậy ngành trưởng bao giờ cũng \nphiêu bạt, lụn bại. \n- Đơn thủ tại Thìn, Tuất: không được hưởng phúc dồi dào. Phải ly tán, sớm \nxa gia đình, mới mong được yên thân. Trong họ có người qúy hiển. \n- Đơn thủ tại Dần, Thân: bạc phúc nên giảm thọ. Khó tránh được tai họa. \nPhải ly tổ, sớm xa gia đình, may ra mới được yên thân. Họ hàng càng ngày càng \nsa sút. \n- Tử đồng cung: Lao tâm khổ tứ, chẳng được yên thân. Phải lìa bỏ quê \nhương mới khá giả và sống lâu. Họ hàng ly tán. \n- Liêm đồng cung: vất vả lao khổ, phải xa quê hương mới sống lâu. Họ hàng \nly tán. \n- Vũ đồng cung: phải lập nghiệp ở xa quê hương, phải sớm xa gia đình mới \nmong được yên thân hưởng phúc sống lâu. Họ hàng ly tán nhưng có người giỏi vế kỹ \nthuật, mỹ thuật hay kinh doanh buôn bán. \n6.1.14. Kình, Đà \n- Họ hàng ly tán. \n- Sáng sủa tốt đẹp: suốt đời may thường đi liền với rủi, về già được an \nnhàn. Họ hàng trước ly tán, sau quần tụ, càng ngày càng khá giả. \n- Mờ ám xâu xa: bạc phúc nên giảm thọ. Khó tránh được tai họa, thường \nphải lập nghiệp thật xa quê hương, không mấy khi được xúng ý toại lòng. Trong họ \ncó người tàn tật, chết non hoặc trộm cắp, du đãng. \n6.1.16. Hỏa, Linh \n- Giảm thọ. \n- Sáng sủa tốt đẹp: suốt đời may thường đi liền với rủi. Trong họ có nhiều \nngười qúy hiển, nhưng hay chết non. \n- Mờ ám xâu xa: suốt đời lao tâm khổ tứ, không mấy khi được xứng ý toại \nlòng. Khó tránh được tai họa. Họ hàng càng ngày càng sa sút. \n6.1.17. Không, Kiếp \n- Sáng sủa tốt đẹp: bạc phúc, suốt đời mưu sự buổi đầu thường trắc trở, về \nsau mới được hành thông, đắc ý. Trong cái may có chứa dựng nhiều cái rủi. Họ \nhàng khá giả, nhưng ly tán. \n- Mờ ám xấu xa: giảm thọ, khó tránh được tai họa. Phải lập nghiệp ở nơi \nthật xa quê hương, may ra mới được yên thân. Họ hàng càng ngày càng sa sút, ly \ntán. \n6.1.18. Xương, Khúc \n- Nhiều sao sáng sủa tốt đẹp: được hưởng phúc sung sướng, vinh hiển và \nsống lâu. Trong họ có nhiều người đỗ đạt cao có danh giá. \n- Nhiều sao mờ ám xấu xa: giảm thọ, khó tránh được tai họa. Phải sớm xa \ngia đình, như thế may ra mới được yên thân. Họ hàng tuy khá giả, có người đỗ \nđạt cao, nhưng ly tán. Những người có danh giá lại hay mang tàn tật, ác bệnh, nếu \nkhông cũng chết non. \n6.1.19. Khôi, Việt \n- Tăng tuổi thọ \n- Nhiều sao sáng sủa tốt đẹp: được hưởng phúc vinh hiển và sống lâu. \nTrong họ có nhiều người đỗ đạt làm nên danh giá, lại thường có vĩ nhân hay thần \nđồng xuất hiện. \n- Nhiều sao mờ ám xấu xa: trong cái may có chứa đựng nhiều cái rủi. Nếu \ncó danh giá, tất khó tránh được tai họa. Họ hàng mỗi ngày một suy bại. \n6.1.20. Tả, Hữu \n- Nhiều sao sáng sủa tốt đẹp: được hưởng phúc sống lâu. Suốt đời hay gặp \nmay mắn. Càng ở xa quê hương lại càng khá giả. Họ hàng qúy hiển giàu sang, \nnhưng không ở gần nhau. \n- Nhiều sao mờ ám xấu xa: bạc phúc nên giảm thọ. Khó tránh được tai họa. \nPhải lập nghiệp ở nơi thật xa quê hương, hay phải sớm xa gia đình, may ra mới \nđược yên thân. Trong họ có người cùng khổ phiêu bạt, hoặc du đãng, bất lương, \nnếu không, cùng mang tàn tật, ác bệnh, hay mắc tai nạn mà chết một cách thê \nthảm. Họ hàng càng ngày càng ly tán, lụn bại. \n6.1.21. Lộc Tồn \nTăng tuổi thọ, được hưởng phúc, trong họ hiếm người và thường có sự \ntranh chấp bất hòa. Họ hàng khá giả nhưng ly tán. \n6.1.22. Hóa Lộc \nĐược hưởng phúc, khỏi phải lo lắng những lúc túng thiếu. Tránh được \nnhiều tai họa, họ hàng giàu có. \n6.1.23. Hóa Quyền \nĐược hưởng phúc. Được nhiều người vị nể. Họ hàng qúy hiển, có danh \ngiá, truyền từ đời này sang đời khác. Nhận định theo Thiên Khôi, Thiên Việt \n6.1.24. Hóa Khoa \nĐược hưởng phúc sống lâu. Tránh được nhiều tai họa. Họ hàng khá giả, có \nngười đỗ đạt cao. \n6.1.25. Hóa Kỵ \nGiảm thọ. Họ hàng ly tán, hay tranh chấp lẫn nhau. \n6.1.26. Song Hao \nGiảm thọ. Nên sớm xa gia đình, trong họ có nhiều người nghèo túng, phải \nđi biệt xứ. \n6.1.27. Tang, Hổ \nGiảm thọ. Họ hàng ly tán, những người khá giả lại chết sớm. \n6.1.28. Khốc, Hư \nGiảm thọ. Họ hàng hay oán trách lẫn nhau. \n6.1.29. Thiên Mã \nTăng tuổi thọ. Càng ở xa quê hương lại càng khá giả. Trong họ có nhiều \nngười hiển đạt, nhưng không ở gần nhau. \n6.1.30. Thái Tuế \nKhông được hưởng phúc dồi dào, khó tránh được tai họa. Trong họ thiếu \nhòa khí, thường có sự tranh chấp lẫn nhau. \n6.1.31. Long, Phượng \nĐược hưởng phúc. Trong họ có nhiều người khá giả. \n6.1.32. Cô, Quả \n- Trong họ hiếm người. \n- Nhiều sao sáng sủa tốt đẹp: được hưởng phúc. Tránh được nhiều tai họa. \nHọ hàng khá giả. \n- Nhiều sao mờ ám xấu xa: giảm thọ, khó tránh được tai họa. Họ hàng càng \nngày càng lụn bại. \n6.1.33. Đào, Hồng \n- Nhiều sao sáng sủa tốt đẹp: được hưởng phúc sống lâu. Suốt đời hay gặp \nmay. Trong họ có nhiều người qúy hiển giàu sang. Nhưng bao giờ đàn ba con gái \ncung khá giả hơn đàn ông con trai. \n- Nhiều sao mờ ám xấu xa: bạc phúc nên giảm thọ. Khó tranh được tai \nhọa. Họ hàng càng ngày càng lụn bại, ly tán. Đàn bà con gái rất trắc trở về chồng \ncon, lại có nhiều người dâm đãng. \n6.1.34. Quang, Qúy \nĐược hưởng phúc. Suốt đời hay gặp may mắn. Họ hàng khá giả. \n6.1.35. Quan, Phúc \nĐược hưởng phúc. Tránh được nhiều tai họa. Trong họ có nhiều người khá \ngiả và nhân đức. \n6.1.36. Tuần, Triệt án ngữ \n- Lập nghiệp ở nơi thật xa quê hương. Càng sớm xa gia đình lại càng khá \ngiả. Họ hàng ly tán. Ngành , trưởng họ lụn bại. \n- Nhiều sao sáng sủa tốt đẹp: giảm thọ, khó tránh được tai họa. Suốt đời \nchẳng được xứng ý toại lòng. Họ hàng càng ngày càng ly tán lụn bại. \n- Nhiều sao mờ ám xấu xa: tăng thọ, tránh được nhiều tai họa. Mưu sự gay \ntrắc trở buổi đầu, nhưng về sau lại hành thông toại ý. Họ hàng ngày càng khá giả. \n6.1.37. Tử Vi, Sát tinh đồng cung \nGiảm thọ, khó tránh được tai họa. Phải lập nghiệp ở nơi thật xa quê hương, \nmay ra mới được yên thân. Họ hàng ly tán, có nhiều người chết bất đắc kỳ tử. \nNgành trưởng họ suy bại \n6.1.38. Vũ, Xương, Khúc, Khôi, Việt \nĐược hưởng phúc, sống lâu. Suốt đời gặp may mắn. Trong họ có nhiều \nngười qúy hiển, lại thường có vĩ nhân hay anh hùng dân tộc xuất hiện. \n6.1.39. Nhật sáng sủa, Riêu, Đà, Kỵ \nGiảm thọ, mắt kém. Khó tránh được tai họa. Suốt đời chẳng được xứng ý \ntoại lòng. Họ hàng ly tán, hay tranh chấp lẫn nhau. Những người qúy hiển lại hay \ngặp những chuyện chẳng lành. \n6.1.40. Nhật mờ ám, Riêu, Đà, Kỵ \nGiảm thọ, mắt kém. Khó tránh được tai họa. Suốt đời bất đắc chí. Họ hàng \nly tán, hay tranh chấp lẫn nhau. Những người qúy hiến lại hay gặp những sự \nchẳng lành. Đàn bà con gái trong họ thường phải buồn phiền vì chồng con. \n6.1.41. Nguyệt sáng sủa, Riêu, Đà, Kỵ \nGiảm thọ, mắt kém. Khó tránh được tai họa. Suốt đời bất đắc chí. Họ hàng \nly tán, hay tranh chấp lẫn nhau. Những người qúy hiến lại hay gặp những sự \nchẳng lành. Đàn bà con gái trong họ thường phải buồn phiền vì chồng con. \n6.1.42. Nguyệt mờ ám, Riêu, Đà, Kỵ \nGiảm thọ, mắt kém rất đáng lo ngại. Tai họa đầy rẫy không kể xiết được. \nHọ hàng càng \nngày càng ly tán, suy bại. Đàn bà con gái trong họ, nếu không vất vả về chồng con, \ncũng chết sớm. \n6.1.43. Nhật, Nguyệt, Kỵ đồng cung Sửu, Mùi \nĐược hưởng phúc sống lâu. Suốt đời gặp may mắn. Càng ở xa quê hương \nlại càng khá giả. Trong họ có nhiều người qúy hiến, nhưng thường bất hòa, \nkhông ở gần nhau. Tổ tiên xa đời cũng đã có danh giá và tiếng tăm lưu lại đến đời \nnay. \n6.1.44. Phủ, Tam Không đồng cung \nBạc phúc nên giảm thọ. Khó tránh được tai họa. Phải lập nghiệp ở nơi thật \nxa quê hương, hay phải sớm xa gia đình may ra mới được yên thân. Họ hàng \ncàng ngày càng ly tán, suy bại. Ngành trưởng họ phiêu bạt cùng khổ. \n6.1.45. Tham, Vũ, Hỏa (hay Linh) đồng cung Sửu, Mùi. \nĐược hưởng phúc, tăng thêm tuổi thọ. Suốt đời hay gặp may mắn. Họ \nhàng khá giả, nhiều người giàu có qúy hiến. \n6.1.46. Cự, Kỵ đồng cung \nGiảm thọ. Khó tránh được tai họa. Suốt đời chẳng được xứng ý toại lòng. \nHọ hàng bất hòa ly tán và càng ngày càng suy bại. Lại có người mắc hình ngục, \nhay chết một cách thê thảm. \n6.1.47. Cự, Hỏa đồng cung \nGiảm thọ, tai họa đầy rẫy. Họ hàng bất hòa ly tán và càng ngày càng suy bại. \nNhà thờ họ đã có lần bị cháy. \n6.1.48. Sát, Kình đồng cung \nGiảm thọ. Khó tránh được tai hoa. Trong họ có nhiều người chết bất đắc kỳ \ntử. \n6.1.49. Kình, Đà, Không, Kiếp \nGiảm thọ. Khó tránh được những sự chẳng lành. Suốt đời lao tâm khổ tứ. \nHọ hàng ly tán, lại có nhiều người mang tàn tật hay ác bệnh. Nếu không cũng là \nhạng du đãng, cùng khổ và chết non. \n6.1.50. Kình, Đà, Hỏa \nBạc phúc nên giảm thọ. Tai họa đẫy rẫy. Họ hàng ly tán càng ngày càng suy \nbại, lại có nhiều người cùng khổ, du đãng, nếu không cũng điên cuồng, hay mang \ntàn tật, ác bệnh, hay chết non. \n6.1.51. Hỏa (hay Linh), Tang đồng cung \nGiảm thọ. Khó tránh được tai họa. Họ hàng ly tán. Những người khá giả \nlại hay chết non. Nhà thờ họ đả có lần bị cháy. \n6.1.52. Kỵ Kình (hay Đà) đồng cung \nBạc phúc nên suốt đời lao tâm khổ tứ may ít rủi nhiều. Họ hàng hay tranh \nchấp lẫn nhau và càng ngày càng sa sút lại có nhiều người là hạng du đãng trộm \ncướp. \n6.1.53. Kỵ, Không, Kiếp đồng cung \nGiảm thọ. Suốt đời chẳng được xứng ý toại lòng. Họ hàng ly tán, càng ngày \ncàng suy bại, lại có nhiều người bất lương. \n6.1.54. Kỵ, Bệnh, Phù, Hình \nGiảm thọ. Khó tránh được tai họa. Đau ốm lâu khỏi. Trong họ có nhiều \nngười mang ác tật, ác bệnh (điên, lao, hủi), nếu không, cùng nghèo hèn hay chết \nnon. \n6.1.55. Cô (hay Qủa), Thiên Quan (hay Thiên Phúc) đồng cung \nSuốt đời hay gặp may mắn, tránh được nhiều tai họa, vì luôn luôn có thần \nlinh hộ trì. Trong họ có phúc thần. \n6.1.56. Cô (hay Qủa), Quang (hay Qúy) đồng cung \nSuốt đời hay gặp may mắn, tránh được nhiều tai họa, vì luôn luôn có thần \nlinh hộ trì. Trong họ có phúc thần. \n6.1.57. Cô (hay Qủa), Hồng (hay Đào) đồng cung \nCó bà tổ linh thiêng hộ trì. Trong họ, đàn bà con gái thường trắc trở về \nchồng con, nếu không cũng yểu tử. \n6.1.58. Đào, Hồng, Binh, Tướng \nTrong họ có nhiều con gái bất chính. \n6.1.59. Đào, Hồng, Binh, Tướng, Dưỡng, Thai \nTrong họ có nhiều con gái chửa hoang, hay bỏ nhà theo trai. \n6.1.60. Riêu (hay Tử), nhiều sao thuộc Thủy \nGiảm thọ. Phải lìa bỏ quê hương, đi lập nghiệp ở nơi thật xa xôi. Họ hàng \ncàng nghèo khổ ly tán, lại có nhiều người mang ác bệnh ác tật, nếu không cũng \nyểu tử. Đàn bà con gái trong họ thường trắc trở về đường chồng con. \n6.1.61. Vô Chính diệu \n- Coi Chính diệu xung chiếu như Chính diệu tọa thủ. \n- Nếu cung Phúc Đức vô Chính diệu có Tuần, Triệt án ngữ, hay có Tam Không \nhội hợp, phải luận đoán là được hưởng phúc sống lâu. Trái lại, nếu cung Phúc Đức vô \nChính diệu không có Tuần, Triệt án ngữ, hay không có Tam Không hội hợp, phải luận \nđoán là kém phúc (dù có sự hội hợp của nhiều sao sáng sủa tốt đẹp cũng thế). Nên chú \ný nhận định những trường hợp đặc biệt sau đây: \n+ Nhật, Nguyệt chiếu hư không: cung Phúc Đức vô Chính diệu có Nhật, \nNguyệt sáng sủa tốt đẹp hội chiếu được hưởng phúc sống lâu, tránh được nhiều \ntai họa. Họ hàng khá giả, có nhiều người qúy hiển, giàu sang. Tổ tiên xa đời \ncũng đã có danh giá tiếng tăm còn lưu lại đến đời nay. Cũng trong trường hợp \nnày, nếu cung Phúc Đức vô Chính diệu lại có Tuần, Triệt án ngữ, hay có Tam \nKhông hội hợp lại càng rực rỡ \n+ Đà La độc thủ, cung Phúc Đức vô Chính diệu an tại Dần, Thân, có Đà \nLa tọa thủ: được hưởng phúc, sống lâu. Suốt đời hay gặp may mắn. Họ hàng càng \nngày càng khá giả, có nhiều người qúy hiển, văn võ toàn tài. Cũng trong trường \nhợp này, nếu Đà La gặp Tuần, Triệt án ngữ sẽ không được coi là Đà La độc thủ \nnữa."
+  }
+}

@@ -1,0 +1,548 @@
+{
+  "Cung_tu_tuc": {
+    "name": "cung_tử_tức",
+    "description": "Xem cung Tử Tức để biết rõ con cái \nTrước khi nhận định ảnh hưởng của những sao tọa thủ tại cung Tử Tức \nphải luận đoán cẩn thận cung Phúc Đức, vì sự tốt xấu của cung này có liên \nquan mật thiết đến sự tiếp nối dòng dõi. Ngoài ra lại phải xem kỹ cung Mệnh, \nThân để biết rõ những sao nào lợi ích cho sự nuôi nấng con cái, sao nào chiết \ngiảm, hình khắc con cái, để đến nỗi phải hiếm muộn hay tuyệt tự. \nNếu với có nhiều sao sáng sủa tốt đẹp hội hợp, nhưng chẳng may cung \nPhúc Đức hay Mệnh, Thân lại bị khắc hãm, như vậy cũng khó nuôi con, số con \nthường bị chiết giảm. Trái lại, nếu cung Tử Tức có nhiều sao mờ ám xấu xa hội \nhợp, nhưng may mắn lại được cung Phúc Đức hay Mệnh, Thân rực rỡ như vậy \ncũng chẳng đáng lo ngại về sự bại tuyệt dòng giống. \nNhững nhận định trình bày dưới đây chỉ là tương đối. Người nghiên cứu \nđẩu số phải suy luận thêm bớt cho hợp lý tùy theo độ số tăng hay giảm.",
+    "stars": [
+      {
+        "star_id": "tử_vi",
+        "context_type": null,
+        "rules": {
+          "đơn_thủ_tại_ngọ": "ba trai, hai gái, về sau đều qúy hiển.",
+          "đơn_thủ_tại_tý": "bốn con, sau cũng khá giả.",
+          "phủ_đồng_cung": "từ năm con trở lên.",
+          "tướng_đồng_cung": "từ ba con đến năm con.",
+          "sát_đồng_cung": "nhiều nhất là ba con, rất khó nuôi. về sau thường ở xa cha \nmẹ.",
+          "phá_đồng_cung": "nhiều nhất là hai con, về sau hay xung khắc với cha mẹ.",
+          "tham_đồng_cung": "may mắn lắm mới có hai con."
+        }
+      },
+      {
+        "star_id": "liêm_trinh",
+        "context_type": null,
+        "rules": {
+          "đơn_thủ_tại_dần_thân": "hai con.",
+          "phủ_đồng_cung": "từ ba đến năm con, về sau đều khá giả.",
+          "tướng_đồng_cung": "hai con, rất khó nuôi nhưng lớn lên rất hiển đạt.",
+          "phá_đồng_cung": "một con, nếu sinh nhiều công không nuôi được toàn \nvẹn. Khó nuôi con, sau này con cũng không khá giả.",
+          "sát_đồng_cung": "sinh nhiều, nuôi ít. rất hiếm con, may mắn lắm mới có \nmột con. Nhưng phải mang tàn tật hay mắc ác bệnh, suốt đời phiền muộn vì con.",
+          "tham_đồng_cung": "rất khó nuôi con, thường chỉ có một con và sau này cũng \nkhông khá giả."
+        }
+      },
+      {
+        "star_id": "thiên_đồng",
+        "context_type": null,
+        "rules": {
+          "đơn_thủ_tại_mão": "từ bốn cung trở lên.",
+          "đơn_thủ_tại_dậu": "hai con, nếu đổi chỗ ở luôn mới có nhiều con.",
+          "đơn_thủ_tại_tỵ_hợi": "hai con, nếu sinh thêm cũng không nuôi được toàn \nvẹn. Sau này con cái thường ly tán, phiêu bạt. Trong số con đó, ít nhất cũng phải \ncó một người du đãng, chơi bời.",
+          "đơn_thủ_tại_thìn_tuất": "rất khó nuôi con, may mắn lắm mới có một con.",
+          "nguyệt_đồng_cung_tý": "năm con, trong số đó có qúy tử là thần nhân giáng \nthế.",
+          "nguyệt_đồng_cung_tại_ngọ": "may mắn lắm mới có hai con.",
+          "lương_đồng_cung_tại_dần": "năm con, trong số đó có qúy tử.",
+          "lương_đồng_cung_lại_thân": "ba con, nếu sinh con gái dầu lòng tất được năm \ncon.",
+          "cự_đồng_cung": "may mắn lắm mới có ba con nhưng rất khó nuôi. Lớn lên \ncon cái bất hòa và ly tán."
+        }
+      },
+      {
+        "star_id": "vũ_khúc",
+        "context_type": null,
+        "rules": {
+          "đơn_thủ_tại_thìn_tuất": "sinh nhiều, nuôi ít, sau thường chỉ có một con \nnhưng rất khá giả.",
+          "phủ_đồng_cung": "hai con, sau đều qúy hiển.",
+          "tướng_đồng_cung": "may mắn lắm mới có một con, nếu có con nuôi, tất \nthêm con đẻ.",
+          "tham_đồng_cung": "muộn sinh con mới dễ nuôi, sau có hai con.",
+          "sát_đồng_cung": "cô đơn, hiếm con, nếu may mắn có một con, tất đứa con đó \ncũng chỉ là phế nhân, nếu không cũng là hạng chơi bời phá tán, có sự hình khắc \ngiữa cha mẹ và con cái.",
+          "phá_đồng_cung": "hai con, nhưng rất khó nuôi."
+        }
+      },
+      {
+        "star_id": "thái_dương",
+        "context_type": null,
+        "rules": {
+          "đơn_thủ_tại_thìn_tỵ_ngọ": "có năm con trở lên, sau đều qúy hiến. Con \ntrai nhiều hơn con gái. Nếu sinh con đầu lòng tất nuôi được toàn vẹn.",
+          "đơn_thủ_tại_tuất_hợi_tý": "muộn sinh con mới dễ nuôi, sau thường chỉ có \nba con.",
+          "cự_đồng_cung_lại_dần": "bốn con, sau đều khá giả.",
+          "cự_đồng_cung_tại_thân": "nhiều nhất là ba con, nếu muộn sinh mới dễ nuôi. \nCon sinh sau đẻ muộn lại rất qúy hiển.",
+          "lương_đồng_cung_tại_mão": "nhiều nhất là năm con, sau đều khá giả.",
+          "lương_đồng_cung_tại_dậu": "muộn sinh mới có ba con, nếu sớm sinh tất khó \nnuôi con, khổ sở vì con.",
+          "nguyệt_đồng_cung": "từ năm con trở lên, có qúy tử."
+        }
+      },
+      {
+        "star_id": "thiên_cơ",
+        "context_type": null,
+        "rules": {
+          "đơn_thủ_tại_tỵ_ngọ_mùi": "hai con.",
+          "đơn_thủ_tại_hợi_tý_sửu": "may mắn lắm mới có hai con.",
+          "lương_đồng_cung": "năm con chưa kể con dị bào, sau đều khá giả, có qúy tử.",
+          "nguyệt_đồng_cung_tại_thân": "từ năm con trở lên, nếu nếu gái nhiều hơn \ntrai mới dễ nuôi, thường có con dị bào.",
+          "nguyệt_đồng_cung_tại_dần": "nhiều nhất là ba con, có nhiều con dị bào.",
+          "cự_đồng_cung": "may mắn lắm mới có hai con, nếu muộn sinh mới dễ \nnuôi con và sau này con mới khá giả"
+        }
+      },
+      {
+        "star_id": "thiên_phủ",
+        "context_type": null,
+        "rules": {
+          "đơn_thủ_tại_tỵ_hợi": "từ năm con trở lên, cố qúy tử.",
+          "đơn_thủ_tại_sửu_mùi_mão_dậu": "nhiều nhất là bốn con.",
+          "tử_đồng_cung": "từ năm con trở lên.",
+          "liêm_đồng_cung": "từ ba đến năm con, về sau đều khá giả.",
+          "vũ_đồng_cung": "hai con, sau đều qúy hiển."
+        }
+      },
+      {
+        "star_id": "thái_âm",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Coi Thiên Đồng (Nguyệt đồng cung tại Tý; Nguyệt đồng cung tại Ngọ) – \nThái Dương (Nguyệt đồng cung) – Thiên Cơ (Nguyệt đồng cung tại Thân; Nguyệt \nđồng cung tại Dần).",
+          "đơn_thủ_tại_dậu_tuất_hợi": "từ năm con trở lên, có qúy tử. Con gái nhiều \nhơn con trai, nếu sinh con gái đầu lòng về sau mới được toàn vẹn.",
+          "đơn_thủ_tại_mão_thìn_tỵ": "may mắn lắm mới có ba con. Nếu muộn sinh \nmới dễ nuôi. Lớn lên con cũng không khá giả và thường xung khắc với cha mẹ."
+        }
+      },
+      {
+        "star_id": "tham_lang",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Coi Tử Vi (Tham đồng cung) – Liêm Trinh (Tham đồng cung) – Vũ Khúc \n(Tham đồng cung).",
+          "đơn_thủ_tại_thìn_tuất": "sinh nhiều nuôi ít. May mắn lắm mới có ba con. \nCon bất hiếu, bất mục, xung khắc với cha mẹ.",
+          "đơn_thủ_tại_dần_thân": "nhiều nhứt là hai con. Sau con cũng hiển đạt, \nnhưng không hợp tính với cha mẹ.",
+          "đơn_thủ_lại_tý_ngọ": "sinh nhiều nuôi ít. May mắn lắm mới có một con. \nNhưng con chơi bời hư hỏng, lúc bé khó nuôi, lớn lên lại khó dạy."
+        }
+      },
+      {
+        "star_id": "cự_môn",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Coi Thái Dương (Cự đồng cung tại Dần; Cự đồng cung tại Thân) – Thiên \nĐồng (Cự đồng cung) – Thiên Cơ (Cự đồng cung).",
+          "đơn_thủ_tại_hợi_tý_ngọ": "từ năm con trở lên. Con sớm xa cha mẹ.",
+          "đơn_thủ_tại_tỵ_thìn_tuất": "may mắn lắm mới có hai con. Sinh nhiều, nuôi \nít. Con lớn lên cũng không hiển đạt. Thường xung khắc với cha mẹ. Trong nhà \nthiếu hòa khí."
+        }
+      },
+      {
+        "star_id": "thiên_lương",
+        "context_type": null,
+        "rules": {
+          "đơn_thủ_tại_tý_ngọ": "từ năm con trở lên, có qúy tử.",
+          "đơn_thủ_lại_sửu_mùi": "nhiều nhất là ba con.",
+          "đơn_thủ_tại_tỵ_hợi": "hai con, nếu sinh thêm cũng không nuôi được toàn \nvẹn. Sau này con cái thường ly tán, phiêu bạt. Trong số con đó, ít nhất cũng phải \ncó một người du đãng, chơi bời.",
+          "đồng_đồng_cung_tại_dần": "năm con, trong số đó có qúy tử.",
+          "đồng_đồng_cung_lại_thân": "ba con, nếu sinh con gái dầu lòng tất được năm \ncon.",
+          "nhật_đồng_cung_tại_mão": "nhiều nhất là năm con, sau đều khá giả.",
+          "nhật_đồng_cung_tại_dậu": "muộn sinh mới có ba con, nếu sớm sinh tất khó nuôi \ncon, khổ sở vì con.",
+          "cơ_đồng_cung": "năm con chưa kể con dị bào, sau đều khá giả, có qúy tử."
+        }
+      },
+      {
+        "star_id": "thất_sát",
+        "context_type": null,
+        "rules": {
+          "đơn_thủ_lại_dần_thân": "dù có sinh nhiều sau cũng chỉ còn hai con nhưng \nđều khá giả, có qúy tử.",
+          "đơn_thủ_tại_tý_ngọ": "may mắn lắm mới có lai con.",
+          "đơn_thủ_tại_thìn_tuất": "sinh nhiều nuôi ít, may mắn lắm mới có một con \nnhưng phải mang tật bệnh, nếu không cũng là hạng bất lương. Như thế mới có \nthể nuôi được.",
+          "tử_đồng_cung": "nhiều nhất là ba con, rất khó nuôi. về sau thường ở xa cha \nmẹ.",
+          "liêm_đồng_cung": "sinh nhiều, nuôi ít. rất hiếm con, may mắn lắm mới có \nmột con. Nhưng phải mang tàn tật hay mắc ác bệnh, suốt đời phiền muộn vì con.",
+          "vũ_đồng_cung": "cô đơn, hiếm con, nếu may mắn có một con, tất đứa con \nđó cũng chỉ là phế nhân, nếu không cũng là hạng chơi bời phá tán, có sự hình \nkhắc giữa cha mẹ và con cái."
+        }
+      },
+      {
+        "star_id": "phá_quân",
+        "context_type": null,
+        "rules": {
+          "đơn_thủ_lại_tý_ngọ": "sinh nhiều nuôi ít, sau còn ba con nhưng cũng không \nhợp tính với cha mẹ, thường ở xa cha mẹ.",
+          "đơn_thủ_tại_dần_thân": "may mắn lắm mới có hai con, dù sinh nhiêu sau \ncũng bị hình khắc.",
+          "đơn_thủ_tại_thìn_tuất": "may mắn lắm mới có hai con, nhưng không \nhợp tính cha mẹ, thường xa cách hai thân.",
+          "tử_đồng_cung": "nhiều nhất là hai con, về sau hay xung khắc với cha mẹ.",
+          "liêm_đồng_cung": "một con, nếu sinh nhiều công không nuôi được toàn \nvẹn. Khó nuôi con, sau này con cũng không khá giả.",
+          "vũ_đồng_cung": "hai con, nhưng rất khó nuôi."
+        }
+      },
+      {
+        "star_id": "kình_đà_không_kiếp",
+        "context_type": null,
+        "rules": {
+          "nhiều_sao_sáng_sủa_tốt_đẹp": "sinh nhiều nuôi ít, khó nuôi con. Sau này con \ncũng không khá giả và thường bất hòa với cha mẹ.",
+          "nhiều_sao_mờ_ám_xấu_xa": "tuyệt tự, cô đơn, nếu may mắn có một con thì \ncũng phải mang tật bệnh hay là hạng du đãng bất lương."
+        }
+      },
+      {
+        "star_id": "hỏa_linh",
+        "context_type": null,
+        "rules": {
+          "nhiều_sao_sáng_sủa_tốt_đẹp": "muộn sinh, nhưng con khá giả, thường có con \nvợ lẽ.",
+          "nhiều_sao_mờ_ám_xấu_xa": "không có con, nếu may mắn có một hay hai con, \nthì đến lúc chết cũng không được gặp mặt"
+        }
+      },
+      {
+        "star_id": "xương_khúc",
+        "context_type": null,
+        "rules": {
+          "nhiều_sao_sáng_sủa_tốt_đẹp": "thêm ba con, có qúy tử, tất cả đều thông minh, \nsớm hiển đạt.",
+          "nhiều_sao_mờ_ám_xấu_xa": "rất khó nuôi con."
+        }
+      },
+      {
+        "star_id": "khôi_việt",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Có qúy tứ."
+        }
+      },
+      {
+        "star_id": "tả_hữu",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Thêm ba con. Nếu Tả Hữu gặp thêm nhiều sao sáng sủa tốt đẹp hội hợp, tất \ncó qúy tử."
+        }
+      },
+      {
+        "star_id": "lộc_tồn",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Giảm hai con, muộn sinh tốt hơn sớm, con cái bất hòa với cha mẹ, thường \nở xa cha mẹ. Nếu Lộc gặp thêm nhiều sao mờ ám xấu xa hội hợp, tất bị tuyệt \ndòng dõi."
+        }
+      },
+      {
+        "star_id": "hóa_lộc",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Con khá giả, sau được nhờ con."
+        }
+      },
+      {
+        "star_id": "hóa_quyền",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Con sớm hiển đạt."
+        }
+      },
+      {
+        "star_id": "hóa_khoa",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Con thông minh."
+        }
+      },
+      {
+        "star_id": "hóa_kỵ",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Muộn con, khó nuôi con. Còn cái xung khắc với cha mẹ."
+        }
+      },
+      {
+        "star_id": "cô_quả",
+        "context_type": null,
+        "rules": {
+          "nhiều_sao_sáng_sủa_tốt_đẹp": "muộn con, con hay đau yếu rất khó nuôi.",
+          "nhiều_sao_mờ_ám_xấu_xa": "tuyệt tự."
+        }
+      },
+      {
+        "star_id": "đẩu_quân",
+        "context_type": null,
+        "rules": {
+          "nhiều_sao_sáng_sủa_tốt_đẹp": "con giàu có.",
+          "nhiều_sao_mờ_ám_xấu_xa": "rất khó nuôi con, hiếm muộn. Con thường là \nphá gia chi tử."
+        }
+      },
+      {
+        "star_id": "tràng_sinh",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Tám con, gặp Tuần, Triệt án ngữ thì có bốn con."
+        }
+      },
+      {
+        "star_id": "mộc_dục",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Bảy lần sinh, sau nuôi được sáu con."
+        }
+      },
+      {
+        "star_id": "quan_đới_lâm_quan",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Ba hay bốn con."
+        }
+      },
+      {
+        "star_id": "đế_vượng",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Năm con."
+        }
+      },
+      {
+        "star_id": "bệnh",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Một con."
+        }
+      },
+      {
+        "star_id": "tử",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Rất khó nuôi con, nếu có con, con lớn lên cũng khắc với cha mẹ."
+        }
+      },
+      {
+        "star_id": "mộ_thai_dưỡng",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Khó nuôi con buổi đầu nhưng về sau lại dễ nuôi. Muộn con, nên kiếm con \nnuôi."
+        }
+      },
+      {
+        "star_id": "tuyệt",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Có một con mù lòa."
+        }
+      },
+      {
+        "star_id": "thai",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Sinh hai con gái, sau nuôi được một."
+        }
+      },
+      {
+        "star_id": "dưỡng",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Sinh ba lần, sau nuôi được hai con, có con nuôi."
+        }
+      },
+      {
+        "star_id": "long_phượng",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Con đẹp, có qúy tử."
+        }
+      },
+      {
+        "star_id": "quang_qúy",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Có con nuôi rất hiếu thảo."
+        }
+      },
+      {
+        "star_id": "khốc_hư",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Khó nuôi con, con xung khắc với cha mẹ."
+        }
+      },
+      {
+        "star_id": "song_hao",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Sinh nhiều nuối ít, con hay chơi bời, phá tán và không ở gần cha mẹ lâu \nđược."
+        }
+      },
+      {
+        "star_id": "thiên_riêu",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Con chơi bời."
+        }
+      },
+      {
+        "star_id": "thiên_hình",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Muộn con, nếu Hình gặp thêm nhiều sao mờ ám xấu xa hội hợp tất bị tuyệt \ntự. May mắn lắm mới cỏ được một con thì cũng phải mang tật bệnh, cùng khổ."
+        }
+      },
+      {
+        "star_id": "đào_hoa",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Con dâm đãng."
+        }
+      },
+      {
+        "star_id": "hồng_loan",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Con khéo tay."
+        }
+      },
+      {
+        "star_id": "tuần_triệt_án_ngữ",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Rất khó nuôi con đầu lòng, sau này con cái hay xung khắc với cha mẹ và \nkhông thể chung sống cùng một nhà được.",
+          "nhiều_sao_sáng_sủa_tốt_đẹp": "số con giảm một nửa",
+          "nhiều_sao_mờ_ám_xấu_xa": "số con tăng thêm"
+        }
+      },
+      {
+        "star_id": "đồng_đức_đồng_cung",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Con sớm thành gia thất."
+        }
+      },
+      {
+        "star_id": "nhật_sáng_sủa_quang_qúy",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Có qúy tử là thần nhân giáng thế."
+        }
+      },
+      {
+        "star_id": "nhật_nguyệt_thai_đồng_cung",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Con sinh đôi."
+        }
+      },
+      {
+        "star_id": "nguyệt_đồng_tuế_đồng_cung_tại_tý",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Có con là thần nhân giáng thế."
+        }
+      },
+      {
+        "star_id": "nguyệt_hỏa_thai",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Có con cầu tự."
+        }
+      },
+      {
+        "star_id": "tướng_hay_lương_đới_đồng_cung",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Sinh con thánh thần."
+        }
+      },
+      {
+        "star_id": "sát_hình_hổ_đồng_cung",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Tuyệt tự."
+        }
+      },
+      {
+        "star_id": "sát_thai",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Hay bị sẩy thai."
+        }
+      },
+      {
+        "star_id": "kình_đà_không_kiếp",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Hiếm con, thường sinh con ngẩn ngơ"
+        }
+      },
+      {
+        "star_id": "lương_khốc_tuế",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Con hiển đạt"
+        }
+      },
+      {
+        "star_id": "tả_hữu_thai",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Con dị bào rất khá giả và hiếu thảo."
+        }
+      },
+      {
+        "star_id": "khốc_hư_dưỡng",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Sinh nhiều nuôi ít."
+        }
+      },
+      {
+        "star_id": "hổ_tang_không_kiếp",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Ít nhất phải ba hay bốn lần hữu sinh vô dưỡng, rồi về sau mới nuôi con dễ \ndàng."
+        }
+      },
+      {
+        "star_id": "hổ_tang_mộc_kiếp",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Sinh con thiếu tháng, hay thừa ngón chân, ngón tay."
+        }
+      },
+      {
+        "star_id": "hổ_thai_đồng_cung",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Đàn bà hay sẩy thai."
+        }
+      },
+      {
+        "star_id": "hổ_kình_sát",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Không có con."
+        }
+      },
+      {
+        "star_id": "tướng_binh_thai",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Vợ chồng có con trước khi lấy nhau, đôi khi đi lại với nhau trước khi cưới, \ncó thể là hoặc vợ hoặc chồng có con riêng trước khi thành gia thất."
+        }
+      },
+      {
+        "star_id": "hỷ_thần_dưỡng",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Có con thần đồng."
+        }
+      },
+      {
+        "star_id": "đào_tử_phủ",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Con gái dùng nhan sắc để tiến thân, vinh hiến hơn con trai."
+        }
+      },
+      {
+        "star_id": "đào_hồng_xương_khúc",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Con gái dâm đãng, nguyệt hoa, bừa bãi."
+        }
+      },
+      {
+        "star_id": "đào_thai",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Hiếm con."
+        }
+      },
+      {
+        "star_id": "quan_phúc_quang_tấu",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Thần thánh giáng sinh làm con."
+        }
+      },
+      {
+        "star_id": "vô_chính_diệu",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Coi Chính diệu xung chiếu như Chính diệu tọa thủ."
+        }
+      }
+    ],
+    "source_content": "Xem cung Tử Tức để biết rõ con cái \nTrước khi nhận định ảnh hưởng của những sao tọa thủ tại cung Tử Tức \nphải luận đoán cẩn thận cung Phúc Đức, vì sự tốt xấu của cung này có liên \nquan mật thiết đến sự tiếp nối dòng dõi. Ngoài ra lại phải xem kỹ cung Mệnh, \nThân để biết rõ những sao nào lợi ích cho sự nuôi nấng con cái, sao nào chiết \ngiảm, hình khắc con cái, để đến nỗi phải hiếm muộn hay tuyệt tự. \nNếu với có nhiều sao sáng sủa tốt đẹp hội hợp, nhưng chẳng may cung \nPhúc Đức hay Mệnh, Thân lại bị khắc hãm, như vậy cũng khó nuôi con, số con \nthường bị chiết giảm. Trái lại, nếu cung Tử Tức có nhiều sao mờ ám xấu xa hội \nhợp, nhưng may mắn lại được cung Phúc Đức hay Mệnh, Thân rực rỡ như vậy \ncũng chẳng đáng lo ngại về sự bại tuyệt dòng giống. \nNhững nhận định trình bày dưới đây chỉ là tương đối. Người nghiên cứu \nđẩu số phải suy luận thêm bớt cho hợp lý tùy theo độ số tăng hay giảm. \n13.1. Tiên quyết \n- Cung Tử Tức có Chính diệu Nam Đẩu tinh tọa thủ như Thiên Phủ, \nThiên Tướng, Thiên Lương, Thất Sát, Thiên Đồng, Thái Dương, Thiên Cơ thì con \ntrai nhiều hơn con gái. \n- Cung Từ Tức có Chính diệu Bắc Đẩu tinh tọa thủ như Thái Âm, Tham \nLang, Cự Môn, Liêm Trinh, Vũ Khúc, Phá Quân thì con gái nhiều hơn con trai. \n- Cung Tử Tức có hai Chính diệu một là Nam Đẩu tinh một là Bắc Đầu \ntinh tọa thủ đồng cung, vậy phải phân định như sau: \n\t\n+ Cung Tử Tức là Dương cung: con trai nhiều hơn con gái\n\t\n+ Cung Tử Tức là Âm cung: con gái nhiêu hơn con trai. \n\t\n+ Cung Tử Tức có Tử Vi tọa thủ (Tử Vi là Nam Bắc Đẩu tinh) phải \nphân định như sau: \n\t\n\t\n* Chính diệu Nam Đẩu tinh đồng cung: con trai nhiều hơn con \ngái. \n\t\n\t\n* Chính diệu Bắc Đẩu tinh đồng cung: con gái nhiều hơn con \ntrai. \n\t\n\t\n+ Cung Tử Tức là Dương cung: sinh con trai đầu lòng mới dễ nuôi. \n\t\n+ Cung Tử Túc là Âm cung: sinh con gái đầu lòng mới dễ nuôi. \n\t\n+ Người sinh ban ngày, cung Tử Tức có Thái Dương mờ ám tọa thủ, \nhay Thái Âm chiếu: khó nuôi, rất đáng lo ngại về sự hiếm muộn. V\n- Người sinh ban đêm, cung Tử Tức có Thái Âm mờ ám tọa thủ hay Thái \nDương chiếu: cùng rất đáng lo ngại như trên. \n\t\n+ Có con dị bào nếu tại cung Tử Tức có những sao sau đây: Thiên \nTướng, Tuyệt - Thái Âm, Thiên Phúc - Cự Môn, Thiên Cơ đồng cung - Cơ, \nNguyệt, Đồng, Lương - Phục Binh, Tướng Quân - Thai, Đế Vượng. Nhưng phải \nphân định hai trường hợp: \n\t\n\t\n* Cung Tử Tức là Dương cung : có con cùng cha khác mẹ \n\t\n\t\n* Cung Tử Tức là Âm cung: có con cùng mẹ khác cha. \n\t\n+ Cung Tử Tức có nhiều sao mờ ám xấu xa hội hợp, nhưng nếu xem \nba cung hội chiếu và cung Phúc Đức, Mệnh, Thân thấy có nhiều tao sáng sủa tốt \nđẹp hội hợp, như vậy lấy vợ lẽ tất sinh được nhiều con, con lại dễ nuôi và sau này \ncũng khá giả. \n13.2. Nhận định ảnh hưởng các sao \n13.2.1. Tử Vi \n- Đơn thủ tại Ngọ: ba trai, hai gái, về sau đều qúy hiển. \n- Đơn thủ tại Tý: bốn con, sau cũng khá giả. \n- Phủ đồng cung: từ năm con trở lên. \n- Tướng đồng cung: từ ba con đến năm con. \n- Sát đồng cung: nhiều nhất là ba con, rất khó nuôi. về sau thường ở xa cha \nmẹ. \n- Phá đồng cung: nhiều nhất là hai con, về sau hay xung khắc với cha mẹ. \n- Tham đồng cung: may mắn lắm mới có hai con. \n13.2.2. Liêm Trinh \n- Đơn thủ tại Dần, Thân: hai con. \n- Phủ đồng cung: từ ba đến năm con, về sau đều khá giả. \n- Tướng đồng cung: hai con, rất khó nuôi nhưng lớn lên rất hiển đạt. \n- Phá đồng cung: một con, nếu sinh nhiều công không nuôi được toàn \nvẹn. Khó nuôi con, sau này con cũng không khá giả. \n- Sát đồng cung: sinh nhiều, nuôi ít. rất hiếm con, may mắn lắm mới có \nmột con. Nhưng phải mang tàn tật hay mắc ác bệnh, suốt đời phiền muộn vì con. \n- Tham đồng cung: rất khó nuôi con, thường chỉ có một con và sau này cũng \nkhông khá giả. \n13.2.3. Thiên Đồng \n- Đơn thủ tại Mão: từ bốn cung trở lên. \n- Đơn thủ tại Dậu: hai con, nếu đổi chỗ ở luôn mới có nhiều con. \n- Đơn thủ tại Tỵ, Hợi: hai con, nếu sinh thêm cũng không nuôi được toàn \nvẹn. Sau này con cái thường ly tán, phiêu bạt. Trong số con đó, ít nhất cũng phải \ncó một người du đãng, chơi bời. \n- Đơn thủ tại Thìn, Tuất: rất khó nuôi con, may mắn lắm mới có một con. \n- Nguyệt đồng cung Tý: năm con, trong số đó có qúy tử là thần nhân giáng \nthế. \n- Nguyệt đồng cung tại Ngọ: may mắn lắm mới có hai con. \n- Lương đồng cung tại Dần: năm con, trong số đó có qúy tử. \n- Lương đồng cung lại Thân: ba con, nếu sinh con gái dầu lòng tất được năm \ncon. \n- Cự đồng cung: may mắn lắm mới có ba con nhưng rất khó nuôi. Lớn lên \ncon cái bất hòa và ly tán. \n13.2.4. Vũ Khúc \n- Đơn thủ tại Thìn, Tuất: sinh nhiều, nuôi ít, sau thường chỉ có một con \nnhưng rất khá giả. \n- Phủ đồng cung: hai con, sau đều qúy hiển. \n- Tướng đồng cung: may mắn lắm mới có một con, nếu có con nuôi, tất \nthêm con đẻ. \n- Tham đồng cung: muộn sinh con mới dễ nuôi, sau có hai con. \n- Sát đồng cung: cô đơn, hiếm con, nếu may mắn có một con, tất đứa con đó \ncũng chỉ là phế nhân, nếu không cũng là hạng chơi bời phá tán, có sự hình khắc \ngiữa cha mẹ và con cái. \n- Phá đồng cung: hai con, nhưng rất khó nuôi. \n13.2.5. Thái Dương \n- Đơn thủ tại Thìn, Tỵ, Ngọ: có năm con trở lên, sau đều qúy hiến. Con \ntrai nhiều hơn con gái. Nếu sinh con đầu lòng tất nuôi được toàn vẹn. \n- Đơn thủ tại Tuất, Hợi Tý: muộn sinh con mới dễ nuôi, sau thường chỉ có \nba con. \n- Cự đồng cung lại Dần: bốn con, sau đều khá giả. \n- Cự đồng cung tại Thân: nhiều nhất là ba con, nếu muộn sinh mới dễ nuôi. \nCon sinh sau đẻ muộn lại rất qúy hiển. \n- Lương đồng cung tại Mão: nhiều nhất là năm con, sau đều khá giả. \n- Lương đồng cung tại Dậu: muộn sinh mới có ba con, nếu sớm sinh tất khó \nnuôi con, khổ sở vì con. \n- Nguyệt đồng cung: từ năm con trở lên, có qúy tử. \n13.3.6. Thiên Cơ \n- Đơn thủ tại Tỵ, Ngọ, Mùi: hai con. \n- Đơn thủ tại Hợi, Tý, Sửu: may mắn lắm mới có hai con. \n- Lương đồng cung: năm con chưa kể con dị bào, sau đều khá giả, có qúy tử. \n- Nguyệt đồng cung tại Thân: từ năm con trở lên, nếu nếu gái nhiều hơn \ntrai mới dễ nuôi, thường có con dị bào. \n- Nguyệt đồng cung tại Dần: nhiều nhất là ba con, có nhiều con dị bào. \n- Cự đồng cung: may mắn lắm mới có hai con, nếu muộn sinh mới dễ \nnuôi con và sau này con mới khá giả \n13.3.7. Thiên Phủ \n- Đơn thủ tại Tỵ, Hợi: từ năm con trở lên, cố qúy tử. \n- Đơn thủ tại Sửu, Mùi, Mão, Dậu: nhiều nhất là bốn con. \n- Tử đồng cung: từ năm con trở lên. \n- Liêm đồng cung: từ ba đến năm con, về sau đều khá giả. \n- Vũ đồng cung: hai con, sau đều qúy hiển. \n13.3.8. Thái Âm \n- Đơn thủ tại Dậu, Tuất, Hợi: từ năm con trở lên, có qúy tử. Con gái nhiều \nhơn con trai, nếu sinh con gái đầu lòng về sau mới được toàn vẹn. \n- Đơn thủ tại Mão, Thìn, Tỵ: may mắn lắm mới có ba con. Nếu muộn sinh \nmới dễ nuôi. Lớn lên con cũng không khá giả và thường xung khắc với cha mẹ.\n- Coi Thiên Đồng (Nguyệt đồng cung tại Tý; Nguyệt đồng cung tại Ngọ) – \nThái Dương (Nguyệt đồng cung) – Thiên Cơ (Nguyệt đồng cung tại Thân; Nguyệt \nđồng cung tại Dần).\n13.3.9. Tham Lang\n- Đơn thủ tại Thìn, Tuất: sinh nhiều nuôi ít. May mắn lắm mới có ba con. \nCon bất hiếu, bất mục, xung khắc với cha mẹ.\n- Đơn thủ tại Dần, Thân: nhiều nhứt là hai con. Sau con cũng hiển đạt, \nnhưng không hợp tính với cha mẹ. \n- Đơn thủ lại Tý, Ngọ: sinh nhiều nuôi ít. May mắn lắm mới có một con. \nNhưng con chơi bời hư hỏng, lúc bé khó nuôi, lớn lên lại khó dạy. \n- Coi Tử Vi (Tham đồng cung) – Liêm Trinh (Tham đồng cung) – Vũ Khúc \n(Tham đồng cung).\n13.3.10. Cự Môn\n- Đơn thủ tại Hợi, Tý, Ngọ: từ năm con trở lên. Con sớm xa cha mẹ.\n- Đơn thủ tại Tỵ, Thìn, Tuất: may mắn lắm mới có hai con. Sinh nhiều, nuôi \nít. Con lớn lên cũng không hiển đạt. Thường xung khắc với cha mẹ. Trong nhà \nthiếu hòa khí.\n- Coi Thái Dương (Cự đồng cung tại Dần; Cự đồng cung tại Thân) – Thiên \nĐồng (Cự đồng cung) – Thiên Cơ (Cự đồng cung).\n13.3.11.Thiên Tướng\n- Đơn thủ tại Tỵ, Hợi: nhiều nhứt là bốn con.\n- Đơn thủ tại Sửu, Mùi: nhiều nhứt là ba con.\n- Đơn thủ tại Mão, Dậu: may mắn lắm mới có hai con. Nếu muộn sinh mới \ndễ nuôi và sau nầy con mới khá giả.\n- Coi Tử Vi (Tướng đồng cung) – Liêm Trinh (Tướng đồng cung) – Vũ \nKhúc (Tướng đồng cung).\n13.3.12. Thiên Lương \n- Đơn thủ tại Tý, Ngọ: từ năm con trở lên, có qúy tử. \n- Đơn thủ lại Sửu, Mùi: nhiều nhất là ba con. \n- Đơn thủ tại Tỵ, Hợi: hai con, nếu sinh thêm cũng không nuôi được toàn \nvẹn. Sau này con cái thường ly tán, phiêu bạt. Trong số con đó, ít nhất cũng phải \ncó một người du đãng, chơi bời. \n- Đồng đồng cung tại Dần: năm con, trong số đó có qúy tử. \n- Đồng đồng cung lại Thân: ba con, nếu sinh con gái dầu lòng tất được năm \ncon. \n- Nhật đồng cung tại Mão: nhiều nhất là năm con, sau đều khá giả. \n- Nhật đồng cung tại Dậu: muộn sinh mới có ba con, nếu sớm sinh tất khó nuôi \ncon, khổ sở vì con. \n- Cơ đồng cung: năm con chưa kể con dị bào, sau đều khá giả, có qúy tử. \n13.3.13. Thất Sát \n- Đơn thủ lại Dần, Thân: dù có sinh nhiều sau cũng chỉ còn hai con nhưng \nđều khá giả, có qúy tử. \n- Đơn thủ tại Tý, Ngọ: may mắn lắm mới có lai con. \n- Đơn thủ tại Thìn, Tuất: sinh nhiều nuôi ít, may mắn lắm mới có một con \nnhưng phải mang tật bệnh, nếu không cũng là hạng bất lương. Như thế mới có \nthể nuôi được. \n- Tử đồng cung: nhiều nhất là ba con, rất khó nuôi. về sau thường ở xa cha \nmẹ. \n- Liêm đồng cung: sinh nhiều, nuôi ít. rất hiếm con, may mắn lắm mới có \nmột con. Nhưng phải mang tàn tật hay mắc ác bệnh, suốt đời phiền muộn vì con. \n- Vũ đồng cung: cô đơn, hiếm con, nếu may mắn có một con, tất đứa con \nđó cũng chỉ là phế nhân, nếu không cũng là hạng chơi bời phá tán, có sự hình \nkhắc giữa cha mẹ và con cái. \n13.3.14. Phá Quân \n- Đơn thủ lại Tý, Ngọ: sinh nhiều nuôi ít, sau còn ba con nhưng cũng không \nhợp tính với cha mẹ, thường ở xa cha mẹ. \n- Đơn thủ tại Dần, Thân: may mắn lắm mới có hai con, dù sinh nhiêu sau \ncũng bị hình khắc. \n- Đơn thủ tại Thìn, Tuất: may mắn lắm mới có hai con, nhưng không \nhợp tính cha mẹ, thường xa cách hai thân. \n- Tử đồng cung: nhiều nhất là hai con, về sau hay xung khắc với cha mẹ. \n- Liêm đồng cung: một con, nếu sinh nhiều công không nuôi được toàn \nvẹn. Khó nuôi con, sau này con cũng không khá giả. \n- Vũ đồng cung: hai con, nhưng rất khó nuôi. \n13.3.14. Kình, Đà, Không, Kiếp \n- Nhiều sao sáng sủa tốt đẹp: sinh nhiều nuôi ít, khó nuôi con. Sau này con \ncũng không khá giả và thường bất hòa với cha mẹ. \n- Nhiều sao mờ ám xấu xa: tuyệt tự, cô đơn, nếu may mắn có một con thì \ncũng phải mang tật bệnh hay là hạng du đãng bất lương. \n13.3.16. Hỏa, Linh \n- Nhiều sao sáng sủa tốt đẹp: muộn sinh, nhưng con khá giả, thường có con \nvợ lẽ. \n- Nhiều sao mờ ám xấu xa: không có con, nếu may mắn có một hay hai con, \nthì đến lúc chết cũng không được gặp mặt \n13.3.17. Xương, Khúc \n- Nhiều sao sáng sủa tốt đẹp: thêm ba con, có qúy tử, tất cả đều thông minh, \nsớm hiển đạt. \n- Nhiều sao mờ ám xấu xa: rất khó nuôi con. \n13.3.18. Khôi, Việt \nCó qúy tứ. \n13.3.19. Tả, Hữu \nThêm ba con. Nếu Tả Hữu gặp thêm nhiều sao sáng sủa tốt đẹp hội hợp, tất \ncó qúy tử. \n13.3.20. Lộc Tồn \nGiảm hai con, muộn sinh tốt hơn sớm, con cái bất hòa với cha mẹ, thường \nở xa cha mẹ. Nếu Lộc gặp thêm nhiều sao mờ ám xấu xa hội hợp, tất bị tuyệt \ndòng dõi. \n13.3.21. Hóa Lộc \nCon khá giả, sau được nhờ con. \n13.3.22. Hóa Quyền \nCon sớm hiển đạt. \n13.3.23. Hóa Khoa \nCon thông minh. \n13.3.24. Hóa Kỵ \nMuộn con, khó nuôi con. Còn cái xung khắc với cha mẹ. \n13.3.25. Cô, Quả \n- Nhiều sao sáng sủa tốt đẹp: muộn con, con hay đau yếu rất khó nuôi. \n- Nhiều sao mờ ám xấu xa: tuyệt tự. \n13.3.26. Đẩu Quân \n- Nhiều sao sáng sủa tốt đẹp: con giàu có. \n- Nhiều sao mờ ám xấu xa: rất khó nuôi con, hiếm muộn. Con thường là \nphá gia chi tử. \n13.3.27. Tràng Sinh \nTám con, gặp Tuần, Triệt án ngữ thì có bốn con. \n13.3.28. Mộc Dục \nBảy lần sinh, sau nuôi được sáu con. \n13.3.29. Quan Đới, Lâm Quan \nBa hay bốn con. \n13.3.30. Đế Vượng \nNăm con. \n13.3.31. Bệnh \nMột con. \n13.3.32. Tử \nRất khó nuôi con, nếu có con, con lớn lên cũng khắc với cha mẹ. \n13.3.33. Mộ (Thai, Dưỡng) \nKhó nuôi con buổi đầu nhưng về sau lại dễ nuôi. Muộn con, nên kiếm con \nnuôi. \n13.3.34. Tuyệt \nCó một con mù lòa. \n13.3.35. Thai \nSinh hai con gái, sau nuôi được một. \n13.3.36. Dưỡng \nSinh ba lần, sau nuôi được hai con, có con nuôi. \n13.3.37. Long, Phượng \nCon đẹp, có qúy tử. \n13.3.38. Quang, Qúy \nCó con nuôi rất hiếu thảo. \n13.3.39. Khốc, Hư \nKhó nuôi con, con xung khắc với cha mẹ. \n13.3.40. Song Hao \nSinh nhiều nuối ít, con hay chơi bời, phá tán và không ở gần cha mẹ lâu \nđược. \n13.3.41. Thiên Riêu \nCon chơi bời. \n13.3.42. Thiên Hình \nMuộn con, nếu Hình gặp thêm nhiều sao mờ ám xấu xa hội hợp tất bị tuyệt \ntự. May mắn lắm mới cỏ được một con thì cũng phải mang tật bệnh, cùng khổ. \n13.3.43. Đào Hoa \nCon dâm đãng. \n13.3.44. Hồng Loan \nCon khéo tay. \n13.3.45. Tuần, Triệt án ngữ \n- Rất khó nuôi con đầu lòng, sau này con cái hay xung khắc với cha mẹ và \nkhông thể chung sống cùng một nhà được. \n- Nhiều sao sáng sủa tốt đẹp: số con giảm một nửa \n- Nhiều sao mờ ám xấu xa: số con tăng thêm \n13.3.46. Đồng, Đức đồng cung \nCon sớm thành gia thất. \n13.3.47. Nhật sáng sủa, Quang, Qúy \nCó qúy tử là thần nhân giáng thế. \n13.3.48. Nhật, Nguyệt, Thai đồng cung \nCon sinh đôi. \n13.3.49. Nguyệt, Đồng, Tuế đồng cung tại Tý \nCó con là thần nhân giáng thế. \n13.3.50. Nguyệt, Hỏa, Thai \nCó con cầu tự. \n13.3.51. Tướng (hay Lương), Đới đồng cung \nSinh con thánh thần. \n13.3.52. Sát, Hình, Hổ đồng cung \nTuyệt tự. \n13.3.53. Sát, Thai \nHay bị sẩy thai. \n13.3.54. Kình, Đà, Không, Kiếp \nHiếm con, thường sinh con ngẩn ngơ \n13.3.55. Lương, Khốc, Tuế \nCon hiển đạt \n13.3.56. Tả, Hữu, Thai \nCon dị bào rất khá giả và hiếu thảo. \n13.3.57. Khốc, Hư, Dưỡng \nSinh nhiều nuôi ít. \n13.3.58. Hổ, Tang, Không, Kiếp \nÍt nhất phải ba hay bốn lần hữu sinh vô dưỡng, rồi về sau mới nuôi con dễ \ndàng. \n13.3.59. Hổ, Tang, Mộc, Kiếp \nSinh con thiếu tháng, hay thừa ngón chân, ngón tay. \n13.3.60. Hổ, Thai đồng cung \nĐàn bà hay sẩy thai. \n13.3.61. Hổ, Kình, Sát \nKhông có con. \n13.3.62. Tướng, Binh, Thai \nVợ chồng có con trước khi lấy nhau, đôi khi đi lại với nhau trước khi cưới, \ncó thể là hoặc vợ hoặc chồng có con riêng trước khi thành gia thất. \n13.3.63. Hỷ Thần, Dưỡng \nCó con thần đồng. \n13.3.64. Đào, Tử, Phủ \nCon gái dùng nhan sắc để tiến thân, vinh hiến hơn con trai. \n13.3.65. Đào, Hồng, Xương, Khúc \nCon gái dâm đãng, nguyệt hoa, bừa bãi. \n13.3.66. Đào, Thai \nHiếm con. \n13.3.67. Quan, Phúc, Quang, Tấu \nThần thánh giáng sinh làm con. \n13.3.68. Vô Chính diệu \nCoi Chính diệu xung chiếu như Chính diệu tọa thủ."
+  }
+}

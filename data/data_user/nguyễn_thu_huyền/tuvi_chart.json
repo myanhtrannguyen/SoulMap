@@ -1,0 +1,19 @@
+{
+  "chart_id": "chart_456",
+  "user_id": "u_123",
+  "ban_menh": {
+    "element": "Thủy",
+    "name": "Tỉnh Tuyền Thủy"
+  },
+  "cung_an_menh": "Dậu",
+  "cuc": {
+    "element": "Thủy",
+    "name": "Thủy Nhị Cục",
+    "number": 2
+  },
+  "menh_chu": "Văn Khúc",
+  "than_chu": "Thiên Đồng",
+  "am_duong_thuan_nghich": "Thuận lý",
+  "menh_cuc_sinh_khac": "Thủy khắc Hỏa",
+  "than_cu": "Thiên Di"
+}

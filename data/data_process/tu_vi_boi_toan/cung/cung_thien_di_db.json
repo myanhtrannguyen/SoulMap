@@ -1,0 +1,325 @@
+{
+  "Cung_thien_di": {
+    "name": "cung_thiên_di",
+    "description": "Xem cung Thiên Di để biết rõ những điều có liên quan đến việc giao thiệp bên ngoài cùng với những sự may rủi có thể xảy đến trong lúc rời khỏi nhà. Cung Thiên Di xung chiếu cung Mệnh, nên cần phải nhận xét rất cẩn thận ảnh hưởng của các sao tọa thủ tại cung này.",
+    "stars": [
+      {
+        "star_id": "tử_vi",
+        "context_type": null,
+        "rules": {
+          "đơn_thủ_tại_ngọ_phủ_đồng_cung": "ra ngoài luôn tuôn gặp qúy nhân phù \ntrợ, mọi sự đều hành thông, càng xa nhà càng được xứng ý toại lòng.",
+          "đơn_thủ_tại_tý": "gặp nhiều người giúp đỡ, nhưng không được toàn mỹ như \ntrên.",
+          "tướng_hay_sát_đồng_cung": "được nhiều người kính nể, hay lui tới những \nchỗ quyền qúy. Ra ngoài, được hưởng nhiều tài lộc. Lời nói được nhiều người tín \nphục.",
+          "phá_đồng_cung": "ra ngoài nhiều hơn là ở nhà, gặp qúy nhân phù trợ, \nnhưng lúc về già thường nhắm mắt ở xa bản quán.",
+          "tham_đồng_cung": "rời khỏi nhà hay gặp những sự phiền lòng, may ít rủi \nnhiều, thường có kẻ tiểu nhân theo dõi quấy rối. Sau này chết ở xa nhà."
+        }
+      },
+      {
+        "star_id": "liêm_trinh",
+        "context_type": null,
+        "rules": {
+          "đơn_thủ_tại_dần_thân": "luôn luôn gập qúy nhân, được nhiều người kính \ntrọng, mọi sự hành thông.",
+          "phủ_đồng_cung": "ra ngoài lợi ích hơn ở nhà, tài lộc dễ kiếm, qúy nhân trợ \ngiúp cũng nhiều.",
+          "tướng_đồng_cung": "được nhiều người vị nể, hay lui tới những chỗ sang \ntrọng. Vì sẵn có oai phong nên những kẻ tiểu nhân mới trông thấy đã khiếp phục.",
+          "phá_đồng_cung": "xa nhà không được lợi ích, may ít rủi nhiều, sau này chết ở \nxa nhà.",
+          "sát_đồng_cung": "hay gặp tai nạn ở giữa nơi đường xá, không nên lui tới những \nnơi có nhiều súng ống gươm đao. Lúc nhắm mắt, phải đắp điếm tạm một nơi để chờ \nngười thân thích đến đưa đón.",
+          "tham_đồng_cung": "ra ngoài tất bít lợi, hay gặp những tai ương bất kỳ, nhất \nlà về hình ngục hay kiện tụng. Qúy nhân ít gặp, còn tiểu nhân, ác nhân, lúc nào \ncũng sẵn sàng làm hại."
+        }
+      },
+      {
+        "star_id": "thiên_đồng",
+        "context_type": null,
+        "rules": {
+          "đơn_thủ_tại_mão": "càng xa nhà mọi sự càng được hành thông, không nên ở \nlâu một chỗ, hay gặp qúy nhân phù trợ.",
+          "đơn_thủ_tại_dậu": "hay phải xa nhà nhưng hay gặp những sự phiền lòng. Sau \nnày chết ở xa bản quán.",
+          "đơn_thủ_tại_tỵ_hợi": "nay đây mai đó, chết ở xa nhà.",
+          "đơn_thủ_tại_thìn_tuất": "ra ngoài hay mắc tai họa, nhất là thị phi, kiện tụng.",
+          "nguyệt_đồng_cung_tại_tý_lương_đồng_cung": "luôn luôn gặp qúy nhân phù \ntrợ, được nhiều người kính trọng, buôn bán phát tài.",
+          "nguyệt_đồng_cung_tại_ngọ": "hay gặp sự cạnh tranh và ghen ghét, ra ngoài \nrất bất lợi.",
+          "cự_đồng_cung": "hay mắc thị phi, quan sự nhưng hay được gần những chỗ \nquyền qúy. Nói được nhiều người tin dầu đôi khi nói quá đáng, hay sai sự thật. \nLúc nhắm mắt thường ở xa nhà."
+        }
+      },
+      {
+        "star_id": "vũ_khúc",
+        "context_type": null,
+        "rules": {
+          "đơn_thủ_tại_thìn_tuất": "buôn bán phát tài, đi xa lợi ích hơn là ở nhà.",
+          "phủ_hay_tướng_đồng_cung": "gặp qúy nhân phù trợ, được nhiều người kính nể, \ntài lộc hưng vượng.",
+          "tham_đồng_cung": "buôn bán phát tài, trước khó sau dễ, hay gặp sự cạnh \ntranh ráo riết.",
+          "phá_đồng_cung": "buôn bán cũng được lợi ích, ta ngoài hay gặp sự phiền \nlòng, đôi khi lại còn mắc tai nạn đáng lo ngại.",
+          "sát_đồng_cung": "có oai phong, lời nói được nhiều người tin phục nhưng \nhay gặp những tai ương nguy hiểm. Sau này chiết ở xa nhà."
+        }
+      },
+      {
+        "star_id": "thái_dương",
+        "context_type": null,
+        "rules": {
+          "tọa_thủ_tại_dần_mão_thìn_tỵ_ngọ": "gặp qúy nhân phù trợ, ra ngoài \nđược nhiều người kính trọng, tài lộc dồi dào.",
+          "tọa_thủ_tại_thân_dậu_tuất_hợi": "hay gặp tai nạn nhất là về sông nước, \nnhiều người khinh ghét, sau này chết ở xa nhà.",
+          "đơn_thủ_tại_tý": "nhiều người mến phục kính trọng",
+          "nguyệt_đồng_cung": "ra ngoài lợi ích hơn ở nhà, hay gần nơi quyền qúy, \nđược nhiều người tôn phục. Nếu gặp Tuần, Tuần án ngữ hay Kỵ đồng cung lại \ncàng rực rỡ. Lúc chết tuy ở xa nhà nhưng được chôn cất tử tế."
+        }
+      },
+      {
+        "star_id": "thiên_cơ",
+        "context_type": null,
+        "rules": {
+          "đơn_thủ_tại_tỵ_ngọ_mùi": "ra ngoài mọi sự được hành thông, vì ở nhà hay \nmắc thị phi, luôn luôn gặp qúy nhân phù trợ.",
+          "đơn_thủ_tại_hợi_tý_sửu": "xa nhà không được yên thân.",
+          "lương_đồng_cung": "càng xa nhà càng gặp nhiều may mắn, hay được lui tới \nchỗ quyền qúy, được nhiều người tôn kính vị nể.",
+          "cự_đồng_cung": "ra ngoài tuy có tài lộc, hay gặp qúy nhân, nhưng thường \nmắc thị phi, khẩu thiệt, buôn bán phát tài",
+          "nguyệt_đồng_cung_tại_thân": "buôn bán phát tài, nhiều người mến chuộng.",
+          "nguyệt_đồng_cung_tại_dần": "không nên xa nhà lâu, buôn bán phát tài \nnhưng bị nhiều người đố kỵ."
+        }
+      },
+      {
+        "star_id": "thiên_phủ",
+        "context_type": null,
+        "rules": {
+          "đơn_thủ_tại_tỵ_hợi": "gặp qúy nhân, có tài lộc.",
+          "đơn_thủ_tại_sửu_mùi_mão_dậu": "xa nhà được lợi ích và yên thân hơn ở \nnhà, buôn bán phát tài.",
+          "tử_đồng_cung": "ra ngoài luôn tuôn gặp qúy nhân phù trợ, mọi sự đều \nhành thông, càng xa nhà càng được xứng ý toại lòng.",
+          "liêm_đồng_cung": "ra ngoài lợi ích hơn ở nhà, tài lộc dễ kiếm, qúy nhân trợ \ngiúp cũng nhiều.",
+          "vũ_đồng_cung": "gặp qúy nhân phù trợ, được nhiều người kính nể, tài lộc \nhưng vượng."
+        }
+      },
+      {
+        "star_id": "thái_âm",
+        "context_type": null,
+        "rules": {
+          "đơn_thủ_lại_dậu_tuất_hợi": "được nhiều người kính trọng, dễ kiếm tiền.",
+          "đơn_thủ_tại_mão_thìn_tỵ": "ra ngoài hay gặp tai ương vì những sự phiền \nlòng, nhiều người ghét.",
+          "đồng_đồng_cung_tại_tý_lương_đồng_cung": "luôn luôn gặp qúy nhân phù \ntrợ, được nhiều người kính trọng, buôn bán phát tài.",
+          "đồng_đồng_cung_tại_ngọ": "hay gặp sự cạnh tranh và ghen ghét, ra ngoài rất \nbất lợi.",
+          "nhật_đồng_cung": "ra ngoài lợi ích hơn ở nhà, hay gần nơi quyền qúy, được \nnhiều người tôn phục. Nếu gặp Tuần, Tuần án ngữ hay Kỵ đồng cung lại càng \nrực rỡ. Lúc chết tuy ở xa nhà nhưng được chôn cất tử tế.",
+          "cơ_đồng_cung_tại_thân": "buôn bán phát tài, nhiều người mến chuộng.",
+          "cơ_đồng_cung_tại_dần": "không nên xa nhà lâu, buôn bán phát tài nhưng bị \nnhiều người ghen ghét."
+        }
+      },
+      {
+        "star_id": "tham_lang",
+        "context_type": null,
+        "rules": {
+          "đơn_thủ_tại_thìn_tuất": "dễ kiếm tiền, hay gặp qúy nhân.",
+          "đơn_thủ_tại_tý_ngọ": "ra ngoài rất bất lợi, hay gặp những sự phiền lòng, sau \nnày chết ở xa nhà.",
+          "đơn_thủ_tại_dần_thân": "hay mắc tai nạn, xa nhà rất bất lợi.",
+          "tử_đồng_cung": "rời khỏi nhà hay gặp những sự phiền lòng, may ít rủi \nnhiều, thường có kẻ tiểu nhân theo dõi quấy rối. Sau này chết ở xa nhà.",
+          "vũ_đồng_cung": "buôn bán phát tài, trước khó sau dễ, hay gặp sự cạnh tranh \nráo riết.",
+          "liêm_đồng_cung": "ra ngoài tất bít lợi, hay gặp những tai ương bất kỳ, nhất \nlà về hình ngục hay kiện tụng. Qúy nhân ít gặp, còn tiểu nhân, ác nhân, lúc nào \ncũng sẵn sàng làm hại."
+        }
+      },
+      {
+        "star_id": "cự_môn",
+        "context_type": null,
+        "rules": {
+          "đơn_thủ_tại_tý_ngọ_hợi": "ra ngoài được nhiều người vị nể, tài lộc di \nkiếm, lời nói được nhiều người tin phục.",
+          "đơn_thủ_tại_thìn_tuất_tỵ": "hay mắc thị phì kiện tụng và tai nạn nguy \nhiểm, sau này chết ở xa nhà."
+        }
+      },
+      {
+        "star_id": "thiên_tướng",
+        "context_type": null,
+        "rules": {
+          "đơn_thủ_tại_tỵ_hợi_sửu_mùi": "được nhiều người kính trọng, tài lộc dễ \nkiếm.",
+          "đơn_thủ_tại_mão_dậu": "xa nhà không được lợi ích tuy vậy vẫn được nhiều \nngười mến chuộng.",
+          "tử_đồng_cung": "được nhiều người kính nể, hay lui tới những chỗ quyền \nqúy. Ra ngoài, được hưởng nhiều tài lộc. Lời nói được nhiều người tín phục.",
+          "liêm_đồng_cung": "được nhiều người vị nể, hay lui tới những chỗ sang \ntrọng. Vì sẵn có oai phong nên những kẻ tiểu nhân mới trông thấy đã khiếp \nphục.",
+          "vũ_đồng_cung": "gặp qúy nhân phù trợ, được nhiều người kính nể, tài lộc \nhưng vượng."
+        }
+      },
+      {
+        "star_id": "thiên_lương",
+        "context_type": null,
+        "rules": {
+          "đơn_thủ_tại_tý_ngọ": "được nhiều người kính trọng, yêu mến, hay lui tới \nnhững chỗ quyền qúy.",
+          "đơn_thủ_tại_sửu_mùi": "gặp qúy nhân.",
+          "đơn_thủ_tại_tỵ_hợi": "nay đây mai đó, chết ở xa nhà.",
+          "đồng_đồng_cung": "luôn luồn gặp qúy nhân phù trợ, được nhiều người kính \ntrọng, buôn bán phát tài.",
+          "tọa_thủ_tại_dần_mão_thìn_tỵ_ngọ": "gặp qúy nhân phù trợ, ra ngoài \nđược nhiều người kính trọng, tài lộc dồi dào.",
+          "cơ_đồng_cung": "càng xa nhà càng gặp nhiều may mắn, hay được lui tới \nchỗ quyền qúy, được nhiều người tôn kính vị nể."
+        }
+      },
+      {
+        "star_id": "thất_sát",
+        "context_type": null,
+        "rules": {
+          "đơn_thủ_tại_dần_thân": "hay gặp qúy nhân, vì có oai nên được nhiều \nngười kính nể, lời nói được nhiều người tin phục, hay lui tới những chỗ có uy \nquyền.",
+          "đơn_thủ_tại_tý_ngọ": "được nhiều nể sợ và tin phục. Thường gần nơi \nquyền qúy nhưng không nên ra ngoài nhiều, vì may thường đi liền với rủi, hay \nmắc tai nạn, sau này chết xa nhà.",
+          "đơn_thủ_tại_thìn_tuất": "ra ngoài rất bất lợi. Lúc chết không được ở gần \nnhà.",
+          "tử_đồng_cung": "được nhiều người kính nể, hay lui tới những chỗ quyền \nqúy. Ra ngoài, được hưởng nhiều tài lộc. Lời nói được nhiều người tín phục.",
+          "liêm_đồng_cung": "hay gặp tai nạn ở giữa nơi đường xá, không nên lui tới những \nnơi có nhiều súng ống gươm đao. Lúc nhắm mắt, phải đắp điếm tạm một nơi để chờ \nngười thân thích đến đưa đón.",
+          "vũ_đồng_cung": "có oai phong, lời nói được nhiều người tin phục nhưng \nhay gặp những tai ương nguy hiểm. Sau này chiết ở xa nhà."
+        }
+      },
+      {
+        "star_id": "phá_quân",
+        "context_type": null,
+        "rules": {
+          "đơn_thủ_tại_tý_ngọ": "nhiều người nể sợ, tài lộc dễ kiếm, nhưng đôi khi \nmắc tai nạn nguy hiểm.",
+          "đơn_thủ_tại_dần_thân": "hay mắc tai nạn nhất là về xe cộ và ác thú, hay \ngặp những kẻ rình ám hại. Nếu hay xoay sở tiền tài lại càng dễ gặp tai họa, sau \nnày chết ở xa nhà.",
+          "đơn_thủ_tại_thìn_tuất": "may đi liền với rùi, người kính trọng cũng có mà \nghen ghét muốn hại cũng nhiều. Tai ương đầy rẫy nhưng vẫn ưa thích nay đây \nmai đó. Sau chết ở xa nhà."
+        }
+      },
+      {
+        "star_id": "kình_đà",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Hay mắc tai nạn. Sau này chết ở xa nhà.",
+          "sáng_sủa_tốt_đẹp": "dễ kiếm tiền, tuy hay gặp qúy nhân nhưng vẫn bị nhiều \nngười khinh bỉ.",
+          "mờ_ám_xấu_xa": "hung họa đầy rẫy, hay mắc thị phi, khó kiếm tiền, luôn gặp \nnhững sự phiền lòng."
+        }
+      },
+      {
+        "star_id": "hỏa_linh",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Ra ngoài chẳng được yên chân."
+        }
+      },
+      {
+        "star_id": "không_kiếp",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Hay bị lừa đảo, mưu hại, lúc chết không ở gần nhà."
+        }
+      },
+      {
+        "star_id": "xương_khúc_khôi_việt",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Gặp nhiều qúy nhàn. Thường được gần những bậc quyến cao, chức trọng."
+        }
+      },
+      {
+        "star_id": "tả_hữu",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Gặp nhiều người giúp đỡ."
+        }
+      },
+      {
+        "star_id": "lộc_tồn_hóa_lộc",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Dễ kiếm tiền, luôn luôn gặp may mắn, buôn bán phát tài"
+        }
+      },
+      {
+        "star_id": "khoa_quyền",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Hay được lui tới chi qui quyền, ra ngoài có danh giá, được nhiều người kính \ntrọng."
+        }
+      },
+      {
+        "star_id": "hóa_kỵ",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Hay mắc thi phi và gặp nhiều sự phiền lòng."
+        }
+      },
+      {
+        "star_id": "song_hao",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Hay phải xa nhà, nay đây mai đó nhưng được nhiều người mến chuộng."
+        }
+      },
+      {
+        "star_id": "thiên_mã",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Nay đây mai đó, được nhiều người mến chuộng"
+        }
+      },
+      {
+        "star_id": "thiên_hình",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Hay mắc tai nạn xe cộ gươm đao."
+        }
+      },
+      {
+        "star_id": "đào_hồng_hỷ",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Gặp nhau ở nơi đường xa mà nên duyên vợ chồng, đàn ông ra ngoài có \ngái theo, đàn bà ra ngoài được nhiều người thâm yêu vụng nhớ"
+        }
+      },
+      {
+        "star_id": "tuần_triệt_án_ngữ",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Ra ngoài hay gặp nhiều sự phiền lòng, lúc chết ở xa nhà",
+          "tham_phá": "hay mắc tai nạn xe cộ, dao, súng. Nếu không cũng bị đánh đập \ngiam cầm.",
+          "tướng_quân_thiên_tướng": "chết vì tai nạn xe cộ hay bị giết.",
+          "mã": "suốt đời long đong vất vả, nay đây mai đó, khó tránh thoát được \nnhững tai nạn xe cộ, chân tay hay bị đau đớn vì có thương tích."
+        }
+      },
+      {
+        "star_id": "tả_hữu_không_kiếp",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Nhiều kẻ thù nhắm ham hại."
+        }
+      },
+      {
+        "star_id": "lộc_mã",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Buôn bán nay đây mai đó, rất phát tài."
+        }
+      },
+      {
+        "star_id": "tuế_đà_kỵ",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Mắc thị phi, kiện cáo liên miên."
+        }
+      },
+      {
+        "star_id": "hình_kiếp_hỏa_linh",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Tai nạn về gươm đao hay súng đạn."
+        }
+      },
+      {
+        "star_id": "phục_không_kiếp",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Có kẻ nhắm lừa đảo hay mưu hại."
+        }
+      },
+      {
+        "star_id": "tướng_binh_hồng_đào",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Tơ duyên rắc rối, hay mắc lừa vì tình."
+        }
+      },
+      {
+        "star_id": "thai_vượng_tướng_binh_hồng_đào",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Đàn ông ra ngoài hay vướng vào lưới tình vì đắm mê sắc dục mà hại đến \nthân. Đàn bà ra ngoài khó giữ được toàn danh tiết"
+        }
+      },
+      {
+        "star_id": "lưu_hà_kiếp_sát",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Mắc tai nạn xe cộ hay bị ám sát."
+        }
+      },
+      {
+        "star_id": "vô_chính_diệu",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Coi Chính diệu xung chiếu như Chính diệu tọa thủ."
+        }
+      }
+    ],
+    "source_content": "Xem cung Thiên Di để biết rõ những điều có liên quan đến việc giao thiệp \nbên ngoài cùng với những sự may rủi có thể xảy đến trong lúc rời khỏi nhà. \nCung Thiên Di xung chiếu cung Mệnh, nên cần phải nhận xét rất cẩn thận ảnh \nhưởng của các sao tọa thủ tại cung này. \n10.1. Tử Vi \n- Đơn thủ tại Ngọ, Phủ đồng cung: ra ngoài luôn tuôn gặp qúy nhân phù \ntrợ, mọi sự đều hành thông, càng xa nhà càng được xứng ý toại lòng. \n- Đơn thủ tại Tý: gặp nhiều người giúp đỡ, nhưng không được toàn mỹ như \ntrên. \n- Tướng hay Sát đồng cung: được nhiều người kính nể, hay lui tới những \nchỗ quyền qúy. Ra ngoài, được hưởng nhiều tài lộc. Lời nói được nhiều người tín \nphục. \n- Phá đồng cung: ra ngoài nhiều hơn là ở nhà, gặp qúy nhân phù trợ, \nnhưng lúc về già thường nhắm mắt ở xa bản quán. \n- Tham đồng cung: rời khỏi nhà hay gặp những sự phiền lòng, may ít rủi \nnhiều, thường có kẻ tiểu nhân theo dõi quấy rối. Sau này chết ở xa nhà. \n10.2. Liêm Trinh \n- Đơn thủ tại Dần, Thân: luôn luôn gập qúy nhân, được nhiều người kính \ntrọng, mọi sự hành thông. \n- Phủ đồng cung: ra ngoài lợi ích hơn ở nhà, tài lộc dễ kiếm, qúy nhân trợ \ngiúp cũng nhiều. \n- Tướng đồng cung: được nhiều người vị nể, hay lui tới những chỗ sang \ntrọng. Vì sẵn có oai phong nên những kẻ tiểu nhân mới trông thấy đã khiếp phục. \n- Phá đồng cung: xa nhà không được lợi ích, may ít rủi nhiều, sau này chết ở \nxa nhà. \n- Sát đồng cung: hay gặp tai nạn ở giữa nơi đường xá, không nên lui tới những \nnơi có nhiều súng ống gươm đao. Lúc nhắm mắt, phải đắp điếm tạm một nơi để chờ \nngười thân thích đến đưa đón. \n- Tham đồng cung: ra ngoài tất bít lợi, hay gặp những tai ương bất kỳ, nhất \nlà về hình ngục hay kiện tụng. Qúy nhân ít gặp, còn tiểu nhân, ác nhân, lúc nào \ncũng sẵn sàng làm hại. \n10.3. Thiên Đồng \n- Đơn thủ tại Mão: càng xa nhà mọi sự càng được hành thông, không nên ở \nlâu một chỗ, hay gặp qúy nhân phù trợ. \n- Đơn thủ tại Dậu: hay phải xa nhà nhưng hay gặp những sự phiền lòng. Sau \nnày chết ở xa bản quán. \n- Đơn thủ tại Tỵ, Hợi: nay đây mai đó, chết ở xa nhà. \n- Đơn thủ tại Thìn Tuất: ra ngoài hay mắc tai họa, nhất là thị phi, kiện tụng. \n- Nguyệt đồng cung tại Tý, Lương đồng cung: luôn luôn gặp qúy nhân phù \ntrợ, được nhiều người kính trọng, buôn bán phát tài. \n- Nguyệt đồng cung tại Ngọ: hay gặp sự cạnh tranh và ghen ghét, ra ngoài \nrất bất lợi. \n- Cự đồng cung: hay mắc thị phi, quan sự nhưng hay được gần những chỗ \nquyền qúy. Nói được nhiều người tin dầu đôi khi nói quá đáng, hay sai sự thật. \nLúc nhắm mắt thường ở xa nhà. \n10.4. Vũ Khúc \n- Đơn thủ tại Thìn, Tuất: buôn bán phát tài, đi xa lợi ích hơn là ở nhà. \n- Phủ, hay Tướng đồng cung: gặp qúy nhân phù trợ, được nhiều người kính nể, \ntài lộc hưng vượng. \n- Tham đồng cung: buôn bán phát tài, trước khó sau dễ, hay gặp sự cạnh \ntranh ráo riết. \n- Phá đồng cung: buôn bán cũng được lợi ích, ta ngoài hay gặp sự phiền \nlòng, đôi khi lại còn mắc tai nạn đáng lo ngại. \n- Sát đồng cung: có oai phong, lời nói được nhiều người tin phục nhưng \nhay gặp những tai ương nguy hiểm. Sau này chiết ở xa nhà. \n10.5. Thái Dương \n- Tọa thủ tại Dần, Mão, Thìn, Tỵ, Ngọ: gặp qúy nhân phù trợ, ra ngoài \nđược nhiều người kính trọng, tài lộc dồi dào. \n- Tọa thủ tại Thân, Dậu, Tuất, Hợi: hay gặp tai nạn nhất là về sông nước, \nnhiều người khinh ghét, sau này chết ở xa nhà. \n- Đơn thủ tại Tý: nhiều người mến phục kính trọng \n- Nguyệt đồng cung: ra ngoài lợi ích hơn ở nhà, hay gần nơi quyền qúy, \nđược nhiều người tôn phục. Nếu gặp Tuần, Tuần án ngữ hay Kỵ đồng cung lại \ncàng rực rỡ. Lúc chết tuy ở xa nhà nhưng được chôn cất tử tế. \n10.6. Thiên Cơ \n- Đơn thủ tại Tỵ, Ngọ, Mùi: ra ngoài mọi sự được hành thông, vì ở nhà hay \nmắc thị phi, luôn luôn gặp qúy nhân phù trợ. \n- Đơn thủ tại Hợi, Tý, Sửu: xa nhà không được yên thân. \n- Lương đồng cung: càng xa nhà càng gặp nhiều may mắn, hay được lui tới \nchỗ quyền qúy, được nhiều người tôn kính vị nể. \n- Cự đồng cung: ra ngoài tuy có tài lộc, hay gặp qúy nhân, nhưng thường \nmắc thị phi, khẩu thiệt, buôn bán phát tài \n- Nguyệt đồng cung tại Thân: buôn bán phát tài, nhiều người mến chuộng. \n- Nguyệt đồng cung tại Dần: không nên xa nhà lâu, buôn bán phát tài \nnhưng bị nhiều người đố kỵ. \n10.7. Thiên Phủ \n- Đơn thủ tại Tỵ, Hợi: gặp qúy nhân, có tài lộc. \n- Đơn thủ tại Sửu, Mùi, Mão, Dậu: xa nhà được lợi ích và yên thân hơn ở \nnhà, buôn bán phát tài. \n- Tử đồng cung: ra ngoài luôn tuôn gặp qúy nhân phù trợ, mọi sự đều \nhành thông, càng xa nhà càng được xứng ý toại lòng. \n- Liêm đồng cung: ra ngoài lợi ích hơn ở nhà, tài lộc dễ kiếm, qúy nhân trợ \ngiúp cũng nhiều. \n- Vũ đồng cung: gặp qúy nhân phù trợ, được nhiều người kính nể, tài lộc \nhưng vượng. \n10.8. Thái Âm \n- Đơn thủ lại Dậu, Tuất, Hợi: được nhiều người kính trọng, dễ kiếm tiền. \n- Đơn thủ tại Mão, Thìn, Tỵ: ra ngoài hay gặp tai ương vì những sự phiền \nlòng, nhiều người ghét. \n- Đồng đồng cung tại Tý, Lương đồng cung: luôn luôn gặp qúy nhân phù \ntrợ, được nhiều người kính trọng, buôn bán phát tài. \n- Đồng đồng cung tại Ngọ: hay gặp sự cạnh tranh và ghen ghét, ra ngoài rất \nbất lợi. \n- Nhật đồng cung: ra ngoài lợi ích hơn ở nhà, hay gần nơi quyền qúy, được \nnhiều người tôn phục. Nếu gặp Tuần, Tuần án ngữ hay Kỵ đồng cung lại càng \nrực rỡ. Lúc chết tuy ở xa nhà nhưng được chôn cất tử tế. \n- Cơ đồng cung tại Thân: buôn bán phát tài, nhiều người mến chuộng. \n- Cơ đồng cung tại Dần: không nên xa nhà lâu, buôn bán phát tài nhưng bị \nnhiều người ghen ghét. \n10.9. Tham Lang \n- Đơn thủ tại Thìn, Tuất: dễ kiếm tiền, hay gặp qúy nhân. \n- Đơn thủ tại Tý, Ngọ: ra ngoài rất bất lợi, hay gặp những sự phiền lòng, sau \nnày chết ở xa nhà. \n- Đơn thủ tại Dần, Thân: hay mắc tai nạn, xa nhà rất bất lợi. \n- Tử đồng cung: rời khỏi nhà hay gặp những sự phiền lòng, may ít rủi \nnhiều, thường có kẻ tiểu nhân theo dõi quấy rối. Sau này chết ở xa nhà. \n- Vũ đồng cung: buôn bán phát tài, trước khó sau dễ, hay gặp sự cạnh tranh \nráo riết. \n- Liêm đồng cung: ra ngoài tất bít lợi, hay gặp những tai ương bất kỳ, nhất \nlà về hình ngục hay kiện tụng. Qúy nhân ít gặp, còn tiểu nhân, ác nhân, lúc nào \ncũng sẵn sàng làm hại. \n10.10. Cự Môn \n- Đơn thủ tại Tý, Ngọ, Hợi: ra ngoài được nhiều người vị nể, tài lộc di \nkiếm, lời nói được nhiều người tin phục. \n- Đơn thủ tại Thìn, Tuất, Tỵ: hay mắc thị phì kiện tụng và tai nạn nguy \nhiểm, sau này chết ở xa nhà. \n10.11. Thiên Tướng \n- Đơn thủ tại Tỵ, Hợi, Sửu, Mùi: được nhiều người kính trọng, tài lộc dễ \nkiếm. \n- Đơn thủ tại Mão, Dậu: xa nhà không được lợi ích tuy vậy vẫn được nhiều \nngười mến chuộng. \n- Tử đồng cung: được nhiều người kính nể, hay lui tới những chỗ quyền \nqúy. Ra ngoài, được hưởng nhiều tài lộc. Lời nói được nhiều người tín phục. \n- Liêm đồng cung: được nhiều người vị nể, hay lui tới những chỗ sang \ntrọng. Vì sẵn có oai phong nên những kẻ tiểu nhân mới trông thấy đã khiếp \nphục. \n- Vũ đồng cung: gặp qúy nhân phù trợ, được nhiều người kính nể, tài lộc \nhưng vượng. \n10.12. Thiên Lương \n- Đơn thủ tại Tý, Ngọ: được nhiều người kính trọng, yêu mến, hay lui tới \nnhững chỗ quyền qúy. \n- Đơn thủ tại Sửu, Mùi: gặp qúy nhân. \n- Đơn thủ tại Tỵ, Hợi: nay đây mai đó, chết ở xa nhà. \n- Đồng đồng cung: luôn luồn gặp qúy nhân phù trợ, được nhiều người kính \ntrọng, buôn bán phát tài. \n- Tọa thủ tại Dần, Mão, Thìn, Tỵ, Ngọ: gặp qúy nhân phù trợ, ra ngoài \nđược nhiều người kính trọng, tài lộc dồi dào. \n- Cơ đồng cung: càng xa nhà càng gặp nhiều may mắn, hay được lui tới \nchỗ quyền qúy, được nhiều người tôn kính vị nể. \n10.13. Thất Sát \n- Đơn thủ tại Dần, Thân: hay gặp qúy nhân, vì có oai nên được nhiều \nngười kính nể, lời nói được nhiều người tin phục, hay lui tới những chỗ có uy \nquyền. \n- Đơn thủ tại Tý, Ngọ: được nhiều nể sợ và tin phục. Thường gần nơi \nquyền qúy nhưng không nên ra ngoài nhiều, vì may thường đi liền với rủi, hay \nmắc tai nạn, sau này chết xa nhà. \n- Đơn thủ tại Thìn, Tuất: ra ngoài rất bất lợi. Lúc chết không được ở gần \nnhà. \n- Tử đồng cung: được nhiều người kính nể, hay lui tới những chỗ quyền \nqúy. Ra ngoài, được hưởng nhiều tài lộc. Lời nói được nhiều người tín phục. \n- Liêm đồng cung: hay gặp tai nạn ở giữa nơi đường xá, không nên lui tới những \nnơi có nhiều súng ống gươm đao. Lúc nhắm mắt, phải đắp điếm tạm một nơi để chờ \nngười thân thích đến đưa đón. \n- Vũ đồng cung: có oai phong, lời nói được nhiều người tin phục nhưng \nhay gặp những tai ương nguy hiểm. Sau này chiết ở xa nhà. \n10.14. Phá Quân \n- Đơn thủ tại Tý, Ngọ: nhiều người nể sợ, tài lộc dễ kiếm, nhưng đôi khi \nmắc tai nạn nguy hiểm. \n- Đơn thủ tại Dần, Thân: hay mắc tai nạn nhất là về xe cộ và ác thú, hay \ngặp những kẻ rình ám hại. Nếu hay xoay sở tiền tài lại càng dễ gặp tai họa, sau \nnày chết ở xa nhà. \n- Đơn thủ tại Thìn, Tuất: may đi liền với rùi, người kính trọng cũng có mà \nghen ghét muốn hại cũng nhiều. Tai ương đầy rẫy nhưng vẫn ưa thích nay đây \nmai đó. Sau chết ở xa nhà. \n10.14. Kình, Đà \n- Hay mắc tai nạn. Sau này chết ở xa nhà. \n- Sáng sủa tốt đẹp: dễ kiếm tiền, tuy hay gặp qúy nhân nhưng vẫn bị nhiều \nngười khinh bỉ. \n- Mờ ám xấu xa: hung họa đầy rẫy, hay mắc thị phi, khó kiếm tiền, luôn gặp \nnhững sự phiền lòng. \n10.16. Hỏa, Linh \nRa ngoài chẳng được yên chân. \n10.17. Không, Kiếp \nHay bị lừa đảo, mưu hại, lúc chết không ở gần nhà. \n10.18. Xương, Khúc, Khôi, Việt \nGặp nhiều qúy nhàn. Thường được gần những bậc quyến cao, chức trọng. \n10.19. Tả, Hữu \nGặp nhiều người giúp đỡ. \n10.20. Lộc Tồn, Hóa Lộc \nDễ kiếm tiền, luôn luôn gặp may mắn, buôn bán phát tài \n10.21. Khoa, Quyền \nHay được lui tới chi qui quyền, ra ngoài có danh giá, được nhiều người kính \ntrọng. \n10.22. Hóa Kỵ \nHay mắc thi phi và gặp nhiều sự phiền lòng. \n10.23. Song Hao \nHay phải xa nhà, nay đây mai đó nhưng được nhiều người mến chuộng. \n10.24. Thiên Mã \nNay đây mai đó, được nhiều người mến chuộng \n10.25. Thiên Hình \nHay mắc tai nạn xe cộ gươm đao. \n10.26. Đào, Hồng, Hỷ \nGặp nhau ở nơi đường xa mà nên duyên vợ chồng, đàn ông ra ngoài có \ngái theo, đàn bà ra ngoài được nhiều người thâm yêu vụng nhớ \n10.27. Tuần, Triệt án ngữ \n- Ra ngoài hay gặp nhiều sự phiền lòng, lúc chết ở xa nhà \n- Tham, Phá: hay mắc tai nạn xe cộ, dao, súng. Nếu không cũng bị đánh đập \ngiam cầm. \n- Tướng Quân, Thiên Tướng: chết vì tai nạn xe cộ hay bị giết. \n- Mã: suốt đời long đong vất vả, nay đây mai đó, khó tránh thoát được \nnhững tai nạn xe cộ, chân tay hay bị đau đớn vì có thương tích. \n10.28. Tả, Hữu, Không, Kiếp \nNhiều kẻ thù nhắm ham hại. \n10.29. Lộc Mã \nBuôn bán nay đây mai đó, rất phát tài. \n10.30. Tuế, Đà, Kỵ \nMắc thị phi, kiện cáo liên miên. \n10.31. Hình, Kiếp, Hỏa, Linh \nTai nạn về gươm đao hay súng đạn. \n10.32. Phục, Không, Kiếp \nCó kẻ nhắm lừa đảo hay mưu hại. \n10.33. Tướng, Binh, Hồng, Đào \nTơ duyên rắc rối, hay mắc lừa vì tình. \n10.34. Thai, Vượng, Tướng, Binh, Hồng, Đào \nĐàn ông ra ngoài hay vướng vào lưới tình vì đắm mê sắc dục mà hại đến \nthân. Đàn bà ra ngoài khó giữ được toàn danh tiết \n10.35. Lưu Hà, Kiếp Sát \nMắc tai nạn xe cộ hay bị ám sát. \n10.36. Vô Chính diệu \nCoi Chính diệu xung chiếu như Chính diệu tọa thủ."
+  }
+}

@@ -1,0 +1,390 @@
+{
+  "Cung_huynh_đệ": {
+    "name": "cung_huynh_đệ",
+    "description": "Xem cung Huynh Đệ để biết rõ anh chị em trong một nhà. Trước khi nhận \nđịnh ảnh hưởng của những sao tọa thủ tại cung Huynh Đệ, phải luận đoán cẩn thận \ncung Phúc Đức, vì sự tốt xấu của cung này có liên quan mật thiết đến sự nhiều ít anh \nchị em, cũng như là sự đoàn tụ hay ly tán của gia đình. \nNếu cung Tử Tức có nhiều sao sáng sủa tốt đẹp hội hợp, nhưng chẳng may \ncung Phúc Đức lại bị khắc hãm, như vậy số anh chị em cũng bị chiết giảm, hay là \nvì bất hòa mà xa cách nhau. Nếu trái lại, cung Tử Tức có nhiều sao mờ ám xấu \nxa, nhưng may mắn cung Phúc Đức rực rỡ, như vậy số anh chị em cũng tăng \nthêm và cũng chẳng đáng lo ngại nhiều về sự hình khắc hay ly tán. \nNhững nhận định trình bày dưới đây, chỉ là tương đối chính xác. Người \nnghiên cứu đẩu số phải suy luận thêm bớt cho hợp lý tùy theo độ số tăng hay \ngiảm.",
+    "stars": [
+      {
+        "star_id": "tử_vi",
+        "context_type": null,
+        "rules": {
+          "đơn_thủ_tại_ngọ": "có anh trên, anh chị em đều khá giả.",
+          "đơn_thủ_tại_tý": "cũng có anh trên, anh chị em thường phải xa cách nhau từ \nlúc thiếu thời.",
+          "phủ_đồng_cung": "ba người trở lên, đều qúy hiển",
+          "tướng_đồng_cung": "bốn người trở lên, nhưng trong nhà hay có sự bất hòa \nvì không có sự nhường nhịn lẫn nhau, tuy vậy tất cả đều khá giả.",
+          "sát_đồng_cung": "nhiều nhất là ba người, đều được hưởng phú qúy.",
+          "phá_đồng_cung": "nhiều nhất là ba người, ngoài ra còn có thêm anh chị em \ndị bào, anh chị em sớm xa cách nhau, trong nhà thiếu hòa khí.",
+          "tham_đồng_cung": "nhiều nhất là ba người, thường ly tán và vất vả trên \nđường đời."
+        }
+      },
+      {
+        "star_id": "liêm_trinh",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Sát đồng cung may mắn lắm mới có một người, thường mang tật, nên \nsuốt đời cùng khổ, hay chết non, anh chị em bất hòa.",
+          "đơn_thủ_tại_dần_thân": "nhiều nhất là hai người",
+          "phủ_đồng_cung": "nhiều nhất là ba người, đều khá giả, nhưng không hợp \ntính nhau.",
+          "tướng_đồng_cung": "hai người, đều qúy hiển.",
+          "phá_đồng_cung": "một người, nhưng bần cùng và thường mang tật.",
+          "tham_đồng_cung": "may mắn lắm mới có hai người nhưng ly tán, cùng khổ. \nTrong nhà thiếu hòa khí. Anh chị em oán hận lẫn nhau, đôi khi lại còn cãi nhau."
+        }
+      },
+      {
+        "star_id": "thiên_đồng",
+        "context_type": null,
+        "rules": {
+          "đơn_thủ_tại_mão": "bốn người trở lên.",
+          "đơn_thủ_tại_dâu": "nhiều nhất là ba người, thường sớm xa cách nhau.",
+          "đơn_thủ_tại_tỵ_hợi": "nhiều nhất là hai người, thường xa cách nhau từ \nlúc thiếu thời, có người du đãng, hoang tàng.",
+          "đơn_thủ_tại_thìn_tuất": "may mắn lắm mới có một người nhưng cũng \nphiêu bạt hay cùng khổ cô đơn.",
+          "lương_đồng_cung": "ba người, khá giả.",
+          "nguyệt_đồng_cung_tại_tý": "bốn hay năm người, chị em nhiều hơn anh em, \ntất cả đều thuận hòa và khá giả.",
+          "nguyệt_đồng_cung_tại_ngọ": "nhiều nhất là hai người, anh chị em bất hòa và \nxa cách nhau.",
+          "cự_đồng_cung": "may mắn lắm mới có hai người, trong nhà thiếu hòa khí, \nanh chị em có sớm xa cách nhau mới được toàn vẹn, có người mang cố tật hay \nmắc hình ngục."
+        }
+      },
+      {
+        "star_id": "vũ_khúc",
+        "context_type": null,
+        "rules": {
+          "đơn_thủ_tại_thìn_tuất": "hai người khá giả, nhưng không hợp tính nhau.",
+          "phủ_đồng_cung": "nhiều nhất là ba người đều giàu có và qúy hiển.",
+          "tướng_đồng_cung": "hai người.",
+          "tham_đồng_cung": "nhiều nhất là ba người, sau đều giàu có nhưng sớm xa \nnhau.",
+          "phá_đồng_cung": "một người, trong nhà hay có sự xô xát, anh chị em phải xa \ncách nhau.",
+          "sát_đồng_cung": "một người, nhưng mang cố tật hay bị hình thương, nếu \nkhông sớm xa cách nhau, tất bị hình khác."
+        }
+      },
+      {
+        "star_id": "thái_dương",
+        "context_type": null,
+        "rules": {
+          "đơn_thủ_tại_thìn_tỵ_ngọ": "sáu người trở lên, đều qúy hiển, anh em trai \nnhiều hơn chị em gái.",
+          "đơn_thủ_tại_tuất_hợi_tý": "nhiều nhất là ba người, nhưng bất hòa.",
+          "cự_đồng_cung_tại_dần": "ba người, cũng khá giả.",
+          "cự_đồng_cung_tại_thân": "may mắn lắm mới có hai người, nhưng bất hòa \nphải xa cách nhau.",
+          "lương_đồng_cung_tại_mão": "năm người, đều quý hiển.",
+          "nguyệt_đồng_cung": "năm người trở lên, tuy khá giả nhưng khiếm hòa."
+        }
+      },
+      {
+        "star_id": "thiên_phủ",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Coi Tử Vi (Phủ đồng cung) – Liêm Trinh (Phủ đồng cung) – Vũ Khúc \n(Phủ đồng cung).",
+          "đơn_thủ_tại_tỵ_hợi": "năm người trở lên.",
+          "đơn_thủ_tại_sửu_mùi_mão_dậu": "nhiều nhất là bốn người, nhưng trong \nnhà thiếu hòa khí. Có người bị hình thương mang cố tật."
+        }
+      },
+      {
+        "star_id": "tham_lang",
+        "context_type": null,
+        "rules": {
+          "đơn_thủ_tại_thìn_tuất": "hai người.",
+          "đơn_thủ_tại_dần_thân": "một người",
+          "đơn_thủ_tại_tý_ngọ": "may mắn lắm mời có một người, nhưng hay chơi \nbời, suốt đời lang thang đây đó. Đôi khi lại có thêm nhiều anh chị em dị bào rất \nkhá giả.",
+          "tử_đồng_cung": "nhiều nhất là ba người, thường ly tán và vất vả trên đường \nđời.",
+          "liêm_đồng_cung": "may mắn lắm mới có hai người nhưng ly tán, cùng khổ. \nTrong nhà thiếu hòa khí. Anh chị em oán hận lẫn nhau, đôi khi lại còn cãi nhau.",
+          "vũ_tham_đồng_cung": "nhiều nhất là ba người, sau đều giàu có nhưng sớm \nxa nhau."
+        }
+      },
+      {
+        "star_id": "cự_môn",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Cự đồng cung Thiên Cơ hai người, khá giả, nhưng không hợp tính nhau.",
+          "đơn_thủ_tại_hợi_tý_ngọ": "hai người, nhưng bất hòa.",
+          "đơn_thủ_tại_tỵ_thìn_tuất": "may mắn lắm mới có một người, nên ở riêng. \nNhưng đôi khi lại có thêm rất nhiều anh chị em dị bào.",
+          "đồng_đồng_cung": "may mắn lắm mới có hai người, trong nhà thiếu hòa \nkhí, anh chị em có sớm xa cách nhau mới được toàn vẹn, có người mang cố tật \nhay mắc hình ngục.",
+          "cự_đồng_cung_thái_dương_tại_dần": "ba người, cũng khá giả.",
+          "cự_đồng_cung_thái_dương_tại_thân": "may mắn lắm mới có hai người, \nnhưng bất hòa phải xa cách nhau."
+        }
+      },
+      {
+        "star_id": "thiên_tướng",
+        "context_type": null,
+        "rules": {
+          "đơn_thủ_tại_tỵ_hợi_sửu_mùi": "hai người trở lên.",
+          "đơn_thủ_tại_mão_dậu": "nhiều nhất là hai người.",
+          "tử_đồng_cung": "bốn người trở lên, nhưng trong nhà hay có sự bất hòa \nvì không có sự nhường nhịn lẫn nhau, tuy vậy tất cả đều khá giả. Vân Đằng Thái \nThứ Lang\t Tử Vi đẩu số tân biên",
+          "liêm_đồng_cung": "hai người, đều qúy hiển.",
+          "vũ_đồng_cung": "hai người."
+        }
+      },
+      {
+        "star_id": "thiên_lương",
+        "context_type": null,
+        "rules": {
+          "đơn_thủ_tại_tý_ngọ": "hai hay ba người, khá giả và thuận hòa.",
+          "đơn_thủ_tại_sửu_mùi": "may mắn lắm mới có một người.",
+          "đơn_thủ_tại_tỵ_hợi": "nhiều nhất là hai người, thường xa cách nhau từ \nlúc thiếu thời, có người du đãng, hoang tàng.",
+          "đồng_đồng_cung": "ba người, khá giả.",
+          "lương_đồng_cung_thái_dương_tại_mão": "năm người, đều quý hiển.",
+          "lương_đồng_cung_thiên_cơ": "hai người, khá giả và thuận hòa."
+        }
+      },
+      {
+        "star_id": "thất_sát",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Liêm đồng cung may mắn lắm mới có một người, thường mang tật, nên \nsuốt đời cùng khổ, hay chết non, anh chị em bất hòa.",
+          "đơn_thủ_tại_dần_thân": "may mắn lắm mới có hai người, tuy khá giả nhưng \nkhiếm hòa.",
+          "đơn_thủ_tại_tý_ngọ": "may mắn lắm mới có một người, thường bị hình \nthương hay mang tật, trong gia đinh thiếu hòa khí.",
+          "đơn_thủ_tại_thìn_tuất": "không có anh chị em.",
+          "tử_đồng_cung": "nhiều nhất là ba người, đều được hưởng phú qúy.",
+          "vũ_đồng_cung": "một người, nhưng mang cố tật hay bị hình thương, nếu \nkhông sớm xa cách nhau, tất bị hình khác."
+        }
+      },
+      {
+        "star_id": "phá_quân",
+        "context_type": null,
+        "rules": {
+          "đơn_thủ_tại_tý_ngọ": "ba người, khá giả, nhưng khiếm hòa, sớm xa cách \nnhau.",
+          "đơn_thủ_tại_thìn_tuất": "may mắn lắm mới có một người nhưng cũng \nkhông thể ở gần nhau được.",
+          "đơn_thủ_tại_dần_thân": "may mắn lắm mới có một người phải mang cố tật, \nhay bất hành nhân",
+          "tử_đồng_cung": "nhiều nhất là ba người, ngoài ra còn có thêm anh chị em dị \nbào, anh chị em sớm xa cách nhau, trong nhà thiếu hòa khí.",
+          "liêm_đồng_cung": "một người, nhưng bần cùng và thường mang tật.",
+          "vũ_đồng_cung": "một người, trong nhà hay có sự xô xát, anh chị em phải xa \ncách nhau."
+        }
+      },
+      {
+        "star_id": "sát_tinh",
+        "context_type": null,
+        "rules": {
+          "nhiều_sao_sáng_sủa_tốt_đẹp": "giảm một nửa số anh chị em, trong nhà hay \ncó sự bất hòa, thường có người mang tật.",
+          "nhiều_sao_mờ_ám_xấu_xa": "không có anh chị em, nếu có rồi cũng phải phiêu \nbạt, tàn lụi đến hết."
+        }
+      },
+      {
+        "star_id": "xương_khúc",
+        "context_type": null,
+        "rules": {
+          "nhiều_sao_sáng_sủa_tốt_đẹp": "thêm ba người, anh chị em khá giả, có danh \nchức và rất thông minh.",
+          "nhiều_sao_mờ_ám_xấu_xa": "không có anh chị em."
+        }
+      },
+      {
+        "star_id": "khôi_việt",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Anh chị em qúy hiển."
+        }
+      },
+      {
+        "star_id": "tả_hữu",
+        "context_type": null,
+        "rules": {
+          "nhiều_sao_sáng_sủa_tốt_đẹp": "thêm ba người, biết giúp đỡ lẫn nhau.",
+          "nhiều_sao_mờ_ám_xấu_xa": "thêm một người"
+        }
+      },
+      {
+        "star_id": "lộc_tồn",
+        "context_type": null,
+        "rules": {
+          "nhiều_sao_sáng_sủa_tốt_đẹp": "ít anh chị em. Anh chị em khá giả nhưng \nsớm xa cách nhau, trong nhà thiếu hòa khí.",
+          "nhiều_sao_mờ_ám_xấu_xa": "không có anh chị em"
+        }
+      },
+      {
+        "star_id": "khoa_quyền_lộc",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Anh chị em giàu có, qúy hiển và thông minh, học giỏi."
+        }
+      },
+      {
+        "star_id": "hóa_kỵ",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Anh chị em bất hòa, xa cách nhau."
+        }
+      },
+      {
+        "star_id": "song_hao",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Chiết giảm số anh chị em, trong gia đình thiếu hòa khí, anh chị em thường \nxa cách nhau, lại có người phá tán chơi bời."
+        }
+      },
+      {
+        "star_id": "thiên_mã",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Anh chị em khá giả, nhưng không ở gần nhau."
+        }
+      },
+      {
+        "star_id": "quang_qúy",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Có anh chị em nuôi."
+        }
+      },
+      {
+        "star_id": "cô_qủa",
+        "context_type": null,
+        "rules": {
+          "nhiều_sao_sáng_sủa_tốt_đẹp": "số anh chị em bị chiết giảm, trong nhà thiếu \nhòa khí.",
+          "nhiều_sao_mờ_ám_xấu_xa": "không có anh chị em."
+        }
+      },
+      {
+        "star_id": "tràng_sinh",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Thêm tám người."
+        }
+      },
+      {
+        "star_id": "đế_vượng",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Thêm năm người."
+        }
+      },
+      {
+        "star_id": "quan_đới_lâm_quan",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Thêm ba hay bốn người."
+        }
+      },
+      {
+        "star_id": "suy",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Thêm ba người."
+        }
+      },
+      {
+        "star_id": "bệnh_thai",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Thêm một người."
+        }
+      },
+      {
+        "star_id": "dưỡng",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Thêm hai người, có em nuôi."
+        }
+      },
+      {
+        "star_id": "tử",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Anh chị еm bất hòa."
+        }
+      },
+      {
+        "star_id": "tuyệt",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Trong số anh chị em có người bị mù lòa hay mang tật."
+        }
+      },
+      {
+        "star_id": "tuần_triệt_án_ngữ",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Anh cả hay chị cả chết non, nếu không cũng cùng khổ cô đơn, phải làm \năn ở phương xa. Trong nhà thiếu hòa khí, anh thị em không thể sống gần nhau \nlâu được.",
+          "nhiều_sao_sáng_sủa_tốt_đẹp": "số anh chị em bị chiết giảm hết một nửa.",
+          "nhiều_sao_mờ_ám_xấu_xa": "số anh chị em bị chiết giảm rất ít."
+        }
+      },
+      {
+        "star_id": "tử_vi_tả_hữu",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Anh chị em khá giả, thuận hòa, nhưng có người trắc trở về hôn phối."
+        }
+      },
+      {
+        "star_id": "tử_vi_tang_tả_hữu",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Anh chị em khá giả nhưng bất hòa, có người bỏ vợ hay bỏ chồng."
+        }
+      },
+      {
+        "star_id": "nhật_nguyệt_thai_đồng_cung_tử_tức_có_thai_tọa_thủ_và_có",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Nhật Nguyệt giáp \nCó anh chị em sinh đôi."
+        }
+      },
+      {
+        "star_id": "phá_tướng",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Anh chị em có người không đứng đắn, ưa việc liễu ngõ hoa tường."
+        }
+      },
+      {
+        "star_id": "phá_hình_kỵ",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Anh chị em làm hại nhau."
+        }
+      },
+      {
+        "star_id": "tang_mã",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Gia đình ly tán, anh chị em bất hòa."
+        }
+      },
+      {
+        "star_id": "tang_trực_tuế",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Anh chị em hay tranh chấp, cãi lộn."
+        }
+      },
+      {
+        "star_id": "tuế_xương_khúc",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Trong số anh chị em có người rất qúy hiển, hoạnh đạt công danh, văn tài lỗi \nlạc."
+        }
+      },
+      {
+        "star_id": "hồng_đào_cái",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Chị em gái rất lẳng lơ"
+        }
+      },
+      {
+        "star_id": "hồng_đào_thai_binh_tướng",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Trong nhà có người loạn luân, hay có chị em gái chửa hoang."
+        }
+      },
+      {
+        "star_id": "đào_riêu_hỉ",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Hai chị em gái rất dâm đãng."
+        }
+      },
+      {
+        "star_id": "dưỡng_tam_không",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Có em nuôi rất khá giả và trung hậu."
+        }
+      },
+      {
+        "star_id": "vô_chính_diệu",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Coi Chính diệu xung chiếu như Chính diệu tọa thủ."
+        }
+      }
+    ],
+    "source_content": " \nXem cung Huynh Đệ để biết rõ anh chị em trong một nhà. Trước khi nhận \nđịnh ảnh hưởng của những sao tọa thủ tại cung Huynh Đệ, phải luận đoán cẩn thận \ncung Phúc Đức, vì sự tốt xấu của cung này có liên quan mật thiết đến sự nhiều ít anh \nchị em, cũng như là sự đoàn tụ hay ly tán của gia đình. \nNếu cung Tử Tức có nhiều sao sáng sủa tốt đẹp hội hợp, nhưng chẳng may \ncung Phúc Đức lại bị khắc hãm, như vậy số anh chị em cũng bị chiết giảm, hay là \nvì bất hòa mà xa cách nhau. Nếu trái lại, cung Tử Tức có nhiều sao mờ ám xấu \nxa, nhưng may mắn cung Phúc Đức rực rỡ, như vậy số anh chị em cũng tăng \nthêm và cũng chẳng đáng lo ngại nhiều về sự hình khắc hay ly tán. \nNhững nhận định trình bày dưới đây, chỉ là tương đối chính xác. Người \nnghiên cứu đẩu số phải suy luận thêm bớt cho hợp lý tùy theo độ số tăng hay \ngiảm. \n15.1. Tiên quyết \n- Cung Huynh Đệ có Chính diệu Nam Đầu tinh tọa thủ như Thiên Phu, \nThiên Tướng, Thiên Lương, Thất Sát, Thiên Đồng, Thái Dương, Thiên Сơ thì anh \nem trai nhiều hơn chị em gái. \n- Cung Huynh Đệ có Chính diệu Bắc Đẩu tinh tọa thủ như Thái Âm, \nTham Lang, Cự Môn, Liêm Trinh, Vũ Khúc, Phá Quân thì chị em gai nhiều hơn \nanh em trai. \n- Cung Huynh Đệ có hai Chính diệu, một là Nam Đẩu tinh và một là Bắc \nĐẩu tinh tọa thủ đồng cung, vậy phải phân định như sau: \n\t\n+ Cung Huynh Đệ là Dương cung thì anh em trai nhiều hơn thị em \ngái. \n\t\n+ Cung Huynh Đệ là Âm cung: chị em gái nhiều hơn anh em trai. \n\t\n+ Cung Huynh Đệ có Tử Vi tọa thủ (Tử Vi là Nam Bắc đẩu tinh) vậy \nphải phân định như sau: \n\t\n\t\n* Chính diệu Nam Đẩu tinh đồng cung thì anh em trai nhiều \nhơn chị em gái. \n\t\n\t\n* Chính diệu Bắc Đẩu tinh đồng cung thì chị em gái nhiều hơn \nanh em trai. \n\t\n+ Cung Huynh Đệ là Dương cung thì nếu là con thứ nhất, tất có anh \ntrai sinh trước mình. + Cung Huynh Đệ là Âm cung thì nếu là cung thứ, tất có \nchị gái sinh trước mình. \n- Có anh chị em dị bào nếu tại cung Huynh Đệ có những sao sau đây: \nThiên Tướng, Tuyệt - Thái Âm, Thiên Phúc - Cự Môn, Thiên Cơ đồng cung - \nCơ, Nguyệt, Đồng, Lương - Phục Binh, Tướng Quân - Thai, Đế Vượng. Nhưng \nphải phân định hai trường hợp: \n* Cung Huynh Đệ là Dương cung: anh chị em cùng cha khác mẹ. \n* Cung Huynh Đệ là Âm cung: anh chị em cùng mẹ khác cha. \n15.2. Nhận định ảnh hưởng các sao \n15.2.1. Tử Vi \n- Đơn thủ tại Ngọ: có anh trên, anh chị em đều khá giả. \n- Đơn thủ tại Tý: cũng có anh trên, anh chị em thường phải xa cách nhau từ \nlúc thiếu thời. \n- Phủ đồng cung: ba người trở lên, đều qúy hiển \n- Tướng đồng cung: bốn người trở lên, nhưng trong nhà hay có sự bất hòa \nvì không có sự nhường nhịn lẫn nhau, tuy vậy tất cả đều khá giả. \n- Sát đồng cung: nhiều nhất là ba người, đều được hưởng phú qúy. \n- Phá đồng cung: nhiều nhất là ba người, ngoài ra còn có thêm anh chị em \ndị bào, anh chị em sớm xa cách nhau, trong nhà thiếu hòa khí. \n- Tham đồng cung: nhiều nhất là ba người, thường ly tán và vất vả trên \nđường đời. \n15.2.2. Liêm Trinh \n- Đơn thủ tại Dần, Thân: nhiều nhất là hai người \n- Phủ đồng cung: nhiều nhất là ba người, đều khá giả, nhưng không hợp \ntính nhau. \n- Tướng đồng cung: hai người, đều qúy hiển. \n- Phá đồng cung: một người, nhưng bần cùng và thường mang tật. \n- Sát đồng cung may mắn lắm mới có một người, thường mang tật, nên \nsuốt đời cùng khổ, hay chết non, anh chị em bất hòa. \n- Tham đồng cung: may mắn lắm mới có hai người nhưng ly tán, cùng khổ. \nTrong nhà thiếu hòa khí. Anh chị em oán hận lẫn nhau, đôi khi lại còn cãi nhau. \n15.2.3. Thiên Đồng \n- Đơn thủ tại Mão: bốn người trở lên. \n- Đơn thủ tại Dâu: nhiều nhất là ba người, thường sớm xa cách nhau. \n- Đơn thủ tại Tỵ, Hợi: nhiều nhất là hai người, thường xa cách nhau từ \nlúc thiếu thời, có người du đãng, hoang tàng. \n- Đơn thủ tại Thìn, Tuất: may mắn lắm mới có một người nhưng cũng \nphiêu bạt hay cùng khổ cô đơn. \n- Lương đồng cung: ba người, khá giả. \n- Nguyệt đồng cung tại Tý: bốn hay năm người, chị em nhiều hơn anh em, \ntất cả đều thuận hòa và khá giả. \n- Nguyệt đồng cung tại Ngọ: nhiều nhất là hai người, anh chị em bất hòa và \nxa cách nhau. \n- Cự đồng cung: may mắn lắm mới có hai người, trong nhà thiếu hòa khí, \nanh chị em có sớm xa cách nhau mới được toàn vẹn, có người mang cố tật hay \nmắc hình ngục. \n15.2.4. Vũ Khúc \n- Đơn thủ tại Thìn, Tuất: hai người khá giả, nhưng không hợp tính nhau. \n- Phủ đồng cung: nhiều nhất là ba người đều giàu có và qúy hiển. \n- Tướng đồng cung: hai người. \n- Tham đồng cung: nhiều nhất là ba người, sau đều giàu có nhưng sớm xa \nnhau. \n- Phá đồng cung: một người, trong nhà hay có sự xô xát, anh chị em phải xa \ncách nhau. \n- Sát đồng cung: một người, nhưng mang cố tật hay bị hình thương, nếu \nkhông sớm xa cách nhau, tất bị hình khác. \n15.2.5. Thái Dương \n- Đơn thủ tại Thìn, Tỵ, Ngọ: sáu người trở lên, đều qúy hiển, anh em trai \nnhiều hơn chị em gái. \n- Đơn thủ tại Tuất, Hợi, Tý: nhiều nhất là ba người, nhưng bất hòa. \n- Cự đồng cung tại Dần: ba người, cũng khá giả.\n- Cự đồng cung tại Thân: may mắn lắm mới có hai người, nhưng bất hòa \nphải xa cách nhau.\n- Lương đồng cung tại Mão: năm người, đều quý hiển.\n- Nguyệt đồng cung: năm người trở lên, tuy khá giả nhưng khiếm hòa.\n15.2.6.Thiên Cơ \n- Đơn thủ tại Tỵ, Ngọ,  Mùi: nhiều nhất là ba người.\n- Đơn thủ tại Hợi, Tý, Sửu: may mắn lắm mới có hai người.\n- Nguyệt đồng cung tại Thân: ba người.\n- Nguyệt đồng cung tai Dần: may mắn lắm mới có một người.\n- Lương đồng cung: hai người, khá giả và thuận hòa.\n- Cự đồng cung: hai người, khá giả, nhưng không hợp tính nhau.\n15.2.7. Thiên Phủ\n- Đơn thủ tại Tỵ, Hợi: năm người trở lên.\n- Đơn thủ tại Sửu, Mùi, Mão, Dậu: nhiều nhất là bốn người, nhưng trong \nnhà thiếu hòa khí. Có người bị hình thương mang cố tật.\n- Coi Tử Vi (Phủ đồng cung) – Liêm Trinh (Phủ đồng cung) – Vũ Khúc \n(Phủ đồng cung).\n15.2.8.Thái Âm\n- Đơn thủ tại Dậu, Tuất, Hợi: sáu người trở lên, khá giả. Chị em gái nhiều \nhơn anh em trai.\n- Đơn thủ tại Mão, Thìn, Tỵ: may mắn lắm mới có ba người, nhưng trong số \nđó phải có người mang cố tật, hay cùng khổ cô đơn. Anh chị em không thể chung \nsống với nhau lâu được.\n- Coi Thiên Đồng (Đơn thủ tại Tỵ, Hợi; Nguyệt đồng cung tại Ngọ) – Thái \nDương (Nguyệt đồng cung) – Thiên Cơ (Nguyêt đồng cung tại Thân; Nguyệt \nđồng cung tại Dần).\n15.2.9. Tham Lang \n- Đơn thủ tại Thìn, Tuất: hai người. \n- Đơn thủ tại Dần, Thân: một người \n- Đơn thủ tại Tý, Ngọ: may mắn lắm mời có một người, nhưng hay chơi \nbời, suốt đời lang thang đây đó. Đôi khi lại có thêm nhiều anh chị em dị bào rất \nkhá giả. \n- Tử đồng cung: nhiều nhất là ba người, thường ly tán và vất vả trên đường \nđời. \n- Liêm đồng cung: may mắn lắm mới có hai người nhưng ly tán, cùng khổ. \nTrong nhà thiếu hòa khí. Anh chị em oán hận lẫn nhau, đôi khi lại còn cãi nhau. \n- Vũ Tham đồng cung: nhiều nhất là ba người, sau đều giàu có nhưng sớm \nxa nhau. \n15.2.10. Cự Môn \n- Đơn thủ tại Hợi, Tý, Ngọ: hai người, nhưng bất hòa. \n- Đơn thủ tại Tỵ, Thìn, Tuất: may mắn lắm mới có một người, nên ở riêng. \nNhưng đôi khi lại có thêm rất nhiều anh chị em dị bào. \n- Đồng đồng cung: may mắn lắm mới có hai người, trong nhà thiếu hòa \nkhí, anh chị em có sớm xa cách nhau mới được toàn vẹn, có người mang cố tật \nhay mắc hình ngục. \n- Cự đồng cung Thái Dương tại Dần: ba người, cũng khá giả.\n- Cự đồng cung Thái Dương tại Thân: may mắn lắm mới có hai người, \nnhưng bất hòa phải xa cách nhau.\n- Cự đồng cung Thiên Cơ hai người, khá giả, nhưng không hợp tính nhau.\n15.2.11. Thiên Tướng \n- Đơn thủ tại Tỵ, Hợi, Sửu, Mùi: hai người trở lên. \n- Đơn thủ tại Mão, Dậu: nhiều nhất là hai người. \n- Tử đồng cung: bốn người trở lên, nhưng trong nhà hay có sự bất hòa \nvì không có sự nhường nhịn lẫn nhau, tuy vậy tất cả đều khá giả. Vân Đằng Thái \nThứ Lang\t Tử Vi đẩu số tân biên\n- Liêm đồng cung: hai người, đều qúy hiển. \n- Vũ đồng cung: hai người. \n15.2.12. Thiên Lương \n- Đơn thủ tại Tý, Ngọ: hai hay ba người, khá giả và thuận hòa. \n- Đơn thủ tại Sửu, Mùi: may mắn lắm mới có một người. \n- Đơn thủ tại Tỵ, Hợi: nhiều nhất là hai người, thường xa cách nhau từ \nlúc thiếu thời, có người du đãng, hoang tàng. \n- Đồng đồng cung: ba người, khá giả. \n- Lương đồng cung Thái Dương tại Mão: năm người, đều quý hiển.\n- Lương đồng cung Thiên Cơ: hai người, khá giả và thuận hòa.\n15.2.13. Thất Sát \n- Đơn thủ tại Dần, Thân: may mắn lắm mới có hai người, tuy khá giả nhưng \nkhiếm hòa. \n- Đơn thủ tại Tý, Ngọ: may mắn lắm mới có một người, thường bị hình \nthương hay mang tật, trong gia đinh thiếu hòa khí. \n- Đơn thủ tại Thìn, Tuất: không có anh chị em. \n- Tử đồng cung: nhiều nhất là ba người, đều được hưởng phú qúy. \n- Liêm đồng cung may mắn lắm mới có một người, thường mang tật, nên \nsuốt đời cùng khổ, hay chết non, anh chị em bất hòa. \n- Vũ đồng cung: một người, nhưng mang cố tật hay bị hình thương, nếu \nkhông sớm xa cách nhau, tất bị hình khác. \n15.2.14. Phá Quân \n- Đơn thủ tại Tý, Ngọ: ba người, khá giả, nhưng khiếm hòa, sớm xa cách \nnhau. \n- Đơn thủ tại Thìn, Tuất: may mắn lắm mới có một người nhưng cũng \nkhông thể ở gần nhau được. \n- Đơn thủ tại Dần, Thân: may mắn lắm mới có một người phải mang cố tật, \nhay bất hành nhân \n- Tử đồng cung: nhiều nhất là ba người, ngoài ra còn có thêm anh chị em dị \nbào, anh chị em sớm xa cách nhau, trong nhà thiếu hòa khí. \n- Liêm đồng cung: một người, nhưng bần cùng và thường mang tật. \n- Vũ đồng cung: một người, trong nhà hay có sự xô xát, anh chị em phải xa \ncách nhau. \n15.2.15. Sát tinh \n- Nhiều sao sáng sủa tốt đẹp: giảm một nửa số anh chị em, trong nhà hay \ncó sự bất hòa, thường có người mang tật. \n- Nhiều sao mờ ám xấu xa: không có anh chị em, nếu có rồi cũng phải phiêu \nbạt, tàn lụi đến hết. \n15.2.16. Xương, Khúc \n- Nhiều sao sáng sủa tốt đẹp: thêm ba người, anh chị em khá giả, có danh \nchức và rất thông minh. \n- Nhiều sao mờ ám xấu xa: không có anh chị em. \n15.2.17. Khôi, Việt \nAnh chị em qúy hiển. \n15.2.18. Tả, Hữu \n- Nhiều sao sáng sủa tốt đẹp: thêm ba người, biết giúp đỡ lẫn nhau. \n- Nhiều sao mờ ám xấu xa: thêm một người \n15.2.19. Lộc Tồn \n- Nhiều sao sáng sủa tốt đẹp: ít anh chị em. Anh chị em khá giả nhưng \nsớm xa cách nhau, trong nhà thiếu hòa khí. \n- Nhiều sao mờ ám xấu xa: không có anh chị em \n15.2.20. Khoa, Quyền, Lộc \nAnh chị em giàu có, qúy hiển và thông minh, học giỏi. \n15.2.21. Hóa Kỵ \nAnh chị em bất hòa, xa cách nhau. \n15.2.22. Song Hao \nChiết giảm số anh chị em, trong gia đình thiếu hòa khí, anh chị em thường \nxa cách nhau, lại có người phá tán chơi bời. \n15.2.23. Thiên Mã \nAnh chị em khá giả, nhưng không ở gần nhau. \n15.2.24. Quang, Qúy \nCó anh chị em nuôi. \n15.2.25. Cô, Qủa \n- Nhiều sao sáng sủa tốt đẹp: số anh chị em bị chiết giảm, trong nhà thiếu \nhòa khí. \n- Nhiều sao mờ ám xấu xa: không có anh chị em. \n15.2.26. Tràng Sinh \nThêm tám người. \n15.2.27. Đế Vượng \nThêm năm người. \n15.2.28. Quan Đới, Lâm Quan \nThêm ba hay bốn người. \n15.2.29. Suy \nThêm ba người. \n15.2.30. Bệnh, Thai \nThêm một người. \n15.2.31. Dưỡng \nThêm hai người, có em nuôi. \n15.2.32. Tử \nAnh chị еm bất hòa. \n15.2.33. Tuyệt \nTrong số anh chị em có người bị mù lòa hay mang tật. \n15.2.34. Tuần, Triệt án ngữ \n- Anh cả hay chị cả chết non, nếu không cũng cùng khổ cô đơn, phải làm \năn ở phương xa. Trong nhà thiếu hòa khí, anh thị em không thể sống gần nhau \nlâu được. \n- Nhiều sao sáng sủa tốt đẹp: số anh chị em bị chiết giảm hết một nửa. \n- Nhiều sao mờ ám xấu xa: số anh chị em bị chiết giảm rất ít. \n15.2.35. Tử Vi, Tả, Hữu \nAnh chị em khá giả, thuận hòa, nhưng có người trắc trở về hôn phối. \n15.2.36. Tử Vi, Tang, Tả, Hữu \nAnh chị em khá giả nhưng bất hòa, có người bỏ vợ hay bỏ chồng. \n15.2.37. Nhật, Nguyệt, Thai đồng cung - Tử Tức có Thai tọa thủ và có \nNhật Nguyệt giáp \nCó anh chị em sinh đôi. \n15.2.38. Phá, Tướng \nAnh chị em có người không đứng đắn, ưa việc liễu ngõ hoa tường. \n15.2.39. Phá, Hình, Kỵ \nAnh chị em làm hại nhau. \n15.2.40. Tang, Mã \nGia đình ly tán, anh chị em bất hòa. \n15.2.41. Tang, Trực, Tuế \nAnh chị em hay tranh chấp, cãi lộn. \n15.2.42. Tuế, Xương, Khúc \nTrong số anh chị em có người rất qúy hiển, hoạnh đạt công danh, văn tài lỗi \nlạc. \n15.2.43. Hồng, Đào, Cái \nChị em gái rất lẳng lơ \n15.2.44. Hồng, Đào, Thai, Binh, Tướng \nTrong nhà có người loạn luân, hay có chị em gái chửa hoang. \n15.2.45. Đào, Riêu, Hỉ \nHai chị em gái rất dâm đãng. \n15.2.46. Dưỡng, Tam Không \nCó em nuôi rất khá giả và trung hậu. \n15.2.47. Vô Chính diệu \nCoi Chính diệu xung chiếu như Chính diệu tọa thủ. \n"
+  }
+}

@@ -1,0 +1,477 @@
+{
+  "Cung_tai_bach": {
+    "name": "cung_tài_bạch",
+    "description": "Xem cung Tài Bạch để biết rõ sự giàu nghèo, và sinh kế. Trước khi nhận định ảnh hưởng những sao thuộc cung Tài Bạch, phải luận đoán cẩn thận những cung Mệnh, Thân, Phúc Đức, Quan Lộc và Thiên Di. Nếu những cung trên sáng sủa tốt đẹp, thì dù cung Tài Bạch có mờ ám xấu xa, cũng chẳng đáng lo ngại nhiều về sự thiếu thốn hay quẫn bách. Trái lại, những cung trên mờ ám xấu xa, thì dù cung Tài Bạch có rực rỡ tốt đẹp chăng nữa, cũng chưa đáng mừng. Có thể là sẽ giàu có, sinh kế dễ dàng, nhưng chẳng may chết non. Như vậy phải chăng Tài Bạch cũng thành vô vị.",
+    "stars": [
+      {
+        "star_id": "tử_vi",
+        "context_type": null,
+        "rules": {
+          "đơn_thủ_tại_tại_ngọ_tướng_đồng_cung": "giàu có súc tích, tiền của chất đống \ntrong kho đụn.",
+          "đơn_thủ_tại_tý": "giàu có, nhưng không được rực rỡ như ở trên.",
+          "phủ_đồng_cung": "rất nhiều của cải, thường làm quan về tài chánh, được coi \ngiữ kho tàng.",
+          "sát_đồng_cung": "kiếm tiền rất nhanh, làm giàu rất chóng.",
+          "phá_đồng_cung": "buổi đầu chật vật nhưng về sau rất dễ kiếm tiền, và cũng \nđược sung túc.",
+          "tham_đồng_cung": "bình thường, được hưởng của hương hỏa để lại, nhưng về sau \ncũng suy kém."
+        }
+      },
+      {
+        "star_id": "liêm_trinh",
+        "context_type": null,
+        "rules": {
+          "độc_thủ_tại_dần_thân": "phải cạnh tranh ráo riết mới kiếm được tiền, làm \ngiàu chậm chạp nhưng chắc chắn.",
+          "phủ_hay_tướng_đồng_cung": "giàu có lớn, giữ của bền vững.",
+          "sát_đồng_cung": "đi kiếm tiền trong lúc náo loạn nhưng tai ương thường đi \nliền với tiền bạc.",
+          "phá_đồng_cung": "tiền tài thất thường, hay hoang phí hao tán nhưng hết lại \ncó.",
+          "tham_đồng_cung": "túng thiếu, suốt đời khổ sở vì tiền. Hay mắc tai họa vì \ntiền, nhất là kiện tụng và hình ngục."
+        }
+      },
+      {
+        "star_id": "thiên_đồng",
+        "context_type": null,
+        "rules": {
+          "đơn_thủ_tại_mão_nguyệt_đồng_cung_tại_tý": "tay trắng làm giàu, càng về sau \ncàng lắm của.",
+          "đơn_thủ_tại_dậu": "tiền tài tụ tán thất thường.",
+          "đơn_thủ_tại_tỵ_hợi": "lang thang nay đây mai đó đi kiếm tiền nhưng lại rất \nhoang phí và bị hao tán nên không giữ được của.",
+          "đơn_thủ_tại_thìn_tuất": "túng thiếu",
+          "lương_đồng_cung": "tất giàu có, buôn bán kinh doanh càng ngày càng phát \nđạt.",
+          "nguyệt_đồng_cung_tại_ngọ": "phải vất vả mới kiếm đượс tiền, về già mới có \ncủa.",
+          "cự_đồng_cung": "tiền tài tụ tán thất thường nhưng hay túng chiếu và thường \nmắc thị phi, kiện tụng vì tiền. Có xa nhà hay lưu lạc nơi đất khách quê người mới \nphát đạt."
+        }
+      },
+      {
+        "star_id": "vũ_khúc",
+        "context_type": null,
+        "rules": {
+          "đơn_thủ_tại_thìn_tuất": "giàu có lớn.",
+          "phủ_đồng_cung": "rất giàu có, giữ của bền vững, thường làm quan về tài \nchính hay giữ kho tàng.",
+          "tham_đồng_cung": "từ ngoài 30 trở đi, mới giàu.",
+          "tướng_đồng_cung": "của cải chồng chất, hay gặp qúy nhân nâng đỡ.",
+          "sát_đồng_cung": "tay trắng lập nghiệp, buổi đầu vất vả khó khăn, về sau mới \nđược dễ dàng",
+          "phá_đồng_cung": "tiền vào tay này sang tay kia, trước không sau có. Nên \nchuyên về kỹ nghệ hay thương mại."
+        }
+      },
+      {
+        "star_id": "thái_dương",
+        "context_type": null,
+        "rules": {
+          "tọa_thủ_từ_dần_đến_ngọ": "giàu có lớn, dễ kiếm tiền.",
+          "tọa_thủ_từ_thân_đến_tý": "vất vả mới kiếm được tiền, phải gặp thời loạn \nhay phải đi ngang về tắt mới kiếm được đủ tiêu dùng, về già mới sung túc.",
+          "nguyệt_đồng_cung": "trước ít sau nhiều, nếu gặp Kỵ đồng cung hay Tuần, \nTriệt án ngữ lại càng dễ làm giàu."
+        }
+      },
+      {
+        "star_id": "thiên_cơ",
+        "context_type": null,
+        "rules": {
+          "đơn_thủ_tại_ty_ngọ_mùi": "tiền tài sung túc.",
+          "đơn_thủ_tại_hợi_tý_sửu": "kiếm tiền chậm chạp và khó khăn.",
+          "lương_đồng_cung": "làm giàu dễ dàng.",
+          "cự_đồng_cung": "kinh doanh, hoạt động, cạnh tranh ráo riết mà trở nên giàu \ncó.",
+          "nguyệt_đồng_cung_tại_thân": "tay trắng lập nghiệp nhưng khá giả.",
+          "nguyệt_đồng_cung_tại_dần": "thành bại, thất thường, kiếm tiền khó khăn và \nchậm chạp."
+        }
+      },
+      {
+        "star_id": "thiên_phủ",
+        "context_type": null,
+        "rules": {
+          "đơn_thủ_tại_tỵ_hợi": "rất giàu có và giữ của bền vững",
+          "đơn_thủ_tại_sửu_mùi_mão_dậu": "giàu có, nhưng không được rực rỡ như \ntrên.",
+          "tử_đồng_cung": "rất nhiều của cải, thường làm quan về tài chánh, được coi \ngiữ kho tàng.",
+          "liêm_đồng_cung": "giàu có lớn, giữ của bền vững.",
+          "vũ_đồng_cung": "rất giàu có, giữ của bền vững, thường làm quan về tài chính \nhay giữ kho tàng."
+        }
+      },
+      {
+        "star_id": "thái_âm",
+        "context_type": null,
+        "rules": {
+          "đơn_thủ_tại_dậu_tuất_hợi": "giàu có lớn, dễ kiếm tiền.",
+          "đơn_thủ_tại_mão_thìn_tỵ": "vất vả mới kiếm được tiền, phải gặp thời \nloạn hay phải đi ngang về tắt mới kiếm được đủ tiêu dùng, về già mới sung túc",
+          "đồng_đồng_cung_tại_ngọ": "phải vất vả mới kiếm đượс tiền, về già mới có \ncủa.",
+          "cơ_đồng_cung_tại_thân": "tay trắng lập nghiệp nhưng khá giả.",
+          "cơ_đồng_cung_tại_dần": "thành bại, thất thường, kiếm tiền khó khăn và \nchậm chạp."
+        }
+      },
+      {
+        "star_id": "tham_lang",
+        "context_type": null,
+        "rules": {
+          "đơn_thủ_tai_thìn_tuất": "hoạnh phái tiền tài, kiếm tiền nhanh chóng và dễ \ndàng, càng về già càng giàu có.",
+          "đơn_thủ_tại_tý_ngọ": "hoang phí, chơi bời nên hao tán, suốt đời túng thiếu.",
+          "đơn_thủ_tại_dần_thân": "tiền vào tay này sang tay kia.",
+          "tử_đồng_cung": "bình thường, được hưởng của hương hỏa để lại, nhưng về \nsau cũng suy kém.",
+          "liêm_đồng_cung": "túng thiếu, suốt đời khổ sở vì tiền. Hay mắc tai họa vì \ntiền, nhất là kiện tụng và hình ngục.",
+          "vũ_đồng_cung": "từ ngoài 30 trở đi, mới giàu."
+        }
+      },
+      {
+        "star_id": "cự_môn",
+        "context_type": null,
+        "rules": {
+          "đơn_thủ_tại_hợi_tý_ngọ": "tay trắng lập nghiệp, hoạnh phái tiền tài, nhất \nlà trong lúc náo loạn, cạnh tranh.",
+          "đơn_thủ_tại_tỵ_thìn_tuất": "tiền tài tụ tán thất thường, hay túng thiếu và \nthường mắc thị phi, kiện tụng vì tiền.",
+          "nhật_đồng_cung_tại_dần": "giàu có lớn, dễ kiếm tiền.",
+          "nhật_đồng_cung_tại_thân": "vất vả mới kiếm được tiền, phải gặp thời loạn \nhay phải đi ngang về tắt mới kiếm được đủ tiêu dùng, về già mới sung túc.",
+          "đồng_đồng_cung": "tiền tài tụ tán thất thường nhưng hay túng chiếu và \nthường mắc thị phi, kiện tụng vì tiền. Có xa nhà hay lưu lạc nơi đất khách quê \nngười mới phát đạt.",
+          "cơ_đồng_cung": "kinh doanh, hoạt động, cạnh tranh ráo riết mà trở nên giàu \ncó."
+        }
+      },
+      {
+        "star_id": "thiên_tướng",
+        "context_type": null,
+        "rules": {
+          "đơn_thủ_tại_tỵ_hợi_sửu_mùi": "tiền tài sung túc, hay gặp những mối lợi tự \nnhiên đưa đến.",
+          "đơn_thủ_tại_mão_dậu": "bình thường, nên chuyên về công nghệ.",
+          "tử_đồng_cung": "giàu có súc tích, tiền của chất đống trong kho đụn.",
+          "liêm_đồng_cung": "giàu có lớn, giữ của bền vững.",
+          "vũ_đồng_cung": "của cải chồng chất, hay gặp qúy nhân nâng đỡ."
+        }
+      },
+      {
+        "star_id": "thiên_lương",
+        "context_type": null,
+        "rules": {
+          "đơn_thủ_tại_tý_ngọ": "giàu có lớn, suốt đời không phải bận tâm lo nghĩ về \nsinh kế hàng ngày.",
+          "đơn_thủ_tại_sửu_mùi": "bình thường.",
+          "đơn_thủ_tại_tỵ_hợi": "lang thang nay đây mai đó đi kiếm tiền nhưng lại rất \nhoang phí và bị hao tán nên không giữ được của.",
+          "nhật_đồng_cung_tại_mão": "giàu có lớn, dễ kiếm tiền.",
+          "nhật_đồng_cung_tại_dậu": "vất vả mới kiếm được tiền, phải gặp thời loạn \nhay phải đi ngang về tắt mới kiếm được đủ tiêu dùng, về già mới sung túc.",
+          "đồng_đồng_cung": "tất giàu có, buôn bán kinh doanh càng ngày càng phát \nđạt.",
+          "cơ_đồng_cung": "làm giàu dễ dàng."
+        }
+      },
+      {
+        "star_id": "thất_sát",
+        "context_type": null,
+        "rules": {
+          "đơn_thủ_tại_dần_thân": "trước ít sau nhiều, lúc đứng tuổi kiếm tiền một \ncách nhanh chóng, dễ dàng.",
+          "đơn_thủ_tại_tý_ngọ": "tiền tài tụ tán thất thường nhưng hay tìm được \nnhững mối lợi và hay kiếm được những món tiền một cách bất ngờ, thường gọi \nlà hoạnh tài.",
+          "đơn_thủ_tại_thìn_tuất": "suốt đời thiếu thốn.",
+          "tử_đồng_cung": "kiếm tiền rất nhanh, làm giàu rất chóng.",
+          "liêm_đồng_cung": "đi kiếm tiền trong lúc náo loạn nhưng tai ương thường đi \nliền với tiền bạc.",
+          "vũ_đồng_cung": "tay trắng lập nghiệp, buổi đầu vất vả khó khăn, về sau mới \nđược dễ dàng"
+        }
+      },
+      {
+        "star_id": "phá_quân",
+        "context_type": null,
+        "rules": {
+          "đơn_thủ_tại_tỷ_ngọ": "giàu có súc tích, kiếm tiền nhanh chóng và dễ dàng. Rất \nhay phóng tiền tiêu pha nhưng sau đó lại thu về những mối lợi rất lớn. Kinh doanh \nbuôn bán liều lĩnh và bạo tay.",
+          "đơn_thủ_tại_thìn_tuất": "tiền tài tụ tán thất thường những hết lại có.",
+          "đơn_thủ_tại_dần_thân": "kiếm tiền khó khăn, thu vào ít phóng ra nhiều, \nnên làm nghề thủ công hay mỹ thuật.",
+          "tử_đồng_cung": "buổi đầu chật vật nhưng về sau rất dễ kiếm tiền, và cũng \nđược sung túc.",
+          "liêm_đồng_cung": "tiền tài thất thường, hay hoang phí hao tán nhưng hết lại \ncó.",
+          "vũ_đồng_cung": "tiền vào tay này sang tay kia, trước không sau có. Nên \nchuyên về kỹ nghệ hay thương mại."
+        }
+      },
+      {
+        "star_id": "kình_đà",
+        "context_type": null,
+        "rules": {
+          "sáng_sủa_tốt_đẹp": "kiếm tiền trong lúc náo loạn, dễ dàng và nhanh chóng.",
+          "mờ_ám_xấu_xa": "thiếu thốn và phá tán, phải xoay sở một cách ám muội và \nphi nghĩa mới có tiền."
+        }
+      },
+      {
+        "star_id": "hỏa_linh",
+        "context_type": null,
+        "rules": {
+          "sáng_sủa_tốt_đẹp": "kiếm tiền rất nhanh, nhưng hao tán rất chóng, thường \ngọi là hoạnh phát hoạnh phá.",
+          "mờ_ám_xấu_xa": "túng thiếu, nếu cố được chút ít, sau cũng phá tán đến hết."
+        }
+      },
+      {
+        "star_id": "không_kiếp",
+        "context_type": null,
+        "rules": {
+          "sáng_sủa_tốt_đẹp": "hoạnh phát nhưng hoạnh phá, buổi đầu làm nên giàu có một \ncách nhanh chóng nhưng về sau lại lụn bại một cách bất ngờ. Thường hay buôn bán \nmột cách táo bạo và ám muội.",
+          "mờ_ám_xấu_xa": "túng thiếu, cùng khốn."
+        }
+      },
+      {
+        "star_id": "xương_khúc",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Thích đánh bạc.",
+          "nhiều_sao_sáng_sủa_tốt_đẹp": "giàu có lớn.",
+          "nhiều_sao_mờ_ám_xấu_xa": "phá tán, hao tài, hay buồn bực vì tiền nhưng vẫn \ncó người giúp đỡ."
+        }
+      },
+      {
+        "star_id": "khôi_việt",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Dễ kiếm tiền, hay gặp qúy nhân giúp đỡ."
+        }
+      },
+      {
+        "star_id": "tả_hữu",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Dễ làm giàu, luôn luôn gặp người giúp đỡ về tiền bạc."
+        }
+      },
+      {
+        "star_id": "lộc_tồn_hóa_lộc",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Dễ kiếm tiền, suốt đời sung túc"
+        }
+      },
+      {
+        "star_id": "khoa_quyền",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Làm giàu mau chónh, hay gặp người giúp đỡ."
+        }
+      },
+      {
+        "star_id": "hóa_kỵ",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Tán tài."
+        }
+      },
+      {
+        "star_id": "thiên_mã",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Dễ kiếm tiền ở phương xa."
+        }
+      },
+      {
+        "star_id": "cô_quả",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Hà tiện, khéo giữ của."
+        }
+      },
+      {
+        "star_id": "đào_hồng",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Sẵn tiền, đàn bà phải nhờ nhan sắc mới dễ kiếm tiền, đàn ông phải nhờ vợ \nhay nhân tình."
+        }
+      },
+      {
+        "star_id": "song_hao",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Thích đánh bạc, tiêu hoang, hay nghiện (ghiền) một thứ gì.",
+          "sáng_sủa_tốt_dẹp": "dễ kiếm tiền nhưng lại tiêu pha hoang phí, hay bị hao tán \nhết.",
+          "mờ_ám_xấu_xa": "suốt đời thiếu thốn."
+        }
+      },
+      {
+        "star_id": "quang_qúy",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Hay có người giúp tiền, thường được hưởng của thừa tự."
+        }
+      },
+      {
+        "star_id": "đẩu_quân",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Giữ của vững bền."
+        }
+      },
+      {
+        "star_id": "phục_binh",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Hay bị mất cắp, mất trộm."
+        }
+      },
+      {
+        "star_id": "tử",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Có của chôn giấu."
+        }
+      },
+      {
+        "star_id": "riêu_y",
+        "context_type": null,
+        "rules": {
+          "nhiều_sao_sáng_sủa_tốt_đẹp": "hay buôn thuốc rất phát tài.",
+          "nhiều_sao_mờ_ám_xấu_xa": "chơi bời, phá tán."
+        }
+      },
+      {
+        "star_id": "điếu_khách",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Cờ bạc dông dài."
+        }
+      },
+      {
+        "star_id": "tuần_triệt_án_ngữ",
+        "context_type": null,
+        "rules": {
+          "nhiều_sao_sáng_sủa_tốt_đẹp": "kiếm tiền khó khăn, vào tay này sang lay \nkia, không được hưởng của tiền nhân để lại, suốt đời túng thiếu.",
+          "nhiều_sao_mờ_ám_xấu_xa": "trước khó kiếm tiền, sau rất dễ nhưng không thể \ngiàu có lớn được."
+        }
+      },
+      {
+        "star_id": "liêm_kình_đà_hỏa_linh_không_kiếp",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Tính gian lận và keo bẩn nhưng lại hay tán tài."
+        }
+      },
+      {
+        "star_id": "không_kiếp_giáp_cung_tài_bạch_không_kiếp_phục",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Kẻ trộm cướp rình mò ở gần nhà, hay ở ngay bên hàng xóm."
+        }
+      },
+      {
+        "star_id": "không_kiếp_tả_hữu",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Lừa đảo, lấy của người khác để làm giàu."
+        }
+      },
+      {
+        "star_id": "không_kiếp_tả_hữu_sát_tinh_tướng_phục",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Đi cướp của người khác."
+        }
+      },
+      {
+        "star_id": "lộc_mã_đồng_cung",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Của đến tận tay."
+        }
+      },
+      {
+        "star_id": "lộc_hồng_đồng_cung",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Trai tiêu tiền của vợ, gái nhờ nhan sắc mà dễ kiếm tiền."
+        }
+      },
+      {
+        "star_id": "lộc_hao_đồng_cung",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Kiếm tiền ít, nhưng lại tiêu nhiều và rất hoang phí. Không những thế lại còn \nbị hao tán, mất mát."
+        }
+      },
+      {
+        "star_id": "lộc_tang_đà",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Được của thừa tự của một người trong họ để lại."
+        }
+      },
+      {
+        "star_id": "lộc_không_kiếp",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Tính ích kỷ, biến lận nhưng lại hay bị hao tốn tiền tài rất nhiều."
+        }
+      },
+      {
+        "star_id": "lộc_mã",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Buôn bán phát tài, đi kiếm tiền, nhất là kinh doanh ở nơi xa, nay đây mai \nđó, lại cũng chóng trở nên giàu có."
+        }
+      },
+      {
+        "star_id": "song_hao_hỏa_linh",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Mắc nghiện, nếu không cũng say mè cờ bạc, phá tán rất nhiều tiền của."
+        }
+      },
+      {
+        "star_id": "song_hao_hồng_đào",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Tốn tiền vì chuyện trai gái, đàn ông thường bị vợ hay nhân tình bòn của, \nđàn bà thường bị chồng hay nhân tình lợi dụng, dễ làm tiền."
+        }
+      },
+      {
+        "star_id": "song_hao_không_kiếp",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Mất trộm lớn, mất cướp hay bị lừa đảo sạt nghiệp."
+        }
+      },
+      {
+        "star_id": "long_phượng_mộ",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Được hưởng của tiền nhân dể lại."
+        }
+      },
+      {
+        "star_id": "tuế_lộc_cung",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Buôn bán giỏi, được nhiều người tin cậy, nói rа tiền."
+        }
+      },
+      {
+        "star_id": "tuế_đà_kỵ",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Hay gặp sự tranh chấp về tiền tài, có mắc thị phú kiện tụng mới kiếm ra \ntiền."
+        }
+      },
+      {
+        "star_id": "hình_cơ_tuế",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Làm thợ khéo, kiếm tiền dề dàng."
+        }
+      },
+      {
+        "star_id": "hình_lực_đồng_cung",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Hay đi ăn trộm."
+        }
+      },
+      {
+        "star_id": "hình_tang_đào",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Làm nghề thủ công, rất phát đạt."
+        }
+      },
+      {
+        "star_id": "lưu_hà_kiếp_sát_hình",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Vì tiền mà mang họa vào thân, thường mất cướp, bị đánh đập rất đau đớn."
+        }
+      },
+      {
+        "star_id": "thiên_không_kiếp_đồng_cung",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Bần cùng, khốn khổ."
+        }
+      },
+      {
+        "star_id": "vô_chính_diệu",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Coi Chính diệu xung chiếu như Chính diệu tọa thủ. Dù có nhiều sao sáng \nsủa tốt đẹp hội hợp cũng không thể giàu to lớn được ngoại trừ hai trường hợp \nđặc biệt sau đây:",
+          "tuần_triệt_án_ngữ": "buổi đầu kiếm tiền khó khăn, nhưng về sau dễ dàng, \ncàng về già lại càng sung túc.",
+          "nhật_nguyệt_cùng_sáng_sủa_xung_chiếu_hay_hợp_chiến": "giàu có lớn. \nCũng trong trường hợp này, nếu cung Tài Bạch vô chính điệu lại có Tuần, Triệt \nán ngữ, thật là tốt đẹp bội phần."
+        }
+      }
+    ],
+    "source_content": "Xem cung Tài Bạch để biết rõ sự giàu nghèo, và sinh kế. \nTrước khi nhận định ảnh hưởng những sao thuộc cung Tài Bạch, phải \nluận đoán cẩn thận những cung Mệnh, Thân, Phúc Đức, Quan Lộc và Thiên Di. \nNếu những cung trên sáng sủa tốt đẹp, thì dù cung Tài Bạch có mờ ám \nxấu xa, cũng chẳng đáng lo ngại nhiều về sự thiếu thốn hay quẫn bách. Trái lại, \nnhững cung trên mờ ám xấu xa, thì dù cung Tài Bạch có rực rỡ tốt đẹp chăng \nnữa, cũng chưa đáng mừng. Có thể là sẽ giàu có, sinh kế dễ dàng, nhưng chẳng \nmay chết non. Như vậy phải chăng Tài Bạch cũng thành vô vị. \n12.1. Tử Vi \n- Đơn thủ tại tại Ngọ, Tướng đồng cung: giàu có súc tích, tiền của chất đống \ntrong kho đụn. \n- Đơn thủ tại Tý: giàu có, nhưng không được rực rỡ như ở trên. \n- Phủ đồng cung: rất nhiều của cải, thường làm quan về tài chánh, được coi \ngiữ kho tàng. \n- Sát đồng cung: kiếm tiền rất nhanh, làm giàu rất chóng. \n- Phá đồng cung: buổi đầu chật vật nhưng về sau rất dễ kiếm tiền, và cũng \nđược sung túc. \n- Tham đồng cung: bình thường, được hưởng của hương hỏa để lại, nhưng về sau \ncũng suy kém. \n12.2. Liêm Trinh \n- Độc thủ tại Dần, Thân: phải cạnh tranh ráo riết mới kiếm được tiền, làm \ngiàu chậm chạp nhưng chắc chắn. \n- Phủ hay Tướng đồng cung: giàu có lớn, giữ của bền vững. \n- Sát đồng cung: đi kiếm tiền trong lúc náo loạn nhưng tai ương thường đi \nliền với tiền bạc. \n- Phá đồng cung: tiền tài thất thường, hay hoang phí hao tán nhưng hết lại \ncó. \n- Tham đồng cung: túng thiếu, suốt đời khổ sở vì tiền. Hay mắc tai họa vì \ntiền, nhất là kiện tụng và hình ngục. \n12.3. Thiên Đồng \n- Đơn thủ tại Mão, Nguyệt đồng cung tại Tý: tay trắng làm giàu, càng về sau \ncàng lắm của. \n- Đơn thủ tại Dậu: tiền tài tụ tán thất thường. \n- Đơn thủ tại Tỵ, Hợi: lang thang nay đây mai đó đi kiếm tiền nhưng lại rất \nhoang phí và bị hao tán nên không giữ được của. \n- Đơn thủ tại Thìn, Tuất: túng thiếu \n- Lương đồng cung: tất giàu có, buôn bán kinh doanh càng ngày càng phát \nđạt. \n- Nguyệt đồng cung tại Ngọ: phải vất vả mới kiếm đượс tiền, về già mới có \ncủa. \n- Cự đồng cung: tiền tài tụ tán thất thường nhưng hay túng chiếu và thường \nmắc thị phi, kiện tụng vì tiền. Có xa nhà hay lưu lạc nơi đất khách quê người mới \nphát đạt. \n12.4. Vũ Khúc \n- Đơn thủ tại Thìn, Tuất: giàu có lớn. \n- Phủ đồng cung: rất giàu có, giữ của bền vững, thường làm quan về tài \nchính hay giữ kho tàng. \n- Tham đồng cung: từ ngoài 30 trở đi, mới giàu. \n- Tướng đồng cung: của cải chồng chất, hay gặp qúy nhân nâng đỡ. \n- Sát đồng cung: tay trắng lập nghiệp, buổi đầu vất vả khó khăn, về sau mới \nđược dễ dàng \n- Phá đồng cung: tiền vào tay này sang tay kia, trước không sau có. Nên \nchuyên về kỹ nghệ hay thương mại. \n12.5. Thái Dương \n- Tọa thủ từ Dần đến Ngọ: giàu có lớn, dễ kiếm tiền. \n- Tọa thủ từ Thân đến Tý: vất vả mới kiếm được tiền, phải gặp thời loạn \nhay phải đi ngang về tắt mới kiếm được đủ tiêu dùng, về già mới sung túc. \n- Nguyệt đồng cung: trước ít sau nhiều, nếu gặp Kỵ đồng cung hay Tuần, \nTriệt án ngữ lại càng dễ làm giàu. \n12.6. Thiên Cơ \n- Đơn thủ tại Ty, Ngọ, Mùi: tiền tài sung túc. \n- Đơn thủ tại Hợi, Tý, Sửu : kiếm tiền chậm chạp và khó khăn. \n- Lương đồng cung: làm giàu dễ dàng. \n- Cự đồng cung: kinh doanh, hoạt động, cạnh tranh ráo riết mà trở nên giàu \ncó. \n- Nguyệt đồng cung tại Thân: tay trắng lập nghiệp nhưng khá giả. \n- Nguyệt đồng cung tại Dần: thành bại, thất thường, kiếm tiền khó khăn và \nchậm chạp. \n12.7. Thiên Phủ \n- Đơn thủ tại Tỵ, Hợi: rất giàu có và giữ của bền vững \n- Đơn thủ tại Sửu, Mùi, Mão, Dậu: giàu có, nhưng không được rực rỡ như \ntrên. \n- Tử đồng cung: rất nhiều của cải, thường làm quan về tài chánh, được coi \ngiữ kho tàng. \n- Liêm đồng cung: giàu có lớn, giữ của bền vững. \n- Vũ đồng cung: rất giàu có, giữ của bền vững, thường làm quan về tài chính \nhay giữ kho tàng. \n12.8. Thái Âm \n- Đơn thủ tại Dậu, Tuất, Hợi: giàu có lớn, dễ kiếm tiền. \n- Đơn thủ tại Mão, Thìn, Tỵ: vất vả mới kiếm được tiền, phải gặp thời \nloạn hay phải đi ngang về tắt mới kiếm được đủ tiêu dùng, về già mới sung túc \n- Đồng đồng cung tại Ngọ: phải vất vả mới kiếm đượс tiền, về già mới có \ncủa. \n- Cơ đồng cung tại Thân: tay trắng lập nghiệp nhưng khá giả. \n- Cơ đồng cung tại Dần: thành bại, thất thường, kiếm tiền khó khăn và \nchậm chạp. \n 12.9. Tham Lang \n- Đơn thủ tai Thìn, Tuất: hoạnh phái tiền tài, kiếm tiền nhanh chóng và dễ \ndàng, càng về già càng giàu có. \n- Đơn thủ tại Tý, Ngọ: hoang phí, chơi bời nên hao tán, suốt đời túng thiếu. \n- Đơn thủ tại Dần, Thân: tiền vào tay này sang tay kia. \n- Tử đồng cung: bình thường, được hưởng của hương hỏa để lại, nhưng về \nsau cũng suy kém. \n- Liêm đồng cung: túng thiếu, suốt đời khổ sở vì tiền. Hay mắc tai họa vì \ntiền, nhất là kiện tụng và hình ngục. \n- Vũ đồng cung: từ ngoài 30 trở đi, mới giàu. \n12.10. Cự Môn \n- Đơn thủ tại Hợi, Tý, Ngọ: tay trắng lập nghiệp, hoạnh phái tiền tài, nhất \nlà trong lúc náo loạn, cạnh tranh. \n- Đơn thủ tại Tỵ, Thìn, Tuất: tiền tài tụ tán thất thường, hay túng thiếu và \nthường mắc thị phi, kiện tụng vì tiền. \n- Nhật đồng cung tại Dần: giàu có lớn, dễ kiếm tiền. \n- Nhật đồng cung tại Thân: vất vả mới kiếm được tiền, phải gặp thời loạn \nhay phải đi ngang về tắt mới kiếm được đủ tiêu dùng, về già mới sung túc. \n- Đồng đồng cung: tiền tài tụ tán thất thường nhưng hay túng chiếu và \nthường mắc thị phi, kiện tụng vì tiền. Có xa nhà hay lưu lạc nơi đất khách quê \nngười mới phát đạt. \n- Cơ đồng cung: kinh doanh, hoạt động, cạnh tranh ráo riết mà trở nên giàu \ncó. \n12.11. Thiên Tướng \n- Đơn thủ tại Tỵ, Hợi, Sửu, Mùi: tiền tài sung túc, hay gặp những mối lợi tự \nnhiên đưa đến. \n- Đơn thủ tại Mão. Dậu: bình thường, nên chuyên về công nghệ. \n- Tử đồng cung: giàu có súc tích, tiền của chất đống trong kho đụn. \n- Liêm đồng cung: giàu có lớn, giữ của bền vững. \n- Vũ đồng cung: của cải chồng chất, hay gặp qúy nhân nâng đỡ. \n12.12. Thiên Lương \n- Đơn thủ tại Tý, Ngọ: giàu có lớn, suốt đời không phải bận tâm lo nghĩ về \nsinh kế hàng ngày. \n- Đơn thủ tại Sửu, Mùi: bình thường. \n- Đơn thủ tại Tỵ, Hợi: lang thang nay đây mai đó đi kiếm tiền nhưng lại rất \nhoang phí và bị hao tán nên không giữ được của. \n- Nhật đồng cung tại Mão: giàu có lớn, dễ kiếm tiền. \n- Nhật đồng cung tại Dậu: vất vả mới kiếm được tiền, phải gặp thời loạn \nhay phải đi ngang về tắt mới kiếm được đủ tiêu dùng, về già mới sung túc. \n- Đồng đồng cung: tất giàu có, buôn bán kinh doanh càng ngày càng phát \nđạt. \n- Cơ đồng cung: làm giàu dễ dàng. \n12.13. Thất Sát \n- Đơn thủ tại Dần, Thân: trước ít sau nhiều, lúc đứng tuổi kiếm tiền một \ncách nhanh chóng, dễ dàng. \n- Đơn thủ tại Tý, Ngọ: tiền tài tụ tán thất thường nhưng hay tìm được \nnhững mối lợi và hay kiếm được những món tiền một cách bất ngờ, thường gọi \nlà hoạnh tài. \n- Đơn thủ tại Thìn, Tuất: suốt đời thiếu thốn. \n- Tử đồng cung: kiếm tiền rất nhanh, làm giàu rất chóng. \n- Liêm đồng cung: đi kiếm tiền trong lúc náo loạn nhưng tai ương thường đi \nliền với tiền bạc. \n- Vũ đồng cung: tay trắng lập nghiệp, buổi đầu vất vả khó khăn, về sau mới \nđược dễ dàng \n12.14. Phá Quân \n- Đơn thủ tại Tỷ Ngọ: giàu có súc tích, kiếm tiền nhanh chóng và dễ dàng. Rất \nhay phóng tiền tiêu pha nhưng sau đó lại thu về những mối lợi rất lớn. Kinh doanh \nbuôn bán liều lĩnh và bạo tay. \n- Đơn thủ tại Thìn, Tuất: tiền tài tụ tán thất thường những hết lại có. \n- Đơn thủ tại Dần, Thân: kiếm tiền khó khăn, thu vào ít phóng ra nhiều, \nnên làm nghề thủ công hay mỹ thuật. \n- Tử đồng cung: buổi đầu chật vật nhưng về sau rất dễ kiếm tiền, và cũng \nđược sung túc. \n- Liêm đồng cung: tiền tài thất thường, hay hoang phí hao tán nhưng hết lại \ncó. \n- Vũ đồng cung: tiền vào tay này sang tay kia, trước không sau có. Nên \nchuyên về kỹ nghệ hay thương mại. \n12.14. Kình, Đà \n- Sáng sủa tốt đẹp: kiếm tiền trong lúc náo loạn, dễ dàng và nhanh chóng. \n- Mờ ám xấu xa: thiếu thốn và phá tán, phải xoay sở một cách ám muội và \nphi nghĩa mới có tiền. \n12.16. Hỏa, Linh \n- Sáng sủa tốt đẹp: kiếm tiền rất nhanh, nhưng hao tán rất chóng, thường \ngọi là hoạnh phát hoạnh phá. \n- Mờ ám xấu xa: túng thiếu, nếu cố được chút ít, sau cũng phá tán đến hết. \n12.17. Không, Kiếp \n- Sáng sủa tốt đẹp: hoạnh phát nhưng hoạnh phá, buổi đầu làm nên giàu có một \ncách nhanh chóng nhưng về sau lại lụn bại một cách bất ngờ. Thường hay buôn bán \nmột cách táo bạo và ám muội. \n- Mờ ám xấu xa: túng thiếu, cùng khốn. \n12.18. Xương, Khúc \n- Thích đánh bạc. \n- Nhiều sao sáng sủa tốt đẹp: giàu có lớn. \n- Nhiều sao mờ ám xấu xa: phá tán, hao tài, hay buồn bực vì tiền nhưng vẫn \ncó người giúp đỡ. \n12.19. Khôi, Việt \nDễ kiếm tiền, hay gặp qúy nhân giúp đỡ. \n12.20. Tả, Hữu \nDễ làm giàu, luôn luôn gặp người giúp đỡ về tiền bạc. \n12.21. Lộc Tồn, Hóa Lộc \nDễ kiếm tiền, suốt đời sung túc \n12.22. Khoa, Quyền \nLàm giàu mau chónh, hay gặp người giúp đỡ. \n12.23. Hóa Kỵ \nTán tài. \n12.24. Thiên Mã \nDễ kiếm tiền ở phương xa. \n12.25. Cô, Quả \nHà tiện, khéo giữ của. \n12.26. Đào, Hồng \nSẵn tiền, đàn bà phải nhờ nhan sắc mới dễ kiếm tiền, đàn ông phải nhờ vợ \nhay nhân tình. \n12.27. Song Hao \n- Thích đánh bạc, tiêu hoang, hay nghiện (ghiền) một thứ gì. \n- Sáng sủa tốt dẹp: dễ kiếm tiền nhưng lại tiêu pha hoang phí, hay bị hao tán \nhết. \n- Mờ ám xấu xa: suốt đời thiếu thốn. \n12.28. Quang, Qúy \nHay có người giúp tiền, thường được hưởng của thừa tự. \n12.29. Đẩu Quân \nGiữ của vững bền. \n12.30. Phục Binh \nHay bị mất cắp, mất trộm. \n12.31. Tử \nCó của chôn giấu. \n12.32. Riêu, Y \n- Nhiều sao sáng sủa tốt đẹp: hay buôn thuốc rất phát tài. \n- Nhiều sao mờ ám xấu xa: chơi bời, phá tán. \n12.33. Điếu Khách \nCờ bạc dông dài. \n12.34. Tuần, Triệt án ngữ \n- Nhiều sao sáng sủa tốt đẹp: kiếm tiền khó khăn, vào tay này sang lay \nkia, không được hưởng của tiền nhân để lại, suốt đời túng thiếu. \n- Nhiều sao mờ ám xấu xa: trước khó kiếm tiền, sau rất dễ nhưng không thể \ngiàu có lớn được. \n12.35. Liêm, Kình, Đà, Hỏa, Linh, Không, Kiếp \nTính gian lận và keo bẩn nhưng lại hay tán tài. \n12.36. Không, Kiếp giáp cung Tài Bạch, Không, Kiếp, Phục \nKẻ trộm cướp rình mò ở gần nhà, hay ở ngay bên hàng xóm. \n12.37. Không, Kiếp, Tả, Hữu \nLừa đảo, lấy của người khác để làm giàu. \n12.38. Không, Kiếp, Tả, Hữu, Sát tinh, Tướng, Phục \nĐi cướp của người khác. \n12.39. Lộc, Mã đồng cung \nCủa đến tận tay. \n12.40. Lộc, Hồng đồng cung \nTrai tiêu tiền của vợ, gái nhờ nhan sắc mà dễ kiếm tiền. \n12.41. Lộc, Hao đồng cung \nKiếm tiền ít, nhưng lại tiêu nhiều và rất hoang phí. Không những thế lại còn \nbị hao tán, mất mát. \n12.42. Lộc, Tang, Đà \nĐược của thừa tự của một người trong họ để lại. \n12.43. Lộc, Không, Kiếp \nTính ích kỷ, biến lận nhưng lại hay bị hao tốn tiền tài rất nhiều. \n12.44. Lộc, Mã \nBuôn bán phát tài, đi kiếm tiền, nhất là kinh doanh ở nơi xa, nay đây mai \nđó, lại cũng chóng trở nên giàu có. \n12.45. Song Hao, Hỏa, Linh \nMắc nghiện, nếu không cũng say mè cờ bạc, phá tán rất nhiều tiền của. \n12.46. Song Hao, Hồng, Đào \nTốn tiền vì chuyện trai gái, đàn ông thường bị vợ hay nhân tình bòn của, \nđàn bà thường bị chồng hay nhân tình lợi dụng, dễ làm tiền. \n12.47. Song Hao, Không, Kiếp \nMất trộm lớn, mất cướp hay bị lừa đảo sạt nghiệp. \n12.48. Long, Phượng, Mộ \nĐược hưởng của tiền nhân dể lại. \n12.49. Tuế, Lộc cung \nBuôn bán giỏi, được nhiều người tin cậy, nói rа tiền. \n12.50. Tuế, Đà, Kỵ \nHay gặp sự tranh chấp về tiền tài, có mắc thị phú kiện tụng mới kiếm ra \ntiền. \n12.51. Hình, Cơ, Tuế \nLàm thợ khéo, kiếm tiền dề dàng. \n12.52. Hình, Lực đồng cung \nHay đi ăn trộm. \n12.53. Hình, Tang, Đào \nLàm nghề thủ công, rất phát đạt. \n12.54. Lưu Hà, Kiếp Sát, Hình \nVì tiền mà mang họa vào thân, thường mất cướp, bị đánh đập rất đau đớn. \n12.55. Thiên Không, Kiếp đồng cung \nBần cùng, khốn khổ. \n12.56. Vô Chính diệu \nCoi Chính diệu xung chiếu như Chính diệu tọa thủ. Dù có nhiều sao sáng \nsủa tốt đẹp hội hợp cũng không thể giàu to lớn được ngoại trừ hai trường hợp \nđặc biệt sau đây: \n- Tuần, Triệt án ngữ: buổi đầu kiếm tiền khó khăn, nhưng về sau dễ dàng, \ncàng về già lại càng sung túc. \n- Nhật, Nguyệt (cùng sáng sủa) xung chiếu hay hợp chiến: giàu có lớn. \nCũng trong trường hợp này, nếu cung Tài Bạch vô chính điệu lại có Tuần, Triệt \nán ngữ, thật là tốt đẹp bội phần."
+  }
+}

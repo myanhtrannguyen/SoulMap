@@ -1,0 +1,531 @@
+{
+  "Cung_dien_trach": {
+    "name": "cung_điền_trạch",
+    "description": "Xem cung Điền Trạch để biết rõ nhà cửa ruộng nương.",
+    "stars": [
+      {
+        "star_id": "tử_vi",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Một phần lớn cơ nghiệp là của tiền nhân để lại.",
+          "đơn_thủ_tại_ngọ_phủ_đồng_cung_tướng_đồng_cung": "rất nhiều nhà đất. \nCơ nghiệp ngày càng thịnh vượng. Nếu tự tay tạo lập ngày càng phát đạt.",
+          "đơn_thủ_tại_tý": "nhà đất bình thường, yên ổn. Giữ vững được sản nghiệp \ncủa tổ tiên cha mẹ để lại",
+          "sát_đồng_cung": "cơ nghiệp của tổ tiên để lại rất vĩ đại nhưng không giữ gìn \nđược.",
+          "phá_đồng_cung": "phá tán tổ nghiệp, hay lìa bỏ tổ nghiệp. Về sau tạo lập ở nơi xa \nmà bên vững.",
+          "tham_đồng_cung": "không gìn giữ được tổ nghiệp, về sau sa sút"
+        }
+      },
+      {
+        "star_id": "liêm_trinh",
+        "context_type": null,
+        "rules": {
+          "đơn_thủ_tại_dần_thân": "phá tán tổ nghiệp, hay là có mà không được thừa \nhưởng. Lao tâm khổ tứ về những chuyện có liên quan đến nhà đất.",
+          "phủ_đồng_cung": "được hưởng của tổ nghiệp để lại. Nhưng cơ nghiệp càng \nvề sau càng sa sút, không giữ được bền vững.",
+          "tướng_đồng_cung": "nhà đất trước ít sau nhiều.",
+          "sát_đồng_cung": "tự tay lập nghiệp. Thành bại thất thường. Buổi đầu rất vất \nvả. Nhưng đến lúc có tuổi, có nơi ăn chốn ở chắc chắn.",
+          "phá_đồng_cung": "lập nghiệp ở buổi đầu hay bị thất bại, phá tán. Về sau mới \nđược bền vững.",
+          "tham_đồng_cung": "nhà đất của tổ nghiệp để lại khá nhiều, nhưng không \nđược thừa hưởng. Về già cũng không có nơi an chốn ở chắc chắn."
+        }
+      },
+      {
+        "star_id": "thiên_đồng",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Tự tay lập nghiệp, trước khó sau dễ.",
+          "đơn_thủ_tại_mão_hoặc_nguyệt_đồng_cung_tại_tý": "giàu có lớn. Tay trắng \nlập nghiệp, càng ngày càng thịnh vượng.",
+          "đơn_thủ_tại_dậu_hoặc_nguyệt_đồng_cung_tại_ngọ": "thành bại thất \nthường. Nhưng về già cũng có chốn nương thân.",
+          "đơn_thủ_tại_tỵ_hợi": "có nhà đất, nhưng rất ít, hay phải thay đổi, mua vào \nbán ra luôn luôn.",
+          "đơn_thủ_tại_thìn_tuất": "nhà đất hầu như không có. Nếu có cũng rất nhỏ \nmọn. Suốt đời hay gặp những sự tranh chấp về điền thổ.",
+          "lương_đồng_cung": "ban đầu có ít nhà đất. Nhưng về sau có rất nhiều.",
+          "cự_đồng_cung": "không có nhà đất, về già may mắn lắm mới có một chốn \nnương thân."
+        }
+      },
+      {
+        "star_id": "vũ_khúc",
+        "context_type": null,
+        "rules": {
+          "đơn_thủ_tại_thìn_tuất": "cơ nghiệp của tổ nghiệp để lại rất lớn. Càng về sau \ncàng thịnh vượng.",
+          "phủ_đồng_cung": "gìn giữ được tổ nghiệp. Về sau làm nên thịnh đạt bội \nphần.",
+          "tướng_đồng_cung": "nhà đất ban đầu mua vào, bán ra thất thường. Về già có \nnhiều nhà đất.",
+          "tham_đồng_cung": "có nhà đất của có nghiệp để lại nhưng rất ít, không \nđáng kể. Tự tay lập nghiệp. Tuy vậy, phải ngoài ba mươi tuổi, mới có nhà đất chắc \nchắn.",
+          "phá_đồng_cung": "mua tậu nhà đề rồi lại pha tán. Về sau mới có nơi ăn chốn \nở chắc chắn.",
+          "sát_đồng_cung": "không có nhà đất. May mắn lắm về già mới có một căn nhà \nnhỏ bé để nương náu."
+        }
+      },
+      {
+        "star_id": "thái_dương",
+        "context_type": null,
+        "rules": {
+          "đơn_thủ_tại_thìn_tỵ_ngọ": "tổ nghiệp để lại rất lớn lao, nhưng về sau sa sút \ndần.",
+          "đơn_thủ_tại_tuất_hợi_tý": "không có nhà đất. May mắn lắm về già mới có \nchút ít.",
+          "cự_đồng_cung_tại_dần_hoặc_lương_đồng_cung_tại_mão": "giữ vững được tổ \nnghiệp. Về sau mua tậu thêm được nhiều nhà đất.",
+          "cự_đồng_cung_tại_thân_hoặc_lương_đồng_cung_tại_dậu": "buổi đầu phá tán \ntổ nghiệp, hay phải lìa bỏ tổ nghiệp. Về già mới có nhà đất. nhưng rất ít.",
+          "nguyệt_đồng_cung": "rất nhiều nhà đất, một phần là của tổ nghiệp để lại, \ncòn một phần do tự tay tạo lập nên."
+        }
+      },
+      {
+        "star_id": "thiên_cơ",
+        "context_type": null,
+        "rules": {
+          "đơn_thủ_tại_ty_ngọ_mùi": "không được thừa hưởng tổ nghiệp. Nhưng tự \ntay gây dựng mà có rất nhiều nhà đất.",
+          "đơn_thu_tại_hợi_tý_sửu": "nhà đất bình thường.",
+          "lương_đồng_cung": "tự tay lập nghiệp, về sau mua tậu được nhiều nhà đất.",
+          "nguyệt_đồng_cung_tại_thân": "khá nhiều nhà đất",
+          "nguyệt_đồng_cung_tại_dần": "nhà đất bình thường.",
+          "cự_đồng_cung_tại_mão": "rất nhiều nhà đất, một phần là của tổ nghiệp để lại.",
+          "cự_đồng_cung_tại_dậu": "phá tán tổ nghiệp, hay lìa bỏ tổ nghiệp. Tự tay \ngây dựng, nhưng cũng không có nhiều nhà đất."
+        }
+      },
+      {
+        "star_id": "thiên_phủ",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Được thừa hưởng của tổ nghiệp để lại.",
+          "đơn_thủ_tại_dần_thân": "khá nhiều nhà đất.",
+          "đơn_thủ_tại_sửu_mùi_mão_dậu": "nhà đất bình thường.",
+          "tử_đồng_cung": "rất nhiều nhà đất. Cơ nghiệp ngày càng thịnh vượng. \nNếu tự tay tạo lập ngày càng phát đạt.",
+          "liêm_đồng_cung": "được hưởng của tổ nghiệp để lại. Nhưng cơ nghiệp \ncàng về sau càng sa sút, không giữ được bền vững.",
+          "vũ_đồng_cung": "gìn giữ được tổ nghiệp. Về sau làm nên thịnh đạt bội phần."
+        }
+      },
+      {
+        "star_id": "thái_âm",
+        "context_type": null,
+        "rules": {
+          "đơn_thủ_tại_dậu_tuất_hợi": "tổ nghiệp để lại rất ít. Tự tay gây dựng và trở \nnên giàu có, mua tậu được nhiều nhà đất",
+          "đơn_thủ_tại_mão_thìn_tỵ": "không có nhà đất. May mắn lắm về già mới có \nchốn nương thân.",
+          "đồng_đồng_cung_tại_ngọ": "thành bại thất thường. Nhưng về già cũng có \nchốn nương thân.",
+          "nhật_đồng_cung": "rất nhiều nhà đất, một phần là của tổ nghiệp để lại, còn \nmột phần do tự tay tạo lập nên.",
+          "cơ_đồng_cung_tại_thân": "khá nhiều nhà đất",
+          "cơ_đồng_cung_tại_dần": "nhà đất bình thường."
+        }
+      },
+      {
+        "star_id": "tham_lang",
+        "context_type": null,
+        "rules": {
+          "đơn_thủ_tại_thìn_tuất": "phá tán tổ nghiệp, hay phải lìa bỏ tổ nghiệp. \nNhưng về sau mua tậu khá nhiều nhà đất.",
+          "đơn_thủ_tại_dần_thân_tý_ngọ": "nếu có nhà đất của tổ nghiệp để lại, rồi \ncũng phá tán hết hay là phải lìa bỏ mà không được thừa hưởng. Gây dựng cơ \nnghiệp rất vất vả, chật vật may mắn lắm về già mới có nhà ở chắc chắn.",
+          "tử_đồng_cung": "không gìn giữ được tổ nghiệp, về sau sa sút",
+          "liêm_đồng_cung": "nhà đất của tổ nghiệp để lại khá nhiều, nhưng không \nđược thừa hưởng. Về già cũng không có nơi an chốn ở chắc chắn.",
+          "vũ_đồng_cung": "có nhà đất của có nghiệp để lại nhưng rất ít, không đáng \nkể. Tự tay lập nghiệp. Tuy vậy, phải ngoài ba mươi tuổi, mới có nhà đất chắc \nchắn."
+        }
+      },
+      {
+        "star_id": "cự_môn",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Hay mắc thị phi, kiện cáo về nhà đất.",
+          "đơn_thủ_tại_hợi_tý_ngọ": "có tổ nghiệp để lại, nhưng không được thừa \nhưởng. Tự tay gây dựng ở xa quê hương. Về sau mua tậu được nhiều nhà đất.",
+          "đơn_thủ_tại_tỵ_thìn_tuất": "không có nhà đất. Nếu có cũng rất ít, rất nhỏ \nmọn, tầm thường.",
+          "đồng_đồng_cung": "không có nhà đất, về già may mắn lắm mới có một chốn \nnương thân.",
+          "nhật_đồng_cung_tại_dần": "giữ vững được tổ nghiệp. Về sau mua tậu thêm \nđược nhiều nhà đất.",
+          "nhật_đồng_cung_tại_thân": "buổi đầu phá tán tổ nghiệp, hay phải lìa bỏ tổ \nnghiệp. Về già mới có nhà đất. nhưng rất ít.",
+          "cơ_đồng_cung_tại_mão": "rất nhiều nhà đất, một phần là của tổ nghiệp để lại.",
+          "cơ_đồng_cung_tại_dậu": "phá tán tổ nghiệp, hay lìa bỏ tổ nghiệp. Tự tay \ngây dựng, nhưng cũng không có nhiều nhà đất."
+        }
+      },
+      {
+        "star_id": "thiên_tướng",
+        "context_type": null,
+        "rules": {
+          "đơn_thủ_tại_sửu_mùi_tỵ_hợi": "mua tậu nhà đất dễ dàng.",
+          "đơn_thủ_tại_mão_dậu": "nhà đất bình thường. Nếu may mắn được hưởng \nnhà đất của tổ nghiệp để lại, về sau cũng phá tán đến hết để rồi lại tự tay gây \ndựng lại.",
+          "tử_đồng_cung": "rất nhiều nhà đất. Cơ nghiệp ngày càng thịnh vượng. \nNếu tự tay tạo lập ngày càng phát đạt."
+        }
+      },
+      {
+        "star_id": "thiên_lương",
+        "context_type": null,
+        "rules": {
+          "đơn_thủ_tại_tý_ngọ": "có nhà đất của tổ nghiệp để lại, nhưng về sau mua tậu \nthêm được rất nhiều.",
+          "đơn_thủ_tại_sửu_mùi": "nhà đất bình thường. Suốt đời không phải lo lắng về \nnơi ăn chốn ở.",
+          "đơn_thủ_tại_tỵ_hợi": "có nhà đất, nhưng rất ít, hay phải thay đổi, mua vào \nbán ra luôn luôn.",
+          "đồng_đồng_cung": "ban đầu có ít nhà đất nhưng về sau có rất nhiều.",
+          "nhật_đồng_cung_tại_mão": "giữ vững được tổ nghiệp. Về sau mua tậu thêm \nđược nhiều nhà đất.",
+          "nhật_đồng_cung_tại_dậu": "buổi đầu phá tán tổ nghiệp, hay phải lìa bỏ tổ \nnghiệp. Về già mới có nhà đất. nhưng rất ít.",
+          "cơ_đồng_cung": "tự tay lập nghiệp, về sau mua tậu được nhiều nhà đất."
+        }
+      },
+      {
+        "star_id": "thất_sát",
+        "context_type": null,
+        "rules": {
+          "đơn_thủ_tại_dần_thân": "tổ nghiệp để lại rất ít. Tự tay gây dựng, về sau rất \nkhá giả, mua tậu được nhiều nhà đất.",
+          "đơn_thủ_tại_tý_ngọ": "nhà đất khi mua vào, khi bán ra, thất thường. Nếu có \ntổ nghiệp để lại rồi cũng phá tán đến hết, hay phải lìa bỏ mà không được thừa \nhưởng. Tự tay gây dựng, về sau có nhà đất vững bền.",
+          "đơn_chủ_tại_thìn_tuất": "không có nhà đất. Nếu có chút ít sau này cũng vì \nđó mà mắc tai họa, tuổi thọ cũng bị chiết giảm",
+          "tử_đồng_cung": "cơ nghiệp của tổ tiên để lại rất vĩ đại nhưng không giữ gìn \nđược.",
+          "liêm_đồng_cung": "tự tay lập nghiệp. Thành bại thất thường. Buổi đầu rất vất \nvả. Nhưng đến lúc có tuổi, có nơi ăn chốn ở chắc chắn.",
+          "vũ_đồng_cung": "không có nhà đất. May mắn lắm về già mới có một căn nhà \nnhỏ bé để nương náu."
+        }
+      },
+      {
+        "star_id": "phá_quân",
+        "context_type": null,
+        "rules": {
+          "đơn_thủ_tại_tý_ngọ": "mua tậu nhà đất một cách nhanh chóng. Nhưng về \ngià, cơ nghiệp sa sút. Nếu có nhà đất của tổ nghiệp để lại, cũng không thể giữ gìn \nlâu bền được",
+          "đơn_thủ_tại_dần_thân": "không có nhà đất.",
+          "đơn_thủ_tại_thìn_tuất": "có nhà đất, rồi lại phá tán đến hết. Lập nghiệp \nthành bại thất thường, về già mới có nhà đất vững bền.",
+          "tử_đồng_cung": "phá tán tổ nghiệp, hay lìa bỏ tổ nghiệp. Về sau tạo lập ở nơi \nxa mà bên vững.",
+          "liêm_đồng_cung": "lập nghiệp ở buổi đầu hay bị thất bại, phá tán. Về sau mới \nđược bền vững.",
+          "vũ_đồng_cung": "mua tậu nhà đề rồi lại pha tán. Về sau mới có nơi ăn chốn ở \nchắc chắn."
+        }
+      },
+      {
+        "star_id": "kình_dương",
+        "context_type": null,
+        "rules": {
+          "sáng_sủa_tốt_đẹp": "cơ nghiệp trước phá sau thành",
+          "mờ_ám_xấu_xa": "không có nhà đất. Nếu có chút ít cũng không giữ gìn lâu \nbền được.",
+          "không_kiếp": "hủy hoại tổ nghiệp. Nếu buổi đầu mua tậu được nhà đất, về \nsau cũng bán đến hết."
+        }
+      },
+      {
+        "star_id": "đà_la",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Không có nhà đất. Nếu có tổ nghiệp để lại rồi cũng phá tán, hay phải lìa bỏ \nmà không được thừa hưởng."
+        }
+      },
+      {
+        "star_id": "hỏa_linh",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Có nhà đất của tổ nghiệp để lại, nhưng sau cũng phá tán, hay lìa bỏ đi lập \nnghiệp ở nơi xa.",
+          "tham_vũ_đồng_cung": "tự tay gây dựng, sau rất khá giả, mua tậu được nhiều \nnhà đất.",
+          "không_kiếp": "không có nhà đất. Nếu có đôi chút, rồi cũng lụn bại."
+        }
+      },
+      {
+        "star_id": "không_kiếp",
+        "context_type": null,
+        "rules": {
+          "sáng_sủa_tốt_đẹp": "mua tậu nhà đất một cách nhanh chóng, nhưng đã mua \nnhanh, tất bán nhanh.",
+          "mờ_ám_xấu_xa": "không có nhà đất"
+        }
+      },
+      {
+        "star_id": "xương_khúc",
+        "context_type": null,
+        "rules": {
+          "nhiều_sao_sáng_sủa_tốt_đẹp": "mua bán nhà đất rất dễ dàng. Cơ nghiệp càng \nngày càng thịnh vượng. Nếu có tổ nghiệp để lại cũng gìn giữ được lâu bền.",
+          "nhiều_sao_mờ_ám_xấu_xa": "không có nhà đất. Nếu có chút ít sau cũng bán \nhết."
+        }
+      },
+      {
+        "star_id": "khôi_việt",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Nhà cửa to tát đẹp đẽ."
+        }
+      },
+      {
+        "star_id": "tả_hữu",
+        "context_type": null,
+        "rules": {
+          "nhiều_sao_sáng_sủa_tốt_đẹp": "gìn giữ được tổ nghiệp. Mua tậu nhà đất dễ \ndàng.",
+          "nhiều_sao_mờ_ám_xấu_xa": "cơ nghiệp bị phá tán một cách nhanh chóng. \nNhưng dù không có nhà cửa, cũng vẫn được nhiều người giúp dỡ, cho ở nhờ \nnhững chỗ cao ráo đẹp đẽ."
+        }
+      },
+      {
+        "star_id": "lộc_tồn",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Có nhà đất của tổ nghiệp để lại nhưng rất ít. Tự tay gây dựng mới được khá \ngiả."
+        }
+      },
+      {
+        "star_id": "lộc_khoa",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Nhà đất rộng rãi."
+        }
+      },
+      {
+        "star_id": "hóa_quyền",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Thường được ở dinh thự. Nếu không cũng là nhà cao cửa rộng, rất sang \ntrọng."
+        }
+      },
+      {
+        "star_id": "hóa_kỵ",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Nhà đất bền vững."
+        }
+      },
+      {
+        "star_id": "t﻿hhiên_mã",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Mua tậu nhà đất ở xa quê hương."
+        }
+      },
+      {
+        "star_id": "khốc_hư",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Nhà cửa mục nát hay có mối mọt"
+        }
+      },
+      {
+        "star_id": "long_phượng",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Nhà cửa cao rộng, đẹp đẽ."
+        }
+      },
+      {
+        "star_id": "cô_quả",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Cơ Nghiệp bền vững. Rất khó bán nhà đất"
+        }
+      },
+      {
+        "star_id": "quang_qúy",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Được hưởng của thừa tự."
+        }
+      },
+      {
+        "star_id": "đẩu_quân",
+        "context_type": null,
+        "rules": {
+          "nhiều_sao_sáng_sủa_tốt_đẹp": "nhà đất bền vững. Về sau mua tậu thêm được \nrất nhiều.",
+          "nhiều_sao_mờ_ám_xấu_xa": "cơ nghiệp càng ngày càng lụn bại."
+        }
+      },
+      {
+        "star_id": "tuần_triệt_án_ngữ",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Nhận định nghịch đảo ảnh hưởng của những sao tọa thủ, tốt hóa xấu, xấu \nthành tốt."
+        }
+      },
+      {
+        "star_id": "tuần_triệt_án_ngữ_đồng_cung",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Không có nhà đất của của nghiệp để lại. Nếu may mắn có đôi chút, sau \ncũng phá tán hết, hay phải lìa bỏ mà không được thừa hưởng. Tự tay gây dựng cơ nghiệp, nhưng thành bại thất thường. Hay phải thay \nđổi nơi ăn chốn ở. Về già mới có nhà đất, nhưng nhỏ mọn và tầm thường. Trong trường hợp này, không cần phải chú trọng nhiều đến ảnh hưởng \ncủa không sao tọa thủ."
+        }
+      },
+      {
+        "star_id": "nhật_hổ",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Trong nhà có chó đá. Cung Điền Trạch ứng phương nào, tất chó đá ở \nphương đó."
+        }
+      },
+      {
+        "star_id": "nhật_hổ",
+        "context_type": null,
+        "rules": {
+          "cung_điền_trạch_an_tại_hợi_tý_thìn": "chó đá chìm sâu dưới đất"
+        }
+      },
+      {
+        "star_id": "nhật_hổ_long_trì",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Chó đá ở dưới ao."
+        }
+      },
+      {
+        "star_id": "nhật_mờ_ám_thanh_long_long_trì",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Trong nhà có ao giếng, ở đó có người chết đuối"
+        }
+      },
+      {
+        "star_id": "cự_hỏa",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Nhà hay bị cháy."
+        }
+      },
+      {
+        "star_id": "cự_tang",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Nhà cửa cao ráo rộng rãi, nhưng hay có lửa."
+        }
+      },
+      {
+        "star_id": "cơ_nguyệt",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Dưới gốc cây trong vườn có hòn đá lâu ngày thành tinh."
+        }
+      },
+      {
+        "star_id": "cơ_nguyệt_đà_kỵ",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Yêu tinh rất quái gở, hay trêu tròng làm cho người trong nhà đau mắt hay \nđau bụng."
+        }
+      },
+      {
+        "star_id": "cơ_nguyệt_đồng_cung_cung_điền_trạch_an_tại_thân",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Gần nhà cố kẻ ăn trộm của đình chùa, nên bị thần thánh quở phạt."
+        }
+      },
+      {
+        "star_id": "cơ_hỏa",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Nhà cháy, lụn bại."
+        }
+      },
+      {
+        "star_id": "cơ_hình",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Chỗ ở xưa kia có nhiều cây cối, sau bị chặt hết."
+        }
+      },
+      {
+        "star_id": "cơ_hỏa_linh_hình_việt",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Cây trong vườn bị sét đánh."
+        }
+      },
+      {
+        "star_id": "cơ_hổ",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Trong nhà có chó đá."
+        }
+      },
+      {
+        "star_id": "cơ_hổ_kình_đà",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Chó đá thành tinh"
+        }
+      },
+      {
+        "star_id": "cơ_không_kiếp_mộc",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Trong nhà có ma quái ẩn náu."
+        }
+      },
+      {
+        "star_id": "lộc_tồn_tử",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Nhà có của chôn, hay đào được của. Nếu Tử tọa thủ tại cung Điền Trạch, \nkhông gặp Lộc, tất chỉ đào được đồ sứ, đồ sành mà thôi."
+        }
+      },
+      {
+        "star_id": "hỏa_linh_riêu_hỉ",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Trong nhà rất nhiều ma."
+        }
+      },
+      {
+        "star_id": "hỏa_linh_tướng_binh",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Quân gian phóng hỏa đốt nhà."
+        }
+      },
+      {
+        "star_id": "hỏa_tang",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Cháy nhà. Nếu cung Điền Trạch ứng phương nào tất bắt đầu từ phương đó."
+        }
+      },
+      {
+        "star_id": "không_kiếp_giáp_cung_điền_trạch",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Gian phi rình mò ở gần nhà. Quân trộm cướp ở ngay bên hàng xóm."
+        }
+      },
+      {
+        "star_id": "không_kiếp_tướng_binh_tả_hữu",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Trộm cướp lẻn vào trong nhà, thường có nội công từ trước."
+        }
+      },
+      {
+        "star_id": "không_kiếp_tướng_binh_kình_đà",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Giặc cướp phá nhà lấy của."
+        }
+      },
+      {
+        "star_id": "thanh_long_long_trì",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Trong nhà có ao giếng. Trên bờ cỏ nhiều cây cối mọc rậm rạp. Nếu Thanh \nLong không gặp Long Trì trong nhà cũng có ao giếng nhưng không đẹp."
+        }
+      },
+      {
+        "star_id": "long_không_kiếp",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Ao giếng lâu ngày bị bồi lấp."
+        }
+      },
+      {
+        "star_id": "khốc_hư",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Trong nhà có ma mộc."
+        }
+      },
+      {
+        "star_id": "khốc_hư_hỏa_linh",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Con ma rất quái ác. Nếu cung Điền Trạch an tại Thìn, hay nếu gặp thêm \nTấu, con ma sẽ bị đánh bật đi."
+        }
+      },
+      {
+        "star_id": "hồng_riêu_cái",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Ma đàn bà lần khuất ở trong nhà"
+        }
+      },
+      {
+        "star_id": "quang_qúy_cô_quả_hồng_đào",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Được thừa hưởng của thừa tự của người đàn bà để lại"
+        }
+      },
+      {
+        "star_id": "những_trường_hợp_được_tuần_hay_triệt_án_ngữ",
+        "context_type": null,
+        "rules": {
+          "rule_text": "Trong nhà có ma một chân, thường là oan hồn tác quái"
+        }
+      },
+      {
+        "star_id": "vô_chính_diệu",
+        "context_type": null,
+        "rules": {
+          "không_được_thừa_hưởng_tổ_nghiệp": "phải tự tay gây dựng.",
+          "tuần_triệt_án_ngữ": "lập nghiệp trước khó sau dễ. Mua tậu nhà đất rồi lại \nbán. Thay đổi nơi ăn chốn ở luôn luôn. Về già mới có chỗ ở chắc chắn, nhưng \nnhỏ mọn tầm thường.",
+          "nhật_nguyệt_cùng_sáng_sủa_xung_chiến_hay_hợp_chiếu": "rất nhiều nhà \nđất. Chỗ ở rất cao đẹp. Càng về sau càng mua tậu được nhiều",
+          "vô_chính_diệu_được_tuấn_triệt_án_ngữ_và_nhật_nguyệt_cùng_sáng_sủa_xung_chiếu_hay_hợp_chiếu": "rất rực rỡ. Lập nghiệp tuy chật vật buổi đầu, nhưng \nvề sau rất giàu có, nhà hàng dãy, ruộng đất thẳng cánh cò bay."
+        }
+      }
+    ],
+    "source_content": "Xem cung Điền Trạch để biết rõ nhà cửa ruộng nương. \n7.1. Tử Vi \n- Một phần lớn cơ nghiệp là của tiền nhân để lại. \n- Đơn thủ tại Ngọ, Phủ đồng cung, Tướng đồng cung: rất nhiều nhà đất. \nCơ nghiệp ngày càng thịnh vượng. Nếu tự tay tạo lập ngày càng phát đạt. \n- Đơn thủ tại Tý: nhà đất bình thường, yên ổn. Giữ vững được sản nghiệp \ncủa tổ tiên cha mẹ để lại \n- Sát đồng cung: cơ nghiệp của tổ tiên để lại rất vĩ đại nhưng không giữ gìn \nđược. \n- Phá đồng cung: phá tán tổ nghiệp, hay lìa bỏ tổ nghiệp. Về sau tạo lập ở nơi xa \nmà bên vững. \n- Tham đồng cung: không gìn giữ được tổ nghiệp, về sau sa sút \n7.2. Liêm Trinh \n- Đơn thủ tại Dần, Thân: phá tán tổ nghiệp, hay là có mà không được thừa \nhưởng. Lao tâm khổ tứ về những chuyện có liên quan đến nhà đất. \n- Phủ đồng cung: được hưởng của tổ nghiệp để lại. Nhưng cơ nghiệp càng \nvề sau càng sa sút, không giữ được bền vững. \n- Tướng đồng cung: nhà đất trước ít sau nhiều. \n- Sát đồng cung: tự tay lập nghiệp. Thành bại thất thường. Buổi đầu rất vất \nvả. Nhưng đến lúc có tuổi, có nơi ăn chốn ở chắc chắn. \n- Phá đồng cung: lập nghiệp ở buổi đầu hay bị thất bại, phá tán. Về sau mới \nđược bền vững. \n- Tham đồng cung: nhà đất của tổ nghiệp để lại khá nhiều, nhưng không \nđược thừa hưởng. Về già cũng không có nơi an chốn ở chắc chắn. \n7.3. Thiên Đồng \n- Tự tay lập nghiệp, trước khó sau dễ. \n- Đơn thủ tại Mão hoặc Nguyệt đồng cung tại Tý: giàu có lớn. Tay trắng \nlập nghiệp, càng ngày càng thịnh vượng. \n- Đơn thủ tại Dậu hoặc Nguyệt đồng cung tại Ngọ: thành bại thất \nthường. Nhưng về già cũng có chốn nương thân. \n- Đơn thủ tại Tỵ, Hợi: có nhà đất, nhưng rất ít, hay phải thay đổi, mua vào \nbán ra luôn luôn. \n- Đơn thủ tại Thìn, Tuất: nhà đất hầu như không có. Nếu có cũng rất nhỏ \nmọn. Suốt đời hay gặp những sự tranh chấp về điền thổ. \n- Lương đồng cung: ban đầu có ít nhà đất. Nhưng về sau có rất nhiều. \n- Cự đồng cung: không có nhà đất, về già may mắn lắm mới có một chốn \nnương thân. \n7.4. Vũ Khúc \n- Đơn thủ tại Thìn, Tuất: cơ nghiệp của tổ nghiệp để lại rất lớn. Càng về sau \ncàng thịnh vượng. \n- Phủ đồng cung: gìn giữ được tổ nghiệp. Về sau làm nên thịnh đạt bội \nphần. \n- Tướng đồng cung: nhà đất ban đầu mua vào, bán ra thất thường. Về già có \nnhiều nhà đất. \n- Tham đồng cung: có nhà đất của có nghiệp để lại nhưng rất ít, không \nđáng kể. Tự tay lập nghiệp. Tuy vậy, phải ngoài ba mươi tuổi, mới có nhà đất chắc \nchắn. \n- Phá đồng cung: mua tậu nhà đề rồi lại pha tán. Về sau mới có nơi ăn chốn \nở chắc chắn. \n- Sát đồng cung: không có nhà đất. May mắn lắm về già mới có một căn nhà \nnhỏ bé để nương náu. \n7.5. Thái Dương \n- Đơn thủ tại Thìn, Tỵ, Ngọ: tổ nghiệp để lại rất lớn lao, nhưng về sau sa sút \ndần. \n- Đơn thủ tại Tuất, Hợi, Tý: không có nhà đất. May mắn lắm về già mới có \nchút ít. \n- Cự đồng cung tại Dần hoặc Lương đồng cung tại Mão: giữ vững được tổ \nnghiệp. Về sau mua tậu thêm được nhiều nhà đất. \n- Cự đồng cung tại Thân hoặc Lương đồng cung tại Dậu: buổi đầu phá tán \ntổ nghiệp, hay phải lìa bỏ tổ nghiệp. Về già mới có nhà đất. nhưng rất ít. \n- Nguyệt đồng cung: rất nhiều nhà đất, một phần là của tổ nghiệp để lại, \ncòn một phần do tự tay tạo lập nên. \n7.6. Thiên Cơ \n- Đơn thủ tại Ty, Ngọ, Mùi: không được thừa hưởng tổ nghiệp. Nhưng tự \ntay gây dựng mà có rất nhiều nhà đất. \n- Đơn thu tại Hợi, Tý, Sửu: nhà đất bình thường. \n- Lương đồng cung: tự tay lập nghiệp, về sau mua tậu được nhiều nhà đất. \n- Nguyệt đồng cung tại Thân: khá nhiều nhà đất \n- Nguyệt đồng cung tại Dần: nhà đất bình thường. \n- Cự đồng cung tại Mão: rất nhiều nhà đất, một phần là của tổ nghiệp để lại. \n- Cự đồng cung tại Dậu: phá tán tổ nghiệp, hay lìa bỏ tổ nghiệp. Tự tay \ngây dựng, nhưng cũng không có nhiều nhà đất. \n7.7. Thiên Phủ \n- Được thừa hưởng của tổ nghiệp để lại. \n- Đơn thủ tại Dần, Thân: khá nhiều nhà đất. \n- Đơn thủ tại Sửu, Mùi, Mão, Dậu: nhà đất bình thường. \n- Tử đồng cung: rất nhiều nhà đất. Cơ nghiệp ngày càng thịnh vượng. \nNếu tự tay tạo lập ngày càng phát đạt. \n- Liêm đồng cung: được hưởng của tổ nghiệp để lại. Nhưng cơ nghiệp \ncàng về sau càng sa sút, không giữ được bền vững. \n- Vũ đồng cung: gìn giữ được tổ nghiệp. Về sau làm nên thịnh đạt bội phần. \n7.8. Thái Âm \n- Đơn thủ tại Dậu, Tuất, Hợi: tổ nghiệp để lại rất ít. Tự tay gây dựng và trở \nnên giàu có, mua tậu được nhiều nhà đất \n- Đơn thủ tại Mão, Thìn, Tỵ: không có nhà đất. May mắn lắm về già mới có \nchốn nương thân. \n- Đồng đồng cung tại Ngọ: thành bại thất thường. Nhưng về già cũng có \nchốn nương thân. \n- Nhật đồng cung: rất nhiều nhà đất, một phần là của tổ nghiệp để lại, còn \nmột phần do tự tay tạo lập nên. \n- Cơ đồng cung tại Thân: khá nhiều nhà đất \n- Cơ đồng cung tại Dần: nhà đất bình thường. \n7.8. Tham Lang \n- Đơn thủ tại Thìn, Tuất: phá tán tổ nghiệp, hay phải lìa bỏ tổ nghiệp. \nNhưng về sau mua tậu khá nhiều nhà đất. \n- Đơn thủ tại Dần, Thân, Tý, Ngọ: nếu có nhà đất của tổ nghiệp để lại, rồi \ncũng phá tán hết hay là phải lìa bỏ mà không được thừa hưởng. Gây dựng cơ \nnghiệp rất vất vả, chật vật may mắn lắm về già mới có nhà ở chắc chắn. \n- Tử đồng cung: không gìn giữ được tổ nghiệp, về sau sa sút \n- Liêm đồng cung: nhà đất của tổ nghiệp để lại khá nhiều, nhưng không \nđược thừa hưởng. Về già cũng không có nơi an chốn ở chắc chắn. \n- Vũ đồng cung: có nhà đất của có nghiệp để lại nhưng rất ít, không đáng \nkể. Tự tay lập nghiệp. Tuy vậy, phải ngoài ba mươi tuổi, mới có nhà đất chắc \nchắn. \n7.9. Cự Môn \n- Hay mắc thị phi, kiện cáo về nhà đất. \n- Đơn thủ tại Hợi, Tý, Ngọ: có tổ nghiệp để lại, nhưng không được thừa \nhưởng. Tự tay gây dựng ở xa quê hương. Về sau mua tậu được nhiều nhà đất. \n- Đơn thủ tại Tỵ, Thìn, Tuất: không có nhà đất. Nếu có cũng rất ít, rất nhỏ \nmọn, tầm thường. \n- Đồng đồng cung: không có nhà đất, về già may mắn lắm mới có một chốn \nnương thân. \n- Nhật đồng cung tại Dần: giữ vững được tổ nghiệp. Về sau mua tậu thêm \nđược nhiều nhà đất. \n- Nhật đồng cung tại Thân: buổi đầu phá tán tổ nghiệp, hay phải lìa bỏ tổ \nnghiệp. Về già mới có nhà đất. nhưng rất ít. \n- Cơ đồng cung tại Mão: rất nhiều nhà đất, một phần là của tổ nghiệp để lại. \n- Cơ đồng cung tại Dậu: phá tán tổ nghiệp, hay lìa bỏ tổ nghiệp. Tự tay \ngây dựng, nhưng cũng không có nhiều nhà đất. \n7.10. Thiên Tướng \n- Đơn thủ tại Sửu, Mùi, Tỵ, Hợi: mua tậu nhà đất dễ dàng. \n- Đơn thủ tại Mão, Dậu: nhà đất bình thường. Nếu may mắn được hưởng \nnhà đất của tổ nghiệp để lại, về sau cũng phá tán đến hết để rồi lại tự tay gây \ndựng lại. \n- Tử đồng cung: rất nhiều nhà đất. Cơ nghiệp ngày càng thịnh vượng. \nNếu tự tay tạo lập ngày càng phát đạt. \n7.11. Thiên Lương \n- Đơn thủ tại Tý, Ngọ: có nhà đất của tổ nghiệp để lại, nhưng về sau mua tậu \nthêm được rất nhiều. \n- Đơn thủ tại Sửu, Mùi: nhà đất bình thường. Suốt đời không phải lo lắng về \nnơi ăn chốn ở. \n- Đơn thủ tại Tỵ, Hợi: có nhà đất, nhưng rất ít, hay phải thay đổi, mua vào \nbán ra luôn luôn. \n- Đồng đồng cung: ban đầu có ít nhà đất nhưng về sau có rất nhiều. \n- Nhật đồng cung tại Mão: giữ vững được tổ nghiệp. Về sau mua tậu thêm \nđược nhiều nhà đất. \n- Nhật đồng cung tại Dậu: buổi đầu phá tán tổ nghiệp, hay phải lìa bỏ tổ \nnghiệp. Về già mới có nhà đất. nhưng rất ít. \n- Cơ đồng cung: tự tay lập nghiệp, về sau mua tậu được nhiều nhà đất. \n7.13. Thất Sát \n- Đơn thủ tại Dần, Thân: tổ nghiệp để lại rất ít. Tự tay gây dựng, về sau rất \nkhá giả, mua tậu được nhiều nhà đất. \n- Đơn thủ tại Tý, Ngọ: nhà đất khi mua vào, khi bán ra, thất thường. Nếu có \ntổ nghiệp để lại rồi cũng phá tán đến hết, hay phải lìa bỏ mà không được thừa \nhưởng. Tự tay gây dựng, về sau có nhà đất vững bền. \n- Đơn chủ tại Thìn, Tuất: không có nhà đất. Nếu có chút ít sau này cũng vì \nđó mà mắc tai họa, tuổi thọ cũng bị chiết giảm \n- Tử đồng cung: cơ nghiệp của tổ tiên để lại rất vĩ đại nhưng không giữ gìn \nđược. \n- Liêm đồng cung: tự tay lập nghiệp. Thành bại thất thường. Buổi đầu rất vất \nvả. Nhưng đến lúc có tuổi, có nơi ăn chốn ở chắc chắn. \n- Vũ đồng cung: không có nhà đất. May mắn lắm về già mới có một căn nhà \nnhỏ bé để nương náu. \n7.14. Phá Quân \n- Đơn thủ tại Tý, Ngọ: mua tậu nhà đất một cách nhanh chóng. Nhưng về \ngià, cơ nghiệp sa sút. Nếu có nhà đất của tổ nghiệp để lại, cũng không thể giữ gìn \nlâu bền được \n- Đơn thủ tại Dần, Thân: không có nhà đất. \n- Đơn thủ tại Thìn, Tuất: có nhà đất, rồi lại phá tán đến hết. Lập nghiệp \nthành bại thất thường, về già mới có nhà đất vững bền. \n- Tử đồng cung: phá tán tổ nghiệp, hay lìa bỏ tổ nghiệp. Về sau tạo lập ở nơi \nxa mà bên vững. \n- Liêm đồng cung: lập nghiệp ở buổi đầu hay bị thất bại, phá tán. Về sau mới \nđược bền vững. \n- Vũ đồng cung: mua tậu nhà đề rồi lại pha tán. Về sau mới có nơi ăn chốn ở \nchắc chắn. \n7.14. Kình Dương \n- Sáng sủa tốt đẹp: cơ nghiệp trước phá sau thành \n- Mờ ám xấu xa: không có nhà đất. Nếu có chút ít cũng không giữ gìn lâu \nbền được. \n- Không, Kiếp: hủy hoại tổ nghiệp. Nếu buổi đầu mua tậu được nhà đất, về \nsau cũng bán đến hết. \n7.16. Đà La \nKhông có nhà đất. Nếu có tổ nghiệp để lại rồi cũng phá tán, hay phải lìa bỏ \nmà không được thừa hưởng. \n7.17. Hỏa, Linh \n- Có nhà đất của tổ nghiệp để lại, nhưng sau cũng phá tán, hay lìa bỏ đi lập \nnghiệp ở nơi xa. \n- Tham, Vũ đồng cung: tự tay gây dựng, sau rất khá giả, mua tậu được nhiều \nnhà đất. \n- Không, Kiếp: không có nhà đất. Nếu có đôi chút, rồi cũng lụn bại. \n7.18. Không, Kiếp \n- Sáng sủa tốt đẹp: mua tậu nhà đất một cách nhanh chóng, nhưng đã mua \nnhanh, tất bán nhanh. \n- Mờ ám xấu xa: không có nhà đất \n7.19. Xương, Khúc \n- Nhiều sao sáng sủa tốt đẹp: mua bán nhà đất rất dễ dàng. Cơ nghiệp càng \nngày càng thịnh vượng. Nếu có tổ nghiệp để lại cũng gìn giữ được lâu bền. \n- Nhiều sao mờ ám xấu xa: không có nhà đất. Nếu có chút ít sau cũng bán \nhết. \n7.20. Khôi, Việt \nNhà cửa to tát đẹp đẽ. \n7.21. Tả, Hữu \n- Nhiều sao sáng sủa tốt đẹp: gìn giữ được tổ nghiệp. Mua tậu nhà đất dễ \ndàng. \n- Nhiều sao mờ ám xấu xa: cơ nghiệp bị phá tán một cách nhanh chóng. \nNhưng dù không có nhà cửa, cũng vẫn được nhiều người giúp dỡ, cho ở nhờ \nnhững chỗ cao ráo đẹp đẽ. \n7.22. Lộc Tồn \nCó nhà đất của tổ nghiệp để lại nhưng rất ít. Tự tay gây dựng mới được khá \ngiả. \n7.23. Lộc, Khoa \nNhà đất rộng rãi. \n7.24. Hóa Quyền \nThường được ở dinh thự. Nếu không cũng là nhà cao cửa rộng, rất sang \ntrọng.\n7.25. Hóa Kỵ \nNhà đất bền vững. \n7.26. T﻿hhiên Mã \nMua tậu nhà đất ở xa quê hương. \n7.27. Khốc, Hư \nNhà cửa mục nát hay có mối mọt \n7.28. Long, Phượng \nNhà cửa cao rộng, đẹp đẽ. \n7.29. Cô, Quả \nCơ Nghiệp bền vững. Rất khó bán nhà đất \n7.30. Quang, Qúy \nĐược hưởng của thừa tự. \n7.31. Đẩu Quân \n- Nhiều sao sáng sủa tốt đẹp: nhà đất bền vững. Về sau mua tậu thêm được \nrất nhiều. \n- Nhiều sao mờ ám xấu xa: cơ nghiệp càng ngày càng lụn bại. \n7.32. Tuần, Triệt án ngữ \nNhận định nghịch đảo ảnh hưởng của những sao tọa thủ, tốt hóa xấu, xấu \nthành tốt. \n7.33. Tuần, Triệt án ngữ đồng cung \n- Không có nhà đất của của nghiệp để lại. Nếu may mắn có đôi chút, sau \ncũng phá tán hết, hay phải lìa bỏ mà không được thừa hưởng. \n- Tự tay gây dựng cơ nghiệp, nhưng thành bại thất thường. Hay phải thay \nđổi nơi ăn chốn ở. Về già mới có nhà đất, nhưng nhỏ mọn và tầm thường. \n- Trong trường hợp này, không cần phải chú trọng nhiều đến ảnh hưởng \ncủa không sao tọa thủ. \n7.34. Nhật, Hổ \nTrong nhà có chó đá. Cung Điền Trạch ứng phương nào, tất chó đá ở \nphương đó. \n7.35. Nhật, Hổ \nCung Điền Trạch an tại Hợi, Tý, Thìn: chó đá chìm sâu dưới đất \n7.36. Nhật, Hổ, Long Trì \nChó đá ở dưới ao. \n7.37. Nhật mờ ám, Thanh Long, Long Trì \nTrong nhà có ao giếng, ở đó có người chết đuối \n7.38. Cự, Hỏa \nNhà hay bị cháy. \n7.39. Cự, Tang \nNhà cửa cao ráo rộng rãi, nhưng hay có lửa. \n7.40. Cơ, Nguyệt \nDưới gốc cây trong vườn có hòn đá lâu ngày thành tinh. \n7.41. Cơ, Nguyệt, Đà, Kỵ \nYêu tinh rất quái gở, hay trêu tròng làm cho người trong nhà đau mắt hay \nđau bụng. \n7.42. Cơ, Nguyệt (đồng cung, cung Điền Trạch an tại Thân) \nGần nhà cố kẻ ăn trộm của đình chùa, nên bị thần thánh quở phạt. \n7.43. Cơ, Hỏa \nNhà cháy, lụn bại. \n7.44. Cơ, Hình \nChỗ ở xưa kia có nhiều cây cối, sau bị chặt hết. \n7.45. Cơ, Hỏa, Linh, Hình, Việt \nCây trong vườn bị sét đánh. \n7.46. Cơ, Hổ \nTrong nhà có chó đá. \n7.47. Cơ, Hổ, Kình, Đà \nChó đá thành tinh \n7.48. Cơ, Không, Kiếp, Mộc \nTrong nhà có ma quái ẩn náu. \n7.49. Lộc Tồn, Tử \nNhà có của chôn, hay đào được của. Nếu Tử tọa thủ tại cung Điền Trạch, \nkhông gặp Lộc, tất chỉ đào được đồ sứ, đồ sành mà thôi. \n7.50. Hỏa, Linh, Riêu, Hỉ \nTrong nhà rất nhiều ma. \n7.51. Hỏa, Linh, Tướng, Binh \nQuân gian phóng hỏa đốt nhà. \n7.52. Hỏa, Tang \nCháy nhà. Nếu cung Điền Trạch ứng phương nào tất bắt đầu từ phương đó. \n7.53. Không, Kiếp, giáp cung Điền Trạch \nGian phi rình mò ở gần nhà. Quân trộm cướp ở ngay bên hàng xóm. \n7.54. Không, Kiếp, Tướng, Binh, Tả, Hữu \nTrộm cướp lẻn vào trong nhà, thường có nội công từ trước. \n7.55. Không, Kiếp, Tướng, Binh, Kình, Đà \nGiặc cướp phá nhà lấy của. \n7.56. Thanh Long, Long Trì \nTrong nhà có ao giếng. Trên bờ cỏ nhiều cây cối mọc rậm rạp. Nếu Thanh \nLong không gặp Long Trì trong nhà cũng có ao giếng nhưng không đẹp. \n7.57. Long, Không, Kiếp \nAo giếng lâu ngày bị bồi lấp. \n7.58. Khốc, Hư \nTrong nhà có ma mộc. \n7.59. Khốc, Hư, Hỏa, Linh \nCon ma rất quái ác. Nếu cung Điền Trạch an tại Thìn, hay nếu gặp thêm \nTấu, con ma sẽ bị đánh bật đi. \n7.60. Hồng, Riêu, Cái \nMa đàn bà lần khuất ở trong nhà \n7.61. Quang, Qúy, Cô, Quả, Hồng, Đào \nĐược thừa hưởng của thừa tự của người đàn bà để lại \n7.62. Những trường hợp 7.40 - 7.48 - 7.50 - 7.60 được Tuần hay Triệt án ngữ \nTrong nhà có ma một chân, thường là oan hồn tác quái \n7.63. Vô Chính diệu \n- Không được thừa hưởng tổ nghiệp: phải tự tay gây dựng. \n- Tuần, Triệt án ngữ: lập nghiệp trước khó sau dễ. Mua tậu nhà đất rồi lại \nbán. Thay đổi nơi ăn chốn ở luôn luôn. Về già mới có chỗ ở chắc chắn, nhưng \nnhỏ mọn tầm thường. \n- Nhật, Nguyệt (cùng sáng sủa) xung chiến hay hợp chiếu: rất nhiều nhà \nđất. Chỗ ở rất cao đẹp. Càng về sau càng mua tậu được nhiều \n- Vô Chính diệu được Tuấn, Triệt án ngữ và Nhật, Nguyệt (cùng sáng sủa) \nxung chiếu hay hợp chiếu: rất rực rỡ. Lập nghiệp tuy chật vật buổi đầu, nhưng \nvề sau rất giàu có, nhà hàng dãy, ruộng đất thẳng cánh cò bay."
+  }
+}

@@ -46,7 +46,7 @@ def build_user(full_name, gender, dob_solar_str):
     dt = datetime.fromisoformat(dob_solar_str)
 
     lunar_data = solar_to_lunar(dt)["dob_lunar"]
-
+    # print("Lunar data:", lunar_data)
     can = lunar_data["year"].split()[0]
 
     am_duong_gender = get_am_duong_gender(can, gender)
