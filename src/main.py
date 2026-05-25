@@ -7,12 +7,20 @@ from urllib.request import Request, urlopen
 
 from rag.chart_utils import build_chart_index
 from rag.prompt_builder import build_followup_prompt, build_initial_prompt
-from rag.retriever import HybridRetriever, load_rag_documents, retrieve_initial_highlights
+from rag.retriever import (
+    MODE_FIXED_STRUCTURED_KEYWORD,
+    HybridRetriever,
+    load_rag_documents,
+    retrieve_initial_highlights,
+)
 
 
 BASE_DIR = Path(__file__).resolve().parents[1]
 DEFAULT_USER_DIR = BASE_DIR / "data" / "data_user" / "nguyễn_thu_huyền"
-DEFAULT_RAG_PATH = BASE_DIR / "data" / "data_for_retrieve" / "rag_documents_tu_vi_boi_toan.jsonl"
+DEFAULT_STRUCTURED_RAG_PATH = (
+    BASE_DIR / "data" / "data_for_retrieve" / "rag_documents_tu_vi_boi_toan.jsonl"
+)
+DEFAULT_FIXED_RAG_PATH = BASE_DIR / "data" / "data_for_retrieve" / "rag_documents_fixed_chunks.jsonl"
 DEFAULT_MODEL = "gemini-2.5-flash"
 
 
@@ -112,8 +120,24 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument(
         "--rag-path",
         type=Path,
-        default=DEFAULT_RAG_PATH,
-        help="Đường dẫn file JSONL dữ liệu RAG.",
+        default=DEFAULT_STRUCTURED_RAG_PATH,
+        help="Đường dẫn file JSONL dữ liệu RAG cấu trúc.",
+    )
+    parser.add_argument(
+        "--fixed-rag-path",
+        type=Path,
+        default=DEFAULT_FIXED_RAG_PATH,
+        help="Đường dẫn file JSONL fixed-size chunks.",
+    )
+    parser.add_argument(
+        "--retrieval-mode",
+        default=MODE_FIXED_STRUCTURED_KEYWORD,
+        choices=[
+            "fixed_similarity",
+            "fixed_structured_similarity",
+            "fixed_structured_keyword",
+        ],
+        help="Pipeline retrieve: fixed only, fixed + structured, hoặc fixed + structured + BM25.",
     )
     parser.add_argument(
         "--model",
@@ -133,10 +157,19 @@ def main() -> None:
 
     chart_index = build_chart_index(houses_chart)
 
-    docs = load_rag_documents(str(args.rag_path))
-    retriever = HybridRetriever(docs)
+    structured_docs = load_rag_documents(str(args.rag_path))
+    fixed_docs = load_rag_documents(str(args.fixed_rag_path))
+    retriever = HybridRetriever(
+        docs=structured_docs,
+        fixed_docs=fixed_docs,
+        mode=args.retrieval_mode,
+    )
 
-    initial_docs = retrieve_initial_highlights(retriever, chart_index)
+    initial_docs = retrieve_initial_highlights(
+        retriever,
+        chart_index,
+        mode=args.retrieval_mode,
+    )
     initial_prompt = build_initial_prompt(houses_chart, initial_docs)
     initial_summary = call_gemini(initial_prompt, model=args.model, max_output_tokens=1536)
 
@@ -145,6 +178,7 @@ def main() -> None:
         chart_index=chart_index,
         top_k=8,
         alpha=0.75,
+        mode=args.retrieval_mode,
     )
 
     followup_prompt = build_followup_prompt(
