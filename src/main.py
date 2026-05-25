@@ -1,12 +1,18 @@
 import argparse
 import json
 import os
+import sys
 from pathlib import Path
 from urllib.error import HTTPError, URLError
 from urllib.request import Request, urlopen
 
+if hasattr(sys.stdout, "reconfigure"):
+    sys.stdout.reconfigure(encoding="utf-8")
+    sys.stderr.reconfigure(encoding="utf-8")
+
 from rag.chart_utils import build_chart_index
 from rag.prompt_builder import build_followup_prompt, build_initial_prompt
+from rag.retriever_client import RemoteRetriever
 from rag.retriever import (
     MODE_FIXED_STRUCTURED_KEYWORD,
     HybridRetriever,
@@ -144,7 +150,25 @@ def parse_args() -> argparse.Namespace:
         default=os.getenv("GEMINI_MODEL", DEFAULT_MODEL),
         help="Tên model Gemini dùng để sinh câu trả lời.",
     )
+    parser.add_argument(
+        "--retriever-url",
+        default=os.getenv("RETRIEVER_URL"),
+        help="URL retriever server, vi du http://127.0.0.1:8765. Neu bo trong se load retriever local.",
+    )
     return parser.parse_args()
+
+
+def build_retriever(args: argparse.Namespace):
+    if args.retriever_url:
+        return RemoteRetriever(args.retriever_url)
+
+    structured_docs = load_rag_documents(str(args.rag_path))
+    fixed_docs = load_rag_documents(str(args.fixed_rag_path))
+    return HybridRetriever(
+        docs=structured_docs,
+        fixed_docs=fixed_docs,
+        mode=args.retrieval_mode,
+    )
 
 
 def main() -> None:
@@ -157,13 +181,7 @@ def main() -> None:
 
     chart_index = build_chart_index(houses_chart)
 
-    structured_docs = load_rag_documents(str(args.rag_path))
-    fixed_docs = load_rag_documents(str(args.fixed_rag_path))
-    retriever = HybridRetriever(
-        docs=structured_docs,
-        fixed_docs=fixed_docs,
-        mode=args.retrieval_mode,
-    )
+    retriever = build_retriever(args)
 
     initial_docs = retrieve_initial_highlights(
         retriever,
@@ -197,6 +215,4 @@ def main() -> None:
 
 
 if __name__ == "__main__":
-    load_local_env()
-    args = parse_args()
     main()
