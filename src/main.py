@@ -57,8 +57,8 @@ def extract_gemini_text(response: dict) -> str:
 def call_gemini(
     prompt: str,
     model: str = DEFAULT_MODEL,
-    temperature: float = 0.4,
-    max_output_tokens: int = 2048,
+    temperature: float = 0.4
+    # max_output_tokens: int = ,
 ) -> str:
     api_key = os.getenv("GEMINI_API_KEY") or os.getenv("GOOGLE_API_KEY")
     if not api_key:
@@ -76,8 +76,8 @@ def call_gemini(
             }
         ],
         "generationConfig": {
-            "temperature": temperature,
-            "maxOutputTokens": max_output_tokens,
+            "temperature": temperature
+            # "maxOutputTokens": max_output_tokens,
         },
     }
 
@@ -171,7 +171,7 @@ def main() -> None:
         mode=args.retrieval_mode,
     )
     initial_prompt = build_initial_prompt(houses_chart, initial_docs)
-    initial_summary = call_gemini(initial_prompt, model=args.model, max_output_tokens=1536)
+    initial_summary = call_gemini(initial_prompt, model=args.model)
 
     followup_docs = retriever.search(
         query=args.question,
@@ -197,4 +197,6 @@ def main() -> None:
 
 
 if __name__ == "__main__":
+    load_local_env()
+    args = parse_args()
     main()
