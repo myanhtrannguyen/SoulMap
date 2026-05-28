@@ -15,16 +15,32 @@ Sau do chay main va tro toi server:
 python src/main.py "Duong tinh duyen cua toi nhu the nao?" --retriever-url http://127.0.0.1:8765
 ```
 
-Chi retrieve tren file cau truc `data/data_for_retrieve/rag_documents_tu_vi_boi_toan.jsonl`:
+## Retrieval modes
+
+Tham so `--retrieval-mode` chon pipeline retrieve. Hien co 5 mode:
+
+| Mode | Du lieu dung | Cach retrieve | Khi nen dung |
+| --- | --- | --- | --- |
+| `fixed_similarity` | `rag_documents_fixed_chunks.jsonl` | Chi semantic similarity tren fixed-size chunks. | Baseline don gian tren van ban dai, khong loc theo la so. |
+| `fixed_structured_similarity` | Fixed chunks + `rag_documents_tu_vi_boi_toan.jsonl` | Semantic similarity tren fixed chunks va structured docs da loc theo data structure cua la so. | Muon ket hop tai lieu tong hop va rules co cau truc. |
+| `fixed_structured_keyword` | Fixed chunks + `rag_documents_tu_vi_boi_toan.jsonl` | Ket hop semantic text va semantic keyword/data fields. Day la mode mac dinh. | Mode day du nhat, can ca noi dung tong quat va keyword theo cung/sao/chu de. |
+| `structured_similarity` | `rag_documents_tu_vi_boi_toan.jsonl` | Chi semantic similarity tren `chunk_text` cua structured docs da loc theo data structure cua la so. | Muon retrieve rieng tu bo data co cau truc. |
+| `structured_keyword` | `rag_documents_tu_vi_boi_toan.jsonl` | Chi semantic similarity tren cac field keyword/data structure: `topic`, `palace_id`, `palace_name`, `star_id`, `required_stars`, `context_type`, `condition`. | Muon retrieve theo keyword va data structure, khong dua vao fixed chunks. |
+
+Vi du chay tung mode:
 
 ```powershell
+python src/main.py "Duong tinh duyen cua toi nhu the nao?" --retrieval-mode fixed_similarity
+python src/main.py "Duong tinh duyen cua toi nhu the nao?" --retrieval-mode fixed_structured_similarity
+python src/main.py "Duong tinh duyen cua toi nhu the nao?" --retrieval-mode fixed_structured_keyword
 python src/main.py "Duong tinh duyen cua toi nhu the nao?" --retrieval-mode structured_similarity
+python src/main.py "Duong tinh duyen cua toi nhu the nao?" --retrieval-mode structured_keyword
 ```
 
-Chi retrieve theo keyword va data structure cua file cau truc:
+Khi host retriever server, co the chon mode luc start server:
 
 ```powershell
-python src/main.py "Duong tinh duyen cua toi nhu the nao?" --retrieval-mode structured_keyword
+python -m src.rag.retriever_server --retrieval-mode structured_keyword
 ```
 
 Co the dat bien moi truong de khoi phai truyen flag moi lan:
