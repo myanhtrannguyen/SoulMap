@@ -1,8 +1,34 @@
-def build_initial_prompt(houses_chart: list[dict], retrieved_docs: list[dict]) -> str:
+import json
+
+
+def format_chart_context(
+    user_chart: dict | None,
+    tuvi_chart: dict | None,
+    houses_chart: list[dict],
+) -> str:
+    return json.dumps(
+        {
+            "user_chart": user_chart,
+            "tuvi_chart": tuvi_chart,
+            "houses_chart": houses_chart,
+        },
+        ensure_ascii=False,
+        indent=2,
+    )
+
+
+def build_initial_prompt(
+    houses_chart: list[dict],
+    retrieved_docs: list[dict],
+    user_chart: dict | None = None,
+    tuvi_chart: dict | None = None,
+) -> str:
     context = "\n\n".join(
         f"[{i+1}] {doc['chunk_text']}"
         for i, doc in enumerate(retrieved_docs)
     )
+
+    chart_context = format_chart_context(user_chart, tuvi_chart, houses_chart)
 
     return f"""
 Bạn là hệ thống phân tích Tử Vi theo dữ liệu đã cung cấp.
@@ -15,7 +41,7 @@ Nhiệm vụ:
 - Không tự bịa thêm ngoài context.
 
 LÁ SỐ:
-{houses_chart}
+{chart_context}
 
 CONTEXT TRUY XUẤT:
 {context}
@@ -33,13 +59,17 @@ def build_followup_prompt(
     user_query: str,
     houses_chart: list[dict],
     initial_summary: str,
-    retrieved_docs: list[dict]
+    retrieved_docs: list[dict],
+    user_chart: dict | None = None,
+    tuvi_chart: dict | None = None,
 ) -> str:
 
     context = "\n\n".join(
         f"[{i+1}] {doc['chunk_text']}"
         for i, doc in enumerate(retrieved_docs)
     )
+
+    chart_context = format_chart_context(user_chart, tuvi_chart, houses_chart)
 
     return f"""
 Bạn là hệ thống hỏi đáp Tử Vi dựa trên RAG.
@@ -51,7 +81,7 @@ Quy tắc:
 - Trả lời đúng trọng tâm câu hỏi.
 
 LÁ SỐ:
-{houses_chart}
+{chart_context}
 
 ĐẶC ĐIỂM NỔI BẬT BAN ĐẦU:
 {initial_summary}

@@ -10,6 +10,8 @@ if str(SRC_DIR) not in sys.path:
 
 from rag.retriever import (
     MODE_FIXED_STRUCTURED_KEYWORD,
+    MODE_STRUCTURED_KEYWORD,
+    MODE_STRUCTURED_SIMILARITY,
     HybridRetriever,
     load_rag_documents,
 )
@@ -47,6 +49,8 @@ def parse_args() -> argparse.Namespace:
             "fixed_similarity",
             "fixed_structured_similarity",
             "fixed_structured_keyword",
+            "structured_similarity",
+            "structured_keyword",
         ],
     )
     parser.add_argument(
@@ -112,7 +116,10 @@ def main() -> None:
     args = parse_args()
 
     structured_docs = load_rag_documents(str(args.rag_path))
-    fixed_docs = load_rag_documents(str(args.fixed_rag_path))
+    fixed_docs = []
+    if args.retrieval_mode not in {MODE_STRUCTURED_SIMILARITY, MODE_STRUCTURED_KEYWORD}:
+        fixed_docs = load_rag_documents(str(args.fixed_rag_path))
+
     RetrieverRequestHandler.retriever = HybridRetriever(
         docs=structured_docs,
         fixed_docs=fixed_docs,
