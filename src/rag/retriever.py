@@ -8,6 +8,8 @@ from rag.normalize import normalize_text
 MODE_FIXED_SIMILARITY = "fixed_similarity"
 MODE_FIXED_STRUCTURED_SIMILARITY = "fixed_structured_similarity"
 MODE_FIXED_STRUCTURED_KEYWORD = "fixed_structured_keyword"
+MODE_STRUCTURED_SIMILARITY = "structured_similarity"
+MODE_STRUCTURED_KEYWORD = "structured_keyword"
 
 MODE_ALIASES = {
     "fixed": MODE_FIXED_SIMILARITY,
@@ -18,6 +20,13 @@ MODE_ALIASES = {
     "hybrid": MODE_FIXED_STRUCTURED_KEYWORD,
     "keyword": MODE_FIXED_STRUCTURED_KEYWORD,
     "bm25": MODE_FIXED_STRUCTURED_KEYWORD,
+    "structured": MODE_STRUCTURED_SIMILARITY,
+    "data_structure": MODE_STRUCTURED_SIMILARITY,
+    "structure": MODE_STRUCTURED_SIMILARITY,
+    "structured_only": MODE_STRUCTURED_SIMILARITY,
+    "keyword_structured": MODE_STRUCTURED_KEYWORD,
+    "structured_keyword_only": MODE_STRUCTURED_KEYWORD,
+    "data_structure_keyword": MODE_STRUCTURED_KEYWORD,
 }
 
 
@@ -41,6 +50,8 @@ def normalize_mode(mode: str | None) -> str:
         MODE_FIXED_SIMILARITY,
         MODE_FIXED_STRUCTURED_SIMILARITY,
         MODE_FIXED_STRUCTURED_KEYWORD,
+        MODE_STRUCTURED_SIMILARITY,
+        MODE_STRUCTURED_KEYWORD,
     }
     if mode not in valid_modes:
         raise ValueError(f"Unsupported retrieval mode: {mode}. Valid modes: {sorted(valid_modes)}")
@@ -111,7 +122,11 @@ def keyword_text_for_doc(doc: dict) -> str:
     return " ".join(
         [
             flatten_keyword_value(doc.get("topic")),
+            flatten_keyword_value(doc.get("palace_id")),
+            flatten_keyword_value(doc.get("palace_name")),
             flatten_keyword_value(doc.get("star_id")),
+            flatten_keyword_value(doc.get("required_stars")),
+            flatten_keyword_value(doc.get("context_type")),
             flatten_keyword_value(doc.get("condition")),
         ]
     )
@@ -338,6 +353,54 @@ class HybridRetriever:
         results.sort(key=lambda x: x["score"], reverse=True)
         return results[:top_k]
 
+    def _structured_similarity_search(
+        self,
+        query: str,
+        chart_index: dict | None,
+        top_k: int,
+    ) -> list[dict]:
+        structured_docs, structured_indexes = self._structured_candidates(chart_index)
+
+        return self._semantic_results(
+            query=query,
+            docs=structured_docs,
+            embeddings=self.structured_embeddings,
+            source="structured",
+            top_k=top_k,
+            indexes=structured_indexes,
+        )
+
+    def _structured_keyword_search(
+        self,
+        query: str,
+        chart_index: dict | None,
+        top_k: int,
+    ) -> list[dict]:
+        structured_docs, structured_indexes = self._structured_candidates(chart_index)
+
+        if not structured_docs or self.structured_keyword_embeddings is None:
+            return []
+
+        selected_embeddings = self.structured_keyword_embeddings[structured_indexes]
+        query_embedding = self.model.encode([query], normalize_embeddings=True)
+        keyword_scores = semantic_scores(query_embedding, selected_embeddings)
+
+        results = []
+        for doc, keyword_score in zip(structured_docs, keyword_scores):
+            results.append(
+                {
+                    "doc": doc,
+                    "score": float(keyword_score),
+                    "semantic_score": 0.0,
+                    "keyword_score": float(keyword_score),
+                    "bm25_score": 0.0,
+                    "source": "structured",
+                }
+            )
+
+        results.sort(key=lambda x: x["score"], reverse=True)
+        return results[:top_k]
+
     def _fixed_structured_keyword_search(
         self,
         query: str,
@@ -398,6 +461,20 @@ class HybridRetriever:
 
         if active_mode == MODE_FIXED_STRUCTURED_SIMILARITY:
             return self._fixed_structured_similarity_search(
+                query=query,
+                chart_index=chart_index,
+                top_k=top_k,
+            )
+
+        if active_mode == MODE_STRUCTURED_SIMILARITY:
+            return self._structured_similarity_search(
+                query=query,
+                chart_index=chart_index,
+                top_k=top_k,
+            )
+
+        if active_mode == MODE_STRUCTURED_KEYWORD:
+            return self._structured_keyword_search(
                 query=query,
                 chart_index=chart_index,
                 top_k=top_k,

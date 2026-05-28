@@ -110,7 +110,7 @@ def parse_args() -> argparse.Namespace:
         "--user-dir",
         type=Path,
         default=DEFAULT_USER_DIR,
-        help="Thư mục chứa houses_chart.json của người dùng.",
+        help="Thư mục chứa user_chart.json, tuvi_chart.json và houses_chart.json của người dùng.",
     )
     parser.add_argument(
         "--rag-path",
@@ -130,7 +130,14 @@ def main() -> None:
     load_local_env()
     args = parse_args()
 
+    user_chart_path = args.user_dir / "user_chart.json"
+    tuvi_chart_path = args.user_dir / "tuvi_chart.json"
     houses_chart_path = args.user_dir / "houses_chart.json"
+
+    with user_chart_path.open("r", encoding="utf-8") as f:
+        user_chart = json.load(f)
+    with tuvi_chart_path.open("r", encoding="utf-8") as f:
+        tuvi_chart = json.load(f)
     with houses_chart_path.open("r", encoding="utf-8") as f:
         houses_chart = json.load(f)
 
@@ -140,7 +147,12 @@ def main() -> None:
     retriever = HybridRetriever(docs)
 
     initial_docs = retrieve_initial_highlights(retriever, chart_index)
-    initial_prompt = build_initial_prompt(houses_chart, initial_docs)
+    initial_prompt = build_initial_prompt(
+        houses_chart=houses_chart,
+        retrieved_docs=initial_docs,
+        user_chart=user_chart,
+        tuvi_chart=tuvi_chart,
+    )
     initial_summary = call_gemini(initial_prompt, model=args.model, max_output_tokens=1536)
     print("\n=== Tóm tắt ban đầu ===\n")
     print(initial_summary)
@@ -177,6 +189,8 @@ def main() -> None:
         houses_chart=houses_chart,
         initial_summary=initial_summary,
         retrieved_docs=[x["doc"] for x in followup_docs],
+        user_chart=user_chart,
+        tuvi_chart=tuvi_chart,
     )
 
     answer = call_gemini(followup_prompt, model=args.model)

@@ -15,6 +15,8 @@ from rag.prompt_builder import build_followup_prompt, build_initial_prompt
 from rag.retriever_client import RemoteRetriever
 from rag.retriever import (
     MODE_FIXED_STRUCTURED_KEYWORD,
+    MODE_STRUCTURED_KEYWORD,
+    MODE_STRUCTURED_SIMILARITY,
     HybridRetriever,
     load_rag_documents,
     retrieve_initial_highlights,
@@ -121,7 +123,7 @@ def parse_args() -> argparse.Namespace:
         "--user-dir",
         type=Path,
         default=DEFAULT_USER_DIR,
-        help="Thư mục chứa houses_chart.json của người dùng.",
+        help="Thư mục chứa user_chart.json, tuvi_chart.json và houses_chart.json của người dùng.",
     )
     parser.add_argument(
         "--rag-path",
@@ -142,6 +144,8 @@ def parse_args() -> argparse.Namespace:
             "fixed_similarity",
             "fixed_structured_similarity",
             "fixed_structured_keyword",
+            "structured_similarity",
+            "structured_keyword",
         ],
         help="Pipeline retrieve: fixed only, fixed + structured, hoặc fixed + structured + BM25.",
     )
@@ -163,7 +167,10 @@ def build_retriever(args: argparse.Namespace):
         return RemoteRetriever(args.retriever_url)
 
     structured_docs = load_rag_documents(str(args.rag_path))
-    fixed_docs = load_rag_documents(str(args.fixed_rag_path))
+    fixed_docs = []
+    if args.retrieval_mode not in {MODE_STRUCTURED_SIMILARITY, MODE_STRUCTURED_KEYWORD}:
+        fixed_docs = load_rag_documents(str(args.fixed_rag_path))
+
     return HybridRetriever(
         docs=structured_docs,
         fixed_docs=fixed_docs,
@@ -175,7 +182,14 @@ def main() -> None:
     load_local_env()
     args = parse_args()
 
+    user_chart_path = args.user_dir / "user_chart.json"
+    tuvi_chart_path = args.user_dir / "tuvi_chart.json"
     houses_chart_path = args.user_dir / "houses_chart.json"
+
+    with user_chart_path.open("r", encoding="utf-8") as f:
+        user_chart = json.load(f)
+    with tuvi_chart_path.open("r", encoding="utf-8") as f:
+        tuvi_chart = json.load(f)
     with houses_chart_path.open("r", encoding="utf-8") as f:
         houses_chart = json.load(f)
 
@@ -188,7 +202,12 @@ def main() -> None:
         chart_index,
         mode=args.retrieval_mode,
     )
-    initial_prompt = build_initial_prompt(houses_chart, initial_docs)
+    initial_prompt = build_initial_prompt(
+        houses_chart=houses_chart,
+        retrieved_docs=initial_docs,
+        user_chart=user_chart,
+        tuvi_chart=tuvi_chart,
+    )
     initial_summary = call_gemini(initial_prompt, model=args.model)
 
     followup_docs = retriever.search(
@@ -204,6 +223,8 @@ def main() -> None:
         houses_chart=houses_chart,
         initial_summary=initial_summary,
         retrieved_docs=[x["doc"] for x in followup_docs],
+        user_chart=user_chart,
+        tuvi_chart=tuvi_chart,
     )
 
     answer = call_gemini(followup_prompt, model=args.model)
