@@ -1,0 +1,108 @@
+{"id": 1, "question": "Tính cách của tôi như thế nào?", "difficulty": "easy", "expected_features": [["houses", "mệnh"]]}
+{"id": 2, "question": "Điểm mạnh nổi bật nhất của tôi là gì?", "difficulty": "easy", "expected_features": [["houses", "mệnh"]]}
+{"id": 3, "question": "Người khác thường nhìn nhận tôi ra sao?", "difficulty": "easy", "expected_features": [["houses", "mệnh"]]}
+{"id": 4, "question": "Tôi có những nhược điểm nào cần khắc phục?", "difficulty": "easy", "expected_features": [["houses", "mệnh"]]}
+{"id": 5, "question": "Quan hệ của tôi với cha mẹ như thế nào?", "difficulty": "easy", "expected_features": [["houses", "phụ_mẫu"]]}
+{"id": 6, "question": "Tôi có nhận được sự hỗ trợ từ cha mẹ không?", "difficulty": "easy", "expected_features": [["houses", "phụ_mẫu"]]}
+{"id": 7, "question": "Gia đình có ảnh hưởng nhiều đến cuộc đời tôi không?", "difficulty": "easy", "expected_features": [["houses", "phụ_mẫu"]]}
+{"id": 8, "question": "Cha mẹ tôi có xu hướng nghiêm khắc hay bao dung?", "difficulty": "easy", "expected_features": [["houses", "phụ_mẫu"]]}
+{"id": 9, "question": "Phúc khí của dòng họ tôi như thế nào?", "difficulty": "easy", "expected_features": [["houses", "phúc_đức"]]}
+{"id": 10, "question": "Tôi có được tổ tiên phù hộ không?", "difficulty": "easy", "expected_features": [["houses", "phúc_đức"]]}
+{"id": 11, "question": "Họ hàng của tôi có đoàn kết không?", "difficulty": "easy", "expected_features": [["houses", "phúc_đức"]]}
+{"id": 12, "question": "Nền tảng phúc đức của gia đình tôi có tốt không?", "difficulty": "easy", "expected_features": [["houses", "phúc_đức"]]}
+{"id": 13, "question": "Tôi có duyên với nhà đất không?", "difficulty": "easy", "expected_features": [["houses", "điền_trạch"]]}
+{"id": 14, "question": "Khả năng tích lũy bất động sản của tôi thế nào?", "difficulty": "easy", "expected_features": [["houses", "điền_trạch"]]}
+{"id": 15, "question": "Tôi có được hưởng tài sản từ gia đình không?", "difficulty": "easy", "expected_features": [["houses", "điền_trạch"]]}
+{"id": 16, "question": "Về lâu dài tôi có ổn định chỗ ở không?", "difficulty": "easy", "expected_features": [["houses", "điền_trạch"]]}
+{"id": 17, "question": "Sự nghiệp của tôi có thuận lợi không?", "difficulty": "easy", "expected_features": [["houses", "quan_lộc"]]}
+{"id": 18, "question": "Công việc phù hợp với tôi là gì?", "difficulty": "easy", "expected_features": [["houses", "quan_lộc"]]}
+{"id": 19, "question": "Tôi có khả năng thăng tiến cao không?", "difficulty": "easy", "expected_features": [["houses", "quan_lộc"]]}
+{"id": 20, "question": "Con đường nghề nghiệp của tôi ra sao?", "difficulty": "easy", "expected_features": [["houses", "quan_lộc"]]}
+{"id": 21, "question": "Bạn bè của tôi có đáng tin cậy không?", "difficulty": "easy", "expected_features": [["houses", "nô_bộc"]]}
+{"id": 22, "question": "Tôi có gặp quý nhân trong cuộc sống không?", "difficulty": "easy", "expected_features": [["houses", "nô_bộc"]]}
+{"id": 23, "question": "Quan hệ đồng nghiệp của tôi như thế nào?", "difficulty": "easy", "expected_features": [["houses", "nô_bộc"]]}
+{"id": 24, "question": "Tôi có được người khác giúp đỡ khi khó khăn không?", "difficulty": "easy", "expected_features": [["houses", "nô_bộc"]]}
+{"id": 25, "question": "Ra ngoài xã hội tôi có gặp may mắn không?", "difficulty": "easy", "expected_features": [["houses", "thiên_di"]]}
+{"id": 26, "question": "Tôi có hợp làm việc xa quê không?", "difficulty": "easy", "expected_features": [["houses", "thiên_di"]]}
+{"id": 27, "question": "Khả năng phát triển khi đi xa của tôi thế nào?", "difficulty": "easy", "expected_features": [["houses", "thiên_di"]]}
+{"id": 28, "question": "Người ngoài đánh giá tôi ra sao?", "difficulty": "easy", "expected_features": [["houses", "thiên_di"]]}
+{"id": 29, "question": "Sức khỏe tổng thể của tôi như thế nào?", "difficulty": "easy", "expected_features": [["houses", "tật_ách"]]}
+{"id": 30, "question": "Tôi nên chú ý vấn đề sức khỏe nào?", "difficulty": "easy", "expected_features": [["houses", "tật_ách"]]}
+{"id": 31, "question": "Tôi có dễ mắc bệnh lâu dài không?", "difficulty": "easy", "expected_features": [["houses", "tật_ách"]]}
+{"id": 32, "question": "Điểm yếu về sức khỏe của tôi là gì?", "difficulty": "easy", "expected_features": [["houses", "tật_ách"]]}
+{"id": 33, "question": "Tài vận của tôi như thế nào?", "difficulty": "easy", "expected_features": [["houses", "tài_bạch"]]}
+{"id": 34, "question": "Tôi có khả năng kiếm tiền tốt không?", "difficulty": "easy", "expected_features": [["houses", "tài_bạch"]]}
+{"id": 35, "question": "Tôi có dễ tích lũy tài sản không?", "difficulty": "easy", "expected_features": [["houses", "tài_bạch"]]}
+{"id": 36, "question": "Tình hình tài chính của tôi về lâu dài thế nào?", "difficulty": "easy", "expected_features": [["houses", "tài_bạch"]]}
+{"id": 37, "question": "Đường con cái của tôi như thế nào?", "difficulty": "easy", "expected_features": [["houses", "tử_tức"]]}
+{"id": 38, "question": "Tôi có duyên với con cái không?", "difficulty": "easy", "expected_features": [["houses", "tử_tức"]]}
+{"id": 39, "question": "Quan hệ giữa tôi và con cái sau này ra sao?", "difficulty": "easy", "expected_features": [["houses", "tử_tức"]]}
+{"id": 40, "question": "Con cái có mang lại niềm vui cho tôi không?", "difficulty": "easy", "expected_features": [["houses", "tử_tức"]]}
+{"id": 41, "question": "Đường tình duyên của tôi như thế nào?", "difficulty": "easy", "expected_features": [["houses", "phu_thê"]]}
+{"id": 42, "question": "Hôn nhân của tôi có thuận lợi không?", "difficulty": "easy", "expected_features": [["houses", "phu_thê"]]}
+{"id": 43, "question": "Người bạn đời của tôi là người như thế nào?", "difficulty": "easy", "expected_features": [["houses", "phu_thê"]]}
+{"id": 44, "question": "Tôi có xu hướng kết hôn sớm hay muộn?", "difficulty": "easy", "expected_features": [["houses", "phu_thê"]]}
+{"id": 45, "question": "Quan hệ giữa tôi và anh chị em như thế nào?", "difficulty": "easy", "expected_features": [["houses", "huynh_đệ"]]}
+{"id": 46, "question": "Anh chị em có hỗ trợ tôi không?", "difficulty": "easy", "expected_features": [["houses", "huynh_đệ"]]}
+{"id": 47, "question": "Tình cảm gia đình giữa các anh chị em có tốt không?", "difficulty": "easy", "expected_features": [["houses", "huynh_đệ"]]}
+{"id": 48, "question": "Tôi có thể nhờ cậy anh chị em khi cần không?", "difficulty": "easy", "expected_features": [["houses", "huynh_đệ"]]}
+{"id": 49, "question": "Tính cách của tôi ảnh hưởng đến sự nghiệp như thế nào?", "difficulty": "medium", "expected_features": [["houses", "mệnh"], ["houses", "quan_lộc"]]}
+{"id": 50, "question": "Điểm mạnh cá nhân của tôi có giúp kiếm tiền tốt không?", "difficulty": "medium", "expected_features": [["houses", "mệnh"], ["houses", "tài_bạch"]]}
+{"id": 51, "question": "Tính cách của tôi có ảnh hưởng đến hôn nhân không?", "difficulty": "medium", "expected_features": [["houses", "mệnh"], ["houses", "phu_thê"]]}
+{"id": 52, "question": "Cha mẹ có hỗ trợ cho con đường sự nghiệp của tôi không?", "difficulty": "medium", "expected_features": [["houses", "phụ_mẫu"], ["houses", "quan_lộc"]]}
+{"id": 53, "question": "Tôi có được thừa hưởng tài sản từ cha mẹ không?", "difficulty": "medium", "expected_features": [["houses", "phụ_mẫu"], ["houses", "điền_trạch"]]}
+{"id": 54, "question": "Gia đình có ảnh hưởng đến hôn nhân của tôi không?", "difficulty": "medium", "expected_features": [["houses", "phụ_mẫu"], ["houses", "phu_thê"]]}
+{"id": 55, "question": "Phúc đức dòng họ có hỗ trợ tài vận của tôi không?", "difficulty": "medium", "expected_features": [["houses", "phúc_đức"], ["houses", "tài_bạch"]]}
+{"id": 56, "question": "Phúc phần gia tộc có ảnh hưởng đến sự nghiệp không?", "difficulty": "medium", "expected_features": [["houses", "phúc_đức"], ["houses", "quan_lộc"]]}
+{"id": 57, "question": "Đường tình duyên của tôi có được hưởng phúc từ tổ tiên không?", "difficulty": "medium", "expected_features": [["houses", "phúc_đức"], ["houses", "phu_thê"]]}
+{"id": 58, "question": "Tôi có thể tích lũy bất động sản nhờ công việc không?", "difficulty": "medium", "expected_features": [["houses", "điền_trạch"], ["houses", "quan_lộc"]]}
+{"id": 59, "question": "Tài chính của tôi có giúp mở rộng nhà cửa đất đai không?", "difficulty": "medium", "expected_features": [["houses", "điền_trạch"], ["houses", "tài_bạch"]]}
+{"id": 60, "question": "Sau khi kết hôn tôi có thuận lợi về nhà đất không?", "difficulty": "medium", "expected_features": [["houses", "điền_trạch"], ["houses", "phu_thê"]]}
+{"id": 61, "question": "Sự nghiệp và tài chính của tôi có phát triển đồng thời không?", "difficulty": "medium", "expected_features": [["houses", "quan_lộc"], ["houses", "tài_bạch"]]}
+{"id": 62, "question": "Tôi có gặp quý nhân giúp đỡ trong công việc không?", "difficulty": "medium", "expected_features": [["houses", "quan_lộc"], ["houses", "nô_bộc"]]}
+{"id": 63, "question": "Ra ngoài làm ăn có giúp sự nghiệp phát triển không?", "difficulty": "medium", "expected_features": [["houses", "quan_lộc"], ["houses", "thiên_di"]]}
+{"id": 64, "question": "Bạn bè có mang lại cơ hội tài chính cho tôi không?", "difficulty": "medium", "expected_features": [["houses", "nô_bộc"], ["houses", "tài_bạch"]]}
+{"id": 65, "question": "Các mối quan hệ xã hội có giúp ích cho sự nghiệp không?", "difficulty": "medium", "expected_features": [["houses", "nô_bộc"], ["houses", "quan_lộc"]]}
+{"id": 66, "question": "Tôi có gặp được người hỗ trợ khi sống xa quê không?", "difficulty": "medium", "expected_features": [["houses", "nô_bộc"], ["houses", "thiên_di"]]}
+{"id": 67, "question": "Đi xa có giúp tôi kiếm tiền tốt hơn không?", "difficulty": "medium", "expected_features": [["houses", "thiên_di"], ["houses", "tài_bạch"]]}
+{"id": 68, "question": "Tôi có nên phát triển sự nghiệp ở nơi khác không?", "difficulty": "medium", "expected_features": [["houses", "thiên_di"], ["houses", "quan_lộc"]]}
+{"id": 69, "question": "Tình duyên của tôi có liên quan đến môi trường bên ngoài không?", "difficulty": "medium", "expected_features": [["houses", "thiên_di"], ["houses", "phu_thê"]]}
+{"id": 70, "question": "Sức khỏe có ảnh hưởng đến sự nghiệp của tôi không?", "difficulty": "medium", "expected_features": [["houses", "tật_ách"], ["houses", "quan_lộc"]]}
+{"id": 71, "question": "Tôi có dễ hao tài vì vấn đề sức khỏe không?", "difficulty": "medium", "expected_features": [["houses", "tật_ách"], ["houses", "tài_bạch"]]}
+{"id": 72, "question": "Sau này tôi có được con cái chăm sóc sức khỏe không?", "difficulty": "medium", "expected_features": [["houses", "tật_ách"], ["houses", "tử_tức"]]}
+{"id": 73, "question": "Tiền bạc của tôi chủ yếu đến từ nghề nghiệp hay nguồn khác?", "difficulty": "medium", "expected_features": [["houses", "tài_bạch"], ["houses", "quan_lộc"]]}
+{"id": 74, "question": "Khả năng kiếm tiền của tôi có được người khác hỗ trợ không?", "difficulty": "medium", "expected_features": [["houses", "tài_bạch"], ["houses", "nô_bộc"]]}
+{"id": 75, "question": "Tôi có thể kiếm tiền tốt hơn khi đi xa không?", "difficulty": "medium", "expected_features": [["houses", "tài_bạch"], ["houses", "thiên_di"]]}
+{"id": 76, "question": "Con cái có mang lại tài lộc cho tôi không?", "difficulty": "medium", "expected_features": [["houses", "tử_tức"], ["houses", "tài_bạch"]]}
+{"id": 77, "question": "Hôn nhân có ảnh hưởng đến đường con cái không?", "difficulty": "medium", "expected_features": [["houses", "tử_tức"], ["houses", "phu_thê"]]}
+{"id": 78, "question": "Con cái có tiếp nối sự nghiệp của tôi không?", "difficulty": "medium", "expected_features": [["houses", "tử_tức"], ["houses", "quan_lộc"]]}
+{"id": 79, "question": "Hôn nhân có giúp cải thiện tài chính của tôi không?", "difficulty": "medium", "expected_features": [["houses", "phu_thê"], ["houses", "tài_bạch"]]}
+{"id": 80, "question": "Người bạn đời có hỗ trợ sự nghiệp của tôi không?", "difficulty": "medium", "expected_features": [["houses", "phu_thê"], ["houses", "quan_lộc"]]}
+{"id": 81, "question": "Sau kết hôn tôi có ổn định nhà cửa hơn không?", "difficulty": "medium", "expected_features": [["houses", "phu_thê"], ["houses", "điền_trạch"]]}
+{"id": 82, "question": "Anh chị em có hỗ trợ tài chính cho tôi không?", "difficulty": "medium", "expected_features": [["houses", "huynh_đệ"], ["houses", "tài_bạch"]]}
+{"id": 83, "question": "Anh chị em có giúp ích cho công việc của tôi không?", "difficulty": "medium", "expected_features": [["houses", "huynh_đệ"], ["houses", "quan_lộc"]]}
+{"id": 84, "question": "Gia đình anh chị em có ảnh hưởng đến cuộc sống hôn nhân của tôi không?", "difficulty": "medium", "expected_features": [["houses", "huynh_đệ"], ["houses", "phu_thê"]]}
+{"id": 85, "question": "Tôi có khả năng trở nên giàu có nhờ sự nghiệp của bản thân hay nhờ tài sản tích lũy về sau?", "difficulty": "hard", "expected_features": [["houses", "quan_lộc"], ["houses", "tài_bạch"], ["houses", "điền_trạch"], ["houses", "mệnh"]]}
+{"id": 86, "question": "Con đường công danh của tôi có thuận lợi hơn khi làm việc xa quê hay ở gần gia đình?", "difficulty": "hard", "expected_features": [["houses", "quan_lộc"], ["houses", "thiên_di"], ["houses", "phụ_mẫu"], ["houses", "mệnh"]]}
+{"id": 87, "question": "Tôi nên tập trung xây dựng sự nghiệp trước hay lập gia đình trước?", "difficulty": "hard", "expected_features": [["houses", "quan_lộc"], ["houses", "phu_thê"], ["houses", "mệnh"]]}
+{"id": 88, "question": "Những mối quan hệ xã hội có đóng vai trò quan trọng trong thành công tài chính của tôi không?", "difficulty": "hard", "expected_features": [["houses", "nô_bộc"], ["houses", "tài_bạch"], ["houses", "quan_lộc"], ["houses", "thiên_di"]]}
+{"id": 89, "question": "Tôi có xu hướng tự gây dựng cơ nghiệp hay được thừa hưởng nền tảng từ gia đình?", "difficulty": "hard", "expected_features": [["houses", "mệnh"], ["houses", "phụ_mẫu"], ["houses", "điền_trạch"], ["houses", "tài_bạch"]]}
+{"id": 90, "question": "Tiền bạc của tôi đến chủ yếu từ năng lực cá nhân hay nhờ quý nhân hỗ trợ?", "difficulty": "hard", "expected_features": [["houses", "mệnh"], ["houses", "tài_bạch"], ["houses", "nô_bộc"], ["houses", "thiên_di"]]}
+{"id": 91, "question": "Nếu khởi nghiệp, tôi có khả năng thành công cao không?", "difficulty": "hard", "expected_features": [["houses", "mệnh"], ["houses", "quan_lộc"], ["houses", "tài_bạch"], ["houses", "nô_bộc"]]}
+{"id": 92, "question": "Về lâu dài tôi tích lũy tài sản tốt hơn qua công việc hay bất động sản?", "difficulty": "hard", "expected_features": [["houses", "quan_lộc"], ["houses", "tài_bạch"], ["houses", "điền_trạch"]]}
+{"id": 93, "question": "Hôn nhân của tôi có giúp cải thiện sự nghiệp và tài chính không?", "difficulty": "hard", "expected_features": [["houses", "phu_thê"], ["houses", "quan_lộc"], ["houses", "tài_bạch"]]}
+{"id": 94, "question": "Gia đình hai bên có ảnh hưởng nhiều đến cuộc sống hôn nhân của tôi không?", "difficulty": "hard", "expected_features": [["houses", "phu_thê"], ["houses", "phụ_mẫu"], ["houses", "phúc_đức"]]}
+{"id": 95, "question": "Tôi có khả năng vừa phát triển sự nghiệp vừa duy trì hạnh phúc gia đình không?", "difficulty": "hard", "expected_features": [["houses", "quan_lộc"], ["houses", "phu_thê"], ["houses", "tử_tức"], ["houses", "mệnh"]]}
+{"id": 96, "question": "Con cái sau này có mang lại niềm tự hào và hỗ trợ cho tôi không?", "difficulty": "hard", "expected_features": [["houses", "tử_tức"], ["houses", "phúc_đức"], ["houses", "quan_lộc"]]}
+{"id": 97, "question": "Tôi có xu hướng kết hôn với người quen biết từ trước hay gặp khi đi xa?", "difficulty": "hard", "expected_features": [["houses", "phu_thê"], ["houses", "nô_bộc"], ["houses", "thiên_di"]]}
+{"id": 98, "question": "Sau khi lập gia đình tôi có ổn định nhà cửa và tài chính hơn không?", "difficulty": "hard", "expected_features": [["houses", "phu_thê"], ["houses", "điền_trạch"], ["houses", "tài_bạch"]]}
+{"id": 99, "question": "Tình cảm giữa tôi với con cái về sau có gắn bó không?", "difficulty": "hard", "expected_features": [["houses", "tử_tức"], ["houses", "mệnh"], ["houses", "phúc_đức"]]}
+{"id": 100, "question": "Hôn nhân của tôi có được hưởng phúc từ tổ tiên và gia tộc không?", "difficulty": "hard", "expected_features": [["houses", "phu_thê"], ["houses", "phúc_đức"], ["houses", "phụ_mẫu"]]}
+{"id": 101, "question": "Sức khỏe có trở thành trở ngại lớn đối với sự nghiệp và tài chính của tôi không?", "difficulty": "hard", "expected_features": [["houses", "tật_ách"], ["houses", "quan_lộc"], ["houses", "tài_bạch"]]}
+{"id": 102, "question": "Tôi có xu hướng sống ổn định một nơi hay thường xuyên thay đổi môi trường sống?", "difficulty": "hard", "expected_features": [["houses", "thiên_di"], ["houses", "điền_trạch"], ["houses", "mệnh"]]}
+{"id": 103, "question": "Những biến cố lớn trong cuộc đời tôi thường đến từ công việc, tình cảm hay sức khỏe?", "difficulty": "hard", "expected_features": [["houses", "quan_lộc"], ["houses", "phu_thê"], ["houses", "tật_ách"], ["houses", "mệnh"]]}
+{"id": 104, "question": "Tôi có khả năng nhận được sự giúp đỡ khi gặp khó khăn lớn trong cuộc sống không?", "difficulty": "hard", "expected_features": [["houses", "nô_bộc"], ["houses", "phúc_đức"], ["houses", "thiên_di"]]}
+{"id": 105, "question": "Về lâu dài cuộc sống của tôi thiên về ổn định hay nhiều biến động?", "difficulty": "hard", "expected_features": [["houses", "mệnh"], ["houses", "thiên_di"], ["houses", "điền_trạch"], ["houses", "quan_lộc"]]}
+{"id": 106, "question": "Tôi có khả năng xây dựng một cuộc sống đủ đầy cả về vật chất lẫn tinh thần không?", "difficulty": "hard", "expected_features": [["houses", "mệnh"], ["houses", "tài_bạch"], ["houses", "phúc_đức"], ["houses", "phu_thê"]]}
+{"id": 107, "question": "Về già tôi có cuộc sống an nhàn hay vẫn phải lo nghĩ nhiều?", "difficulty": "hard", "expected_features": [["houses", "phúc_đức"], ["houses", "tài_bạch"], ["houses", "tử_tức"], ["houses", "điền_trạch"]]}
+{"id": 108, "question": "Nhìn tổng thể lá số, lĩnh vực nào có ảnh hưởng lớn nhất đến vận mệnh cuộc đời tôi?", "difficulty": "hard", "expected_features": [["houses", "mệnh"], ["houses", "quan_lộc"], ["houses", "tài_bạch"], ["houses", "phu_thê"], ["houses", "phúc_đức"]]}

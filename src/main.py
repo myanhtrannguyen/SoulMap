@@ -2,6 +2,7 @@ import argparse
 import json
 import os
 import sys
+import time
 from pathlib import Path
 from urllib.error import HTTPError, URLError
 from urllib.request import Request, urlopen
@@ -65,51 +66,64 @@ def extract_gemini_text(response: dict) -> str:
 def call_gemini(
     prompt: str,
     model: str = DEFAULT_MODEL,
-    temperature: float = 0.4
-    # max_output_tokens: int = ,
+    temperature: float = 0.4,
+    api_key: str | None = None,
+    max_retries: int = 3,
+    retry_delay: float = 2.0,
 ) -> str:
-    api_key = os.getenv("GEMINI_API_KEY") or os.getenv("GOOGLE_API_KEY")
+
+    if api_key is None:
+        api_key = os.getenv("GEMINI_API_KEY") or os.getenv("GOOGLE_API_KEY")
+
     if not api_key:
-        raise RuntimeError(
-            "Thiếu API key. Hãy đặt biến môi trường GEMINI_API_KEY "
-            "hoặc GOOGLE_API_KEY trước khi chạy."
-        )
+        raise RuntimeError("Missing API key")
 
     url = f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent"
+
     payload = {
         "contents": [
-            {
-                "role": "user",
-                "parts": [{"text": prompt}],
-            }
+            {"role": "user", "parts": [{"text": prompt}]}
         ],
         "generationConfig": {
             "temperature": temperature
-            # "maxOutputTokens": max_output_tokens,
         },
     }
 
-    request = Request(
-        url,
-        data=json.dumps(payload).encode("utf-8"),
-        headers={
-            "Content-Type": "application/json",
-            "x-goog-api-key": api_key,
-        },
-        method="POST",
-    )
+    last_error = None
 
-    try:
-        with urlopen(request, timeout=60) as response:
-            data = json.loads(response.read().decode("utf-8"))
-    except HTTPError as exc:
-        body = exc.read().decode("utf-8", errors="replace")
-        raise RuntimeError(f"Lỗi Gemini API HTTP {exc.code}: {body}") from exc
-    except URLError as exc:
-        raise RuntimeError(f"Không kết nối được Gemini API: {exc.reason}") from exc
+    for attempt in range(max_retries):
+        try:
+            request = Request(
+                url,
+                data=json.dumps(payload).encode("utf-8"),
+                headers={
+                    "Content-Type": "application/json",
+                    "x-goog-api-key": api_key,
+                },
+                method="POST",
+            )
 
-    return extract_gemini_text(data)
+            with urlopen(request, timeout=60) as response:
+                data = json.loads(response.read().decode("utf-8"))
 
+            return extract_gemini_text(data)
+
+        except HTTPError as exc:
+            body = exc.read().decode("utf-8", errors="replace")
+
+            if exc.code in (429, 500, 503):
+                last_error = exc
+
+            else:
+                raise RuntimeError(f"Gemini HTTP {exc.code}: {body}")
+
+        except URLError as exc:
+            last_error = exc
+
+        # retry delay (exponential backoff)
+        time.sleep(retry_delay * (2 ** attempt))
+
+    raise RuntimeError(f"Gemini failed after retries: {last_error}")
 
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(description="Hỏi đáp Tử Vi bằng RAG và Gemini.")

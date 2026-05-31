@@ -7,9 +7,9 @@ def normalize_text(text: str) -> str:
         text = ", ".join(text)
     text = text.lower().strip()
     text = unicodedata.normalize("NFC", text)
-    text = text.replace("đ", "d")
     text = re.sub(r"\s+", "_", text)
     text = re.sub(r"[^\w_]", "", text)
+    
     return text
 
 

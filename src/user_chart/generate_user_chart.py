@@ -2,9 +2,9 @@ import json
 import os
 
 import re
-from build_user import build_user
-from build_tuvi_chart import build_tuvi_chart
-from build_houses_chart import build_houses_chart
+from user_chart.build_user import build_user
+from user_chart.build_tuvi_chart import build_tuvi_chart
+from user_chart.build_houses_chart import build_houses_chart
 
 def generate_user_chart(full_name, gender, dob_solar_str):
     user = build_user(full_name, gender, dob_solar_str)
